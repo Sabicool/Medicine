@@ -5,5 +5,7 @@
   "recent-files-obsidian",
   "text-extractor",
   "obsidian-git",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "folder-note-plugin",
+  "obsidian-vimrc-support"
 ]

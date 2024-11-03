@@ -5,5 +5,9 @@
   "newLinkFormat": "absolute",
   "newFileLocation": "current",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "/attachments"
+  "attachmentFolderPath": "/attachments",
+  "userIgnoreFilters": [
+    "LICENCE",
+    "Readme"
+  ]
 }
