@@ -23,13 +23,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Medicine.md",
+                "file": "Testing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Medicine"
+              "title": "Testing"
             }
           }
         ],
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Medicine.md",
+                "file": "Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Medicine"
+              "title": "Backlinks for Testing"
             }
           },
           {
@@ -134,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Medicine.md",
+                "file": "Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Medicine"
+              "title": "Outgoing links from Testing"
             }
           },
           {
@@ -161,10 +161,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Medicine.md"
+                "file": "Testing.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Medicine"
+              "title": "Outline of Testing"
             }
           },
           {
@@ -206,8 +206,9 @@
   },
   "active": "5e819a2c2875fae5",
   "lastOpenFiles": [
-    "New note.md",
     "Medicine.md",
+    "Testing.md",
+    "New note.md",
     "Welcome.md"
   ]
 }
