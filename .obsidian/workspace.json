@@ -120,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Disciplines/Cardiology/Cardiology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Cardiology"
             }
           },
           {
@@ -165,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Disciplines/Cardiology/Cardiology.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of Cardiology"
             }
           },
           {
@@ -216,10 +217,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "95998ff530781fed",
+  "active": "7c24e0fe892fea54",
   "lastOpenFiles": [
-    "Disciplines/Cardiology/Cardiology.md",
+    "Medical School/SLOs/Medicine SLOs.pdf",
     "conflict-files-obsidian-git.md",
+    "Medical School/SLOs/Medicine SLOs.pdf.crdownload",
+    "Medical School/SLOs",
+    "Disciplines/Cardiology/Cardiology.md",
     "Medical School",
     "Medicine.md",
     "Disciplines/Cardiology",
