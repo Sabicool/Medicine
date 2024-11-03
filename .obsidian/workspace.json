@@ -104,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4a5c2e687493e4d7",
@@ -121,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Disciplines/Cardiology/Cardiology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cardiology"
+              "title": "Backlinks"
             }
           },
           {
@@ -167,10 +165,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Disciplines/Cardiology/Cardiology.md"
+                "file": "conflict-files-obsidian-git.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Cardiology"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
@@ -217,11 +215,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "21d221fa25dfc767",
+  "active": "95998ff530781fed",
   "lastOpenFiles": [
+    "Disciplines/Cardiology/Cardiology.md",
+    "conflict-files-obsidian-git.md",
     "Medical School",
     "Medicine.md",
-    "Disciplines/Cardiology/Cardiology.md",
     "Disciplines/Cardiology",
     "Disciplines",
     "Reference/Junior Doctor/Intern Reference.md",
