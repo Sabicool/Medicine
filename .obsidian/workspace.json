@@ -31,9 +31,24 @@
               "icon": "lucide-file",
               "title": "Medicine"
             }
+          },
+          {
+            "id": "a9354e1066766ea5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Testing"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Medicine.md",
+                "file": "Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Medicine"
+              "title": "Backlinks for Testing"
             }
           },
           {
@@ -134,12 +149,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Medicine.md",
+                "file": "Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Medicine"
+              "title": "Outgoing links from Testing"
             }
           },
           {
@@ -161,10 +176,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Medicine.md"
+                "file": "Testing.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Medicine"
+              "title": "Outline of Testing"
             }
           },
           {
@@ -201,13 +216,16 @@
       "random-note:Open random note": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "5e819a2c2875fae5",
+  "active": "a9354e1066766ea5",
   "lastOpenFiles": [
+    "templates/Link with Extension.md",
     "Testing.md",
     "Medicine.md",
+    "templates",
     "New note.md",
     "Welcome.md"
   ]
