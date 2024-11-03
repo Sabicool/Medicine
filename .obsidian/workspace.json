@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Disciplines/Cardiology/Cardiology.md",
+                "file": "Medicine.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cardiology"
+              "title": "Medicine"
             }
           }
         ],
@@ -166,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Disciplines/Cardiology/Cardiology.md"
+                "file": "Medicine.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Cardiology"
+              "title": "Outline of Medicine"
             }
           },
           {
@@ -219,11 +219,12 @@
   },
   "active": "7c24e0fe892fea54",
   "lastOpenFiles": [
+    "Medical School/SLOs/testing.md",
+    "Disciplines/Cardiology/Cardiology.md",
     "Medical School/SLOs/Medicine SLOs.pdf",
     "conflict-files-obsidian-git.md",
     "Medical School/SLOs/Medicine SLOs.pdf.crdownload",
     "Medical School/SLOs",
-    "Disciplines/Cardiology/Cardiology.md",
     "Medical School",
     "Medicine.md",
     "Disciplines/Cardiology",
