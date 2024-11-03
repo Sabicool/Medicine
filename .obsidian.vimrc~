@@ -62,13 +62,13 @@ nmap <Space>ws :splitHorizontal
 nnoremap U <C-r>
 
 " Make o and O respect context (requires Code Editor Shortcuts Plugin)
-" exmap blankAbove obcommand obsidian-editor-shortcuts:insertLineAbove
-" nmap &a& :blankAbove
-" nmap O &a&i
-" 
-" exmap blankBelow obcommand obsidian-editor-shortcuts:insertLineBelow
-" nmap &b& :blankBelow
-" nmap o &b&i
+exmap blankAbove obcommand obsidian-editor-shortcuts:insertLineAbove
+nmap &a& :blankAbove
+nmap O &a&i
+
+exmap blankBelow obcommand obsidian-editor-shortcuts:insertLineBelow
+nmap &b& :blankBelow
+nmap o &b&i
 
 exmap toggleList obcommand editor:toggle-bullet-list
 nnoremap <Space>- :toggleList
