@@ -1,3 +1,3 @@
-[Title](New%20note)
-[this is another title](Testing)
+[Title](New%20note.md)
+[this is another title](Testing.md)
 [[New note]]
