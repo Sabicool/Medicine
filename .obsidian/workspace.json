@@ -26,15 +26,13 @@
             "id": "7c24e0fe892fea54",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Medicine.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Readme.md",
+                "staged": false
               },
-              "icon": "lucide-file",
-              "title": "Medicine"
+              "icon": "git-pull-request",
+              "title": "Diff View (Readme)"
             }
           }
         ],
@@ -120,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Disciplines/Cardiology/Cardiology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cardiology"
+              "title": "Backlinks"
             }
           },
           {
@@ -165,11 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Medicine.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Medicine"
+              "title": "Outline"
             }
           },
           {
@@ -196,12 +191,12 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,26 +214,26 @@
   },
   "active": "7c24e0fe892fea54",
   "lastOpenFiles": [
+    "Readme.md",
+    "Medical School/SLOs/Medicine.pdf",
     "Medical School/SLOs/testing.md",
+    "Medicine.md",
     "Disciplines/Cardiology/Cardiology.md",
     "Medical School/SLOs/Medicine SLOs.pdf",
     "conflict-files-obsidian-git.md",
     "Medical School/SLOs/Medicine SLOs.pdf.crdownload",
     "Medical School/SLOs",
     "Medical School",
-    "Medicine.md",
     "Disciplines/Cardiology",
     "Disciplines",
     "Reference/Junior Doctor/Intern Reference.md",
     "LICENSE.md",
     "Reference/Junior Doctor",
     "Reference",
-    "Readme.md",
     "Testing.md",
     "New note.md",
     "LICENSE",
     "templates/Link with Extension.md",
-    "templates",
     "Welcome.md"
   ]
 }
