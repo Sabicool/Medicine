@@ -7,3 +7,4 @@
 # Excluded directories
 Medical\ School/*
 Private/*
+.obsidian/*
