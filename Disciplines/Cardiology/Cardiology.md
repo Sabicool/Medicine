@@ -1,7 +1,5 @@
 # List
 %% Begin Waypoint %%
-- [Cardiology.sync-conflict-20241107-221757-D7XORKT](./Cardiology.sync-conflict-20241107-221757-D7XORKT.md)
-- [Cardiology.sync-conflict-20241107-221911-D7XORKT](./Cardiology.sync-conflict-20241107-221911-D7XORKT.md)
 - **Conditions**
 	- [Acute Coronary Syndromes](./Conditions/Acute%20Coronary%20Syndromes.md)
 	- [Essential Hypertension](./Conditions/Essential%20Hypertension.md)
