@@ -1,5 +1,5 @@
 # About this Repository
-This is the note database of a junior doctor in Australia. Please note that the information contained in these notes is not medical advice and that I do not claim copyright for the images. These notes are purely provided as an educational resource.
+This is the note database of a junior doctor in Australia. *Please note that the information contained in these notes is not medical advice and that I do not claim copyright for the images*. These notes are purely provided as an educational resource. If there is content you want removed or altered, please do not hesitate to contact me or create an issue on this repository.
 # Current Projects
 You may be interested in my current projects I am working on
 - [Malleus Clinical Medical School Anki Deck](https://malleuscm.notion.site)
@@ -25,11 +25,10 @@ I rarely made comprehensive notes. I mainly studied by doing pre-made flashcard 
 
 I do want to add some improvements to the notes:
 
-``` org
-
 - [ ] Make a functional website; something like quartz might work well
 - [ ] Add a date last updated to all the notes
-```
+- [ ] Implement way to add cards from Obsidian to Anki[^2]
 # Footnotes
 
 [^1]: Both are great applications for note taking but unfortunately there might be some barrier to using it because of the initial learning to use the program. If that is the case for you, I'd recommend something like notion or remnote to take notes on
+[^2]: I should generally be adding these cards to the Malleus Clinical Medicine Anki project
