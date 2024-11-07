@@ -18,3 +18,14 @@ You can find all my notes here: [https://mango-cellar-b90.notion.site/](https://
 - Other national resources (e.g. eTG, AMH Online)
 - Other useful Australian resources: LITFL
 - Other useful resources: Teach Me Series (e.g. Teach me surgery, Teach me Obgyn), Amboss
+# How I made these notes
+- I use a mixture of Emacs and Obsidian to take these notes. These notes are for the most part formatted in markdown and hopefully made to be quite presentable and accurate.
+
+I do want to add some improvements to the notes:
+
+``` org
+
+- [ ] Make a functional website; something like quartz might work well
+- [ ] Add a date last updated to all the notes
+```
+
