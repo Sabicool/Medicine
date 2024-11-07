@@ -1,5 +1,6 @@
 # Ignore macOS system files
 .DS_Store
+*.DS_Store
 
 # Ignore backup files (ending with ~)
 *~
@@ -8,3 +9,5 @@
 Medical\ School/*
 Private/*
 .obsidian/*
+.stfolder/*
+/stignore
