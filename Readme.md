@@ -19,7 +19,7 @@ You can find all my notes here: [https://mango-cellar-b90.notion.site/](https://
 - Other useful Australian resources: LITFL
 - Other useful resources: Teach Me Series (e.g. Teach me surgery, Teach me Obgyn), Amboss
 # How I made these notes
-- I use a mixture of Emacs and Obsidian to take these notes. These notes are for the most part formatted in markdown and hopefully made to be quite presentable and accurate.
+- I use a mixture of Emacs and Obsidian to take these notes[^1]. These notes are for the most part formatted in markdown and hopefully made to be quite presentable and accurate.
 
 I do want to add some improvements to the notes:
 
@@ -28,4 +28,6 @@ I do want to add some improvements to the notes:
 - [ ] Make a functional website; something like quartz might work well
 - [ ] Add a date last updated to all the notes
 ```
+# Footnotes
 
+[^1]: Both are great applications for note taking but unfortunately there might be some barrier to using it because of the initial learning to use the program. If that is the case for you, I'd recommend something like notion or remnote to take notes on
