@@ -1,8 +1,8 @@
-# STEM#
+# STEMI
 ## Management
 Morphine
-O
-N
-A
-S
-H
+Oxygen
+Nitrates
+Antiplatelets
+Save tissue
+Heparin

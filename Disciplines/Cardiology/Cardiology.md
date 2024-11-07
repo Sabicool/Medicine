@@ -9,7 +9,6 @@
 	- [Pulmonary Hypertension](./Conditions/Pulmonary%20Hypertension.md)
 	- [Secondary Hypertension](./Conditions/Secondary%20Hypertension.md)
 	- [Stable Angina](./Conditions/Stable%20Angina.md)
-	- [Untitled](./Conditions/Untitled.md)
 - **Investigations**
 	- [ECG Interpretation](./Investigations/ECG%20Interpretation.md)
 	- [Echocardiogram](./Investigations/Echocardiogram.md)
