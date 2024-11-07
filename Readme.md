@@ -12,6 +12,7 @@ I rarely made comprehensive notes. I mainly studied by doing pre-made flashcard 
 
 > [!NOTE] My old notes
 > I used to take notes using notion during medical school. I found it to be fairly reliable and meant that I did not need to bring a laptop to placement to take notes. I could simply just login to notion and take notes or even review my notes from any computer I had access to on placement. You can find my notes here [https://mango-cellar-b90.notion.site/](https://mango-cellar-b90.notion.site/ "my medicine notes on notion")
+
 ## Useful Resources
 - Your university resources (my university resources have been kept private)
 - State based/hospital based guidelines (e.g. RCH, ACI, PCH, KEMH guidelines) 
