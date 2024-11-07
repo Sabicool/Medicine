@@ -2,6 +2,7 @@
 [Intern Reference](Reference/Junior%20Doctor/Intern%20Reference.md)
 
 # Main Disciplines
+[Cardiology](Disciplines/Cardiology/Cardiology.md)
 
 # Rotations
-[Echocardiogram](Disciplines/Cardiology/Investigations/Echocardiogram.md)
+[Emergency Medicine](Rotations/Emergency%20Medicine.md)
