@@ -4,6 +4,7 @@
 
 # Ignore backup files (ending with ~)
 *~
+*.tmp
 
 # Excluded directories
 Medical\ School/*
