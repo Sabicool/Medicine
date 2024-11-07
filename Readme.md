@@ -9,7 +9,9 @@ You may be interested in my current projects I am working on
 This is a non-exhaustive guide to studying in medical school.
 
 I rarely made comprehensive notes. I mainly studied by doing pre-made flashcard decks and a bunch of questions. Closer to exams for my OSCE exams in particular, I would try to learn by approaches to presenting complaints.
-### Useful Resources
+
+You can find all my notes here: [https://mango-cellar-b90.notion.site/](https://mango-cellar-b90.notion.site/ "my medicine notes on notion")
+## Useful Resources
 - Your university resources (my university resources have been kept private)
 - State based/hospital based guidelines (e.g. RCH, ACI, PCH, KEMH guidelines) 
 - National guidelines (e.g. RACGP Red Book, RANZCOG guidelines)
