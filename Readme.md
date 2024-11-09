@@ -6,7 +6,7 @@ You may be interested in my current projects I am working on
 	- [Malleus Chrome Extension](https://github.com/Sabicool/Malleus-Extension)
 	- [Malleus Anki Addon](https://github.com/Sabicool/Malleus-Anki-Addon)
 # How I Studied in Medical School
-This is a non-exhaustive guide to studying in medical school.
+This is a non-exhaustive guide to studying in medical school. I do plan on making a more complete guide one day but until then here's some words of wisdom.
 
 I rarely made comprehensive notes. I mainly studied by doing pre-made flashcard decks and a bunch of questions. Closer to exams for my OSCE exams in particular, I would try to learn by approaches to presenting complaints.
 
