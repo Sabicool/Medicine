@@ -7,7 +7,8 @@
 *.tmp
 
 # Excluded directories
-Medical\ School/*
+03\ Medical\ School/*
+*Medical\ School/*
 Private/*
 .obsidian/*
 .stfolder/*
