@@ -1,5 +1,10 @@
 # About this Repository
 This is the note database of a junior doctor in Australia. *Please note that the information contained in these notes is not medical advice and that I do not claim copyright for the images*. These notes are purely provided as an educational resource. If there is content you want removed or altered, please do not hesitate to contact me or create an issue on this repository.
+
+# Points of Entry
+- A good place to start is my [Medicine](Medicine.md) file
+- Alternatively, you can go through the disciplines or rotations folder or go through my [Intern Reference](00%20Reference/Junior%20Doctor/Intern%20Reference.md) file
+
 # Current Projects
 You may be interested in my current projects I am working on
 - [Malleus Clinical Medical School Anki Deck](https://malleuscm.notion.site)
