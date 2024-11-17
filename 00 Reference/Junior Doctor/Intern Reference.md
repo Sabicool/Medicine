@@ -1,3 +1,5 @@
 - Good books:
 	- On call: Principles and Protocols (Australian edition)
 	- Junior Doctor Survival Guide
+- Other reference:
+	- https://litfl.com/wp-content/uploads/2020/01/Referral-cheat-sheet.pdf
