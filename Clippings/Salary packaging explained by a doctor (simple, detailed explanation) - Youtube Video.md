@@ -18,5 +18,6 @@ tags:
 	- Meals and entertainment (up to $2600)
 - Technically the second pathway allows you to save a bit of money with regards to the card
 - Also consider administration fee of the salary packaging company (~$200)
+- During the FBT (fringe benefits tax) year which ends on 31 March annually
 # Salary Packaging Calculator
 - [Maxxia Salary packaging calculator](https://www.maxxia.com.au/calculators?ic=hd-calc)
