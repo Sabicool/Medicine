@@ -35,5 +35,5 @@ I do want to add some improvements to the notes:
 - [ ] Implement way to add cards from Obsidian to Anki[^2]
 # Footnotes
 
-[^1]: Both are great applications for note taking but unfortunately there might be some barrier to using it because of the initial learning to use the program. If that is the case for you, I'd recommend something like notion or remnote to take notes on
+[^1]: Both are great applications for note taking but unfortunately there might be some barrier to using either application because of the initial learning to use either program. If that is the case for you, I'd recommend something like notion or remnote to take notes on
 [^2]: I should generally be adding these cards to the Malleus Clinical Medicine Anki project
