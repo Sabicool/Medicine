@@ -6,4 +6,5 @@ If considering that the patient is in shock see shock notes: [[Shock]]
 - Evaluate the patient from the bedside: do they actually look sick or critical
 	- The patient may be pale, agitated and sweaty
 - A to E assessment
-	- Airway clear? Consider intubation
+	- Airway clear? Consider intubation and roll patient into the left lateral decubitus position to avoid aspiration; remove loose-fitting dentures
+	- 
