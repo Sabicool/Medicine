@@ -1,3 +1,5 @@
+- Rotations: [Emergency Medicine](02%20Rotations/Emergency%20Medicine.md)
+
 If considering that the patient is in shock see shock notes: [[Shock]]
 - Thin young females often have a SBP of 80-100 mmHg
 # Assessment
@@ -11,7 +13,7 @@ If considering that the patient is in shock see shock notes: [[Shock]]
 		- Automated NIBP is notriously inaccurate; retake blood pressure manually
 		- *Pulse Pressure?*
 			- Narrow pulse pressure means low LV stroke volume and shock
-			- Wide pulse pressure means [Anaphylaxis](02%20Rotations/Common%20Ward%20Calls/Anaphylaxis.md) or [Septicaemia](02%20Rotations/Common%20Ward%20Calls/Septicaemia.md) (i.e. warm shock)
+			- Wide pulse pressure means [Anaphylaxis](01%20Disciplines/Immunology/Anaphylaxis.md) or [Septicaemia](01%20Disciplines/Infectious%20Disease/Septicaemia.md) (i.e. warm shock)
 		- *Heart Rate?*
 			- Low volume or impalpable peripheral pulses indicates hypoperfusion
 			- Hypotension usually accompanied by compensatory reflex sinus tachycardia
