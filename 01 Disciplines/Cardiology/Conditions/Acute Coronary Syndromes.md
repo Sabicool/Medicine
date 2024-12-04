@@ -1,3 +1,8 @@
+---
+Rotations:
+  - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
+  - "[[02 Rotations/Cardiology|Cardiology]]"
+---
 # STEMI
 ## Management
 - Morphine

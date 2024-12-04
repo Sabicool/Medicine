@@ -1,4 +1,3 @@
-## Auto Generated List 
  ```dataview
 list rows.file.link
 from "01 Disciplines"
