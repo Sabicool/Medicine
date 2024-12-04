@@ -6,7 +6,7 @@ If considering that the patient is in shock see shock notes: [[Shock]]
 	- The patient may be pale, agitated and sweaty
 - A to E assessment
 	- **A**irway clear? Consider intubation and roll patient into the left lateral decubitus position to avoid aspiration; remove loose-fitting dentures
-	- **B**reathing: Tachypnoea is co,mmon and may indicate lactic acidosis secondary to tissue hypoperfusion, acute LVF or underlying PE, pneumothorax or cardiac tamponade
+	- **B**reathing: Tachypnoea is common and may indicate lactic acidosis secondary to tissue hypoperfusion, acute LVF or underlying PE, pneumothorax or cardiac tamponade
 	- **C**ardiovascular: Measure supine blood pressure in *both* arms
 		- Automated NIBP is notriously inaccurate; retake blood pressure manually
 		- *Pulse Pressure?*
