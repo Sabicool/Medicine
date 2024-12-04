@@ -5,6 +5,13 @@
 - Research output specific to anaesthetics but research isn't as emphasised in comparison to surgery
 - Courses specific for critical care and anaesthetics: ALS2, airway short courses
 - Masters in traumatology less beneficial
+## Suggested Positions and Pathways
+- PGY 2: Anaesthetics RMO term or ICU RMO term
+- PGY 3: Critical Care SRMO position
+- PGY 4: Unaccredited position or additional Critical care SRMO
+- PGY 5: Apply
+- Complete procedure logbooks from PGY 2
+- During this time
 ## Sources
 - https://www.reddit.com/r/ausjdocs/comments/11lu8s3/realistic_pathway_to_anaesthetics_training_program/
 - https://www.reddit.com/r/ausjdocs/comments/165boku/anaesthesia_pathway/
