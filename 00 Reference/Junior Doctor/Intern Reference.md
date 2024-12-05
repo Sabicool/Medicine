@@ -1,9 +1,13 @@
 # Preparation
-- Create a common medications and doses list
+- Create a common medications and doses list:
+	- Analgesia: See [Paediatric Pain Management](01%20Disciplines/Paediatrics/Topics/Paediatric%20Pain%20Management.md) and [Pain Management](01%20Disciplines/Clinical/Topics/Pain%20Management.md)
+	- Antibiotics
+	- Anti-emetics: metoclopramide, ondansetron and prochlorperazine
+	- Nutritional/electrolyte supplements
 # Admin Tasks
 # Clinical Tasks
 - See: [Common Ward Calls](02%20Rotations/Common%20Ward%20Calls.md) 
-- [IV Cannulation](01%20Disciplines/Procedures/IV%20Cannulation.md)
+- [IV Cannulation](01%20Disciplines/Clinical/Procedures/IV%20Cannulation.md)
 # References
 - Good books:
 	- On call: Principles and Protocols (Australian edition)
