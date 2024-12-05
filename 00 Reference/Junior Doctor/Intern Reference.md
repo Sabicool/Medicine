@@ -1,3 +1,5 @@
+# Preparation
+- Create a common medications and doses list
 # Admin Tasks
 # Clinical Tasks
 - See: [Common Ward Calls](02%20Rotations/Common%20Ward%20Calls.md) 
