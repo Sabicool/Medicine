@@ -12,8 +12,11 @@
 	- Topical products: emolients, eye drops, creams
 	- Puffers
 	- PPIs both IV and PO
-	- 
 # Admin Tasks
+- Forms to carry in folder on the ward round:
+	- Scripts and S8s for when considering patient discharge; consider pharmacy opening hours as well
+	- Med charts
+	- Fluid charts
 # Clinical Tasks
 - See: [Common Ward Calls](02%20Rotations/Common%20Ward%20Calls.md) 
 - [IV Cannulation](01%20Disciplines/Clinical/Procedures/IV%20Cannulation.md)
