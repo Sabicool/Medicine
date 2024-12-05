@@ -4,6 +4,15 @@
 	- Antibiotics
 	- Anti-emetics: metoclopramide, ondansetron and prochlorperazine
 	- Nutritional/electrolyte supplements
+		- Consider potassium, calcium-magnesium-phosphate (CMP), B12, folate, iron and micronutrients
+		- Check with *Australian Injectable Drugs Handbook*
+	- Fluids (including blood products)
+		- Also know the hospital policies surrounding blood products (e.g. patient consent, notification of blood bank etc)
+	- Aprients/Laxatives
+	- Topical products: emolients, eye drops, creams
+	- Puffers
+	- PPIs both IV and PO
+	- 
 # Admin Tasks
 # Clinical Tasks
 - See: [Common Ward Calls](02%20Rotations/Common%20Ward%20Calls.md) 
