@@ -1,5 +1,6 @@
 - Good books:
 	- On call: Principles and Protocols (Australian edition)
 	- Junior Doctor Survival Guide
+	- The Junior Medical Officer's Guide to the Hospital Universe: A Survival Manual
 - Other reference:
 	- https://litfl.com/wp-content/uploads/2020/01/Referral-cheat-sheet.pdf
