@@ -12,13 +12,28 @@
 	- Topical products: emolients, eye drops, creams
 	- Puffers
 	- PPIs both IV and PO
+- Other things to bring:
+	- Stethoscope
+	- Pens (multicolour)
+		- Start with blue in the morning, move on to green for the next round of reports and jobs, then red for the fnal round and black just for writing up the million things you need to write up.
+	- Pen torch
+	- Note on phone with AHPRA number, provider number and prescriber number
+	- Phone contacts
+	- Scrubs: *order these early*
+
 # Admin Tasks
 - Forms to carry in folder on the ward round:
 	- Scripts and S8s for when considering patient discharge; consider pharmacy opening hours as well
 	- Med charts
 	- Fluid charts
 	- Consent forms
-	- Imaging and pathology forms
+	- Imaging and pathology forms (inpatient and outpatient)
+	- Patient stickers if applicable
+	- Medical certificate *mainly the hand written one for family members*
+	- Business card of consultant
+	- Overtime forms
+	- Other forms to consider: MMSE, DNR/NFR
+- Print stickers
 # Clinical Tasks
 - See: [Common Ward Calls](02%20Rotations/Common%20Ward%20Calls.md) 
 - [IV Cannulation](01%20Disciplines/Clinical/Procedures/IV%20Cannulation.md)
