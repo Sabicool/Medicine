@@ -24,7 +24,7 @@
 	- 2 years basic and introductory training
 	- 2 years advanced training
 	- 1 year provisional fellowship training
-	- ![](attachments/Pasted%20image%2020241204222908.png)
+	- ![](Attachments/Pasted%20image%2020241204222908.png)
 - 
 ## Sources
 - https://www.anzca.edu.au/education-training/anaesthesia-training-program/training-as-an-anaesthetist
