@@ -32,7 +32,8 @@ I do want to add some improvements to the notes:
 
 - [ ] Make a functional website; something like quartz might work well
 - [ ] Add a date last updated to all the notes
-- [ ] Implement way to add cards from Obsidian to Anki[^2]
+- [x] Implement way to add cards from Obsidian to Anki[^2]
+    - Anything surrounded by curly braces is likely a card that has been incorporated into the Malleus anki deck *(I can't demonstrate here, otherwise it'll create a card)*
 # Footnotes
 
 [^1]: Both are great applications for note taking but unfortunately there might be some barrier to using either application because of the initial learning to use either program. If that is the case for you, I'd recommend something like notion or remnote to take notes on
