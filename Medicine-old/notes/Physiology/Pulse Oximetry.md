@@ -1,0 +1,18 @@
+- Probe emits 660 nm (red, for Hb) and 940 nm (infrared for $\ce{O2Hb}$)
+- Pulse oximetry will read 85% when not connected to a patient
+- Methemoglobin will cause pulse oximetry to approach 85%
+	- Causes: prilocaine/benzocaine topicalisation, [[Metoclopramide]], dapsone, nitric oxide, nitroglycerine
+	- Treatment: methylene blue, vitamin C (in [[G6PD deficiency]])
+- Carboxyhaemoglobin ($\ce{COHb}$) has similar absorbance to $\ce{O2Hb}$ with a higher affinity for Hb than oxygen
+	- This means pulse oximetry might be 95% despire fractional oximetry at 50%
+	- Causes: smoke inhalation, volatile anaesthetic degradation, dessicated baralyme/soda lime
+	- Treatments: 100% FiO2, hyperbaric Oxygen
+- Other factors producing a flasely low pulse oximetry
+	- dyes (methylene blue > indocyanine green > indigo carmine)
+	- blue nail polish
+	- shivering/other motion,
+	- ambient light
+	- malpositioned sensor
+	- low perfusion (low cardiac output, profound anemia, hypothermia, elevated SVR)
+- ![[Pasted image 20240123120401.png]]
+- ![[Pasted image 20240123121019.png]]
