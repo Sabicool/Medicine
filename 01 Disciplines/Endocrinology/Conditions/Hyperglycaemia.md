@@ -10,3 +10,22 @@ Rotations:
 - What have they eaten?
 - Reason for admission?
 - Otherwise well? Other vitals?
+# Common Causes *(Corridor thoughts)*
+- Patient adherence to diet
+- Steroids
+- TPN/PPN
+- NG feeds
+- Poorly controlled diabetes at home
+- Withholding regular antiglycaemics
+# Assessment
+# Management
+- Short term
+	- Start novorapid
+- Medium term
+	- Sliding scale during period on steroids
+	- ? Endo r/v if not well controlled
+- Long term
+	- Does the patient need more PO medications?
+	- Does the patient need to change insulin regime?
+	- Who is follow up diabetes management
+	- What is his Hba1c
