@@ -1,6 +1,0 @@
-[[Respiratory volumes]]
-[[Bohr Effect]]
-[[Laplace Law]]
-[[Pulse Oximetry]]
-[[Blood Pressure Physiology]]
-[[Temperature]]

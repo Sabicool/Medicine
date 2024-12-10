@@ -1,6 +1,0 @@
-- Precipitant labour
-	- Call for help: midwife, obstetric registrar, neonatal team
-	- Babies can come out in acute fetal distress because of strong contractions
-- Ectopic pregnancy
-	- Who is most likely
-		- STI and IVF (IUD increases the risk once you become pregnant but IUD is protective itself against pregnancy)
