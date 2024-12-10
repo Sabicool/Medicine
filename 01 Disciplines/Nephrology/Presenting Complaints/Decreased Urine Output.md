@@ -21,3 +21,9 @@ aliases:
 - AKI
 # Assessment
 ## End of Bed
+## A → E Assessment
+## History
+## Examination
+## Investigations
+## Management
+- Flush catheter: ? block

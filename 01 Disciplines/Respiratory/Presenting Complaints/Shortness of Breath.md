@@ -22,7 +22,7 @@ Rotations:
 ## End of Bed
 - Does the patient look short of breath?
 - Are they able to speak full sentences?
-## A→E Assessment
+## A → E Assessment
 ## History
 - Reason for patient admission?
 - Onset? (was it sudden onset)
