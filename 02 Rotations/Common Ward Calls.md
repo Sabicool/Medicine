@@ -25,4 +25,27 @@ group by reverse(split(file.folder, "/"))[0]
 
 4. HxPC, no different from the documentation in an admission history. Consider any other relevant findings
 5. Document the examination findings of your selective physical exam. Consider underlining the abnormal physical findings.
-6. Note relevant laboratory, ECG or X-ray findings
+6. Note relevant laboratory, ECG or X-ray findings also underlining the abnormal physical findings
+7. Write the provisional or 'working' diagnosis, followed by potential differential diagnosis, listing the most likely alternative explanations in order, then any complications
+
+> [!EXAMPLE] 
+> 1. Unwitnessed fall on the way to bathroom
+> 	Presumed mechanical fall (?diuretic-induced nocturia, ?contribution of sedation)
+> 2. Large bruise to left thigh, but no obvious bony injury. No other findings
+
+8. State the management and measures taken during the night
+
+> [!EXAMPLE]
+> - Simple analgesia
+> - Ice pack to thigh haematoma
+> - Review mobility by inpatient team mane
+
+9. If you informed another resident, registrar or consultant, document the time and whome you spoke and state the recommendations given
+
+> [!EXAMPLE] 
+> Discussed with Medical Registrar at 03:30 hours
+> Suggests: team to reassess mobility in the morning, and the role of diuretics and sedation
+
+10. Record whether any of the patient's family members were informed of the problem and what they were told
+11. Sign the clinical note and print name and designation
+
