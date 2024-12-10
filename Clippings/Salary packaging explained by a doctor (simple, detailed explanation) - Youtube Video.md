@@ -6,7 +6,6 @@ author:
 published:
 created: 2024-11-23
 description: "this is the video I wish I had when I first became a doctor. if you have any of these questions, I will answer them...- what is salary packaging - how does i..."
-tags:
 ---
 ![](Attachments/Pasted%20image%2020241123015854.png)
 - Not all of your income can go towards salary packaging
