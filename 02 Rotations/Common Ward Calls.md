@@ -13,6 +13,8 @@ where
 	contains(Rotations, this.file.link)
 group by reverse(split(file.folder, "/"))[0]
 ```
+Also see:
+- [iSBAR Handover](00%20Reference/Clinical/iSBAR%20Handover.md)
 ## Documenting on call visits
 1. Begin with date, time and who you are: *9 December 2024: 0300 hours. Resident on-call note*
 2. State who called you and at what time you were called: *Called by nursing staff at 02:30 hours to see a patient who 'fell out of bed'*. If the assessment was delayed by more pressing matter, say so
