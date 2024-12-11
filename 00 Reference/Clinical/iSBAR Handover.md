@@ -12,8 +12,7 @@ Hello (Registrar Name), sorry to call you so late, (Your Name) here. I just want
 
 Mrs Y was admitted 10 days ago with poor mobility on a background of known rheumatoid arthritis, chronic renal failure and type 2 diabetes mellitus. I note she has had three previous falls this admission, and is on diuretics and sleeping tablets. Her last urea was 12 and creatinine 180.
 
-Her vital signs are OK with a slight tachycardia at 104, but normal BP for her at 140/85. Her resp rate is 36, but she is upset at all the fuss, and her sats are normal on room air. Otherwise, I really could not find anything abnormal examining her, apart from a 7x9 cm bruise on her thigh, with no underlying bony injury as she can still walk unaided. I think this was most likely a mechanical fall, maybe related to her tablets, and I have given
-her some paracetamol.
+Her vital signs are OK with a slight tachycardia at 104, but normal BP for her at 140/85. Her resp rate is 36, but she is upset at all the fuss, and her sats are normal on room air. Otherwise, I really could not find anything abnormal examining her, apart from a 7x9 cm bruise on her thigh, with no underlying bony injury as she can still walk unaided. I think this was most likely a mechanical fall, maybe related to her tablets, and I have given her some paracetamol.
 
 I have asked the medical team to reassess her mobility in the morning. Should I come back later to see her myself before that, only I still have another five calls to complete?
 
