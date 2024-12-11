@@ -31,3 +31,12 @@ Treat according to aetiology:
 # Dry Mouth
 Administer frequent mouthwashes, offer sips of water or give ice chips to suck
 # Agitation
+Consider:
+- Medication side effects
+- Intractable pain
+- Full bladder
+- Loaded rectum
+- Anxiety and fear
+Consider benzodiazepines:
+- Lorazepam 1 mg PO or SL
+- Midazolam 10-20 mg/24 h or clonazepam 0.5-2 mg/24 h as a continuous subcutaneous infusion
