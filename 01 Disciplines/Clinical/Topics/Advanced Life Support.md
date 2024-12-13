@@ -71,6 +71,6 @@ Rotations:
 		- If high clinical suspicion of a massive PE (or ACS) causing cardiac arrest, a fibrinolytic agent can be given
 # Indications for other Drugs
 - Calcium: give 10 mL of 10% calcium chloride or 20 mL of 10% calcium gluconate IV for hyperkalaemia, hypocalcaemia or calcium-channel blocker overdose and repeat as necessary
-- Lignocaine: initial bolus of 1 mg/ kg IV for VF or pVT, when amiodarone is not available, followed by 0.5 mg/kg if necessary. Omit if amiodarone has been given
+- Lignocaine: initial bolus of 1 mg/kg IV for VF or pVT, when amiodarone is not available, followed by 0.5 mg/kg if necessary. Omit if amiodarone has been given
 - Magnesium: give 2.5 g (10 mmol or 5 mL) of 49.3% magnesium sulfate IV in suspected hypomagnesaemia such as in patients with torsades de pointes, on potassium-losing diuretics or with digoxin toxicity
 - Sodium bicarbonate: give 50 mmol of 8.4% (50 mL) IV boluses for hyperkalaemia, tricyclic antidepressant or other sodium-channel blocker overdose or severe metabolic acidosis.
