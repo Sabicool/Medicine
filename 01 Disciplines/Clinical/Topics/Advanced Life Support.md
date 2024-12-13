@@ -35,3 +35,4 @@ Rotations:
 - Non shockable rhythms is basically anything not shockable:
 	- Asystole
 	- Pulseless electrical activity
+- Check that the leads are connected, the monitor is turned up and/or try a different lead
