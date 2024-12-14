@@ -24,7 +24,7 @@ Rotations:
 		- Give adrenaline 1 mg IV dose and repeat; can use larger doses of adrenaline 3-5 mg IV
 		- Deliver rapid boluses up to 60 mL/kg of normal saline
 	- *Adjunctive agents*
-		- Laryngeal odema
+		- Laryngeal oedema
 			- Give 1:1000 adrenaline 5 mg (5 mL) nebulised with oxygen
 			- Call anaesthetist and prepare for surgical airway
 			- Give hydrocortisone 200 mg IV or prednisone 50 mg PO
