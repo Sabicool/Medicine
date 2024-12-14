@@ -15,3 +15,25 @@ Rotations:
 	- Burns, either inhalation or secondary to caustic ingestion
 	- Trauma (fractured mandible, neck haematoma, thyroid cartilage)
 # Assessment
+- Assess airway function
+	- Signs of partial airway obstruction:
+		- Hoarse voice, inability to speak or cough 
+		- Stridor, snoring or gurgling secretions 
+		- Soft-tissue retraction-tracheal tug, rib or abdominal recession 
+		- Loss, or an uncoordinated rise and fall, of the chest and / or abdomen 
+		- Altered level of consciousness or mental status or agitation 
+		- GCS ≤8
+	- Features of partial airway obstruction
+		- Tripod position
+		- Reluctance to speak or cough
+		- Increased work of breathing with nasal flaring accessory muscle use
+	- Inspect
+		- Upper airway for foreign material if possible or using laryngoscopy
+		- Erythema or urticaria with lip, tongue or palatal swelling
+			- Listen for bronchospasm and examine for circulatory features that suggest [Anaphylaxis](01%20Disciplines/Immunology/Conditions/Anaphylaxis.md)
+		- Localised trauma, burns infection or tumour
+	- Palpate the anterior neck, including the thyroid cartilage for pain, inflammation, crepitus, swelling or masses
+	- Investigate for any cause of depressed consicousness (e.g. hypoglycaemia or opioid intoxication)
+- Call senior immediately
+- [MET call](00%20Reference/Clinical/MET%20Activation%20Criteria.md) should be made for any patient with a threatened airway (including partial airway obstruction)
+- Search and treat underlying cause
