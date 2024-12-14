@@ -2,6 +2,7 @@
 Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
+  - "[[02 Rotations/Cardiology|Cardiology]]"
 ---
 # Shockable Rhythms
 - The only two shockable rhythms are:
@@ -74,3 +75,20 @@ Rotations:
 - Lignocaine: initial bolus of 1 mg/kg IV for VF or pVT, when amiodarone is not available, followed by 0.5 mg/kg if necessary. Omit if amiodarone has been given
 - Magnesium: give 2.5 g (10 mmol or 5 mL) of 49.3% magnesium sulfate IV in suspected hypomagnesaemia such as in patients with torsades de pointes, on potassium-losing diuretics or with digoxin toxicity
 - Sodium bicarbonate: give 50 mmol of 8.4% (50 mL) IV boluses for hyperkalaemia, tricyclic antidepressant or other sodium-channel blocker overdose or severe metabolic acidosis.
+# Post Resuscitation Care
+- Continue respiratory support
+	- Give supplemental oxygen, even if the patient has rapidly returned to consciousness
+	- Monitor ABG and titrate inspired oxygen to achieve oxygen saturations of 94-98%
+	- Ensure ETT is correctly positioned and secure and organise an immediate CXR
+	- Place NG tube to decompress the stomach if the patient is still comatose and/or intubated, confirming again with the CXR
+- Maintain cerebral perfusion
+	- Maintain SBP >100 mmHg
+	- May require intermittent boluses of adrenaline 50-100 mics iV or an adrenaline infusion under close supervision
+	- Ensure there is adequate intravascular volume by looking for sources of hypovolaemia, checking JVP or arranging for the insertion of a CVL
+	- Treat and prevent cardiac arrhythmias
+- Repeat investigations: including a 12-lead ECG, blood glucose, ABG or VBG and electrolytes
+- Avoid hypo-/hyperglycaemia or acidosis and control seizures
+- Commence targeted temperature management
+- Seek and treat underlying cause of the cardiac arrest or any complications of the resuscitations (e.g. pneumothorax from a broken rib or pulmonary aspiration)
+- Consider immediate coronary angiography and PCI especially for patients following chest pain or with ST elevation
+- Transfer to ICU, cardiac catheter lab or CCU

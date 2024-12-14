@@ -81,4 +81,16 @@ Rotations:
 	- Local tumour: consider steroids to decrease oedema and arrange ENT assessment
 	- Angio-oedema
 		- Hereditary angio-oedema: Urgent C1 esterase inhibitor IV or icatibant 30 mg in 3 mL SC (B2-receptor antagonist)
+	 - Choking
+		 - Allow the patient to clear the obstruction by coughing
+			 - Usually more effective than chest compression
+			 - Be prepared to assist if the patient has a weak cough or depressed consciousness
+		 - Give five firm blows to the back if the patient cannot breath or cough
+			 - If unsuccessful give five chest compressions; similar to CPR but performed more slowly with a more prolonged compression time
+		 - Continue this cycle until the obstruction is cleared or the patient becomes unconscious
+		 - If the patient becomes unconscious
+			 - Commence CPR
+			 - Suction the airway
+			 - Under direct visualisation at laryngoscopy remove the foreign material with Magill foreceps
+			 - Only use a finger sweep to clear an airway if solid material is visible
 	 - Anaphylaxis ![Anaphylaxis](01%20Disciplines/Immunology/Conditions/Anaphylaxis.md#^anaphylaxis-management)
