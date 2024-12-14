@@ -81,4 +81,4 @@ Rotations:
 	- Local tumour: consider steroids to decrease oedema and arrange ENT assessment
 	- Angio-oedema
 		- Hereditary angio-oedema: Urgent C1 esterase inhibitor IV or icatibant 30 mg in 3 mL SC (B2-receptor antagonist)
-	- Anaphylaxis: 
+	 - Anaphylaxis ![Anaphylaxis](01%20Disciplines/Immunology/Conditions/Anaphylaxis.md#^anaphylaxis-management)
