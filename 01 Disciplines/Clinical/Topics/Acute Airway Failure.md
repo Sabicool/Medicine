@@ -71,5 +71,14 @@ Rotations:
 			- Lubricate airway thoroughly
 			- Better tolerated in semiconscious patient and may be used in patients with clenched jaws or trismus (e.g. during seizure)
 		- Laryngeal mask airway
-			- 
+			- Most LMAs have a patient weight range printed on them, assisting the choice of the correct size
+			- The outer lip of the cuff must be lubricated, then the LMA is inserted through the mouth and pushed backwards against the palate with a confident thrust until resistance is felt from the pharynx
+			- The cuff is inflated and ventilation is commenced
+		- Endotracheal intubation
 - Search and treat underlying cause
+	- Local trauma: stabilise fracutres, re-position, stop bleeding by local pressure or pack and call surgeon
+	- Local infection: call ENT and commence antibiotics, drain any abscess (e.g. Ludwig angina) and consider IV steroids to decrease oedema
+	- Local tumour: consider steroids to decrease oedema and arrange ENT assessment
+	- Angio-oedema
+		- Hereditary angio-oedema: Urgent C1 esterase inhibitor IV or icatibant 30 mg in 3 mL SC (B2-receptor antagonist)
+	- Anaphylaxis: 

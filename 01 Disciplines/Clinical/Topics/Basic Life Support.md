@@ -10,6 +10,7 @@ aliases:
 # Airway
 - Open and clear the airway and prevent aspiration
 - Use airway positioning, suction, airway adjuncts
+- See [Acute Airway Failure](01%20Disciplines/Clinical/Topics/Acute%20Airway%20Failure.md)
 # Breathing
 - Assess work and efficacy of breathing including pulse oximetry
 - Give oxygen and provide assisted ventilation if ventilatory failure present
