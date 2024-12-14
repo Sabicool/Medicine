@@ -8,8 +8,8 @@ Rotations:
 - Attach patient to pulse oximetry and ECG monitoring, obtain large IV access
 - If no response, treat as **critical anaphylaxis**:
 	- Ensure two large-bore IV lines
-	- Repeat the dose of adrenaline 0.01 mg/kg up to 0.5 mg every 3-5 minutes
-	- Alternatively place adrenaline 1 mg (1 mL of 1:1000) in 100 mL of normal saline and administer IV at 60-120 mL/h (10-20 microgram/min) titrated to response
+	- Repeat the dose of ==adrenaline 0.01 mg/kg up to 0.5 mg every 3-5 minutes==
+	- Alternatively place ==adrenaline 1mg (1mL of 1:1000) in 100mL of normal saline and administer IV at 60-120 mL/h (10-20 microgram/min)== titrated to response
 		- Give faster in cardiac arrest
 	- Must be ECG monitor
 	- *Hypotension*
