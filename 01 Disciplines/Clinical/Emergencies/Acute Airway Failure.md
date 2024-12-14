@@ -2,7 +2,6 @@
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-  - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
 ---
 # Causes
 - Depressed level of consciousness
@@ -30,10 +29,10 @@ Rotations:
 	- Inspect
 		- Upper airway for foreign material if possible or using laryngoscopy
 		- Erythema or urticaria with lip, tongue or palatal swelling
-			- Listen for bronchospasm and examine for circulatory features that suggest [Anaphylaxis](01%20Disciplines/Immunology/Conditions/Anaphylaxis.md)
+			- Listen for bronchospasm and examine for circulatory features that suggest [Anaphylaxis](01%20Disciplines/Immunology/Emergencies/Anaphylaxis.md)
 		- Localised trauma, burns infection or tumour
 	- Palpate the anterior neck, including the thyroid cartilage for pain, inflammation, crepitus, swelling or masses
-	- Investigate for any cause of depressed consicousness (e.g. hypoglycaemia or opioid intoxication)
+	- Investigate for any cause of depressed consciousness (e.g. hypoglycaemia or opioid intoxication)
 	- Signs and features of complete airway obstruction
 		- No stridor, airway sounds or breath sounds on lung auscultation
 		- Inability to ventilate the patient with a bag-mask
@@ -53,7 +52,7 @@ Rotations:
 	- Jaw thrust: place fingers behind the angle of the mandible and push the jaw forwards to life the soft tissues away from the pharynx to relieve obstruction
 		-  Apply with head tilt unless possibility of spine injury
 	- Chin lift
-		- Single operators at the side of the patient for expired air resuscitation when combining with CPR ([BLS](01%20Disciplines/Clinical/Topics/Basic%20Life%20Support.md))
+		- Single operators at the side of the patient for expired air resuscitation when combining with CPR ([BLS](01%20Disciplines/Clinical/Emergencies/Basic%20Life%20Support.md))
 	- Recovery position: left lateral position to keep airway open and assist in drainage of secretions
 		![](Attachments/Pasted%20image%2020241214154402.png)
 	- Clear foreign material
@@ -93,4 +92,4 @@ Rotations:
 			 - Suction the airway
 			 - Under direct visualisation at laryngoscopy remove the foreign material with Magill foreceps
 			 - Only use a finger sweep to clear an airway if solid material is visible
-	 - Anaphylaxis ![Anaphylaxis](01%20Disciplines/Immunology/Conditions/Anaphylaxis.md#^anaphylaxis-management)
+	 - Anaphylaxis ![Anaphylaxis](01%20Disciplines/Immunology/Emergencies/Anaphylaxis.md#^anaphylaxis-management)

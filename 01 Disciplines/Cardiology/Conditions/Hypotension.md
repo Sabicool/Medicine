@@ -29,7 +29,7 @@ Rotations:
 		- Automated NIBP is notriously inaccurate; retake blood pressure manually
 		- *Pulse Pressure?*
 			- Narrow pulse pressure means low LV stroke volume and shock
-			- Wide pulse pressure means [Anaphylaxis](01%20Disciplines/Immunology/Conditions/Anaphylaxis.md) or [Septicaemia](01%20Disciplines/Infectious%20Disease/Conditions/Septicaemia.md) (i.e. warm shock)
+			- Wide pulse pressure means [Anaphylaxis](01%20Disciplines/Immunology/Emergencies/Anaphylaxis.md) or [Septicaemia](01%20Disciplines/Infectious%20Disease/Conditions/Septicaemia.md) (i.e. warm shock)
 		- *Heart Rate?*
 			- Low volume or impalpable peripheral pulses indicates hypoperfusion
 			- Hypotension usually accompanied by compensatory reflex sinus tachycardia

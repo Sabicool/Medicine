@@ -83,7 +83,7 @@ Rotations:
 	- Place NG tube to decompress the stomach if the patient is still comatose and/or intubated, confirming again with the CXR
 - Maintain cerebral perfusion
 	- Maintain SBP >100 mmHg
-	- May require intermittent boluses of adrenaline 50-100 mics iV or an adrenaline infusion under close supervision
+	- May require intermittent boluses of adrenaline 50-100 microgramss iV or an adrenaline infusion under close supervision
 	- Ensure there is adequate intravascular volume by looking for sources of hypovolaemia, checking JVP or arranging for the insertion of a CVL
 	- Treat and prevent cardiac arrhythmias
 - Repeat investigations: including a 12-lead ECG, blood glucose, ABG or VBG and electrolytes
