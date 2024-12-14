@@ -2,6 +2,8 @@
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
+aliases:
+  - BLS
 ---
 ![](Attachments/Pasted%20image%2020241212215451.png)
 - In an unresponsive patient with no signs of life; commence CPR and call the MET

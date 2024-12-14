@@ -34,6 +34,42 @@ Rotations:
 		- Localised trauma, burns infection or tumour
 	- Palpate the anterior neck, including the thyroid cartilage for pain, inflammation, crepitus, swelling or masses
 	- Investigate for any cause of depressed consicousness (e.g. hypoglycaemia or opioid intoxication)
+	- Signs and features of complete airway obstruction
+		- No stridor, airway sounds or breath sounds on lung auscultation
+		- Inability to ventilate the patient with a bag-mask
+		- Rapid development of cyanosis and unconsciousness
 - Call senior immediately
 - [MET call](00%20Reference/Clinical/MET%20Activation%20Criteria.md) should be made for any patient with a threatened airway (including partial airway obstruction)
+# Management
+- General measures
+	- Administer high-flow oxygen and reverse cause of depressed conscioussness
+	- Apply non-invasive monitoring, including ECG, pulse oximeter and BP
+	- Obtain reliable IV access
+	- Call senior for help and summon staff experienced in airway management
+	- Reposition the patient if in coma
+	- Flex neck at cervicothoracic junction and extend head at the cervico-occipital junction ('sniffing position') provided no neck trauma; place pillow or support behind the head
+		![](Attachments/Pasted%20image%2020241214153953.png)
+	- Head tilt: tilt the head gently back with pressure on the forehead
+	- Jaw thrust: place fingers behind the angle of the mandible and push the jaw forwards to life the soft tissues away from the pharynx to relieve obstruction
+		-  Apply with head tilt unless possibility of spine injury
+	- Chin lift
+		- Single operators at the side of the patient for expired air resuscitation when combining with CPR ([BLS](01%20Disciplines/Clinical/Topics/Basic%20Life%20Support.md))
+	- Recovery position: left lateral position to keep airway open and assist in drainage of secretions
+		![](Attachments/Pasted%20image%2020241214154402.png)
+	- Clear foreign material
+		- Manually remove any intra-oral foreign body (e.g. loose-fitting dentures)
+		- Suction secretions and smaller foreign material using a large-bore rigid (Yankauer) sucker
+		- Laryngoscope and Magil forceps if material is lodged in the upper airway
+	- Airway adjuncts
+		- Oropharyngeal (Guedel) airway
+			- Sized using distance from the angle of the jaw to the centre of the lips
+			- Remember to insert upside down and then rotate
+			- Not tolerated in a semiconscious patient who will gag or develop laryngospasm
+		- Nasopharyngeal airway
+			- Sized from the tip of the nose to the tragus of the ear (size 6 or 7 is suitable for adults)
+			- Consider spraying the nasal cavity with vasoconstrictor/anaesthetic spray to prevent bleeding and decrease discomfort
+			- Lubricate airway thoroughly
+			- Better tolerated in semiconscious patient and may be used in patients with clenched jaws or trismus (e.g. during seizure)
+		- Laryngeal mask airway
+			- 
 - Search and treat underlying cause
