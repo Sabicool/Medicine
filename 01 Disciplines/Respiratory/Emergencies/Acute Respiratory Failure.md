@@ -10,7 +10,7 @@ Rotations:
 	- Failure of ventilation and oxygenation
 	- Requires ventilatory assistance as well as supplemental oxygen
 - ABG results of P$\ce{O2}$ <60mmHg or P$\ce{CO2}$ >50mmHg with an associated pH <7.30 is suggestive of acute respiratory failure
-# Causess
+# Causes
 - [Acute obstruction](01%20Disciplines/Clinical/Emergencies/Acute%20Airway%20Failure.md)
 - Pulmonary
 	- Bronchosapsm with wheeze (e.g. [Asthma](01%20Disciplines/Respiratory/Conditions/Asthma.md), [COPD](01%20Disciplines/Respiratory/Conditions/COPD.md), [anaphylaxis](01%20Disciplines/Immunology/Emergencies/Anaphylaxis.md))
