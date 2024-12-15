@@ -18,7 +18,7 @@ Rotations:
 	- Signs of partial airway obstruction:
 		- Hoarse voice, inability to speak or cough 
 		- Stridor, snoring or gurgling secretions 
-		- Soft-tissue retraction-tracheal tug, rib or abdominal recession 
+		- Soft-tissue retraction-tracheal tug, rib or abdominal recession
 		- Loss, or an uncoordinated rise and fall, of the chest and / or abdomen 
 		- Altered level of consciousness or mental status or agitation 
 		- GCS ≤8
