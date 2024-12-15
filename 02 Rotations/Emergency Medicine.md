@@ -8,13 +8,13 @@
     - [[Hyperglycaemia]]
     - [[Septicaemia]]
     - [[Acute Otitis Media]]
+    - [[01 Disciplines/Respiratory/Emergencies/Acute Respiratory Failure]]
 
 - Emergencies: 
     - [[Acute Airway Failure]]
     - [[01 Disciplines/Clinical/Emergencies/Advanced Life Support.md|Advanced Life Support]]
     - [[Basic Life Support]]
     - [[Anaphylaxis]]
-    - [[Acute Respiratory Failure]]
 
 - Investigations: 
     - [[ECG Interpretation]]

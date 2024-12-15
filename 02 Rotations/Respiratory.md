@@ -5,6 +5,8 @@
     - [[Asthma]]
     - [[COPD]]
     - [[Pneumothorax]]
+    - [[Pneumonia]]
+    - [[Acute Pulmonary Oedema]]
 
 - Emergencies: 
     - [[Acute Respiratory Failure]]
