@@ -27,3 +27,8 @@ Rotations:
 	- Drug intoxication (opioid, sedative)
 	- Poisoning (carbon monoxide, opioid)
 # Assessment
+```
+<!-- QueryToSerialize: LIST FROM #quotes WHERE public_note = true SORT file.name ASC -->
+```
+
+<!-- QueryToSerialize: LIST FROM "02 Rotations" -->
