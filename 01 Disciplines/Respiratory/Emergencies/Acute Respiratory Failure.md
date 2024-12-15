@@ -27,3 +27,7 @@ Rotations:
 	- Drug intoxication (opioid, sedative)
 	- Poisoning (carbon monoxide, opioid)
 # Assessment
+- Work of breathing
+	- Signs include: ↑ RR, use of accessory muscles, soft-tissue recession, ↑ HR, sweaty/clammy skin
+- Effectiveness of respiratory function
+	- Hypoxia
