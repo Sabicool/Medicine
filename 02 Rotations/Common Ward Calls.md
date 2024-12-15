@@ -3,16 +3,33 @@ aliases:
   - On call
 ---
 ## Auto Generated List
- ```dataview
-list rows.file.link
-from "01 Disciplines"
-where 
-	contains(Rotations, "[" + this.file.name + "]("
-		+ replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")  
-		+ ")") OR
-	contains(Rotations, this.file.link)
-group by reverse(split(file.folder, "/"))[0]
-```
+<!-- QueryToSerialize: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) group by reverse(split(file.folder, "/"))[0] -->
+<!-- SerializedQuery: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) group by reverse(split(file.folder, "/"))[0] -->
+- Conditions: 
+    - [[Hypertensive crisis]]
+    - [[Hypotension]]
+    - [[Hyperglycaemia]]
+
+- Emergencies: 
+    - [[01 Disciplines/Clinical/Emergencies/Advanced Life Support.md|Advanced Life Support]]
+    - [[Basic Life Support]]
+
+- Presenting Complaints: 
+    - [[Chest Pain]]
+    - [[Decreased Urine Output]]
+    - [[Altered Mental Status]]
+    - [[Shortness of Breath]]
+
+- Procedures: 
+    - [[IV Cannulation]]
+
+- Topics: 
+    - [[Pain Management]]
+    - [[Preparing Patients for Transfer]]
+    - [[Paediatric Pain Management]]
+
+<!-- SerializedQuery END -->
+
 Also see:
 - [iSBAR Handover](00%20Reference/Clinical/iSBAR%20Handover.md)
 ## Documenting on call visits
@@ -51,3 +68,15 @@ Also see:
 10. Record whether any of the patient's family members were informed of the problem and what they were told
 11. Sign the clinical note and print name and designation
 
+# For reference
+
+ ```dataview
+list rows.file.link
+from "01 Disciplines"
+where 
+	contains(Rotations, "[" + this.file.name + "]("
+		+ replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")  
+		+ ")") OR
+	contains(Rotations, this.file.link)
+group by reverse(split(file.folder, "/"))[0]
+```
