@@ -74,3 +74,10 @@ Rotations:
 				- If $\ce{CO2}$ is increasing and you are unable to maintain oxygen saturation >88%, the patient requires assisted ventilation (BiPAP) *see ventilation below*
 - Blood gases are necessary to determine the adequacy of ventilation (can use either venous or arterial as it will likely not influence immediate management)
 ## Ventilation
+- Ensure the patient has not received respiratory depressants (e.g. opioids) in the past 24 hours (e.g. check pupils)
+	- Give ==naloxone 0.2mg up to 2mg IV, SC or IM every 5 minutes== repeated until alert
+		- Be careful to avoid a withdrawal reaction: Start at 100 mcg IV in opiate-dependent patients
+- Bag valve mask assisted manual ventilation may be required in a patient with ↓ LOC until definitive ventilation is available
+	- Consider: CPAP, BiPAP ventilation or NIV machines
+- If still no improvement contact ICU and make arrangements for ETT intubation
+- ==Acute respiratory acidosis with a pH <7.2 usually requires mechanical ventilation until the precipitating cause can be reversed==
