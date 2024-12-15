@@ -3,8 +3,7 @@ title: Home
 ---
 
 # About this Website
-This is the note database of a junior doctor in Australia. *Please note that the information contained in these notes is not medical advice and that I do not claim copyright for the images*. These notes are purely provided as an educational resource. If there is content you want removed or altered, please do not hesitate to contact me or create an issue on the github repository.
-
+This is the note database of a junior doctor in Australia. The information contained in these notes is for educational purposes only and should not be construed as medical advice. While I strive for accuracy, I make no guarantees regarding the completeness or reliability of the content provided. Additionally, I do not claim copyright for any images included herein unless explicitly stated. If you wish to request a correction, removal, or alteration of any content, please feel free to contact me or submit an issue via the associated [github repository](https://github.com/Sabicool/Medicine).
 # Quick Reference
 Consider taking a look through my [Intern Reference file](00%20Reference/Junior%20Doctor/Intern%20Reference.md) if you are an intern yourself, otherwise here is a list of notes in my rotations folder. Click on whatever rotation you might be on right now:
 
