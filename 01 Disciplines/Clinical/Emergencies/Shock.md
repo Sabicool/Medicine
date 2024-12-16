@@ -44,13 +44,17 @@ Rotations:
 		- An increase in HR >20 beats/min, a fall in SBP >20 mmHg or any fall in DBP indicates postural hypotension
 	- Assess the capillary refill time by pressing on a nailbed (held at the level of the heart) for 5 seconds. Over 2 seconds is regarded as prolonged
 	- JVP usually falls on inspiration but Kussmaul's sign is when JVP rises on inspiration seen in cardiac tamponade
-
-> [!NOTE] Measuring JVP
-> 
-
 - Measure urine output
-
-- Decompensated shock
+ > [!NOTE] Measuring JVP
+> - Can actually be done at any angle from 0 to 90 degrees. We often start at 45 degrees but if you can't see it, the JVP is either low in which case lower the head of the bed or the JVP is high in which case raise the head of the bed
+> - Once identified measure the perpendicular distance above the sternal angle to the top of the column of blood
+> - A JVP of 2-3 cm above the sternal angle is normal in adult patients; volume-overloaded patients have a JVP >3cm
+> - Pressing on the abdomen induces the hepatojugular reflux which increases the level of the JVP which may make it easier to identify
+> ![](Attachments/Pasted%20image%2020241216160849.png)
+# Management
+- Give oxygen and rapid IV fluid replacement (provided no evidence of cardiac failure)
+- Call early for a senior doctor to help
+- Start monitoring
+	- Pulse oximetry, ECG, BP, urine output, invasive arterial and venous monitoring if in ICU
 - Haemorrhagic shock
 	- Initial therapy (10-20 mL/kg of crystalloid followed early by blood)
-# Management
