@@ -36,8 +36,21 @@ Rotations:
 	- A raised JVP is seen in cardiogenic and obstructive shock
 		- ![](Attachments/Pasted%20image%2020241216142430.png)
 	- ECG changes may be the cause or the effect of the shock state
-- Minor insult
+- Skin and mucous membranes
+	- An adequately hydrated patient has moist mucous membranes and a small pool of saliva at the undersurface of the tongue in the area of the frenulum
+	- Check tissue turgor by raising a fold of skin from the anterior chest area over the sternal angle
+- Measure CRT, HR, SBP and pulse pressure (widens in distributive and narrows in hypovolaemic), JVP
 	- Check postural HR and BP and repeat the HR and BP after the patient sits or stands for at least 2 minutes
-	- An increase in HR >20 beats/min, a fall in SBP >20 mmHg or any fall in DBP indicates postural hypotension
-	- 
+		- An increase in HR >20 beats/min, a fall in SBP >20 mmHg or any fall in DBP indicates postural hypotension
+	- Assess the capillary refill time by pressing on a nailbed (held at the level of the heart) for 5 seconds. Over 2 seconds is regarded as prolonged
+	- JVP usually falls on inspiration but Kussmaul's sign is when JVP rises on inspiration seen in cardiac tamponade
+
+> [!NOTE] Measuring JVP
+> 
+
+- Measure urine output
+
+- Decompensated shock
+- Haemorrhagic shock
+	- Initial therapy (10-20 mL/kg of crystalloid followed early by blood)
 # Management
