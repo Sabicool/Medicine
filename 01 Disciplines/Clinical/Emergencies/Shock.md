@@ -31,5 +31,6 @@ Rotations:
 	- Dynamic hyperinflation: Excessive ventilation with severe bronchospasm ([Asthma](01%20Disciplines/Respiratory/Conditions/Asthma.md), [COPD](01%20Disciplines/Respiratory/Conditions/COPD.md))
 ![](Attachments/Pasted%20image%2020241216122047.png)
 # Assessment
-
+- Identify the possible cause as above, assessing volume status and JVP and examining the ECG
+- A low/non-visible JVP is seen 
 # Management
