@@ -70,13 +70,18 @@ Rotations:
 	- Give a vasopressor if vasodilated from [Anaphylaxis](01%20Disciplines/Immunology/Emergencies/Anaphylaxis.md) or sepsis (e.g. adrenaline or noradrenaline respectively)
 	- **Do not use a vasopressor in hypovolaemia (especially haemorrhagic shock)**
 - Optimise cardiac function:
-	- Ionotropic support (e.g. low-dose adrenaline, dobutamine or dopamine infusio) if still shocked despite above measures
+	- Inotropic support (e.g. low-dose adrenaline, dobutamine or dopamine infusio) if still shocked despite above measures
 - Treat sepsis:
 	- Give broad-spectrum antibiotics early if septic shock is suspected
-
-> [!NOTE] Fluid replacement
+> [!NOTE] Fluid replacement in dehydrated patients
 > 1. Resuscitate intravascular volume until perfusion is normalised as above with 20 mL/kg boluses of crystalloid (normal saline preferred)
 > 2. Calculate fluid losses (generally at least 10% of body weight if patient is dehydrated and hypotensive, i.e. 70kg patient is depleted of 7L of fluid)
 > 3. Subtract from this defecit the amount of fluid already given for resuscitation (e.g. if 2L given during resuscitation, a 70kg patient still requires 5L of fluid)
-> 4. Replace this amount over the next 24 hours together with maintenance fluid and ongoing losses (use 4:2:1 rule, or add 60mL to their weight for hourly fluid requirement ⇒ 110mL/hr ≈ 2.5L/day).
-> 	- 
+> 4. Replace this amount over the next 24 hours together with maintenance fluid and ongoing losses 
+> 	- Use 4:2:1 rule, or add 60mL to their weight for hourly fluid requirement ⇒ 110mL/hr ≈ 2.5L/day
+> 	- Total fluid to be replaced is 7.5 L
+> 5. Replace half in first 8 hours and remainder in next 16 hours
+> 	- 3.75L over 8 hours ≈ 450 mL/h
+> 	- 3.75L over 16 hours ≈ 230 mL/h
+> 6. Monitor adequacy of replacement by perfusion and vital signs, urine output and electrolyte changes
+- 
