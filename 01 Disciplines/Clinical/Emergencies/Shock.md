@@ -32,4 +32,6 @@ Rotations:
 ![](Attachments/Pasted%20image%2020241216122047.png)
 # Assessment
 
+
+![[Excalidraw/Drawing 2024-12-16 13.56.04.excalidraw]]
 # Management
