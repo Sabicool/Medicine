@@ -32,5 +32,9 @@ Rotations:
 ![](Attachments/Pasted%20image%2020241216122047.png)
 # Assessment
 - Identify the possible cause as above, assessing volume status and JVP and examining the ECG
-- A low/non-visible JVP is seen 
+	- A low/non-visible JVP suggests hypovolaemic or distributive shock
+	- A raised JVP is seen in cardiogenic and obstructive shock
+		- ![](Attachments/Pasted%20image%2020241216142430.png)
+	- ECG changes may be the cause or the effect of the shock state
+- 
 # Management
