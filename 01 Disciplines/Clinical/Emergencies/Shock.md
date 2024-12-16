@@ -56,5 +56,26 @@ Rotations:
 - Call early for a senior doctor to help
 - Start monitoring
 	- Pulse oximetry, ECG, BP, urine output, invasive arterial and venous monitoring if in ICU
-- Haemorrhagic shock
-	- Initial therapy (10-20 mL/kg of crystalloid followed early by blood)
+- Optimise oxygenation and ventilation:
+	- Consider high-flow oxygen and assisted ventilation if necessary
+ - Optimise heart rate and rhythm:
+	- Cardioversion of a cardiac tachyarrhythmia if causing hypotension
+	- Atropine, adrenaline and pacing if bradycardia causing hypotension
+- Optimise preload and haemoglobin:
+	- Give 10-20 mL/kg normal saline rapidly IV and repeat until JVP is 3-5 cm above the sternal angle
+		- **Do not give fluids if JVP is already raised and the patient is in pulmonary oedema**
+		- If more than 60 mL/kg is required, check Hb to determine need for blood transfusion
+	- Give blood early for ongoing haemorrhage and arrange urgent surgery according to the cause; aim for Hb >90-100 g/L
+- Optimise afterload:
+	- Give a vasopressor if vasodilated from [Anaphylaxis](01%20Disciplines/Immunology/Emergencies/Anaphylaxis.md) or sepsis (e.g. adrenaline or noradrenaline respectively)
+	- **Do not use a vasopressor in hypovolaemia (especially haemorrhagic shock)**
+- Optimise cardiac function:
+	- Ionotropic support (e.g. low-dose adrenaline, dobutamine or dopamine infusio) if still shocked despite above measures
+- Treat sepsis:
+	- Give broad-spectrum antibiotics early if septic shock is suspected
+
+> [!NOTE] Fluid replacement
+> 1. Resuscitate intravascular volume until perfusion is normalised as above with 20 mL/kg boluses of crystalloid (normal saline preferred)
+> 2. Calculate fluid losses (generally at least 10% of body weight if patient is dehydrated and hypotensive, i.e. 70kg patient is depleted of 7L of fluid)
+> 3. Subtract from this defecit the amount of fluid already given for resuscitation (e.g. if 2L given during resuscitation, a 70kg patient still requires 5L of fluid)
+> 4. Replace this amount over the next 24 hours together with maintenance fluid and ongoing losses (use 4:2:1 rule, or add 60mL to their weight for hourly fluid requirement ⇒)
