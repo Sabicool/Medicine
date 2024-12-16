@@ -36,5 +36,8 @@ Rotations:
 	- A raised JVP is seen in cardiogenic and obstructive shock
 		- ![](Attachments/Pasted%20image%2020241216142430.png)
 	- ECG changes may be the cause or the effect of the shock state
-- 
+- Minor insult
+	- Check postural HR and BP and repeat the HR and BP after the patient sits or stands for at least 2 minutes
+	- An increase in HR >20 beats/min, a fall in SBP >20 mmHg or any fall in DBP indicates postural hypotension
+	- 
 # Management
