@@ -45,6 +45,9 @@ Rotations:
 	- Assess the capillary refill time by pressing on a nailbed (held at the level of the heart) for 5 seconds. Over 2 seconds is regarded as prolonged
 	- JVP usually falls on inspiration but Kussmaul's sign is when JVP rises on inspiration seen in cardiac tamponade
 - Measure urine output
+- Volume overload features:
+	- Raised JVP, peripheral oedema (taut, non-compliant skin), enlarged tender liver with positive hepatojugular reflux (liver pressing causes persistent elevation in JVP)
+	- An S3 gallop, lung crackles or pleural effusion
  > [!NOTE] Measuring JVP
 > - Can actually be done at any angle from 0 to 90 degrees. We often start at 45 degrees but if you can't see it, the JVP is either low in which case lower the head of the bed or the JVP is high in which case raise the head of the bed
 > - Once identified measure the perpendicular distance above the sternal angle to the top of the column of blood
@@ -84,4 +87,9 @@ Rotations:
 > 	- 3.75L over 8 hours ≈ 450 mL/h
 > 	- 3.75L over 16 hours ≈ 230 mL/h
 > 6. Monitor adequacy of replacement by perfusion and vital signs, urine output and electrolyte changes
-- 
+- Crystalloids (e.g. normal saline) are widely used as fluid replacement
+	- Normal saline has a half-life in the intravascular space of around 1-3 hours
+- Colloids stay in the intravascular space for longer
+	- Albumin has a half-life in the intravascular space of around 17-20 hours
+	- They are more expensive and may cause allergic reactions
+- 5% dextrose equilibrates across the intravascular, interstitial and intracellular spaces and does not support the intravascular volume and therefore has *no role* in fluid resuscitation in shock
