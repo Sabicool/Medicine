@@ -78,4 +78,5 @@ Rotations:
 > 1. Resuscitate intravascular volume until perfusion is normalised as above with 20 mL/kg boluses of crystalloid (normal saline preferred)
 > 2. Calculate fluid losses (generally at least 10% of body weight if patient is dehydrated and hypotensive, i.e. 70kg patient is depleted of 7L of fluid)
 > 3. Subtract from this defecit the amount of fluid already given for resuscitation (e.g. if 2L given during resuscitation, a 70kg patient still requires 5L of fluid)
-> 4. Replace this amount over the next 24 hours together with maintenance fluid and ongoing losses (use 4:2:1 rule, or add 60mL to their weight for hourly fluid requirement ⇒)
+> 4. Replace this amount over the next 24 hours together with maintenance fluid and ongoing losses (use 4:2:1 rule, or add 60mL to their weight for hourly fluid requirement ⇒ 110mL/hr ≈ 2.5L/day).
+> 	- 
