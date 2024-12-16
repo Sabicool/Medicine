@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
 ---
- If considering that the patient is in shock see shock notes: [[Shock]]
+ If considering that the patient is in shock see shock notes: [Shock](01%20Disciplines/Clinical/Emergencies/Shock.md)
 - Thin young females often have a SBP of 80-100 mmHg
 # Phone Call/Presentation Questions
 - Normal blood pressure? and other observations (notably HR and RR)
