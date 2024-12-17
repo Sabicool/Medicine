@@ -31,3 +31,5 @@ aliases:
 		- Evidence of head or spine trauma → palpate the skull and neck and look in ears for haemotympanum
 		- Lateralising signs including on fundoscopy
 # Management
+- Call senior
+- 
