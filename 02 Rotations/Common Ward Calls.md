@@ -11,8 +11,8 @@ aliases:
     - [[Hyperglycaemia]]
 
 - Emergencies: 
-    - [[01 Disciplines/Clinical/Emergencies/Advanced Life Support.md|Advanced Life Support]]
     - [[Basic Life Support]]
+    - [[Advanced Life Support]]
 
 - Presenting Complaints: 
     - [[Chest Pain]]

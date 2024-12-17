@@ -18,3 +18,5 @@ Rotations:
 		- Only hearing ear
 		- Child has cochlear implant → discuss with ENT
 		- Possible suppurative complication → discuss with ENT
+# Sources
+- [RCH Guidelines](https://www.rch.org.au/clinicalguide/guideline_index/acute_otitis_media/)

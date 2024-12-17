@@ -6,6 +6,7 @@
 
 - Emergencies: 
     - [[Acute Airway Failure]]
+    - [[Shock]]
 
 - Investigations: 
     - [[ECG Interpretation]]

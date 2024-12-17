@@ -3,10 +3,11 @@
 - Conditions: 
     - [[Pulmonary Hypertension]]
     - [[Asthma]]
-    - [[COPD]]
-    - [[Pneumothorax]]
-    - [[Pneumonia]]
     - [[Acute Pulmonary Oedema]]
+    - [[Pneumothorax]]
+    - [[Pulmonary Embolism]]
+    - [[COPD]]
+    - [[Pneumonia]]
 
 - Emergencies: 
     - [[Acute Respiratory Failure]]
