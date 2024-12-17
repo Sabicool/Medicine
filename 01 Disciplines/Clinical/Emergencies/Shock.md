@@ -73,7 +73,7 @@ Rotations:
 	- Give a vasopressor if vasodilated from [Anaphylaxis](01%20Disciplines/Immunology/Emergencies/Anaphylaxis.md) or sepsis (e.g. adrenaline or noradrenaline respectively)
 	- **Do not use a vasopressor in hypovolaemia (especially haemorrhagic shock)**
 - Optimise cardiac function:
-	- Inotropic support (e.g. low-dose adrenaline, dobutamine or dopamine infusio) if still shocked despite above measures
+	- Inotropic support (e.g. low-dose adrenaline, dobutamine or dopamine infusion) if still shocked despite above measures
 - Treat sepsis:
 	- Give broad-spectrum antibiotics early if septic shock is suspected
 > [!NOTE] Fluid replacement in dehydrated patients
