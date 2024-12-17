@@ -36,9 +36,34 @@ I rarely made comprehensive notes. I mainly studied by doing pre-made flashcard 
 - Other useful Australian resources: LITFL
 - Other useful resources: Teach Me Series (e.g. Teach me surgery, Teach me Obgyn), Amboss
 # How I made these notes
-- I use a mixture of Emacs and Obsidian to take these notes[^1]. These notes are for the most part formatted in markdown and hopefully made to be quite presentable and accurate.
+These notes are for the most part formatted in markdown and hopefully made to be quite presentable and accurate.
 
-I do want to add some improvements to the notes:
+I use a mixture of Emacs and Obsidian to take these notes[^1]. Emacs has been wonderful to use especially with [obsidian.el](https://github.com/licht1stein/obsidian.el). After a year of using Vanilla Emacs, I got tired of configuring everything myself and switched to [Doom Emacs](https://github.com/doomemacs/doomemacs) and have been quite happy with it.
+
+Obsidian has been a great to use on my other devices (namely, my iPad and my phone synced to my computer using [syncthing](https://syncthing.net/)). I use a few plugins to make my use of obsidian more palatable including but not limited to:
+- Core plugins:
+    - Backlinks
+    - Bookmarks
+    - Command palette
+    - File recovery
+    - Files
+- Community plugins:
+    - Advanced tables
+    - Code editor shortcuts
+    - Dataview
+    - [Dataview serializer](https://github.com/dsebastien/obsidian-dataview-serializer)
+    - Excalidraw
+    - Footnote shortcut
+    - Git
+    - Iconize 
+    - Obsidian_to_Anki
+    - Omnisearch
+    - Recent Files
+    - Style Settings
+    - Text Extractor
+    - Vimrc Support
+
+i do want to add some improvements to the notes:
 
 - [x] Make a functional website; something like quartz might work well
 - [x] Add a date last updated to all the notes
