@@ -14,6 +14,7 @@ aliases:
 # Breathing
 - Assess work and efficacy of breathing including pulse oximetry
 - Give oxygen and provide assisted ventilation if ventilatory failure present
+- See [Acute Respiratory Failure](01%20Disciplines/Respiratory/Emergencies/Acute%20Respiratory%20Failure.md)
 # Circulation
 - Recheck vital signs
 - Look for shock by assessing tissue perfusion and volume status
@@ -23,15 +24,17 @@ aliases:
 	- Commence fluids and haemodynamic support if evidence of circulatory failure
 	- Give 20 mL/kg IV fluid rapidly if hypovolaemic shock
 - Optimise abnormal cardiac rhythm with cardioversion, pacing or antiarrhythmic agent
+- See [Acute Circulatory Failure](01%20Disciplines/Clinical/Emergencies/Shock.md)
 # Disability
 - Assess for depressed [GCS](00%20Reference/Clinical/Glasgow%20Coma%20Scale.md)
 	- GCS ≤8 indicates inadequate airway protection
 - Note pupil size and lateralising signs
+- See [Acute neurological failure](01%20Disciplines/Clinical/Emergencies/Unconsciousness.md)
 # Environment, exposure and examination
 - Measure and normalise body temperature
 - Measure and normalise blood glucose
 - Consider antidotes such as naloxone, electrolyte replacement etc
 - Perform full top-to-toe examination
 - Obtain history from any source
-- Decide on a working diagnosis and defintiive management plan
+- Decide on a working diagnosis and definitive management plan
 - Documentation
