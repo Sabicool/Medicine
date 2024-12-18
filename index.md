@@ -1,12 +1,18 @@
 ---
 title: Home
 ---
-
 # About this Website
 This is the note database of a junior doctor in Australia. The information contained in these notes is for educational purposes only and should not be construed as medical advice. While I strive for accuracy, I make no guarantees regarding the completeness or reliability of the content provided. Additionally, I do not claim copyright for any images included herein unless explicitly stated. If you wish to request a correction, removal, or alteration of any content, please feel free to contact me or submit an issue via the associated [github repository](https://github.com/Sabicool/Medicine).
 # Quick Reference
 Consider taking a look through my [Intern Reference file](00%20Reference/Junior%20Doctor/Intern%20Reference.md) if you are an intern yourself, otherwise here is a list of notes in my rotations folder. Click on whatever rotation you might be on right now:
-
+## Useful Notes
+Mainly for the admin side of things as a junior doctor
+- [Intern Reference](00%20Reference/Junior%20Doctor/Intern%20Reference.md)
+- [iSBAR Handover](00%20Reference/Clinical/iSBAR%20Handover.md)
+- [Pronouncing Death](00%20Reference/Clinical/Pronouncing%20Death.md)
+- [[How to write a discharge summary]]
+## Rotations
+If you'd rather just find notes on medicine relevant to the particular rotation you are on look below:
 <!-- QueryToSerialize: LIST FROM "02 Rotations" -->
 <!-- SerializedQuery: LIST FROM "02 Rotations" -->
 - [[Cardiology]]
@@ -19,7 +25,7 @@ Consider taking a look through my [Intern Reference file](00%20Reference/Junior%
 - [[Neurology]]
 <!-- SerializedQuery END -->
 
-
+Otherwise have a look through the "01 Disciplines" on the left panel.
 # How I Studied in Medical School
 This is a non-exhaustive guide to studying in medical school. I do plan on making a more complete guide one day but until then here's some words of wisdom.
 
