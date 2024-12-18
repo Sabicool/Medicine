@@ -9,8 +9,12 @@ Rotations:
 ---
 # Phone Call/Presentation Questions
 - Reason for admission
-- Is the patient symptomatic
+- Is the patient symptomatic:
+	- Is the patient cyanosed
+	- How long has the patient had SOB (i.e. is it sudden ⇒ [Pulmonary Embolism](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md) or [Pneumothorax](01%20Disciplines/Respiratory/Conditions/Pneumothorax.md) → immediate review)
+	- 
 - Other observations
+	- Vital signs
 # Common causes *(Corridor thoughts)*
 - Anxiety
 - PE
