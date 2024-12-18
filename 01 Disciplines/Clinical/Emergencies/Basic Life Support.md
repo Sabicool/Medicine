@@ -32,9 +32,25 @@ aliases:
 - See [Acute neurological failure](01%20Disciplines/Clinical/Emergencies/Unconsciousness.md)
 # Environment, exposure and examination
 - Measure and normalise body temperature
-- Measure and normalise blood glucose
+- Investigations to perform in critically ill patients:
+	- Measure and normalise blood glucose
+	- VBG/ABG
+	- Urinalysis and monitoring of urine output
+	- ECG
+	- CXR
+	- Bloods:
+		- FBC, UEC, LFT, blood cultures, blood levels of a measurable drug
+	- Other investigations to consider:
+		- CT head, LP
 - Consider antidotes such as naloxone, electrolyte replacement etc
-- Perform full top-to-toe examination
+- Perform full top-to-toe examination (undress the patient)
+	- Head and neck including ears, nose, teeth, oral cavity
+	- Chest
+	- Abdomen
+	- Perineum
+	- Back (may require a 'log roll')
+	- Limbs including peripheral circulation
+	- CNS including eyes and cranial nerves, limbs and higher cerebral functions
 - Obtain history from any source
 - Decide on a working diagnosis and definitive management plan
 - Documentation

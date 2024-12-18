@@ -20,7 +20,6 @@
 	- Note on phone with AHPRA number, provider number and prescriber number
 	- Phone contacts
 	- Scrubs: *order these early*
-
 # Admin Tasks
 - Forms to carry in folder on the ward round:
 	- Scripts and S8s for when considering patient discharge; consider pharmacy opening hours as well
