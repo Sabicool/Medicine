@@ -12,9 +12,11 @@ Rotations:
 - Is the patient symptomatic:
 	- Is the patient cyanosed
 	- How long has the patient had SOB (i.e. is it sudden ⇒ [Pulmonary Embolism](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md) or [Pneumothorax](01%20Disciplines/Respiratory/Conditions/Pneumothorax.md) → immediate review)
-	- 
+	- Associated symptoms: chest pain, cough, fever, stridor, wheeze and facial oedema?
 - Other observations
 	- Vital signs
+- Does the patient have a history of [Heart Failure](01%20Disciplines/Cardiology/Conditions/Heart%20Failure.md) or [Acute Pulmonary Oedema](01%20Disciplines/Respiratory/Conditions/Acute%20Pulmonary%20Oedema.md) or of [Asthma](01%20Disciplines/Respiratory/Conditions/Asthma.md) or [COPD](01%20Disciplines/Respiratory/Conditions/COPD.md)?
+- Does the patient have massive haemoptysis ⇒immediate review
 # Common causes *(Corridor thoughts)*
 - Anxiety
 - PE
