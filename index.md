@@ -10,7 +10,7 @@ Mainly for the admin side of things as a junior doctor
 - [Intern Reference](00%20Reference/Junior%20Doctor/Intern%20Reference.md)
 - [iSBAR Handover](00%20Reference/Clinical/iSBAR%20Handover.md)
 - [Pronouncing Death](00%20Reference/Clinical/Pronouncing%20Death.md)
-- [[How to write a discharge summary]]
+- [Writing Discharge Summaries](00%20Reference/Administrative/Writing%20Discharge%20Summaries.md)
 ## Rotations
 If you'd rather just find notes on medicine relevant to the particular rotation you are on look below:
 <!-- QueryToSerialize: LIST FROM "02 Rotations" -->
