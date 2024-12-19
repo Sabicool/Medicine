@@ -78,6 +78,7 @@ Rotations:
 - Are they able to speak full sentences?
 - Seated upright?
 ## A → E Assessment
+- 
 ## History
 - Reason for patient admission?
 - Onset? (was it sudden onset)
