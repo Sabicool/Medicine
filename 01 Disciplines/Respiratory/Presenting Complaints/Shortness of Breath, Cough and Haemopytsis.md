@@ -168,6 +168,7 @@ Rotations:
 - Review charts
 	- Check previous vital signs
 	- Review fluid balance → persistent positive fluid balance may be assocaited with fluid overload
+	- ? DVT prophylaxis
 - Medication chart
 ## Examination
 - Chest sounds
@@ -188,10 +189,17 @@ Rotations:
 | Resp        | Stridor, hoarse voice, inability to speak (upper airway obstruction, [Anaphylaxis](01%20Disciplines/Immunology/Emergencies/Anaphylaxis.md))                                                                                                                                                                |
 |             | Limited inspiration and splinted chest wall 2° to pleuritic chest pain ⇒ [Pneumothorax](01%20Disciplines/Respiratory/Conditions/Pneumothorax.md), [Pulmonary Embolism](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md), [Pneumonia](01%20Disciplines/Respiratory/Conditions/Pneumonia.md) |
 |             | Basal crackles ⇒ LV [Heart Failure](01%20Disciplines/Cardiology/Conditions/Heart%20Failure.md)                                                                                                                                                                                                             |
-
+|             | Hyperexpanded, hyperresonant ⇒ [Pneumothorax](01%20Disciplines/Respiratory/Conditions/Pneumothorax.md)                                                                                                                                                                                                     |
+|             | Subcutaneous emphysema ⇒ [Pneumothorax](01%20Disciplines/Respiratory/Conditions/Pneumothorax.md)                                                                                                                                                                                                           |
+|             | Pulmonary consolidation ⇒ [Pneumonia](01%20Disciplines/Respiratory/Conditions/Pneumonia.md), [Pulmonary Embolism](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md) with infarction                                                                                                         |
+|             | Pleural effusion ⇒ [LV Heart Failure](01%20Disciplines/Cardiology/Conditions/Heart%20Failure.md), malignancy, [PE](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md), [Pneumonia](01%20Disciplines/Respiratory/Conditions/Pneumonia.md)                                                     |
+| GIT         | Distension and ascites with tender hepatomegaly ⇒ RV [Heart Failure](01%20Disciplines/Cardiology/Conditions/Heart%20Failure.md) or CCF                                                                                                                                                                     |
+| Other       | Peripheral oedema w/ accentuated skin creases on posterior thorax and taut, noncompliant skin ⇒ RV [Heart Failure](01%20Disciplines/Cardiology/Conditions/Heart%20Failure.md) or CCF                                                                                                                       |
+|             | Tender swollen thigh ([DVT](01%20Disciplines/Haematology/Conditions/Deep%20Vein%20Thrombosis.md) with [PE](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md))                                                                                                                               |
 ## Investigations
-- Charts
-	- Medications
-	- DVT prophylaxis
 - Bedside: ECG, U/S doppler
 - Imaging: CXR, CTPA
+	- CXR
+		- Pneumonia ![Pneumonia](01%20Disciplines/Respiratory/Conditions/Pneumonia.md#^pneumonia-cxr)
+		- COPD/Asthma ![COPD](01%20Disciplines/Respiratory/Conditions/COPD.md#^COPD-cxr)
+		- Left ventricular failure
