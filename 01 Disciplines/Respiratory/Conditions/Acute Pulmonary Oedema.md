@@ -26,6 +26,33 @@ aliases:
 Can remember as LMNOP (backwards)
 - **P**osition the patient upright
 - Give high-flow **o**xygen via a reservoir mask aiming for oxygen saturation >95%
-- **M**orphine or opioid potentially
 - **N**itrates for patients acutely hypertensive:
 	- ==Give GTN 0.3-0.6 mg SL. Repeat after 5 minutes if SBP remains >100 mmHg. Remove the tablet if excessive hypotension occurs==
+	- Commence a GTN infusion IV as per hospital guidelines once the patient is fully monitored; infuse initially at 1mL/h maintaining SBP >100mmHg, quincly increase by doubling the infusion rate every 5 minutes to 20 mL/h or more, titrated to SBP
+- **M**orphine or opioid potentially
+- In patients with evidence of systemic fluid overload, give frusemide (**L**asix) 40mg IV or twice the usual daily dose IV (if already on frusemide)
+- If unresponsive to above measures
+	- Commence mask CPAP ventilation if the patient does not respond quickly to above measures, remains distressed or is persistently hypoxic despite maximal oxygen delivery
+	- Use a dedicated, high-flow oxygen circuit and a tight-fitting mask with initial PEEP reisistance of 5-10cm $\ce{H2O}$
+	- A trained nurse must remain in attendance at all times as some patients will not tolerate the mask
+	- Once the patient improves wean the inspired oxygen concentration and PEEP until the patient is comfortable with a normal oxygen mask
+	- If the patient is hypotensive with poor peripheral perfusion, call senior and intensive care ([[MET Activation Criteria]]) and treat as for cardiogenic [[Shock]]; ET intubation usually required
+## Determine precipitating cause for the acute episode
+- Six major aetiologies:
+	- Ischaemic heart disease
+	- Hypertension
+	- Valvular disease (mitral incompetence, aortic stenosis)
+	- Cardiomyopathy (dilated, restrictive, hypertrophic)
+	- Pericardial disease
+	- Congenital heart disease
+- The most common precipitating factors include:
+	- ACS
+	- Arrhythmia
+	- Fever, infection
+	- PE
+	- Increased sodium or fluid load (parenteral, medicinal, dietary)
+	- Cardiac depressant drug (e.g. beta-blockers, calcium-channel blockers)
+	- Sodium-retaining agents (e.g. NSAIDs)
+	- Renal disease
+	- Anaemia
+	- Non-compliance with diet or medication (e.g. dialysis patient)
