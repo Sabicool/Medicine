@@ -78,7 +78,9 @@ Rotations:
 - Are they able to speak full sentences?
 - Seated upright?
 ## A → E Assessment
-- 
+- Is the airway patent?
+	- Suspect upper airway obstruction if the patient is making breathing efforts (e.g. tachypnoea, agitation, increased WOB) but has stridor and impaired air entry
+	- 
 ## History
 - Reason for patient admission?
 - Onset? (was it sudden onset)
