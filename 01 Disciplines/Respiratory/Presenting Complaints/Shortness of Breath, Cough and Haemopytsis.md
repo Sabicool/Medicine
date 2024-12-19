@@ -200,7 +200,7 @@ Rotations:
 - Bedside: 
 	- ECG
 		- Review ECG evidence of cardiac disease or indirect evidence of PE
-		- Significant PE may cause right axis deviation and right BBB but most common sign is sinus tachycardia (S1Q3T3 is neither specific nor sensitive for PE)
+		- Pulmonary embolism![[Pulmonary Embolism#^ecg]]
 	- Peak exiratory flow rate to quantify bronchospasm and improvement after bronchodilator therapy
 	- VBG or ABG
 - Bloods:
