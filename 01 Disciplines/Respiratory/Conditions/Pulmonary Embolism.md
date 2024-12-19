@@ -62,3 +62,29 @@ aliases:
 	- Avoid excessive fluid ∵ worsens RV dilation → septal shift → worsens LV function 
 - Relieve pain with titrated morphine 2.5 mg IV boluses
 ## Anticoagulation
+- Commence anticoagulation when:
+	- The diagnosis is confirmed or
+	- When there is an intermediate or high pre-test probability of PE but a delay to testing (in the absence of contraindications)
+- 2 anticoagulation options exist:
+	- Start heparin and warfarin and continue heparin until warfarinisation achieved (3-5 days)
+	- NOAC
+### Heparin + Warfarin
+- Give LMWH such as enoxaparin 1mg/kg SC BD
+	- LMWH does not require aPTT monitoring
+- In patients with haemodynamic compromise, give UFH (80 U/kg IV bolus) followed by maintenance infusion of 18 U/kg/h titrated to aPTT (1.5-2.5x control value)
+- If patient already on warfarin and has a PE consult cardiothoracics for consideration of transvenous vena caval filter
+- Commence first dose of warfarin 5mg PO on the first day of heparin therapy and titrate ssubsequent daily doses to achieve an INR of 2.5-3.5
+### NOAC
+- NOAC such as rivaroxaban 15mg PO 12 hourly or apixabanm 10mg PO 12-hourly 
+- Check renal function
+> [!WARNING] Dabigatran
+> Dabigatran requires at least 5 days of parenteral anticoagulant to be given first. Dose is 150mg PO 12-hourly. Dose modification is required based of renal function
+## Fibrinolytic Therapy
+- Consider when the probability of PE is high (or confirmed) and:
+	- The patient is hypotensive despite fluid resuscitation and/or
+	- Has evidence of acute RV failure and/or
+	- Is peri-arrest
+- Call immediate senior help and [[MET Activation Criteria]]
+- Give tPA 10mg IV over 1-2 minutes then 90 mg IV over 2 hours together with heparinisation
+	- Can consider streptokinase and urokinase
+- Stat fibrinolytic doses can be given in cases of cardiac arrest considered related to a massive PE
