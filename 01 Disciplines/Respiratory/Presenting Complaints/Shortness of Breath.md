@@ -23,8 +23,21 @@ Rotations:
 - Request as high a concentration of $\ce{O2}$ in the short term unless the patient has significant COPD → 28% $\ce{O2}$ by Venturi mask and reassess at the bedside
 - Ask the nurse to bring the resuscitation trolley to the bedside, attach an ECG monitor to the patient and gain IV access
 - Request ==nebulised salbutamol 5mg (1mL) diluted with 3mL of normal saline if the patient has asthma or wheeze==
-- Request ==GTN SL (0.4mg by spray or 0.6mg tablet) if the patient is hypertensive, has chest pain or a history of [Heart Failure](01%20Disciplines/Cardiology/Conditions/Heart%20Failure.md) ==
+- Request ==GTN SL (0.4mg by spray or 0.6mg tablet) if the patient is hypertensive, has chest pain or a history of [Heart Failure](01%20Disciplines/Cardiology/Conditions/Heart%20Failure.md); repeat in 5-10 minutes only if SBP remains >100mmHg==
 # Common causes *(Corridor thoughts)*
+- Pulmonary causes
+	- [Pneumonia](01%20Disciplines/Respiratory/Conditions/Pneumonia.md)
+	- Bronchospasm with wheeze ([Asthma](01%20Disciplines/Respiratory/Conditions/Asthma.md), [COPD](01%20Disciplines/Respiratory/Conditions/COPD.md), [Anaphylaxis](01%20Disciplines/Immunology/Emergencies/Anaphylaxis.md))
+	- [Pneumothorax](01%20Disciplines/Respiratory/Conditions/Pneumothorax.md)
+	- Massive pleural effusion
+	- Aspiration of gastric contents or other foreign material
+	- Atelactasis (especially post-operative)
+	- Interstitial lung disease (sarcoid, occupational, hypersensitivity, drugs)
+	- [Pulmonary Hypertension](01%20Disciplines/Cardiology/Conditions/Pulmonary%20Hypertension.md)
+- Cardiovascular causes
+	- [Acute Pulmonary Oedema](01%20Disciplines/Respiratory/Conditions/Acute%20Pulmonary%20Oedema.md)
+	- [Pulmonary Embolism](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md)
+- 
 - Anxiety
 - PE
 - APO
