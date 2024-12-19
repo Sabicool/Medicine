@@ -80,7 +80,45 @@ Rotations:
 ## A → E Assessment
 - Is the airway patent?
 	- Suspect upper airway obstruction if the patient is making breathing efforts (e.g. tachypnoea, agitation, increased WOB) but has stridor and impaired air entry
-	- 
+	- Upper airway obstruction causes: 
+		- Pharyngeal soft-tissue obstruction from loss of airway tone, infection (e.g. croup, epiglottitis), Angio-oedema from anaphylaxis or medications (ACE-i)
+		- Food bolus or other foreign material in the posterior pharynx or trachea
+		- Burns 
+		- Tumour
+		- Laryngospasm
+- Respiratory rate and pattern?
+	- See [Acute Respiratory Failure](01%20Disciplines/Respiratory/Emergencies/Acute%20Respiratory%20Failure.md)
+	- RR <10 breaths/min ⇒ central depression of ventilation usually due to intracerebral event, drug toxicity (e.g. opioids) or profound hypercarbia
+	- RR >20 breaths/min ⇒ increased work of breathing secondary to hypoxia, acidosis, reflex stimulation or pain
+	- Be aware of see-saw movements of the chest cage and abdominal wall; manage as [Acute Respiratory Failure](01%20Disciplines/Respiratory/Emergencies/Acute%20Respiratory%20Failure.md)
+	- Look for unequal chest expansion associated with hyperresonance and hyperinflation with tracheal deviation to the opposite side ([Tension Pneumothorax](01%20Disciplines/Respiratory/Conditions/Pneumothorax.md))
+- Heart rate?
+	- Sinus tachycardia is common but bradycardia from hypoxia is pre-terminal
+- Blood pressure?
+	- Hypotension may indicate [Pneumothorax](01%20Disciplines/Respiratory/Conditions/Pneumothorax.md), cardiac tamponade, massive [Pulmonary Embolism](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md), septic shock, cardiogenic shock or occult haemorrhage
+	- Hypertension may be associated with [Acute Pulmonary Oedema](01%20Disciplines/Respiratory/Conditions/Acute%20Pulmonary%20Oedema.md)
+- JVP?
+	- Raised JVP suggests massive [Pulmonary Embolism](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md), cardiogenic shock, tension [Pneumothorax](01%20Disciplines/Respiratory/Conditions/Pneumothorax.md) or cardiac tamponade
+- Temperature?
+	- Elevated temperature suggests infection
+	- Low grade fever also happens in [Pulmonary Embolism](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md) (esp. in <35 years old)
+### Immediate management of the hypoxic patient
+- If the patient is not breathing or is making inadequate breathing efforts → head tilt-chin lift or jaw thrust to open the airway and begin ventilation with a bag-mask device connected to high-dose oxygen
+	- Call senior, ICU or anaesthetics immediate (or [MET Activation Criteria](00%20Reference/Clinical/MET%20Activation%20Criteria.md))
+	- Ensure airway is clear of foreign material using suction
+	- Insert oropharyngeal airway if tolerated by the patient
+- Do not interfere if patient is coughing and clearing their airway; see [[Choking]]
+- If the patient is making adequate respiratory efforts
+	- Deliver enough oxygen:
+		- Give 4-15L/min oxygen by mask to keep oxygen saturation >95%
+		- Titrating oxygen once stabilised
+		- Attach pulse oximetry
+- Obtain IV access and take bloods for FBC & UEC and request portable chest X-ray and perform an ECG
+- Obtain a VBG or ABG
+- Provide urgent interventions for life-threatening causes
+	- Tension pneumothorax → needle decompression of the chest if the patient is in extreme respiratory distress or hypotense; wide-bore cannula into the second intercostal space in the mid clavicular line
+	- Give ==nebulised salbutamol 5mg diluted in 3mL of normal saline== for wheeze
+	- Give ==GTN 0.6mg SL and repeat twice further, provided SBP is >100 mmHg== if chest has crackles and [Acute Pulmonary Oedema](01%20Disciplines/Respiratory/Conditions/Acute%20Pulmonary%20Oedema.md) is suspected
 ## History
 - Reason for patient admission?
 - Onset? (was it sudden onset)
@@ -89,6 +127,13 @@ Rotations:
 - Prior status (e.g. previously independent)
 - PMHx
 ## Examination
+
+| Examination | Notes                                                                                              |
+| ----------- | -------------------------------------------------------------------------------------------------- |
+| Vitals      | Repeat them                                                                                        |
+| HEENT       | Check for central cyanosis                                                                         |
+| Resp        | Check for wheeze, crackles, consolidation (bronchial breathing, pneumothorax, or pleural effusion) |
+
 - Chest sounds
 - Heart sounds
 - Lower leg swelling (? DVT)
@@ -99,3 +144,4 @@ Rotations:
 - Bedside: ECG, U/S doppler
 - Imaging: CXR, CTPA
 ## Management
+## Selective History and Chart Review
