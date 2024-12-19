@@ -197,9 +197,19 @@ Rotations:
 | Other       | Peripheral oedema w/ accentuated skin creases on posterior thorax and taut, noncompliant skin ⇒ RV [Heart Failure](01%20Disciplines/Cardiology/Conditions/Heart%20Failure.md) or CCF                                                                                                                       |
 |             | Tender swollen thigh ([DVT](01%20Disciplines/Haematology/Conditions/Deep%20Vein%20Thrombosis.md) with [PE](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md))                                                                                                                               |
 ## Investigations
-- Bedside: ECG, U/S doppler
-- Imaging: CXR, CTPA
+- Bedside: 
+	- ECG
+		- Review ECG evidence of cardiac disease or indirect evidence of PE
+		- Significant PE may cause right axis deviation and right BBB but most common sign is sinus tachycardia (S1Q3T3 is neither specific nor sensitive for PE)
+	- Peak exiratory flow rate to quantify bronchospasm and improvement after bronchodilator therapy
+	- VBG or ABG
+- Bloods:
+	- FBC, UEC, cardiac enzymes and LFTs
+		- Cardiac markers only if suspicious of ACS or worsened CCF
+- Imaging: 
 	- CXR
 		- Pneumonia ![Pneumonia](01%20Disciplines/Respiratory/Conditions/Pneumonia.md#^pneumonia-cxr)
-		- COPD/Asthma ![COPD](01%20Disciplines/Respiratory/Conditions/COPD.md#^COPD-cxr)
-		- Left ventricular failure
+		- COPD/Asthma; *CXR not required in exacerbations of asthma that respond promptly to treatment*![COPD](01%20Disciplines/Respiratory/Conditions/COPD.md#^COPD-cxr)
+		- Left ventricular failure ![Heart Failure](01%20Disciplines/Cardiology/Conditions/Heart%20Failure.md#^heart-failure-cxr)
+		- Pulmonary embolism ![Pulmonary Embolism](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md#^cxr)
+# Specific Management
