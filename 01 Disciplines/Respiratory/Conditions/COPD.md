@@ -6,4 +6,4 @@
 - Occasional infiltrates
 - Occasionally pneumomediastinum
 
-^COPD-cxr
+^cxr-findings

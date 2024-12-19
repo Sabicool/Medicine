@@ -208,8 +208,8 @@ Rotations:
 		- Cardiac markers only if suspicious of ACS or worsened CCF
 - Imaging: 
 	- CXR
-		- Pneumonia ![Pneumonia](01%20Disciplines/Respiratory/Conditions/Pneumonia.md#^pneumonia-cxr)
-		- COPD/Asthma; *CXR not required in exacerbations of asthma that respond promptly to treatment*![COPD](01%20Disciplines/Respiratory/Conditions/COPD.md#^COPD-cxr)
-		- Left ventricular failure ![Heart Failure](01%20Disciplines/Cardiology/Conditions/Heart%20Failure.md#^heart-failure-cxr)
-		- Pulmonary embolism ![Pulmonary Embolism](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md#^cxr)
+		- Pneumonia ![[Pneumonia#^pneumonia-cxr]]
+		- COPD/Asthma; *CXR not required in exacerbations of asthma that respond promptly to treatment* ![[COPD#^cxr-findings]]
+		- APO ![[Acute Pulmonary Oedema#^cxr-findings]] 
+		- Pulmonary embolism ![[Pulmonary Embolism#^cxr]]
 # Specific Management
