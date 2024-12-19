@@ -78,30 +78,41 @@ Rotations:
 - Are they able to speak full sentences?
 - Seated upright?
 ## A → E Assessment
-- Is the airway patent?
-	- Suspect upper airway obstruction if the patient is making breathing efforts (e.g. tachypnoea, agitation, increased WOB) but has stridor and impaired air entry
-	- Upper airway obstruction causes: 
-		- Pharyngeal soft-tissue obstruction from loss of airway tone, infection (e.g. croup, epiglottitis), Angio-oedema from anaphylaxis or medications (ACE-i)
-		- Food bolus or other foreign material in the posterior pharynx or trachea
-		- Burns 
-		- Tumour
-		- Laryngospasm
-- Respiratory rate and pattern?
-	- See [Acute Respiratory Failure](01%20Disciplines/Respiratory/Emergencies/Acute%20Respiratory%20Failure.md)
-	- RR <10 breaths/min ⇒ central depression of ventilation usually due to intracerebral event, drug toxicity (e.g. opioids) or profound hypercarbia
-	- RR >20 breaths/min ⇒ increased work of breathing secondary to hypoxia, acidosis, reflex stimulation or pain
-	- Be aware of see-saw movements of the chest cage and abdominal wall; manage as [Acute Respiratory Failure](01%20Disciplines/Respiratory/Emergencies/Acute%20Respiratory%20Failure.md)
-	- Look for unequal chest expansion associated with hyperresonance and hyperinflation with tracheal deviation to the opposite side ([Tension Pneumothorax](01%20Disciplines/Respiratory/Conditions/Pneumothorax.md))
-- Heart rate?
-	- Sinus tachycardia is common but bradycardia from hypoxia is pre-terminal
-- Blood pressure?
-	- Hypotension may indicate [Pneumothorax](01%20Disciplines/Respiratory/Conditions/Pneumothorax.md), cardiac tamponade, massive [Pulmonary Embolism](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md), septic shock, cardiogenic shock or occult haemorrhage
-	- Hypertension may be associated with [Acute Pulmonary Oedema](01%20Disciplines/Respiratory/Conditions/Acute%20Pulmonary%20Oedema.md)
-- JVP?
-	- Raised JVP suggests massive [Pulmonary Embolism](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md), cardiogenic shock, tension [Pneumothorax](01%20Disciplines/Respiratory/Conditions/Pneumothorax.md) or cardiac tamponade
-- Temperature?
-	- Elevated temperature suggests infection
-	- Low grade fever also happens in [Pulmonary Embolism](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md) (esp. in <35 years old)
+- A
+	- Is the airway patent?
+		- Suspect upper airway obstruction if the patient is making breathing efforts (e.g. tachypnoea, agitation, increased WOB) but has stridor and impaired air entry
+		- Upper airway obstruction causes: 
+			- Pharyngeal soft-tissue obstruction from loss of airway tone, infection (e.g. croup, epiglottitis), Angio-oedema from anaphylaxis or medications (ACE-i)
+			- Food bolus or other foreign material in the posterior pharynx or trachea
+			- Burns 
+			- Tumour
+			- Laryngospasm
+- B
+	- Respiratory rate and pattern?
+		- See [Acute Respiratory Failure](01%20Disciplines/Respiratory/Emergencies/Acute%20Respiratory%20Failure.md)
+		- RR <10 breaths/min ⇒ central depression of ventilation usually due to intracerebral event, drug toxicity (e.g. opioids) or profound hypercarbia
+		- RR >20 breaths/min ⇒ increased work of breathing secondary to hypoxia, acidosis, reflex stimulation or pain
+		- Be aware of see-saw movements of the chest cage and abdominal wall; manage as [Acute Respiratory Failure](01%20Disciplines/Respiratory/Emergencies/Acute%20Respiratory%20Failure.md)
+		- Look for unequal chest expansion associated with hyperresonance and hyperinflation with tracheal deviation to the opposite side ([Tension Pneumothorax](01%20Disciplines/Respiratory/Conditions/Pneumothorax.md))
+- C
+	- Heart rate?
+		- Sinus tachycardia is common but bradycardia from hypoxia is pre-terminal
+	- Blood pressure?
+		- Hypotension may indicate [Pneumothorax](01%20Disciplines/Respiratory/Conditions/Pneumothorax.md), cardiac tamponade, massive [Pulmonary Embolism](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md), septic shock, cardiogenic shock or occult haemorrhage
+		- Hypertension may be associated with [Acute Pulmonary Oedema](01%20Disciplines/Respiratory/Conditions/Acute%20Pulmonary%20Oedema.md)
+	- JVP?
+		- Raised JVP suggests massive [Pulmonary Embolism](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md), cardiogenic shock, tension [Pneumothorax](01%20Disciplines/Respiratory/Conditions/Pneumothorax.md) or cardiac tamponade
+- D
+- E
+	- Temperature?
+		- Elevated temperature suggests infection
+		- Low grade fever also happens in [Pulmonary Embolism](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md) (esp. in <35 years old)
+
+| Examination | Notes                                                                                              |
+| ----------- | -------------------------------------------------------------------------------------------------- |
+| Vitals      | Repeat them                                                                                        |
+| HEENT       | Check for central cyanosis                                                                         |
+| Resp        | Check for wheeze, crackles, consolidation (bronchial breathing, pneumothorax, or pleural effusion) |
 ### Immediate management of the hypoxic patient
 - If the patient is not breathing or is making inadequate breathing efforts → head tilt-chin lift or jaw thrust to open the airway and begin ventilation with a bag-mask device connected to high-dose oxygen
 	- Call senior, ICU or anaesthetics immediate (or [MET Activation Criteria](00%20Reference/Clinical/MET%20Activation%20Criteria.md))
@@ -119,29 +130,68 @@ Rotations:
 	- Tension pneumothorax → needle decompression of the chest if the patient is in extreme respiratory distress or hypotense; wide-bore cannula into the second intercostal space in the mid clavicular line
 	- Give ==nebulised salbutamol 5mg diluted in 3mL of normal saline== for wheeze
 	- Give ==GTN 0.6mg SL and repeat twice further, provided SBP is >100 mmHg== if chest has crackles and [Acute Pulmonary Oedema](01%20Disciplines/Respiratory/Conditions/Acute%20Pulmonary%20Oedema.md) is suspected
-## History
+## Selective History and Chart Review
 - Reason for patient admission?
-- Onset? (was it sudden onset)
-- Chest pain?
+- Was SOB sudden or gradual onset?
+	- Sudden ⇒ [Pneumothorax](01%20Disciplines/Respiratory/Conditions/Pneumothorax.md), [Pulmonary Embolism](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md) and inhaled foreign body
+	- Gradual ⇒ [Pneumonia](01%20Disciplines/Respiratory/Conditions/Pneumonia.md)
+	- Orthopnoea or paroxysmal nocturnal dyspnoea ⇒ [LV Heart Failure](01%20Disciplines/Cardiology/Conditions/Heart%20Failure.md)
+- Chest pain and character?
+	- Central, heavy chest pain radiating to the neck, jaw or arms ⇒ [Acute Coronary Syndromes](01%20Disciplines/Cardiology/Conditions/Acute%20Coronary%20Syndromes.md) or [LV Heart Failure](01%20Disciplines/Cardiology/Conditions/Heart%20Failure.md)
+	- Pleuritic chest pain ⇒ [Pneumonia](01%20Disciplines/Respiratory/Conditions/Pneumonia.md), [Pulmonary Embolism](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md) or [Pneumothorax](01%20Disciplines/Respiratory/Conditions/Pneumothorax.md)
+	- [Pulmonary Embolism](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md) is characterised by a sudden onset SOB with non-radiating chest pain which can be a central constant ache or lateral pleuritic pain
+- Cough? Sputum?
+	- Coloured sputum (green, yellow, brown or blood-streaked) suggests an infective source
+	- Blood-stained frothy sputum is usually associated with acute LVF
+	- Mucoid sputum, produced on a regular basis, is most commonly associated with chronic bronchitis
+	- Dry, persistent cough may be caused by an ACE inhibitor, asthma, sinusitis, postviral syndrome or gastro-oesophageal reflux
+- Haemoptysis? Estimated volume?
+	- History of malignancy, TB, pulmonary vasculitis or [Pulmonary Hypertension](01%20Disciplines/Cardiology/Conditions/Pulmonary%20Hypertension.md)
+	- Haemoptysis in PE is rare as most do not cause pulmonary infarction
+- Audible wheeze?
+	- Sign of reversible airway obstruction in patients with known history of [Asthma](01%20Disciplines/Respiratory/Conditions/Asthma.md) or [COPD](01%20Disciplines/Respiratory/Conditions/COPD.md)
+	- Bronchospasm can also happen in other conditions
+- Fever? Chills?
+	- Check temperature chart since admission
+	- [Pulmonary Embolism](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md) and postoperative atelactasis are also associated with low-grade fever
+- Recent surgery?
+	- All postoperative → ↑ risk of atelactasis w/ or w/o consolidation and/or [Pulmonary Embolism](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md)
+	- Thoracic surgery → ↑ risk of [Pneumothorax](01%20Disciplines/Respiratory/Conditions/Pneumothorax.md), haemothoracic and cardiac tamponade
+	- Pain after surgery ↑ risk of atelactasis
+	- Abdominal distension → ↓ ventilation and ↑ dyspnoea
 - Mobilisation (especially if post-op)
 - Prior status (e.g. previously independent)
-- PMHx
+- Central line placed recently?
+	- ? Iatrogenic pneumothorax
+	- ? Cardiac tamponade
+- PMHx?
+- Review charts
+	- Check previous vital signs
+	- Review fluid balance → persistent positive fluid balance may be assocaited with fluid overload
+- Medication chart
 ## Examination
-
-| Examination | Notes                                                                                              |
-| ----------- | -------------------------------------------------------------------------------------------------- |
-| Vitals      | Repeat them                                                                                        |
-| HEENT       | Check for central cyanosis                                                                         |
-| Resp        | Check for wheeze, crackles, consolidation (bronchial breathing, pneumothorax, or pleural effusion) |
-
 - Chest sounds
 - Heart sounds
 - Lower leg swelling (? DVT)
+
+
+| Examination | Notes                                                                                                                                                                                                                                                                                                      |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Vitals      | Repeat                                                                                                                                                                                                                                                                                                     |
+| CVS         | Distended neck veins ⇒ massive PE, cardiogenic failure, tension pneumothorax, cardiac tamponade                                                                                                                                                                                                            |
+|             | Peripherally shut down with clammy skin ⇒ [Shock](01%20Disciplines/Clinical/Emergencies/Shock.md) (cardiogenic, obstructive or hypovolaemic)                                                                                                                                                               |
+|             | Arrhythmia (LVE, PE)                                                                                                                                                                                                                                                                                       |
+|             | S3 gallop ⇒ [LV Heart Failure](01%20Disciplines/Cardiology/Conditions/Heart%20Failure.md)                                                                                                                                                                                                                  |
+|             | Loud P2 ⇒ [COPD](01%20Disciplines/Respiratory/Conditions/COPD.md), [Pulmonary Hypertension](01%20Disciplines/Cardiology/Conditions/Pulmonary%20Hypertension.md))                                                                                                                                           |
+|             | Systolic murmur ⇒ [LV Heart Failure](01%20Disciplines/Cardiology/Conditions/Heart%20Failure.md)                                                                                                                                                                                                            |
+|             | Wheeze ([Asthma](01%20Disciplines/Respiratory/Conditions/Asthma.md), [COPD](01%20Disciplines/Respiratory/Conditions/COPD.md), foreign body aspiration)                                                                                                                                                     |
+| Resp        | Stridor, hoarse voice, inability to speak (upper airway obstruction, [Anaphylaxis](01%20Disciplines/Immunology/Emergencies/Anaphylaxis.md))                                                                                                                                                                |
+|             | Limited inspiration and splinted chest wall 2° to pleuritic chest pain ⇒ [Pneumothorax](01%20Disciplines/Respiratory/Conditions/Pneumothorax.md), [Pulmonary Embolism](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md), [Pneumonia](01%20Disciplines/Respiratory/Conditions/Pneumonia.md) |
+|             | Basal crackles ⇒ LV [Heart Failure](01%20Disciplines/Cardiology/Conditions/Heart%20Failure.md)                                                                                                                                                                                                             |
+
 ## Investigations
 - Charts
 	- Medications
 	- DVT prophylaxis
 - Bedside: ECG, U/S doppler
 - Imaging: CXR, CTPA
-## Management
-## Selective History and Chart Review
