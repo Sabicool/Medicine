@@ -59,11 +59,24 @@ Rotations:
 	- Malignancy
 	- ACE inhibitors (inc. angio-oedema)
 ## Haemoptysis
+- Chest infection including [Pneumonia](01%20Disciplines/Respiratory/Conditions/Pneumonia.md), [COPD](01%20Disciplines/Respiratory/Conditions/COPD.md) and TB
+- Lung cancer
+- Benign tumours or AV malformations
+- [Pulmonary Embolism](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md)
+- Bronchiectasis
+- [Acute Pulmonary Oedema](01%20Disciplines/Respiratory/Conditions/Acute%20Pulmonary%20Oedema.md) (blood stained frothy sputum)
+- Pulmonary vasculitis (Goodpasture, Wegener)
+- [Pulmonary Hypertension](01%20Disciplines/Cardiology/Conditions/Pulmonary%20Hypertension.md)
+- Upper airway origin
+- Foreign body
 
-# Assessment
+> [!WARNING] Massive haemoptysis
+> Haemoptysis of 100-200mL can cause complete airway flooding and asphyxiation 
+ # Assessment
 ## End of Bed
 - Does the patient look short of breath?
 - Are they able to speak full sentences?
+- Seated upright?
 ## A → E Assessment
 ## History
 - Reason for patient admission?
