@@ -21,6 +21,6 @@
 
 - Presenting Complaints: 
     - [[Chest Pain]]
-    - [[Shortness of Breath]]
+    - [[Shortness of Breath, Cough and Haemopytsis]]
 
 <!-- SerializedQuery END -->

@@ -11,14 +11,14 @@ aliases:
     - [[Hyperglycaemia]]
 
 - Emergencies: 
-    - [[Basic Life Support]]
     - [[Advanced Life Support]]
+    - [[Basic Life Support]]
 
 - Presenting Complaints: 
     - [[Chest Pain]]
     - [[Decreased Urine Output]]
     - [[Altered Mental Status]]
-    - [[Shortness of Breath]]
+    - [[Shortness of Breath, Cough and Haemopytsis]]
 
 - Procedures: 
     - [[IV Cannulation]]

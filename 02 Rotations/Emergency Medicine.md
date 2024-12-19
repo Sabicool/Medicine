@@ -2,18 +2,18 @@
 <!-- QueryToSerialize: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) or contains(file.path,"Emergencies") group by reverse(split(file.folder, "/"))[0] -->
 <!-- SerializedQuery: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) or contains(file.path,"Emergencies") group by reverse(split(file.folder, "/"))[0] -->
 - Conditions: 
+    - [[Acute Coronary Syndromes]]
     - [[Hypertensive crisis]]
     - [[Hypotension]]
-    - [[Acute Coronary Syndromes]]
     - [[Hyperglycaemia]]
     - [[Septicaemia]]
     - [[Acute Otitis Media]]
 
 - Emergencies: 
     - [[Acute Airway Failure]]
+    - [[Advanced Life Support]]
     - [[Basic Life Support]]
     - [[Shock]]
-    - [[Advanced Life Support]]
     - [[Unconsciousness]]
     - [[Anaphylaxis]]
     - [[Acute Respiratory Failure]]
@@ -26,7 +26,7 @@
     - [[Chest Pain]]
     - [[Decreased Urine Output]]
     - [[Altered Mental Status]]
-    - [[Shortness of Breath]]
+    - [[Shortness of Breath, Cough and Haemopytsis]]
 
 - Topics: 
     - [[Pain Management]]

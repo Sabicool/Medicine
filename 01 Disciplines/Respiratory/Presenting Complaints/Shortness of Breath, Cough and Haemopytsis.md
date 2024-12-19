@@ -1,6 +1,8 @@
 ---
 aliases:
   - Dyspnoea
+  - Cough
+  - Haemoptysis
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Respiratory|Respiratory]]"
@@ -25,6 +27,7 @@ Rotations:
 - Request ==nebulised salbutamol 5mg (1mL) diluted with 3mL of normal saline if the patient has asthma or wheeze==
 - Request ==GTN SL (0.4mg by spray or 0.6mg tablet) if the patient is hypertensive, has chest pain or a history of [Heart Failure](01%20Disciplines/Cardiology/Conditions/Heart%20Failure.md); repeat in 5-10 minutes only if SBP remains >100mmHg==
 # Common causes *(Corridor thoughts)*
+## Dyspnoea
 - Pulmonary causes
 	- [Pneumonia](01%20Disciplines/Respiratory/Conditions/Pneumonia.md)
 	- Bronchospasm with wheeze ([Asthma](01%20Disciplines/Respiratory/Conditions/Asthma.md), [COPD](01%20Disciplines/Respiratory/Conditions/COPD.md), [Anaphylaxis](01%20Disciplines/Immunology/Emergencies/Anaphylaxis.md))
@@ -37,13 +40,26 @@ Rotations:
 - Cardiovascular causes
 	- [Acute Pulmonary Oedema](01%20Disciplines/Respiratory/Conditions/Acute%20Pulmonary%20Oedema.md)
 	- [Pulmonary Embolism](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md)
-- 
-- Anxiety
-- PE
-- APO
-- Pneumonia
-- Anaphylaxis
-- Sepsis
+- Miscellaneous
+	- Upper airway obstruction (with stridor; see [Acute Airway Failure](01%20Disciplines/Clinical/Emergencies/Acute%20Airway%20Failure.md))
+	- Metabolic acidosis (DKA, [Septicaemia](01%20Disciplines/Infectious%20Disease/Conditions/Septicaemia.md))
+	- Neuromuscular weakness (Guillain-Barré syndrome, myaesthenia gravis, muscular dystrophy)
+	- Anaemia
+	- Hyperthyroidism
+	- Poisoning (aspirin, carbon monoxide)
+	- Anxiety
+## Cough
+- Any cardiopulmonary causes as above
+- Upper airway stimuli
+	- Viral illness or postviral syndromes
+	- Sinusitis
+	- Gastro-oesophageal reflux
+	- Inhalational injury
+	- Allergy
+	- Malignancy
+	- ACE inhibitors (inc. angio-oedema)
+## Haemoptysis
+
 # Assessment
 ## End of Bed
 - Does the patient look short of breath?

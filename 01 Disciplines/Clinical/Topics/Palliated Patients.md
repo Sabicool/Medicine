@@ -4,7 +4,7 @@ Treatment depends on the cause and nature of the pain:
 - Visceral pain is poorly localised: opioids are frequently necessary but consider steroids such as dexamethasone or prednisolone
 - Neurogenic pain from damage, pressure or stretching of a peripheral nerve is controlled often with multiple agents: opioids, ketamine, antidepressants, anticonvulsants or nerve blocks
 # Dyspnoea and cough
-Address underlying cause (see [Dyspnoea](01%20Disciplines/Respiratory/Presenting%20Complaints/Shortness%20of%20Breath.md))
+Address underlying cause (see [Dyspnoea](01%20Disciplines/Respiratory/Presenting%20Complaints/Shortness%20of%20Breath,%20Cough%20and%20Haemopytsis.md))
 
 Symptomatic management by:
 - Position the patient to provide maximum comfort (usually sitting up)
