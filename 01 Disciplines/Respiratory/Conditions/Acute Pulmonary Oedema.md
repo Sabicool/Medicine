@@ -46,10 +46,10 @@ Can remember as LMNOP (backwards)
 	- Pericardial disease
 	- Congenital heart disease
 - The most common precipitating factors include:
-	- ACS
+	- [[Acute Coronary Syndromes]]
 	- Arrhythmia
 	- Fever, infection
-	- PE
+	- [[Pulmonary Embolism|PE]]
 	- Increased sodium or fluid load (parenteral, medicinal, dietary)
 	- Cardiac depressant drug (e.g. beta-blockers, calcium-channel blockers)
 	- Sodium-retaining agents (e.g. NSAIDs)

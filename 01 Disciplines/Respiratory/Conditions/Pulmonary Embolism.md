@@ -13,3 +13,5 @@ aliases:
 - Areas of oligaemia in massive PE
 
 ^cxr
+
+# Management
