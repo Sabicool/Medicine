@@ -23,7 +23,7 @@ Rotations:
 - Request as high a concentration of $\ce{O2}$ in the short term unless the patient has significant COPD → 28% $\ce{O2}$ by Venturi mask and reassess at the bedside
 - Ask the nurse to bring the resuscitation trolley to the bedside, attach an ECG monitor to the patient and gain IV access
 - Request ==nebulised salbutamol 5mg (1mL) diluted with 3mL of normal saline if the patient has asthma or wheeze==
-- 
+- Request ==GTN SL (0.4mg by spray or 0.6mg tablet) if the patient is hypertensive, has chest pain or a history of [Heart Failure](01%20Disciplines/Cardiology/Conditions/Heart%20Failure.md) ==
 # Common causes *(Corridor thoughts)*
 - Anxiety
 - PE
