@@ -52,4 +52,12 @@
 	- Refer to HDU/ICU
 	- Give ==ceftriaxone 1g IV daily== + ==azithromycin 500 mg IV daily==
 		- If renal impairment or pencillin allergy give ==moxifloxacin 400 mg IV daily==
-### HAP
+### HAP (develops ≥48 hours in hospital)
+- Consult with microbiology or infectious disease
+- Amoxicilling-clavulanic acid in mild pneumonia
+	- Ticarcillin-clavulanic acid, ceftriaxone or piperacillin-tazobactam in moderate or severe pneumonia.
+- Add vancomycin if high prevalence of MRSA and consider ciprofloxacin plus azithromycin if Legionella suspected
+### Aspiration pneumonia
+- Consider in patients with ↓LOC or ↓cough reflex (e.g ETOH, stroke, seizure, postsurgery)
+- Minor aspiration doers not require antibiotics
+- Manage aspiration pneumonia as community- or hospital-acquired pneumonia initially.
