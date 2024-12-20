@@ -50,5 +50,6 @@
 	- Consider ==oseltamivir 75mg BD PO== in the influenza season
 - Severe CAP (SMART-COP ≥5 or CURB-65 ≥3)
 	- Refer to HDU/ICU
-	- 
+	- Give ==ceftriaxone 1g IV daily== + ==azithromycin 500 mg IV daily==
+		- If renal impairment or pencillin allergy give ==moxifloxacin 400 mg IV daily==
 ### HAP
