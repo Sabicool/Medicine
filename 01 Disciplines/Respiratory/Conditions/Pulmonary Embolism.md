@@ -74,9 +74,10 @@ aliases:
 - In patients with haemodynamic compromise, give UFH (80 U/kg IV bolus) followed by maintenance infusion of 18 U/kg/h titrated to aPTT (1.5-2.5x control value)
 - If patient already on warfarin and has a PE consult cardiothoracics for consideration of transvenous vena caval filter
 - Commence first dose of warfarin 5mg PO on the first day of heparin therapy and titrate ssubsequent daily doses to achieve an INR of 2.5-3.5
-### NOAC
+### NOAC/DOAC
 - NOAC such as rivaroxaban 15mg PO 12 hourly or apixabanm 10mg PO 12-hourly 
 - Check renal function
+- Cannot use in child-pugh class B or worse without specialist input
 > [!WARNING] Dabigatran
 > Dabigatran requires at least 5 days of parenteral anticoagulant to be given first. Dose is 150mg PO 12-hourly. Dose modification is required based of renal function
 ## Fibrinolytic Therapy
