@@ -41,9 +41,14 @@
 		- Give ==prednisolone 50mg PO== or ==hydrocortisone 200mg IV== if unable to swallow
 	- Avoid all sedatives, anxiolytics, NSAIDs and histamine-releasers (morphine)
 - If patient's condition does not improve
-	- Give repeated salbutamol 5mg nebulisers (up to 3 doses in first hour)
-	- Continue regular ipratropium 500mcg every 6 hours
+	- Give repeated ==salbutamol 5mg nebulisers (up to 3 doses in first hour)==
+	- Continue regular ==ipratropium 500mcg every 6 hours==
 - If patient's condition is deteriorating or life-threatening features
 	- Obtain IV access, ensure steroids have been given, perform a CXR and call for senior help
 	- Give continuous salbutamol nebulisers
-	- 
+	- Obtain ABG to check $P\ce{\rm{a}CO2}$, pH and potassium which may be 2° low to beta-agonist therapy 
+		- Treat if <3.0 mmol/L
+	- Start bronchodilator infusion IV with ECG monitoring and arrange ICU bed
+	- Give ==magnesium sulfate 2.5g IV (10 mmol) over 20-30 minutes==
+	- Give ==salbutamol 250-500 mcg IV over 10 minutes==
+		- Follow with infusion of ==salbutamol 5mg in 5% dextrose running at 60mL/h (10mcg/min) initially and titrate up to 120-240mL/h (20-40mcg/min)==
