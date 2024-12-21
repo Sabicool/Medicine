@@ -10,3 +10,4 @@
 		- Small = visible air rim <2cm
 		- Large = visible air rim ≥2cm around all the lung edge
 # Management
+![[Pasted image 20241221183438.png]]
