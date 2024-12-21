@@ -71,8 +71,14 @@ Rotations:
 - Foreign body
 
 > [!WARNING] Massive haemoptysis
-> Haemoptysis of 100-200mL can cause complete airway flooding and asphyxiation 
- # Assessment
+> Haemoptysis of 100-200mL can cause complete airway flooding and asphyxiation
+> Management
+> - Apply high dose oxygen and order immediate CXR
+> - Large bore peripheral IV access and take bloods including coagulation studies and cross match
+> - Call ICU and anaesthetics for inutbation with double-lumen tube
+> - If or once stable chest CT and bronchoscopy or consider interventional radiology embolisation
+
+# Assessment
 ## End of Bed
 - Does the patient look short of breath?
 - Are they able to speak full sentences?
