@@ -46,4 +46,4 @@
 - If patient's condition is deteriorating or life-threatening features
 	- Obtain IV access, ensure steroids have been given, perform a CXR and call for senior help
 	- Give continuous salbutamol nebulisers
-	- 7
+	- 
