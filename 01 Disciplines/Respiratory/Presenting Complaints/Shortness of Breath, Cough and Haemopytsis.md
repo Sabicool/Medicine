@@ -218,6 +218,7 @@ Rotations:
 		- APO ![[Acute Pulmonary Oedema#^cxr-findings]] 
 		- Pulmonary embolism ![[Pulmonary Embolism#^cxr]]
 # Specific Management
+- See [[Pulmonary Embolism#Management|PE]]
 - See [[Pneumonia#Management|Pneumonia]]
 - See [[Asthma#Management|Asthma]]
 - See [[COPD#Management|COPD]]
