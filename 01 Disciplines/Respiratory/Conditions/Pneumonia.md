@@ -35,6 +35,7 @@
 	- These patients are often dehydrated or have hypovolaemia from sepsis
 - Determine severity CAP using SMART-COP score, using CURB-65 or Pneumonia Severity Index (PSI)
 	- SMART-COP: ≥5 indicates severe disease requiring hospital admission, empirical IV antibiotics and referral to intensive care
+
 ![[Pasted image 20241220193649.png]] Also see: https://litfl.com/wp-content/uploads/2019/09/etg-smartcop.pdf
 ![[Pasted image 20241220193933.png]]
 ## Antibiotic Therapy

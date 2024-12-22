@@ -181,7 +181,6 @@ Rotations:
 - Heart sounds
 - Lower leg swelling (? DVT)
 
-
 | Examination | Notes                                                                                                                                                                                                                                                                                                      |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Vitals      | Repeat                                                                                                                                                                                                                                                                                                     |
@@ -219,3 +218,8 @@ Rotations:
 		- APO ![[Acute Pulmonary Oedema#^cxr-findings]] 
 		- Pulmonary embolism ![[Pulmonary Embolism#^cxr]]
 # Specific Management
+- See [[Pneumonia#Management|Pneumonia]]
+- See [[Asthma#Management|Asthma]]
+- See [[COPD#Management|COPD]]
+- See [[Pneumothorax#Management|Pneumothorax]]
+- See [[Hiccups#Management|Hiccups]]
