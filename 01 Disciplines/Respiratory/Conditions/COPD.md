@@ -65,7 +65,7 @@
 	- pMDI with spacer option (for patients with FEV1 >30% of predicted)
 		- ==Salbutamol 100mcg per puff for up to 8 puffs at a time via a pMDI with spacer repeated as required==
 	- Nebuliser option
-		- ==Salbutamol 2.5 to 5mg via nebuliser== to the initial three nebulisers then give both 6 hourly
+		- ==Salbutamol 2.5 to 5mg via nebuliser== to the initial three nebulisers then give 6 hourly
 			- ==ipratropium 250 to 500mcg== can be used instead or if symptoms are severe can be combined
 			- Ipratropium has a slower onset of effect than salbutamol
 			- Ipratropium is contraindicated in patients taking LAMAs
