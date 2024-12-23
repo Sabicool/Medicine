@@ -63,4 +63,5 @@ Prioritise assessing C in stable patients:
 		- Hypotension occurs in ACS, massive PE and AAD with cardiac tamponade
 		- Hypertension with ACS or aortic dissection should be treated urgently in resuscitation area (see: [[Hypertensive crisis]])
 	- Heart rate?
+		- If HR >150 or <40 obtain 12 lead ECG and/or rhythym strip to diagnose the arrhythymia
 		- 
