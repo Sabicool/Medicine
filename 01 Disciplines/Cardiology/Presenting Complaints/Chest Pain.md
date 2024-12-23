@@ -4,6 +4,15 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
 ---
+# Quick Links
+- External
+	- [PASCA: ACS Checklist](https://aci.health.nsw.gov.au/__data/assets/pdf_file/0020/824141/Pathway-for-Acute-Coronary-syndrome-Assessment-PACSA-Checklist-SAMPLE.pdf)
+	- [PASCA: ACS Flowchart](https://aci.health.nsw.gov.au/__data/assets/pdf_file/0003/824142/Pathway-for-Acute-Coronary-Syndrome-Assessment-PACSA-flow-chart-SAMPLE.pdf)
+	- [PASCA: STEMI Checklist](https://aci.health.nsw.gov.au/__data/assets/pdf_file/0004/824143/PACSA-STEMI-reperfusion-checklist-SAMPLE.pdf)
+	- [PASCA: STEMI Flowchart](https://aci.health.nsw.gov.au/__data/assets/pdf_file/0019/824140/PACSA-STEMI-Reperfusion-flow-chart-SAMPLE.pdf)
+- Internal
+	- [[Acute Coronary Syndromes|ACS]]
+	- [[Pulmonary Embolism|PE]]
 # Phone Call/Presentation Questions
 - Pain (SOCRATES):
 	- Characteristic?
