@@ -64,4 +64,5 @@ Prioritise assessing C in stable patients:
 		- Hypertension with ACS or aortic dissection should be treated urgently in resuscitation area (see: [[Hypertensive crisis]])
 	- Heart rate?
 		- If HR >150 or <40 obtain 12 lead ECG and/or rhythym strip to diagnose the arrhythymia
+			- Consider AF or VT in HR>140 and therefore consider urgent cardioversion especially if associated with chest pain or hypotension
 		- 
