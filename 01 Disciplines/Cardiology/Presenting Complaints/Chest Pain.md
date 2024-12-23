@@ -109,8 +109,56 @@ Prioritise assessing C in stable patients:
 	- Collapse or syncopal episode should be taken seriously
 	- Dyspnoea
 - Alleviating or aggravating factors?
-	- 
-## Review Past Medical History and Risk Factors
+	- Worse on coughing or deep breathing → pleuritic chest pain ⇒ [[Pneumothorax]], [[Pericarditis]], [[Pulmonary Embolism|PE]], [[Pneumonia]], rib fracture or costochondritis
+	- Worse on deep inspiration, lying flat or when raising both legs ⇒ [[Pericarditis]]
+	- Worse on swallowing ⇒ oesophageal source or [[Pericarditis]]
+	- Specific movements ⇒ MSK
+- PMHx
+	- ACS is more likely when:
+		- Ischaemic heart disease 
+		- Increasing age >65 years 
+		- Comorbid conditions: Diabetes, hypertension, smoking, hyperlipidaemia or end-stage renal disease
+		- Family history of premature ischaemic heart disease in first-degree relative under age 50 years 
+	- Aortic dissection is more likely when:
+		- Aged 60-80
+		- Male with chronic hypertension
+		- Younger patients with connective tissue disorder (e.g. Marfan's or Ehler-Danlos syndrome)
+		- Family history
+	- PE is more likely when:
+		- Recent surgery, immbolisation, malignancy, prior VTE
+		- Family history of 1° relative with thromboembolism
+- Charts:
+	- Confirm prescribed antianginal medications are given
+	- Check for DVT prophylaxis
+	- Check for corticosteroids or NSAIDs as a possible cause of gastritis or oesophagitis
 ## Examination
+
+| Examination  | Notes                                                                                                                                      |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Vitals       | Repeat                                                                                                                                     |
+| Appearance   | Marfanoid appearance? Tall thin patient with long lmbs and arachnodactyly ⇒ ↑ risk of aortic dissection                                    |
+| HEENT        | Xanthelasma around eyelids                                                                                                                 |
+|              | Exudate in oral cavity or pharynx                                                                                                          |
+| Resp         | Asymmetrical expansion of the chest (pneumothorax, large pleural effusion or massive haemothorax)                                          |
+|              | Tracheal deviation (away ⇒ pneumothorax, effusion or towards ⇒ collapse, consolidation)                                                    |
+|              | Percussion (hyperresonance ⇒ pneumothorax, dullness ⇒ effusion, consolidation)                                                             |
+|              | Auscultation (↓ breath sounds ⇒ pneumothorax, pleural rub ⇒ PE or pneumonia, crackles ±wheeze ⇒ pulmonary oedema, PE or pneumonia)         |
+| Chest wall   | Tender costal cartilage (costochondritis)                                                                                                  |
+|              | Localised rib pain ⇒ rib fracture                                                                                                          |
+| CVS          | Unequal carotid pulses ⇒ aortic dissection                                                                                                 |
+|              | Unequal upper limb BP or ↓ radial or femoral pulses ⇒ aortic dissection                                                                    |
+|              | ↑JVP ⇒ biventricular failure with CCF, RV failure secondary to PE, tension pneumothorax or cardiac tamponade                               |
+|              | LV heave ⇒ LV failure                                                                                                                      |
+|              | RV heave ⇒ acute RV failure 2° to PE                                                                                                       |
+| Auscultation | S3 gallop ⇒ LV failure, Loud P2 ⇒ Acute RV failure 2° cor pulmonale                                                                        |
+|              | Muffled heart sounds ⇒ cardiac tamponade, pericarditis                                                                                     |
+|              | Systolic murmur:<br>AS ⇒ angina<br>MR ⇒ acute papillary muscle or chordae tendinae dysfunction 2° to ACS<br>Late ⇒ MVP (Barlow's syndrome) |
+|              | Diastolic murmur:<br>Early ⇒ aortic regurgitation associated with proximal aortic root dissection<br>Pericardial rub ⇒ pericarditis        |
+| GIT          | Guarding, rigid abdomen ⇒ perforated peptic ulcer                                                                                          |
+|              | Epigastric tenderness ⇒ peptic ulcer disease                                                                                               |
+|              | Generalised abdominal pain ⇒ mesenteric infarction from aortic dissection                                                                  |
+| Skin         | Unilateral, vesicular maculopapular rash, dermatomal distribution ⇒ herpes zoster                                                          |
+
 ## Investigations
+
 ## Specific Management
