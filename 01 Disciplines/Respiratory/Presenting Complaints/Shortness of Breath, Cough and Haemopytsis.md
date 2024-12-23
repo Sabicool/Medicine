@@ -26,7 +26,7 @@ Rotations:
 - Ask the nurse to bring the resuscitation trolley to the bedside, attach an ECG monitor to the patient and gain IV access
 - Request ==nebulised salbutamol 5mg (1mL) diluted with 3mL of normal saline if the patient has asthma or wheeze==
 - Request ==GTN SL (0.4mg by spray or 0.6mg tablet) if the patient is hypertensive, has chest pain or a history of [Heart Failure](01%20Disciplines/Cardiology/Conditions/Heart%20Failure.md); repeat in 5-10 minutes only if SBP remains >100mmHg==
-# Common causes *(Corridor thoughts)*
+# Common Causes *(Corridor thoughts)*
 ## Dyspnoea
 - Pulmonary causes
 	- [Pneumonia](01%20Disciplines/Respiratory/Conditions/Pneumonia.md)
