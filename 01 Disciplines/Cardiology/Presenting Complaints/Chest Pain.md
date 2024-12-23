@@ -160,5 +160,13 @@ Prioritise assessing C in stable patients:
 | Skin         | Unilateral, vesicular maculopapular rash, dermatomal distribution ⇒ herpes zoster                                                          |
 
 ## Investigations
-
+- Bedside:
+- Bloods:
+	- Take blood for FBC, coags, BSL, UEC, LFT, cardiac enzymes
+	- D-dimer if low pre-test probability for [[Pulmonary Embolism|PE]]
+	- Repeat cardiac biomarkers 6-8 hours after
+	- Accelerated chest pain rule-out protocol
+- Imaging:
+	- CXR
 ## Specific Management
+- See 
