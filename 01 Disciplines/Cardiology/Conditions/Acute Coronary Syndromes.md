@@ -26,7 +26,7 @@ aliases:
 		- Attach cardiac monitor and 12 lead ECG within 10 minutes of clinical contact
 	- Perfusion, pulse blood pressure
 		- Give aspirin 300mg orally (chew or dissolve in water) unless already given or contraindicated
-		- ![[Pasted image 20241223210632.png]]
+		![[Pasted image 20241223210632.png]]
 	- Establish IV access
 	- Examine for signs of shock: (tachcardia and CRT ≥3 seconds) and/or abnormal skin perfusion and/or hypotension
 		- If shock (as above) and/or SBP <90mmHg give 250mL of 0.9% saline bolus
