@@ -83,6 +83,7 @@ Prioritise assessing C in stable patients:
 		- The ECG in a patient with pericarditis shows diffuse, concave ST-segment elevation with PR depression
 		- If the first ECG is non-diagnostic repeat after 15 minutes if the chest pain is continuing
 			- Repeat the ECG whenever the chest pain recurs, stops or changes in severity or character, as well as after 6–8 hours with repeat cardiac biomarkers (troponin) to rule out ACS
+- As from [[Acute Coronary Syndromes#STEMI|STEMI]] ![[Acute Coronary Syndromes#^stemi-management]]
 ## Immediate Management
 - Attach continuous non-invasive ECG, BP and pulse oximeter monitoring to the patient
 - Commence oxygen if hypoxic or shocked to maintain oxygen saturation >94%

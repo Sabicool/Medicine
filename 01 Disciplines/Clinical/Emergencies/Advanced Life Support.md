@@ -3,6 +3,8 @@ Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Cardiology|Cardiology]]"
+aliases:
+  - ALS
 ---
 # Shockable Rhythms
 - The only two shockable rhythms are:

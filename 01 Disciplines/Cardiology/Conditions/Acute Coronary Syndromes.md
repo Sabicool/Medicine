@@ -20,7 +20,7 @@ aliases:
 - Breathing
 	- Assist ventilation
 	- Consider oxygen if dyspnoeic titrating oxygen to maintain Sp$\ce{O2}$ >93% unless $\ce{CO2}$ retainer, in which case aim for Sp$\ce{O2}$ 88-92%
-- For possible STEMI or other high-risk ACS with haemodynamic compromise, consider nursing patient in the resuscitation area and/or attaching patient to a defibrillator
+- For possible STEMI or other high-risk ACS with haemodynamic compromise, move patient to the resuscitation area and/or attach patient to a defibrillator
 - Circulation
 	- Cardiac ryhthym
 		- Attach cardiac monitor and 12 lead ECG within 10 minutes of clinical contact
@@ -39,17 +39,13 @@ aliases:
 			- Oxycodone
 				- 16-65 years: 5mg oral, repeat if required after 30 minutes, max dose 10mg
 				- ≥65 years: 2.5mg oral, repeat after 30 minutes, max dose 5mg
-		- Severe:
+		- Severe: (do not give morphine or fentanyl if SBP <100mmHg)
 			- Morphine IV
 				- 16-65 years: 5mg IV, repeat if required after 5 minutes, max dose 10mg
 				- ≥65 years: 2.5mg IV, repeat if required after 5 minutes, max dose 5mg
 			- OR Fentanyl IV
 				- 16-65 years: 50mcg IV, repeat after 5 minutes, max dose 100 mcg
 				- ≥65 years: 25mcg IV, repeat after 5 minutes, max dose 50mcg
-
-> [!WARNING]
-> Do not give morphine or fentanyl if SBP<100 mmHg
-
 - Exposure
 	- Measure temperature
 - Fluids
@@ -62,6 +58,10 @@ aliases:
 	- Measure BGL
 	- If BGL<4mmol/L and NO ↓LOC → give sugary drink
 	- If BGL<4mmol/L and ↓LOC → glucose 10% 200mL by infusion over 15 minutes once only or glucagon 1mg IM
+
+^stemi-management
+
+As from: https://aci.health.nsw.gov.au/ecat/adult/chest-pain
 # Sources
 FRCEM AFTBAFFF, FFSEM MCMMbcF, FACEM ACMMc. Marshall & Ruedy’s On Call: Principles & Protocols. 3rd edition. Elsevier; 2016. 648 Chapter 16: Chest Pain p. 117
 
