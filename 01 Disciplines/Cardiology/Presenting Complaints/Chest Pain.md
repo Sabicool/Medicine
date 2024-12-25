@@ -95,7 +95,7 @@ Prioritise assessing C in stable patients; see immediate management below
 - Call senior for:
 	- Persistent hypoxia, hypotension or altered mental status despite the above measures
 	- HR >150 beats/min or <40 beats/min associated with hypotension as cardioversion or pacing may be required
-	- Persistent pain and ST segement changes on ECG
+	- Persistent pain and ST segment changes on ECG; need senior input to determine if STEMI is due to atherosclerosis or alternative cause
 - Position the patient in the position of comfort
 - A
 	- Address any airway compromise (see [[Acute Airway Failure]])
@@ -194,6 +194,8 @@ As from: https://aci.health.nsw.gov.au/ecat/adult/chest-pain and [eTG: Acute Che
 	- Confirm prescribed antianginal medications are given
 	- Check for DVT prophylaxis
 	- Check for corticosteroids or NSAIDs as a possible cause of gastritis or oesophagitis
+![[Pasted image 20241225131156.png]]
+![[Pasted image 20241225131213.png]]
 ## Examination
 
 | Examination  | Notes                                                                                                                                      |
@@ -231,5 +233,14 @@ As from: https://aci.health.nsw.gov.au/ecat/adult/chest-pain and [eTG: Acute Che
 	- Accelerated chest pain rule-out protocol
 - Imaging:
 	- CXR
+## Management
+- High clinical risk criteria:
+	- Any of the following
+		- Typical or ongoing symptoms
+		- Syncope at presentation or SBP <90mmHg
+		- Acute onset left ventricular failure
+		- Significant arrhythmia (2nd or 3rd degree AV block or VT)
+		- AMI, PCI or CABG in last 6 months
+		- Dynamic ECG: ST (>0.5mm up or down) or new T wave inversion
 ## Specific Management
 - See [[Acute Coronary Syndromes#STEMI|STEMI Management]]
