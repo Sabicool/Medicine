@@ -234,3 +234,20 @@ As from: https://aci.health.nsw.gov.au/ecat/adult/chest-pain and [eTG: Acute Che
 ## Specific Management
 - See [[Acute Coronary Syndromes#STEMI|STEMI Management]]
 - See [[Acute Coronary Syndromes#NSTEMI#Management|NSTEMI Management]]
+- See [[Aortic Dissection#Management|Aortic Dissection Management]]
+- See [[Pericarditis#Management|Pericarditis Management]]
+- See [[Pulmonary Embolism#Management|PE Management]]
+- Oesophagitis
+	- Give an antacid 15-20mL every 2 hours in the acute phase, then TDS after meals and once before bedtime
+	- Prescribe a PPI (e.g. omeprazole 20-40 mg PO OD) or H2RA (e.g. rantidine 150mg PO BD)
+	- Advice lifestyle modification such as stopping smoking, reducing alcohol consumption, omitting hot or spicy food from the diet, eating small meals regularly during the day and not eating immediately before sleep
+	- Refer for endoscopic evaluation and *H. pylori* testing
+- MSK causes
+	- Palpate and compress the chest wall to identify a tender muscle, fractured rib(s) or tender costochondral junction. Palpate and gently percuss the spine to identify a crush fracture, which may be causing referred dermatomal pain.
+	- The ECG is normal and other investigations are unhelpful.
+	- Treat musculoskeletal causes of pain with an NSAID, such as ibuprofen 400 mg PO TDS or naproxen 250–500 mg PO TDS
+- Anxiety and panic disorders
+	- Due to the possibility of a life-threatening cause of chest pain, panic and anxiety disorders are always a diagnosis of exclusion → discuss the patient with your senior
+	- Attempt to control the hyperventilation by reassurance
+	- Alternatively, ask the patient to re-breathe into a paper bag or mask to control the ventilatory loss of $\ce{CO2}$
+	- Give ==diazepam 2-5mg PO== or ==lorazepam 1-2mg SL== acutely if there is no response to the initial treatment or the attack recurs

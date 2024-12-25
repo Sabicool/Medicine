@@ -7,10 +7,11 @@
     - [[Heart Failure]]
     - [[Hypertensive crisis]]
     - [[Hypotension]]
-    - [[Pulmonary Hypertension]]
-    - [[Stable Angina]]
-    - [[Secondary Hypertension]]
     - [[Pericarditis]]
+    - [[Pulmonary Hypertension]]
+    - [[Secondary Hypertension]]
+    - [[Stable Angina]]
+    - [[Aortic Dissection]]
     - [[Septicaemia]]
 
 - Emergencies: 

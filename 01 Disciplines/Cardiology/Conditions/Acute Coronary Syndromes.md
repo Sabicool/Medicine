@@ -31,6 +31,7 @@ As from: [PASCA ACS Flowchart](https://aci.health.nsw.gov.au/__data/assets/pdf_f
 ## Management
 - Determine if alternate cause of ST elevation (i.e. type 2 MI) and manage that cause accordingly
 - Call senior doctor and obtain an urgent cardiology consult
+- Move to resuscitation bay or apply defibrillator pads
 - Indications for reperfusion therapy for STEMI:
 	- Presented to hospital within 12 hours of chest pain/AMI symptoms
 	- Or if >12 hours since symptom onset any of:
@@ -92,6 +93,8 @@ As from [PASCA ACS Checklist](https://aci.health.nsw.gov.au/__data/assets/pdf_fi
 - Perform serial ECGs immediately and after 6-8 hours or every 15 minutes if the pain is continuing. Also perform ECG each time a troponin is taken
 - Perform high sensitivity troponin at 0 and 2 hours
 - Perform standard sensitivity troponin at 6 and 8 hours
+- Aspirin 300 mg orally chewed or dissolved before swallowing if not given already
+	- 100-150 mg orally daily aspirin
 - High clinical risk:
 	- Criteria: Any of the following
 		- Typical or ongoing symptoms
@@ -107,8 +110,13 @@ As from [PASCA ACS Checklist](https://aci.health.nsw.gov.au/__data/assets/pdf_fi
 		- Commence high-flow oxygen if shocked or hypoxic
 		- Give aspirin 300mg PO if not done so already
 		- Contact senior doctor immediately, then the cardiology registrar
-			- Give clopidogrel 300mg PO as indicated by senior/reg
-		- Admit with cardiac monitoring (preferably to CCU) for consideration of angiography within next 48 hours
+			- Give prasugrel 60mg PO (then 10mg OD), ticagrelor 180mg PO (then 90mg BD) or clopidogrel 300mg PO (then 75mg OD) as indicated by senior/reg
+			- Cardiology team will advise heparin anticoagulation; suitable options include
+				- LMWH if renal function allows
+					![[Pasted image 20241225170355.png]]
+				- UFH; ask senior for advice
+			- Cardiology will advise of use of glycoprotein IIb/IIIa inhibitors (e.g. eptifibatide or tirofiban) if immediate access to cath lab is not available
+		- Admit with cardiac monitoring (preferably to CCU) for consideration of angiography within next 48 hours[^2]
 		- Admitting team will advise:
 			- Anticoagulation
 			- Antiplatelet therapy
@@ -129,15 +137,20 @@ As from [PASCA ACS Checklist](https://aci.health.nsw.gov.au/__data/assets/pdf_fi
 		- no known coronary artery disease
 	- Management
 		- Treat other diagnoses
-		- Review precipitating cause and ECG
+		- Give aspirin 300mg PO if not done so already
+		- Review precipitating cause of angina (e.g. anaemia, aortic stenosis, thyrotoxicosis and HCM) and ECG
 		- If known diagnosis of angina
 			- Determine if threshold for angina has decreased or the severity of pain increased
 			- Consult with senior for adjustment to antianginal medication
 			- If episode was prolonged or worse with no easily fixable precipitant repeat troponin and ECG at 6-8 hours
 		- Follow up with GP or cardiology outpatient
-		- Exercise stress testing, echo, cardiac perfusion and CTA **NOT** usually indicated
+		- Exercise stress testing, echo, cardiac perfusion and CTA **NOT** usually indicated[^3]
 ![[Pasted image 20241225150149.png]]
 As from: [PASCA ACS Flowchart](https://aci.health.nsw.gov.au/__data/assets/pdf_file/0003/824142/Pathway-for-Acute-Coronary-Syndrome-Assessment-PACSA-flow-chart-SAMPLE.pdf)
+# Other Management
+## Recurrent Pain
+- Recurrent episodes of ischaemic chest pain may require GTN infusion for a short period of time; prolonged infusion rapidly induces tolerance
+	- GTN 10 micrograms/minute by IV infusion increasing by 10 micrograms/minute every 3 minutes until pain is controlled provided systolic blood pressure ≥95 mmHg
 # Sources
 - *More so from* Pathway for acute coronary syndromes: https://aci.health.nsw.gov.au/networks/eci/clinical/tools/cardiology/pathway-for-acute-coronary-syndrome Published June 2021
 - ACI chest pain guidelines: https://aci.health.nsw.gov.au/ecat/adult/chest-pain Published December 2023.
@@ -145,3 +158,5 @@ As from: [PASCA ACS Flowchart](https://aci.health.nsw.gov.au/__data/assets/pdf_f
 - *Less so from* FRCEM AFTBAFFF, FFSEM MCMMbcF, FACEM ACMMc. Marshall & Ruedy’s On Call: Principles & Protocols. 3rd edition. Elsevier; 2016. 648 Chapter 16: Chest Pain p. 117
 
 [^1]: eTG says if PCI is available within 120 minutes
+[^2]: eTG says within 2 hours for very high risk and within 24 hours for high risk
+[^3]: eTG says for patients with unstable angina considered low risk non-invasive investigations such as stress testing are usually appropriate
