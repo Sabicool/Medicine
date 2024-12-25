@@ -62,7 +62,7 @@ The main ones to rule out are ACS (and its complications), acute aortic dissecti
 - Aspirin 300 mg soluble
 - IV access, bloods (including troponin), cardiac monitoring, CXR and analgesia
 - ECG at 0 and 2 hours, when repeating troponin and every 30 minutes if ongoing symptoms
-	- If meets STEMI criteria see [[Acute Coronary Syndromes#STEMI#Management|STEMI Management]]
+	- If meets STEMI criteria (will need senior input) see [[Acute Coronary Syndromes#STEMI#Management|STEMI Management]] ![[Acute Coronary Syndromes#^stemi-criteria]]
 - GTN: caution if SBP<100mmHg and in right sided and inferior infarcts
 - $\ce{O2}$ if $S\rm{p}\ce{O2}$<93% otherwise not required in stable patients
 ## End of Bed
