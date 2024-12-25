@@ -57,6 +57,10 @@ Rotations:
 
 The main ones to rule out are ACS (and its complications), acute aortic dissection, PE
 # Assessment
+## Initial Assessment
+- Aspirin 300 mg soluble
+- IV access, bloods (including troponin), cardiac monitoring, CXR and analgesia
+- ECG
 ## End of Bed
 - Patients with chest pain from ACS may look anxious and pale, or are shocked, breathless and clearly unwell
 - Patients with aortic dissection have severe pain and are restless and agitated
