@@ -14,7 +14,6 @@ aliases:
 - Save tissue
 - Heparin
 
-
 ^stemi-management
 
 # Sources

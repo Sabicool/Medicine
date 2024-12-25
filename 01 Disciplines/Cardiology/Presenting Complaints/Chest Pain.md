@@ -30,6 +30,7 @@ Rotations:
 	- Urgent 12-lead ECG
 	- ==Aspirin 150-300 mg PO== unless contraindicated by hypersensitivity
 	- Administer ==GTN SL (0.6 mg tablets or 0.4mg spray)== and repeat every 5-10 minutes if pain persists and SBP remains >90mmHg
+		![[Pasted image 20241225125737.png]]
 	- Request and IV trolley for the patient's bedside with a range of cannulae ready for insertion
 - Attend any patient with chest pain immediately
 # Common Causes *(Corridor Thoughts)*
@@ -57,10 +58,13 @@ Rotations:
 
 The main ones to rule out are ACS (and its complications), acute aortic dissection, PE
 # Assessment
-## Initial Assessment
+## Initial Assessment (if not done on the phone)
 - Aspirin 300 mg soluble
 - IV access, bloods (including troponin), cardiac monitoring, CXR and analgesia
-- ECG
+- ECG at 0 and 2 hours, when repeating troponin and every 30 minutes if ongoing symptoms
+	- If meets STEMI criteria see [[Acute Coronary Syndromes#STEMI#Management|STEMI Management]]
+- GTN: caution if SBP<100mmHg and in right sided and inferior infarcts
+- $\ce{O2}$ if $S\rm{p}\ce{O2}$<93% otherwise not required in stable patients
 ## End of Bed
 - Patients with chest pain from ACS may look anxious and pale, or are shocked, breathless and clearly unwell
 - Patients with aortic dissection have severe pain and are restless and agitated
@@ -103,9 +107,11 @@ Prioritise assessing C in stable patients; see immediate management below
 	- For possible STEMI or high risk ACS with haemodynamic compromise move patient to the resuscitation area and/or attach patient to a defibrillator
 	- Commence or continue initial therapy for acute chest pain of possible cardiac origin:
 		- ==Aspirin 300 mg orally, chewed or dissolved before swallowing==
-		![[Pasted image 20241225120929.png]]
+			![[Pasted image 20241225120929.png]]
+		- GTN Spray (400-800 micrograms) or tablet (300-600 micrograms SL) x1
+			![[Pasted image 20241225125737.png]]
 		- If SBP >90mmHg (and ongoing chest pain)
-			- Second dose of ==GTN 300-600 mg SL== and a third after 5 more minutes if pain still present; caution in right-sided and inferior infarcts → try look at ECG first (II, III, avF)
+			- Second dose of ==GTN 300-600 microgram SL== and a third after 5 more minutes if pain still present; caution in right-sided and inferior infarcts → try look at ECG first (II, III, avF)
 			- Give ==morphine 2.5-5mg IV== with ==metoclopramide 10-20mg IV== for nausea, if pain persists despite two to three doses of GTN
 				- Can also use fentanyl ==25-50 microgram IV== as an initial dose repeated every 5 to 10 minutes if required
 				- Older patients start at lower end of dose range
