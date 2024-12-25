@@ -63,7 +63,7 @@ The main ones to rule out are ACS (and its complications), acute aortic dissecti
 - Patients with PE, pericarditis or pneumothorax are dyspnoeic and breathe with shallow, painful respirations (pleuritic pain)
 - However, even if patients look well and appear comfortable at rest, they may still have a life-threatening underlying cause such as ACS, aortic dissection or PE
 ## A → E Assessment
-Prioritise assessing C in stable patients:
+Prioritise assessing C in stable patients; see immediate management below
 - C
 	- Blood pressure?
 		- Most patients have normal BP
@@ -83,24 +83,67 @@ Prioritise assessing C in stable patients:
 		- The ECG in a patient with pericarditis shows diffuse, concave ST-segment elevation with PR depression
 		- If the first ECG is non-diagnostic repeat after 15 minutes if the chest pain is continuing
 			- Repeat the ECG whenever the chest pain recurs, stops or changes in severity or character, as well as after 6–8 hours with repeat cardiac biomarkers (troponin) to rule out ACS
-- As from [[Acute Coronary Syndromes#STEMI|STEMI]] ![[Acute Coronary Syndromes#^stemi-management]]
 ## Immediate Management
-- Attach continuous non-invasive ECG, BP and pulse oximeter monitoring to the patient
-- Commence oxygen if hypoxic or shocked to maintain oxygen saturation >94%
-	- High-dose 40-60% oxygen unless obstructive airway disease ⇒ 28% Venturi mask
-- Establish IV access with two cannulae in peripheral veins
-	- Draw and send bloods for: FBC, UEC, cardiac biomarkers (troponin I and T) and caogulation profile
-- Portable CXR
-- If SBP >90mmHg
-	- Second dose of GTN 300-600 mg SL and a third after 5 more minutes if pain still present
-	- Give morphine 2.5-5mg IV with metoclopramide 10-20mg IV for nausea, if pain persists despite two to three doses of GTN
-- If SBP <90mmHg
-	- Check that the lung bases are clear to auscultation and give a bolus of 125-250mL IV normal saline
-	- If bases has signs of pulmonary oedema with an S3 gallop tachypnoea and basal crackles, treat as cardiogenic [[shock]]
 - Call senior for:
 	- Persistent hypoxia, hypotension or altered mental status despite the above measures
 	- HR >150 beats/min or <40 beats/min associated with hypotension as cardioversion or pacing may be required
 	- Persistent pain and ST segement changes on ECG
+- Position the patient in the position of comfort
+- A
+	- Address any airway compromise (see [[Acute Airway Failure]])
+- Attach continuous non-invasive ECG, BP and pulse oximeter monitoring to the patient
+- B
+	- Commence oxygen if hypoxic or shocked to maintain oxygen saturation >94%
+		- High-dose 40-60% oxygen unless obstructive airway disease ⇒ 28% Venturi mask
+- C
+	- For possible STEMI or high risk ACS with haemodynamic compromise move patient to the resuscitation area and/or attach patient to a defibrillator
+	- Commence or continue initial therapy for acute chest pain of possible cardiac origin:
+		- ==Aspirin 300 mg orally, chewed or dissolved before swallowing==
+		![[Pasted image 20241225120929.png]]
+		- If SBP >90mmHg (and ongoing chest pain)
+			- Second dose of ==GTN 300-600 mg SL== and a third after 5 more minutes if pain still present; caution in right-sided and inferior infarcts → try look at ECG first (II, III, avF)
+			- Give ==morphine 2.5-5mg IV== with ==metoclopramide 10-20mg IV== for nausea, if pain persists despite two to three doses of GTN
+				- Can also use fentanyl ==25-50 microgram IV== as an initial dose repeated every 5 to 10 minutes if required
+				- Older patients start at lower end of dose range
+			![[Pasted image 20241223210632.png]]
+		- If SBP <90mmHg
+			- Check that the lung bases are clear to auscultation and give a bolus of 125-250mL IV normal saline
+			- If bases has signs of pulmonary oedema with an S3 gallop tachypnoea and basal crackles, treat as cardiogenic [[shock]]
+	- Establish IV access with two cannulae in peripheral veins if not done so already
+		- Draw and send bloods for: FBC, UEC, cardiac biomarkers (troponin I and T) and caogulation profile
+	- Examine for signs of shock: (tachcardia and CRT ≥3 seconds) and/or abnormal skin perfusion and/or hypotension
+		- If shock (as above) and/or SBP <90mmHg give 250mL of 0.9% saline bolus
+		- Monitor patients with CCF for signs of fluid overload
+- D
+	- Measure GCS
+	- Manage pain (see [[Pain Management]]) if not done so already
+		- Mild: paracetamol 1000mg oral
+		- Moderate: (+paracetamol 1000mg oral)
+			- Oxycodone
+				- 16-65 years: 5mg oral, repeat if required after 30 minutes, max dose 10mg
+				- ≥65 years: 2.5mg oral, repeat after 30 minutes, max dose 5mg
+		- Severe: (do not give morphine or fentanyl if SBP <100mmHg)
+			- Morphine IV
+				- 16-65 years: 5mg IV, repeat if required after 5 minutes, max dose 10mg
+				- ≥65 years: 2.5mg IV, repeat if required after 5 minutes, max dose 5mg
+			- OR Fentanyl IV
+				- 16-65 years: 50mcg IV, repeat after 5 minutes, max dose 100 mcg
+				- ≥65 years: 25mcg IV, repeat after 5 minutes, max dose 50mcg
+- Exposure
+	- Measure temperature
+- Fluids
+	- Commence fluid balance chart as required
+	- Manage nausea and vomiting if not done so already
+		- metoclopramide 10 mg orally **or** IV/IM once only (over 20 years only)
+		- **or** ondansetron 4 mg orally **or** IV/IM. If symptoms persist after 60 minutes, repeat once, maximum dose 8 mg
+		- **or** prochlorperazine 5 mg orally once only **or** 12.5 mg IV/IM once only
+- Glucose
+	- Measure BGL
+	- If BGL<4mmol/L and NO ↓LOC → give sugary drink
+	- If BGL<4mmol/L and ↓LOC → glucose 10% 200mL by infusion over 15 minutes once only or glucagon 1mg IM
+- Portable CXR
+
+As from: https://aci.health.nsw.gov.au/ecat/adult/chest-pain and [eTG: Acute Chest Pain of Possible Cardiac Origin](https://app-tg-org-au.eu1.proxy.openathens.net/viewTopic?etgAccess=true&guidelinePage=Cardiovascular&topicfile=acute-chest-pain&guidelinename=Cardiovascular&sectionId=toc_d1e132#toc_d1e132)
 ## Selective History and Chart Review
 - Onset of the chest pain?
 	- Crescendo, build-up of pain ⇒ [[Acute Coronary Syndromes|ACS]]
@@ -179,4 +222,4 @@ Prioritise assessing C in stable patients:
 - Imaging:
 	- CXR
 ## Specific Management
-- See 
+- See [[Acute Coronary Syndromes#STEMI|STEMI Management]]
