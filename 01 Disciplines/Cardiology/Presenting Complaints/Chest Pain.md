@@ -196,6 +196,7 @@ As from: https://aci.health.nsw.gov.au/ecat/adult/chest-pain and [eTG: Acute Che
 	- Check for corticosteroids or NSAIDs as a possible cause of gastritis or oesophagitis
 ![[Pasted image 20241225131156.png]]
 ![[Pasted image 20241225131213.png]]
+As from [PASCA ACS Checklist](https://aci.health.nsw.gov.au/__data/assets/pdf_file/0020/824141/Pathway-for-Acute-Coronary-syndrome-Assessment-PACSA-Checklist-SAMPLE.pdf)
 ## Examination
 
 | Examination  | Notes                                                                                                                                      |
@@ -234,13 +235,36 @@ As from: https://aci.health.nsw.gov.au/ecat/adult/chest-pain and [eTG: Acute Che
 - Imaging:
 	- CXR
 ## Management
-- High clinical risk criteria:
-	- Any of the following
+- High clinical risk:
+	- Criteria: Any of the following
 		- Typical or ongoing symptoms
 		- Syncope at presentation or SBP <90mmHg
 		- Acute onset left ventricular failure
 		- Significant arrhythmia (2nd or 3rd degree AV block or VT)
 		- AMI, PCI or CABG in last 6 months
 		- Dynamic ECG: ST (>0.5mm up or down) or new T wave inversion
+		- Initial and repeat troponin positive with no non-ischaemic cause of troponin elevation
+	- Management
+		- Admit with cardiac monitoring
+		- Admitting team will advise:
+			- Anticoagulation
+			- Antiplatelet therapy
+			- Beta blockers
+			- Statins
+- Intermediate risk
+	- Criteria: Doesn't meet high or low risk criteria
+	- Management
+		- Admit without cardiac monitoring or discharge after senior review with follow up with GP/Cardiologist in one week
+- Low risk
+	- Criteria: Symptom free with non-ischaemic ECGs and ALL of the following:
+		- Age <45
+		- Symptoms atypical for angina
+		- no known coronary artery disease
+	- Management
+		- Treat other  diagnoses
+		- Follow up with GP
+		- Exercise stress testing, echo, cardiac perfusion and CTA **NOT** usually indicated
+![[Pasted image 20241225150149.png]]
+As from: [PASCA ACS Flowchart](https://aci.health.nsw.gov.au/__data/assets/pdf_file/0003/824142/Pathway-for-Acute-Coronary-Syndrome-Assessment-PACSA-flow-chart-SAMPLE.pdf)
 ## Specific Management
 - See [[Acute Coronary Syndromes#STEMI|STEMI Management]]
