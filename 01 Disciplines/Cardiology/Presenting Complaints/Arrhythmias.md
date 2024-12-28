@@ -32,6 +32,16 @@ Rotations:
 	- Atrial flutter with variable AV conduction/block
 	- Multifocal atrial tachycardia
 	- Sinus tachycardia with PACs or PVCs
+![[Pasted image 20241228233254.png]]
 ## Assessment
 ### End of Bed
 Patients who are normotensive with a tachycardia or arrhythmia may look deceptively well
+### A → E Assessment
+- Heart rate
+	- Take the patient's pulse, listen to the apex beat or read the ECG rhythm strip
+	- Feel for the volume of the pulse and its regularity
+- Does the ECG also demonstrate ischaemic changes?
+- Steps in assessing a tachycardia in an ECG:
+	1. Wide vs narrow complex (narrow = SVT, wide = VT)
+	2. Regular vs irregular
+	3. P waves and origin
