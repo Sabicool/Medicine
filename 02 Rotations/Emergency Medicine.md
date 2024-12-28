@@ -11,9 +11,9 @@
     - [[Acute Pulmonary Oedema]]
 
 - Emergencies: 
+    - [[Acute Airway Failure]]
     - [[Advanced Life Support]]
     - [[Basic Life Support]]
-    - [[Acute Airway Failure]]
     - [[Shock]]
     - [[Unconsciousness]]
     - [[Anaphylaxis]]
@@ -25,6 +25,7 @@
 
 - Presenting Complaints: 
     - [[Chest Pain]]
+    - [[Arrhythmias]]
     - [[Decreased Urine Output]]
     - [[Altered Mental Status]]
     - [[Shortness of Breath, Cough and Haemopytsis]]

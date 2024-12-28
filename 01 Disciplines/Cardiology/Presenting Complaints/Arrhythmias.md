@@ -40,8 +40,18 @@ Patients who are normotensive with a tachycardia or arrhythmia may look deceptiv
 - Heart rate
 	- Take the patient's pulse, listen to the apex beat or read the ECG rhythm strip
 	- Feel for the volume of the pulse and its regularity
-- Does the ECG also demonstrate ischaemic changes?
-- Steps in assessing a tachycardia in an ECG:
-	1. Wide vs narrow complex (narrow = SVT, wide = VT)
-	2. Regular vs irregular
-	3. P waves and origin
+- ECG
+	- Does the ECG also demonstrate ischaemic changes?
+	- Steps in assessing a tachycardia in an ECG:
+		1. Wide vs narrow complex (narrow = SVT, wide = VT)
+		2. Regular vs irregular
+		3. P waves and origin
+	- Broad-complex tachycardia in an older patient, or in any patient with known prior myocardial ischaemia, is probably VT and should be treated as such
+- Blood pressure
+	- If hypotensive can be due to:
+		- Hypotension with a compensatory tachycardia (usually sinus, but may be AF)
+		- Tachycardia causing hypotension (most commonly VT, AF with RVR and SVT)
+- Respiratory rate
+	- Consider if the patient has APO
+## Management
+### Immediate Management

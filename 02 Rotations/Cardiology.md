@@ -3,6 +3,7 @@
 <!-- SerializedQuery: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) group by reverse(split(file.folder, "/"))[0] -->
 - Conditions: 
     - [[Acute Coronary Syndromes]]
+    - [[Aortic Dissection]]
     - [[Essential Hypertension]]
     - [[Heart Failure]]
     - [[Hypertensive crisis]]
@@ -11,7 +12,6 @@
     - [[Pulmonary Hypertension]]
     - [[Secondary Hypertension]]
     - [[Stable Angina]]
-    - [[Aortic Dissection]]
     - [[Septicaemia]]
 
 - Emergencies: 
@@ -23,6 +23,7 @@
 
 - Presenting Complaints: 
     - [[Chest Pain]]
+    - [[Arrhythmias]]
     - [[Shortness of Breath, Cough and Haemopytsis]]
 
 <!-- SerializedQuery END -->

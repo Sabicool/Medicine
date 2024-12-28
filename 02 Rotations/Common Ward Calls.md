@@ -17,6 +17,7 @@ aliases:
 
 - Presenting Complaints: 
     - [[Chest Pain]]
+    - [[Arrhythmias]]
     - [[Decreased Urine Output]]
     - [[Altered Mental Status]]
     - [[Shortness of Breath, Cough and Haemopytsis]]
