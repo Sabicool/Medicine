@@ -53,8 +53,7 @@ Patients who are normotensive with a tachycardia or arrhythmia may look deceptiv
 		- Tachycardia causing hypotension (most commonly VT, AF with RVR and SVT)
 - Respiratory rate
 	- Consider if the patient has APO
-## Management
-### Immediate Management
+## Immediate Management
 - Tachycardia in a haemodynamically unstable patient with hypotension, chest pain, SOB and/or altered mental status:
 	- Call for senior help.
 	- Apply high-flow oxygen by mask, and gain IV access.
@@ -155,3 +154,25 @@ Patients who are normotensive with a tachycardia or arrhythmia may look deceptiv
 	- Other: Vasovagal attack, healthy young athletes, hypothermia, hypothyroidsim, increased ICP in association with hypertension (Cushing's reflex)
 ## Assessment
 ### End of Bed
+- If concerned tell the nurse to bring the cardiac arrest trolley to the bedside and attach an ECG monitor to the patient; consider MET call
+### A → E Assessment
+- Heart rate?
+	- Read the ECG or palpate the patient's pulse to identify the rate
+	- Heart rhythm?
+- ECG
+	- Look for any association between P waves and the QRS complexes; determine if sinus bradycardia or AV block
+	- Consider junctional bradycardia if rhythm regular but no P waves or slow AF if it is regular with no P waves
+- Blood pressure?
+	- Most causes of hypotension are accompanied by reflex tachycardia however 5-10% of haemorrhagic shock can have bradycardia
+	- Otherwise, bradyarrhythmia is likely to be responsible for hypotension
+- Temperature?
+	- Hypothermia may be associated with bradyarrhythmia
+## Immediate Management
+- HR<40 beats/min and SBP <90mmHg or features of circulatory compromise
+	- Call senior for help
+	- Apply high-flow oxygen by mask and gain IV access
+	- Attach an ECG monitor/defibrillator to the patient and confirm rhythm
+	- Elevate patient's legs temporarily in the Trendelenburg position
+	- Give ==atropine 0.5-0.6 mg IV==
+		- If no response after couple of minutes give an additional dose about every 3 minutes up to a total dose of 0.04 mg/kg (3mg for 75kg adult)
+		- Organise transthoracic pacing if still no improvement and the patient is symptomatic (requires small amounts of midazolam 1.25-2.5mg or diazepam 2.5mg IV as the procedure is uncomfortable)
