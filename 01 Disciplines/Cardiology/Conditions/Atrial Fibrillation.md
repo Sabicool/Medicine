@@ -23,4 +23,5 @@
 		- If the patient has documented or suspected depressed LV function give:
 			- Digoxin 0.5mg slowly IV or PO repeated in 8 hours followed by 0.125-0.25mg PO daily thereafter
 	- Atrial fibrillation wit a ventricular rate <100 beats/min
-	- 
+		- AF <100 beats/min in an untreated patient suggests underlying AV nodal dysfunction ⇒ do not require immediate rate or rhythm control unless haemodynamically compromised (e.g. hypotension, chest pain or LV failure)
+			- Start these patients on anticoagulation if no contraindications

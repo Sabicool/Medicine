@@ -104,4 +104,7 @@ Patients who are normotensive with a tachycardia or arrhythmia may look deceptiv
 | MSS         | Swelling, thigh or leg tenderness or oedema ⇒ DVT                         |
 |             | Tremor, brisk deep tendon reflexes ⇒ hyperthyroidism                      |
 ## Specific Management
-- [[Atrial Fibrillation]]
+- [[Atrial Fibrillation#Acute Management|Atrial fibrillation]] (management is also similar for atrial flutter)
+- Supraventricular tachycardia
+	- Treatment of narrow-complex SVT is the same, irrespsective of whether WPW is present (unlike SVT with aberrancy i.e. wide complex SVT))
+	- Unstable SVT
