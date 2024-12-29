@@ -33,5 +33,12 @@ Rotations:
 			- Prepare for synchronised cardioversion if amiodarone is unsuccessful or the condition deteriorates
 			- Transfer to ICU/CCU for continuous ECG monitoring
 			- Look for precipitating cause of the VT such as myocardial ischaemia, eletrolyte abnormality (hypokalaemia, hypomagnesaemia, hypocalcaemia) or drug toxicity (antiarrhythmic and other sodium-channel blocking drugs especially TCAs)
-		- Polymorphic
-			- 
+		- Polymorphic: ECG shows a braod-complex QRS, regular rhythm, rate >100 beats/min but with a variable and changing axis
+			- Review the baseline 12-lead ECG
+			- Normal baseline QT interval
+				- Give amiodarone as for monomorphic VT
+			- Baseline QT interval is prolonged 'torsades de pointes'
+				- Causes include electrolyte abnormality (e.g. hypokalaemia, hypomagnesamia, tricyclic antidepressants) drug interactions or a congenital disorder
+				- Give magnesium sulfate 2g (8mmol or 4mL of 49.3% solution) IV over 1-2 min
+				- Correct any underlying metabolic disorder, particularly hypokalaemia
+				- DC cardioversion is essential for critical hypotension but the torsades de points rhythym often recurs and may require several shocks

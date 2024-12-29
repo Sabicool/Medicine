@@ -125,3 +125,5 @@ Patients who are normotensive with a tachycardia or arrhythmia may look deceptiv
 		- Hyperthyroidism
 	- Transfer the patient to a telemetry ward or CCU for further investigation and continuous ECG monitoring
 - [[Ventricular Tachycardia#Management|Ventricular Tachycardia]]
+# Bradyarrhythmias
+## Phone Call/Presentation Questions
