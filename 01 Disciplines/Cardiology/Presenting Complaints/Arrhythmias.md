@@ -5,7 +5,7 @@ Rotations:
 ---
 # Tachyarrhythmias
 ## Phone Call/Presentation Questions
-- Heart rate>
+- Heart rate?
 - Regular or irregular?
 - Blood pressure?
 - Chest pain, dyspnoea or altered mental status?
@@ -127,3 +127,31 @@ Patients who are normotensive with a tachycardia or arrhythmia may look deceptiv
 - [[Ventricular Tachycardia#Management|Ventricular Tachycardia]]
 # Bradyarrhythmias
 ## Phone Call/Presentation Questions
+- Heart rate?
+- Blood pressure?
+- Is the patient on digoxin, beta-blocker, calcium channel blocker or other antiarrhythmic drug?
+- Reason for admission
+### Instructions over the phone
+- When the patient has HR <40, SBP <90mmHg or features of circulatory compromise
+	- Oxygen by mask to maintain saturation >94% and attach pulse oximeter and cardiac monitoring to the patient
+	- Consider asking the nurse to temporarily place the patient in Trendelenburg position if the patient is hypotensive but beneficial effect is transitory and may result in raised intracranial pressure and aspiration
+	- Request an urgent 12-lead ECG
+	- Ask for an IV trolley at the patient's bedside, with two cannulae, ready for your arrival
+	- Request the cardiac arrest trolley with defibrillator, pacer and resuscitation equipment to be brought to the patient's bedside and atropine 1mg drawn up ready
+- See any patient with a bradycardia and signs of circulatory compromise such as chest pain, SOB, hypotension or an altered mental status immediately; or if the HR <40 beats/min, as this will trigger a MET call
+## Common Causes
+- Bradyarrhythmias include
+	- Sinus bradycardia
+	- Junctional bradycardia
+	- First degree AV block
+	- Second degree AV block
+		- Type 1 (Wenckebach): ↑ PR interval untl beat dropped
+		- Type 2: Normal or short PR interval with dropped beat
+	- Third degree AV block
+	- AF with a slow ventricular rate
+- Causes of bradyarrhythmias include
+	- Drugs: antiarrhthymic agents (beta blockers, calcium channel blockers, digoxin, amiodarone, sotalol)
+	- Cardiac disease: Acute MI (esp. inferior wall) sick sinus syndrome
+	- Other: Vasovagal attack, healthy young athletes, hypothermia, hypothyroidsim, increased ICP in association with hypertension (Cushing's reflex)
+## Assessment
+### End of Bed
