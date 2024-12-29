@@ -107,4 +107,9 @@ Patients who are normotensive with a tachycardia or arrhythmia may look deceptiv
 - [[Atrial Fibrillation#Acute Management|Atrial fibrillation]] (management is also similar for atrial flutter)
 - Supraventricular tachycardia
 	- Treatment of narrow-complex SVT is the same, irrespsective of whether WPW is present (unlike SVT with aberrancy i.e. wide complex SVT))
-	- Unstable SVT
+	- Unstable SVT: SVT with hypotension chest pain (angina), SOB (LV failure) or an altered mental state
+		- Call for senior help
+		- Apply high-flow oxygen by mask and gain IV access
+		- Attach the ECG monitor/defibrillator to the patient and confirm the rhythm
+		- Prepare procedural sedation such as propofol 200mg in 20mL IV and call an anaesthetist
+		- Once senior assistance is present, the treatment of choice is synchronised DC cardioversion beginning with 70-120J (biphasic) repeated up to three times
