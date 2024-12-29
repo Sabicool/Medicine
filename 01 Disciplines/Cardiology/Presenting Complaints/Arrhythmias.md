@@ -105,24 +105,23 @@ Patients who are normotensive with a tachycardia or arrhythmia may look deceptiv
 |             | Tremor, brisk deep tendon reflexes ⇒ hyperthyroidism                      |
 ## Specific Management
 - [[Atrial Fibrillation#Acute Management|Atrial fibrillation]] (management is also similar for atrial flutter)
-- Supraventricular tachycardia
-	- Treatment of narrow-complex SVT is the same, irrespsective of whether WPW is present (unlike SVT with aberrancy i.e. wide complex SVT))
-	- Unstable SVT: SVT with hypotension chest pain (angina), SOB (LV failure) or an altered mental state
-		- Call for senior help
-		- Apply high-flow oxygen by mask and gain IV access
-		- Attach the ECG monitor/defibrillator to the patient and confirm the rhythm
-		- Prepare procedural sedation such as propofol 200mg in 20mL IV and call an anaesthetist
-		- Once senior assistance is present, the treatment of choice is synchronised DC cardioversion beginning with 70-120J (biphasic) repeated up to three times
-	- Stable SVT
-		- Vagal manoeuvres
-			- Valsalva maneuvre: 
-				1. Place the patient in the Trendelenburg (foot of the bed up) position on a trolley
-				2. Ask the patient to blow into the nozzle end of a 20 mL syringe for 10 seconds to try to force the plunger halfway up, then release suddenly
-			- Carotid sinus massage
-
-> [!WARNING]
-> Always perform carotid sinus massage with IV atropine 600mcg available and continuous ECG monitoring as some patients develop asystole
-> In some patients carotid sinus massage has resulted in stroke from carotid artery stenosis. Always listen over each carotid artery for bruit. Do not perform if there is any of:
-> - Carotid bruit or known carotid artery stenosis >50%
-> - TIA, stroke or AMI in past 3 months
-> - History of symptomatic bradyarrhythmias
+- [[Supraventricular Tachycardia#Management|SVT]]
+- Ectopic atrial tachycardias and junctional tachycardias for the most part I'm not sure; ask a cardiologist
+- Sinus tachycardia: treat the underlying cause; most common causes include
+	- Hypovolaemia, hypoxia of any cause, LV failure, fever or infection, hyperthyroidism, anaemia, sympathomimetic or anticholinergic drugs, pain or anxiety
+- Sinus tachycardia with PVCs
+	- Assess for malignant features:
+		- R on T phenomenon
+		- Multifocal PVCs
+		- Couplets or salvos with three or more PVCs in a row (non-sustained VT)
+		- Frequent PVCs (>5/min)
+	- Assess for underlying cause e.g.
+		- Hypoxia
+		- Myocardial ischaemia
+		- Hypokalaemia
+		- Acid-base imbalance
+		- Cardiomyopathy and MVP
+		- Drugs such as digoxin and other antiarrhythmic agents
+		- Hyperthyroidism
+	- Transfer the patient to a telemetry ward or CCU for further investigation and continuous ECG monitoring
+- [[Ventricular Tachycardia#Management|Ventricular Tachycardia]]

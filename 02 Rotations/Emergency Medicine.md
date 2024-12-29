@@ -5,17 +5,19 @@
     - [[Acute Coronary Syndromes]]
     - [[Hypertensive crisis]]
     - [[Hypotension]]
+    - [[Supraventricular Tachycardia]]
+    - [[Ventricular Tachycardia]]
     - [[Hyperglycaemia]]
     - [[Septicaemia]]
     - [[Acute Otitis Media]]
     - [[Acute Pulmonary Oedema]]
 
 - Emergencies: 
-    - [[Acute Airway Failure]]
-    - [[Advanced Life Support]]
     - [[Basic Life Support]]
+    - [[Acute Airway Failure]]
     - [[Shock]]
     - [[Unconsciousness]]
+    - [[Advanced Life Support]]
     - [[Anaphylaxis]]
     - [[Acute Respiratory Failure]]
 
