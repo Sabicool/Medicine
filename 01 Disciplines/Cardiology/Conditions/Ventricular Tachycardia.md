@@ -8,3 +8,30 @@ Rotations:
 - The most common cause of VT is myocardial ischaemia or myocardial scarring following acute MI
 - A broad-complex SVT with aberrancy from ventricular pre-excitation (WPW) is treated the same as VT
 # Management
+- Unstable VT
+	- No recordable BP and no palpable pulse (pVT)
+		- Call for cardiac arrest trolley and proceed with [[Advanced Life Support|ALS]]
+		- Prioritise early defibrillation
+	- VT with hypotension, angina, LVF or impaired mental status
+		- Call for senior help
+		- Apply high-flow oxygen by mask and gain IV access
+		- Attach ECG monitor/defibrillator to the patient and confirm rhythm
+		- Prepare procedural sedation such as propofol 200mg in 20mL IV and call an anaesthetist
+		- Once senior assistence is present proceed with DC cardioversion (start with 120-150 J biphasic and repeat up to three times, with stepwise increase in joules)
+- Stable VT
+	- Deterioration can be rapid, be prepared
+	- Call for cardiac arrest equipment and senior assistance
+	- Give the patient 100% $\ce{O2}$ by mask
+	- Attach an ECG monitor to the patient
+	- Make sure than IV line is in place
+	- Obtain a 12-lead ECG and review QRS complexes and determine if it is monomorphic or polymorphic
+		- Monomorphic: ECG shows a broad-complex QRS, regular rhythm, rate >100 beats/min with constant QRS
+			- LV function unknown or impaired:
+				- Give amiodarone 300 mg IV bolus over 20-60 minutes followed by infusion of 900 mg over 24 hours
+			- LV function known to be normal:
+				- Administer amiodarone as above
+			- Prepare for synchronised cardioversion if amiodarone is unsuccessful or the condition deteriorates
+			- Transfer to ICU/CCU for continuous ECG monitoring
+			- Look for precipitating cause of the VT such as myocardial ischaemia, eletrolyte abnormality (hypokalaemia, hypomagnesaemia, hypocalcaemia) or drug toxicity (antiarrhythmic and other sodium-channel blocking drugs especially TCAs)
+		- Polymorphic
+			- 
