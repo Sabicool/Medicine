@@ -104,3 +104,4 @@ Patients who are normotensive with a tachycardia or arrhythmia may look deceptiv
 | MSS         | Swelling, thigh or leg tenderness or oedema ⇒ DVT                         |
 |             | Tremor, brisk deep tendon reflexes ⇒ hyperthyroidism                      |
 ## Specific Management
+- [[Atrial Fibrillation]]
