@@ -113,3 +113,16 @@ Patients who are normotensive with a tachycardia or arrhythmia may look deceptiv
 		- Attach the ECG monitor/defibrillator to the patient and confirm the rhythm
 		- Prepare procedural sedation such as propofol 200mg in 20mL IV and call an anaesthetist
 		- Once senior assistance is present, the treatment of choice is synchronised DC cardioversion beginning with 70-120J (biphasic) repeated up to three times
+	- Stable SVT
+		- Vagal manoeuvres
+			- Valsalva maneuvre: 
+				1. Place the patient in the Trendelenburg (foot of the bed up) position on a trolley
+				2. Ask the patient to blow into the nozzle end of a 20 mL syringe for 10 seconds to try to force the plunger halfway up, then release suddenly
+			- Carotid sinus massage
+
+> [!WARNING]
+> Always perform carotid sinus massage with IV atropine 600mcg available and continuous ECG monitoring as some patients develop asystole
+> In some patients carotid sinus massage has resulted in stroke from carotid artery stenosis. Always listen over each carotid artery for bruit. Do not perform if there is any of:
+> - Carotid bruit or known carotid artery stenosis >50%
+> - TIA, stroke or AMI in past 3 months
+> - History of symptomatic bradyarrhythmias
