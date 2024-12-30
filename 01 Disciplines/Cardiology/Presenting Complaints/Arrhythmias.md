@@ -176,3 +176,4 @@ Patients who are normotensive with a tachycardia or arrhythmia may look deceptiv
 	- Give ==atropine 0.5-0.6 mg IV==
 		- If no response after couple of minutes give an additional dose about every 3 minutes up to a total dose of 0.04 mg/kg (3mg for 75kg adult)
 		- Organise transthoracic pacing if still no improvement and the patient is symptomatic (requires small amounts of midazolam 1.25-2.5mg or diazepam 2.5mg IV as the procedure is uncomfortable)
+## Selective History and Chart Review
