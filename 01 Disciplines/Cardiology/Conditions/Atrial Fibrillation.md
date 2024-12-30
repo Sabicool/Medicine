@@ -1,5 +1,5 @@
 # Management
-## Acute Management
+## Acute Management of Rapid Ventricular Response
 - Unstable: AF with hypotension, altered mental status, chest pain (angina) or SOB (LV failure)
 	- DC cardioversion beginning with 120-150 J biphasic provided that the AF is of recent onset (<48h)
 	- A patient on digoxin therapy may require temporary transcutaneous pacing, as asystole can follow DC reversion
@@ -25,3 +25,6 @@
 	- Atrial fibrillation wit a ventricular rate <100 beats/min
 		- AF <100 beats/min in an untreated patient suggests underlying AV nodal dysfunction ⇒ do not require immediate rate or rhythm control unless haemodynamically compromised (e.g. hypotension, chest pain or LV failure)
 			- Start these patients on anticoagulation if no contraindications
+## Acute Management of Slow Ventricular Response
+- Does not require treatment unless the patient is hypotensive or has symptoms of vital organ hypoperfusion (e.g. syncope, confusion angina or LVF)
+- Definitive treatment includes discontinuation of any drug that depresses cardiac conduction and consideration for temporary or permanent pacemaker placement

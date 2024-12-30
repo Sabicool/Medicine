@@ -103,7 +103,7 @@ Patients who are normotensive with a tachycardia or arrhythmia may look deceptiv
 | MSS         | Swelling, thigh or leg tenderness or oedema ⇒ DVT                         |
 |             | Tremor, brisk deep tendon reflexes ⇒ hyperthyroidism                      |
 ## Specific Management
-- [[Atrial Fibrillation#Acute Management|Atrial fibrillation]] (management is also similar for atrial flutter)
+- [[Atrial Fibrillation#Acute Management of Rapid Ventricular Response|Atrial fibrillation]] (management is also similar for atrial flutter)
 - [[Supraventricular Tachycardia#Management|SVT]]
 - Ectopic atrial tachycardias and junctional tachycardias for the most part I'm not sure; ask a cardiologist
 - Sinus tachycardia: treat the underlying cause; most common causes include
@@ -177,3 +177,30 @@ Patients who are normotensive with a tachycardia or arrhythmia may look deceptiv
 		- If no response after couple of minutes give an additional dose about every 3 minutes up to a total dose of 0.04 mg/kg (3mg for 75kg adult)
 		- Organise transthoracic pacing if still no improvement and the patient is symptomatic (requires small amounts of midazolam 1.25-2.5mg or diazepam 2.5mg IV as the procedure is uncomfortable)
 ## Selective History and Chart Review
+- Previous episodes of bradycardia or heart block?
+- Cardiac risk factors (e.g. smoking, hypertension, hypercholesterolaemia, diabetes, renal impairment)
+- History of angina or previous acute MI
+- Recent symptoms suggestive of an ischaemic event (e.g. chest pain, nausea or vomiting)
+- Charts
+  - Medication chart: drugs that might cause bradycardia including antiarrhythmic agents (e.g. beta blockers, calcium channel blockers, digoxin, anmiodarone or sotalol)
+## Examinations
+
+| Examinations | Notes                                                         |
+| ------------ | ------------------------------------------------------------- |
+| Vitals       | Bradypnoea ⇒ hypothermia, hypothyroidism                      |
+|              | Hypothermia ⇒ hypothyroidism                                  |
+|              | Hypertension ⇒ underlying CAD                                 |
+| HEENT        | Coarse facial features ⇒ hypothyroidism                       |
+|              | Loss of lateral third of eyebrows ⇒ hypothyroidism            |
+|              | Periorbital xanthomas ⇒ CAD                                   |
+|              | Fundi with hypertensive or diabetic changes ⇒ CAD             |
+| CVS          | Mitral regurgitant murmur ⇒ recent acute MI                   |
+| GIT          | Renal, aortic or femoral bruits ⇒ CAD and atherosclerosis     |
+| Neuro        | Delayed return phase of deep tendon reflexes ⇒ hypothyroidism |
+## Specific Management
+- Sinus bradycardia
+	- No immediate treatment is required if the patient is not hypotensive
+	- If the patient is on digoxin with a HR <60 beats/min, withhold further digoxin until the HR is >60 beats/min
+	- If the patient is on medication that depresses conduction, withhold the next dose until the HR is >60 beats/min
+- [[Atrial Fibrillation#Acute Management of Slow Ventricular Response|Atrial Fibrillation]]
+- AV block 2nd and third degree will need temporary pacing while addressing reversible causes or permanent pacemaker
