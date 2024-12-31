@@ -63,14 +63,37 @@ Rotations:
 	- Heart Rate?
 		- Low volume or impalpable peripheral pulses indicates hypoperfusion
 		- Hypotension usually accompanied by compensatory reflex sinus tachycardia
+		- Look at the ECG
+			- HR <50 beats/min ⇒ vasovagal episode, autonomic neuropathy, rate-slowing drugs, [[Arrhythmias#Bradyarrhythmias|bradyarrhythmia]], or haemorrhagic shock (haemorrhagic shock can have bradycardia sometimes)
+			- HR >150 beats/min and evidence of VT, AF with RVR or SVT electrical cardioversion [[Arrhythmias#Immediate Management|see: Tachyarrhythmia immediate management]]
+			- Other ECG abnormalities can indicate drug toxicity or electrolyte abnormality or 2° to the hypotension
 - **D**isability:
 	- Is the patient orientated?
 	- GCS?
 	- Pupils?
 	- BSL?
 - **E**nvironment
-	- Febrile?
+	- Febrile/Temperature?
+		- Consider sepsis with >38°C or <36°C but be aware of normal temperature sepsis in the elderly and immunosuppressed
+		- Hypothermia can also result secondary to shock
 	- Abdomen?
+## Initial Examination: Is the Patient in Shock?
+- This targeted examination aims to identify with the patient is in shock?
+
+| Examination | Notes                                                                      |
+| ----------- | -------------------------------------------------------------------------- |
+| Vitals      | Repeat (esp. HR and BP)                                                    |
+| Skin        | Cool, mottled and clammy ⇒ ↓ perfusion                                     |
+|             | Warm and pink ⇒ adequate perfusion or distributive shock                   |
+|             | Poor turgor, lack of sweating ⇒ ↓ perfusion                                |
+|             | Purpura (septicaemia) or urticaria/erythema (anaphylaxis)                  |
+| CVS         | Small pulse volume and slow capillary refill >2 sec ⇒ hypoperfusion        |
+|             | Non visible JVP, flat neck veins ⇒ hypovolaemic or distributive shock      |
+|             | Elevated JVP, distended neck veins ⇒ cardiogenic or obstructive shock      |
+|             | Kussmaul's JVP sign rises on inspiration ⇒ cardiac tamponade or RV failure |
+| Resp        | Stridor ⇒ anaphylaxis                                                      |
+|             |                                                                            |
+
 ## History
 - Reason for admission
 - HxPC:
