@@ -101,6 +101,10 @@ Rotations:
 | Urine       | Urine output >0.5mL/kg/h or >30mL/h ⇒ adequate renal perfusion                                                                             |
 |             | Urine output <0.5mL/kg/h or <30mL/h ⇒ ↓ renal perfusion                                                                                    |
 
+## Immediate Management
+- Call senior immediately
+- Commence oxygen therapy to maintain saturation >94%
+- Shocked patients
 ## History
 - Reason for admission
 - HxPC:
