@@ -104,7 +104,12 @@ Rotations:
 ## Immediate Management
 - Call senior immediately
 - Commence oxygen therapy to maintain saturation >94%
-- Shocked patients
+- Obtain adequate IV access
+	- Two large bore 14-16G cannulae in large peripheral veins  (antecubital veins preferred)
+	- Send bloods for FBC, UEC, coagulation profile and troponin if the ECG is abnormal
+	- Check VBG including lactate
+	- Request immediate cross match of 2-6 units of packed RBCs if haemorrhage is suspected
+- 
 ## History
 - Reason for admission
 - HxPC:
