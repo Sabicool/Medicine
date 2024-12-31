@@ -80,19 +80,26 @@ Rotations:
 ## Initial Examination: Is the Patient in Shock?
 - This targeted examination aims to identify with the patient is in shock?
 
-| Examination | Notes                                                                      |
-| ----------- | -------------------------------------------------------------------------- |
-| Vitals      | Repeat (esp. HR and BP)                                                    |
-| Skin        | Cool, mottled and clammy ⇒ ↓ perfusion                                     |
-|             | Warm and pink ⇒ adequate perfusion or distributive shock                   |
-|             | Poor turgor, lack of sweating ⇒ ↓ perfusion                                |
-|             | Purpura (septicaemia) or urticaria/erythema (anaphylaxis)                  |
-| CVS         | Small pulse volume and slow capillary refill >2 sec ⇒ hypoperfusion        |
-|             | Non visible JVP, flat neck veins ⇒ hypovolaemic or distributive shock      |
-|             | Elevated JVP, distended neck veins ⇒ cardiogenic or obstructive shock      |
-|             | Kussmaul's JVP sign rises on inspiration ⇒ cardiac tamponade or RV failure |
-| Resp        | Stridor ⇒ anaphylaxis                                                      |
-|             |                                                                            |
+| Examination | Notes                                                                                                                                      |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Vitals      | Repeat (esp. HR and BP)                                                                                                                    |
+| Skin        | Cool, mottled and clammy ⇒ ↓ perfusion                                                                                                     |
+|             | Warm and pink ⇒ adequate perfusion or distributive shock                                                                                   |
+|             | Poor turgor, lack of sweating ⇒ ↓ perfusion                                                                                                |
+|             | Purpura (septicaemia) or urticaria/erythema (anaphylaxis)                                                                                  |
+| CVS         | Small pulse volume and slow capillary refill >2 sec ⇒ hypoperfusion                                                                        |
+|             | Non visible JVP, flat neck veins ⇒ hypovolaemic or distributive shock                                                                      |
+|             | Elevated JVP, distended neck veins ⇒ cardiogenic or obstructive shock                                                                      |
+|             | Kussmaul's JVP sign rises on inspiration ⇒ cardiac tamponade or RV failure                                                                 |
+| Resp        | Stridor ⇒ anaphylaxis                                                                                                                      |
+|             | Crackles on chest auscultation ⇒ sepsis or cardiogenic shock                                                                               |
+|             | Tachypnoea ⇒ acidotic breathing                                                                                                            |
+| GIT         | Check for tenderness or a pulsatile mass (e.g. AAA)                                                                                        |
+|             | Generalised abdominal tenderness with peritonism ⇒ bowel infarction, intraperitoneal haemorrhage, pancreatitis with third-space fluid loss |
+| CNS         | Alert, orientated ⇒ maintaining cerebral perfusion                                                                                         |
+|             | Apprehensive, confused, agitated, delirious ⇒ ↓ cerebral perfusion                                                                         |
+| Urine       | Urine output >0.5mL/kg/h or >30mL/h ⇒ adequate renal perfusion                                                                             |
+|             | Urine output <0.5mL/kg/h or <30mL/h ⇒ ↓ renal perfusion                                                                                    |
 
 ## History
 - Reason for admission
