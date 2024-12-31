@@ -109,7 +109,9 @@ Rotations:
 	- Send bloods for FBC, UEC, coagulation profile and troponin if the ECG is abnormal
 	- Check VBG including lactate
 	- Request immediate cross match of 2-6 units of packed RBCs if haemorrhage is suspected
-- 
+- Resuscitate intravascular depletion
+	- Give 20mL/kg normal saline IV over 10 minutes if the patient is hypotensive, JVP is low and there is no crackles on chest auscultation
+	- Elevate or squeeze IV bag or use IV pressure cuffs
 ## History
 - Reason for admission
 - HxPC:
