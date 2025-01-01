@@ -197,6 +197,8 @@ Rotations:
 - Check recent Hb for trends
 - VBG might show lactic acidosis or hyperkalaemia from low tissue perfusion
 - Urea to creatinine ratio: a ratio >12 is suggestive of volume depletion or a GI bleed
+- Urine sample for MCS if dipstick testing indicates potential urosepsis
+- Review CXR 
 # Sources
 1. FRCEM AFTBAFFF, FFSEM MCMMbcF, FACEM ACMMc. Marshall & Ruedy’s On Call: Principles & Protocols. 3rd edition. Elsevier; 2016. 648 p. 157
 2. Common reasons for review lecture SCGH: Pre-internship 2024
