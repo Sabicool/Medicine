@@ -112,6 +112,13 @@ Rotations:
 - Resuscitate intravascular depletion
 	- Give 20mL/kg normal saline IV over 10 minutes if the patient is hypotensive, JVP is low and there is no crackles on chest auscultation
 	- Elevate or squeeze IV bag or use IV pressure cuffs
+	- Observe response to fluid challenge by monitoring HR, BP, JVP, peripheral perfusion, basal lung crackles and urine output; repeat 20mL/kg as clinically indicated
+		- Titrate fluid resuscitation carefully in a patient with a history of cardiac failure and commence with a smaller fluid bolus of 5mL/kg
+		- Ensure all patients who are bleeding maintain a Hb >90-100
+- Treat any immediately apparent cause
+	- Give adrenaline 0.3-0.5mg (0.3-0.5mL of 1:1000) IM for anaphylaxis
+	- Broad-spectrum antibiotics for septicaemia
+- Insert IDC to monitor urine output
 ## History
 - Reason for admission
 - HxPC:
