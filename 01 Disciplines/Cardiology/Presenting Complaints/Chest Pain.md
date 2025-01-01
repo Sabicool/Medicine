@@ -3,6 +3,7 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
+date: 2025-01-01
 ---
 # Quick Links
 - External
@@ -78,7 +79,7 @@ Prioritise assessing C in stable patients; see immediate management below
 		- Take BP in both arms if the pain is suspicious of aortic dissection (sudden onset, sharp, tearing or migratory) 
 			- Acute aortic dissection (AAD) suggested by a difference of >15mmHg
 		- Hypotension occurs in ACS, massive PE and AAD with cardiac tamponade
-		- Hypertension with ACS or aortic dissection should be treated urgently in resuscitation area (see: [[Hypertensive crisis]])
+		- Hypertension with ACS or aortic dissection should be treated urgently in resuscitation area (see: [[Hypertension]])
 	- Heart rate?
 		- If HR >150 or <40 obtain 12 lead ECG and/or rhythym strip to diagnose the arrhythymia
 			- Consider AF or VT in HR>140 and therefore consider urgent cardioversion especially if associated with chest pain or hypotension

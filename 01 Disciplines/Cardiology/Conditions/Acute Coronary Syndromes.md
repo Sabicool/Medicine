@@ -59,7 +59,7 @@ As from: [PASCA ACS Flowchart](https://aci.health.nsw.gov.au/__data/assets/pdf_f
 - PCI not available:
 	- Check for contraindications to thrombolysis:
 		- Symptoms present for more than 12 hours
-		- BP >180/110 → treat hypertension (see [[Hypertensive crisis]]) and reassess
+		- BP >180/110 → treat hypertension (see [[Hypertension]]) and reassess
 		- Major trauma or surgery or internal bleeding within one month
 		- Ischaemic stroke within 3 months
 		- Intracerebral bleed at any time

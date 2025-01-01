@@ -5,16 +5,16 @@
     - [[Acute Coronary Syndromes]]
     - [[Essential Hypertension]]
     - [[Heart Failure]]
-    - [[Hypertensive crisis]]
     - [[Hypotension]]
     - [[Pulmonary Hypertension]]
     - [[Secondary Hypertension]]
     - [[Stable Angina]]
+    - [[Supraventricular Tachycardia]]
     - [[Aortic Dissection]]
     - [[Pericarditis]]
     - [[Atrial Fibrillation]]
-    - [[Supraventricular Tachycardia]]
     - [[Ventricular Tachycardia]]
+    - [[Hypertension]]
     - [[Septicaemia]]
 
 - Emergencies: 
