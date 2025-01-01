@@ -118,8 +118,24 @@ Rotations:
 - Treat any immediately apparent cause
 	- Give adrenaline 0.3-0.5mg (0.3-0.5mL of 1:1000) IM for anaphylaxis
 	- Broad-spectrum antibiotics for septicaemia
-- Insert IDC to monitor urine output
-## History
+- Insert IDC to monitor urine output (0.5-1 mL/kg/h ⇒ restoration of adequate renal perfusion)
+- 12-lead ECG and review the rhythm strip
+	- Give IV atropine bolus (0.5-1.0mg) if HR <50
+	- Perform DC cardioversion with appropriate sedation if HR>150 beats/min with hypotension and VT, AF RVR or SVT (see [[Arrhythmias#Immediate Management|Tachyarrhythmias management]])
+- Request portable CXR
+## Selective History and Chart Review
+- Determine whether a presenting problem or past medical history is a cause of the hypotension and review chart for trends or medication changes
+- Risk factors for hypovolaemic or distributive shock
+	- Bleeding, concealed bleeding (e.g. AAA, ectopic pregnancy, pelvic or long-bone fracture)
+	- Vomiting/diarrhoea
+	- Bowel obstruction, ileus or pancreatitis (third space fluid losses)
+	- Burns or generalised erythroderma
+	- Fevers, rigors, malaise, recent contact with meningococcal disease
+	- Ask female patients about abdominal pain with vaginal bleeding or the use of tampons (⇒ toxic shock syndrome)
+- Risk factors for cardiogenic or obstructive shock
+	- Chest pain, dyspnoea, orthopnoea, previous ACS or cardiac interventions ⇒ cardiogenic shock
+	- For patients with diabetes or chronic renal impairment consider silent myocardial ischaemia and cardiogenic shock
+	- Pleuritic chest pain, whole leg swelling, known malignancy or renal failure ⇒ PE or pericardial tamponade
 - Reason for admission
 - HxPC:
 	- Chest pain, SOB
@@ -127,6 +143,11 @@ Rotations:
 	- Thirsty?
 	- When last void?
 - PMHx
+- Charts
+	- Observation chart
+		- 
+	- Fluid balance chart
+	- Medication chart
 ## Examination
 - Peripheral CRT, skin turgor
 - Pallor of the palmar creases
