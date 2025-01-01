@@ -91,7 +91,7 @@ Prioritise assessing C in stable patients; see immediate management below
 		- The ECG in a patient with pericarditis shows diffuse, concave ST-segment elevation with PR depression
 		- If the first ECG is non-diagnostic repeat after 15 minutes if the chest pain is continuing
 			- Repeat the ECG whenever the chest pain recurs, stops or changes in severity or character, as well as after 6–8 hours with repeat cardiac biomarkers (troponin) to rule out ACS
-## Immediate Management
+# Immediate Management
 - Call senior for:
 	- Persistent hypoxia, hypotension or altered mental status despite the above measures
 	- HR >150 beats/min or <40 beats/min associated with hypotension as cardioversion or pacing may be required
@@ -154,7 +154,7 @@ Prioritise assessing C in stable patients; see immediate management below
 - Portable CXR
 
 As from: https://aci.health.nsw.gov.au/ecat/adult/chest-pain and [eTG: Acute Chest Pain of Possible Cardiac Origin](https://app-tg-org-au.eu1.proxy.openathens.net/viewTopic?etgAccess=true&guidelinePage=Cardiovascular&topicfile=acute-chest-pain&guidelinename=Cardiovascular&sectionId=toc_d1e132#toc_d1e132)
-## Selective History and Chart Review
+# Selective History and Chart Review
 - Onset of the chest pain?
 	- Crescendo, build-up of pain ⇒ [[Acute Coronary Syndromes|ACS]]
 	- Sudden onset ⇒ [[Pulmonary Embolism|PE]], aortic dissection, oesophageal rupture
@@ -194,7 +194,7 @@ As from: https://aci.health.nsw.gov.au/ecat/adult/chest-pain and [eTG: Acute Che
 	- Confirm prescribed antianginal medications are given
 	- Check for DVT prophylaxis
 	- Check for corticosteroids or NSAIDs as a possible cause of gastritis or oesophagitis
-## Examination
+# Examination
 
 | Examination  | Notes                                                                                                                                      |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -222,7 +222,7 @@ As from: https://aci.health.nsw.gov.au/ecat/adult/chest-pain and [eTG: Acute Che
 |              | Generalised abdominal pain ⇒ mesenteric infarction from aortic dissection                                                                  |
 | Skin         | Unilateral, vesicular maculopapular rash, dermatomal distribution ⇒ herpes zoster                                                          |
 
-## Investigations
+# Investigations
 - Bedside:
 - Bloods:
 	- Take blood for FBC, coags, BSL, UEC, LFT, cardiac enzymes
@@ -231,7 +231,7 @@ As from: https://aci.health.nsw.gov.au/ecat/adult/chest-pain and [eTG: Acute Che
 	- Accelerated chest pain rule-out protocol
 - Imaging:
 	- CXR
-## Specific Management
+# Specific Management
 - See [[Acute Coronary Syndromes#STEMI|STEMI Management]]
 - See [[Acute Coronary Syndromes#NSTEACS|NSTEACS Management]]
 - See [[Aortic Dissection#Management|Aortic Dissection Management]]

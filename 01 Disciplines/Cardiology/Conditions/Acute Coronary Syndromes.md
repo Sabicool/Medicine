@@ -28,6 +28,14 @@ aliases:
 ^stemi-criteria
 
 As from: [PASCA ACS Flowchart](https://aci.health.nsw.gov.au/__data/assets/pdf_file/0003/824142/Pathway-for-Acute-Coronary-Syndrome-Assessment-PACSA-flow-chart-SAMPLE.pdf) and [PASCA STEMI Flowchart](https://aci.health.nsw.gov.au/__data/assets/pdf_file/0019/824140/PACSA-STEMI-Reperfusion-flow-chart-SAMPLE.pdf)
+
+### Other STEMI
+- In patients with inferior STEMI, RV infarction is suggested by:
+	- ST elevation in V1
+	- ST elevation in V1 and ST depression in V2 (highly specific for RV infarction)
+	- Isoelectric ST segment in V1 with marked ST depression in V2
+	- ST elevation in III > II
+- **Diagnosis is confirmed by the presence of ST elevation in the right-sided leads (V3R-V6R)**
 ## Management
 - Determine if alternate cause of ST elevation (i.e. type 2 MI) and manage that cause accordingly
 - Call senior doctor and obtain an urgent cardiology consult
@@ -76,6 +84,8 @@ As from: [PASCA ACS Flowchart](https://aci.health.nsw.gov.au/__data/assets/pdf_f
 	- Admit or transfer for PCI depending on local protocols
 
 ^stemi-management
+
+- Cardiogenic shock management ![[Hypotension#^cardiogenic-shock-management]]
 
 Basic level (MONASH)
 - Morphine

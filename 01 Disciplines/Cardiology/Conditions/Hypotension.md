@@ -101,7 +101,7 @@ Rotations:
 | Urine       | Urine output >0.5mL/kg/h or >30mL/h ⇒ adequate renal perfusion                                                                             |
 |             | Urine output <0.5mL/kg/h or <30mL/h ⇒ ↓ renal perfusion                                                                                    |
 
-## Immediate Management
+# Immediate Management
 - Call senior immediately
 - Commence oxygen therapy to maintain saturation >94%
 - Obtain adequate IV access
@@ -123,7 +123,7 @@ Rotations:
 	- Give IV atropine bolus (0.5-1.0mg) if HR <50
 	- Perform DC cardioversion with appropriate sedation if HR>150 beats/min with hypotension and VT, AF RVR or SVT (see [[Arrhythmias#Immediate Management|Tachyarrhythmias management]])
 - Request portable CXR
-## Selective History and Chart Review
+# Selective History and Chart Review
 - Determine whether a presenting problem or past medical history is a cause of the hypotension and review chart for trends or medication changes
 - Risk factors for hypovolaemic or distributive shock
 	- Bleeding, concealed bleeding (e.g. AAA, ectopic pregnancy, pelvic or long-bone fracture)
@@ -162,7 +162,7 @@ Rotations:
 			- Excessive doses of analgesics or sedatives cause hypotension
 			- Recent administration of radiographic contrast may precipitate anaphylaxis
 			- NSAIDs and steroids can precipitate GI bleeding and anticoagulants worsen any bleeding
-## Examination
+# Examination
 - Peripheral CRT, skin turgor
 - Pallor of the palmar creases
 - JVP
@@ -187,7 +187,7 @@ Rotations:
 
 > [!NOTE] 
 > Patients with acute cardiogenic shock are note oedematous unless they have previous CCF. Patients with anaphylaxis or sepsis may become oedematous from capillary leakage
-## Investigations
+# Investigations
 - Investigations
 	- Note other charts:
 		- Fluid charts
@@ -198,7 +198,65 @@ Rotations:
 - VBG might show lactic acidosis or hyperkalaemia from low tissue perfusion
 - Urea to creatinine ratio: a ratio >12 is suggestive of volume depletion or a GI bleed
 - Urine sample for MCS if dipstick testing indicates potential urosepsis
-- Review CXR 
+- Review CXR
+	- Acute LVF: pulmonary venous congestion, cardiomegaly, Kerley B lines (ABCDE features)
+	- Aortic dissection: widened mediastinum (see [[Aortic Dissection#Management|Aortic Dissection Management for specific CXR fidnings]])
+	- Pulmonary embolism: plate atelactasis, basal effusion
+	- Pneumonia: consolidation, diffuse alveolar changes
+- Echocardiography
+	- Will confirm pericardial tamponade or right ventricular strain of PE 
+	- Hard to organise after hours
+# Specific Management
+- Cardiogenic shock
+	- Clinically manifested by hypotension, elevated JVP and pulmonary oedema
+	- Treat ACS-related causes (see [[Acute Coronary Syndromes|ACS]])
+		- After giving aspirin, heparin and clopidogrel or prasugrel refer for immediate PCI
+		- *Fibrinolytic therapy does not substantially improve the outcome in cardiogenic shock*[^1]
+		- Exclude other causes of hypotension with raised JVP using urgent echocardiogram
+		- Also perform urgent echocardiogram in patients with a new murmur as valve repair my be required
+	- Inferior STEMI
+		- Confirm RV infarction by placing right sided chest leads (usually just V4R but sometimes also with V5R and V6R)
+		- STE indicates RV infarction
+		- These patients are dependent on preload for their cardiac output so avoid dropping preload with GTN, morphine or diuretics
+		- Less likely to develop pulmonary oedema → try small aliquots of normal saline at 2 mL/kg
+	- Exclude aortic dissection causing shock from tamponade or severe aortic incompetence
+		- Arrange CT scan with IV contrast (CT angiography) or TOE to best distinguish [[Aortic Dissection]] from [[Acute Coronary Syndromes|ACS]]
+	- General measures of shock
+		- Give maximal oxygenation, careful fluid management and consider inotrope infusions such as noradrenaline with or without dobutamine in the ICU.
+		- If these measures are unsuccessful, intra-aortic balloon pump, left ventricular assist device (LVAD) or circulatory bypass are required if a reversible pathological feature is present and it is available
+
+^cardiogenic-shock-management
+
+- Hypovolaemic Shock
+	- Control external bleeding: compress or pack any external haemorrhage such as epixstaxis or an open wound
+	- Consult surgeon immediately if suspicion of acute blood loss causing hypotension (e.g. GI bleed, ruptured AAA, ectopic pregnancy)
+	- Massive bleeding
+		- Order uncross-matched blood and consider other blood products such as FFP and platelets
+		- notify the blood bank that a massive transfusion is/may be necessary
+	- Excess fluid loss via vomiting, diarrhoea, sweating, polyuria, extreme diuretic therapy and third-space losses (e.g. pancreatitis, bowel obstruction, peritonitis) → replace intravascular volume with normal saline
+		- Give 20-40mL/kg normal saline
+		- Gradually correct the dehydration and include daily maintenance amounts
+		- Search for underlying cause
+- Anaphylaxis
+	- Treat immediately with adrenaline 0.3-0.5mg (0.3-0.5mL of 1:1000 solution) IM plus normal saline 20mL/kg (see [[Acute Airway Failure#Management|Airway Failure Management]])
+- Septic Shock
+	- Arrange a CXR and urinalysis/MSU as initial screens; make sure at least two sets of paired blood cultures from two different sites have been sent
+	- Examine all areas of the skin looking for a source or entry sites including between the toes, skin folds, perineum, axillae and the ENT for localised infections
+	- Consider toxic shock syndrome in any hypotensive premenopausal female particularly with blanching erythema like sunburn; ask about tampon use (now a rare cause)
+	- Intravascular fluid resuscitation requires large volumes: up to 50-100mL/kg
+	- Ensure Hb is maintained between 70 and 90g/L
+	- Patients who are neutropenic (e.g. chemotherapy, diabetes, HIV, immunosuppressed) show few signs of sepsis
+		- Give broad-spectrum antibiotics such as piperacillin 4g with tazobactam 0.5g IV plus gentamicin 4-7mg/kg
+		- Add vancomycin 1.5 IV 12 hourly if line sepsis is possible
+- Other causes of hypotension
+	- Tension pneumothorax
+	- Cardiac tamponade
+	- Massive pulmonary embolism
+	- Drug toxicity
+	- Vasovagal syncope
 # Sources
 1. FRCEM AFTBAFFF, FFSEM MCMMbcF, FACEM ACMMc. Marshall & Ruedy’s On Call: Principles & Protocols. 3rd edition. Elsevier; 2016. 648 p. 157
-2. Common reasons for review lecture SCGH: Pre-internship 2024
+2. Common reasons for review lecture Pre-internship teaching 2024
+# Footnotes
+
+[^1]: According to On Call
