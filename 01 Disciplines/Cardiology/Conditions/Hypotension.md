@@ -2,6 +2,7 @@
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
+date: 2024-03-01
 ---
  If considering that the patient is in shock see shock notes: [Shock](01%20Disciplines/Clinical/Emergencies/Shock.md)
 - Thin young females often have a SBP of 80-100 mmHg
@@ -250,6 +251,7 @@ Rotations:
 		- Add vancomycin 1.5 IV 12 hourly if line sepsis is possible
 - Other causes of hypotension
 	- Tension pneumothorax
+		- Do not wait for X-ray confirmation in an unstable patient
 	- Cardiac tamponade
 	- Massive pulmonary embolism
 	- Drug toxicity
