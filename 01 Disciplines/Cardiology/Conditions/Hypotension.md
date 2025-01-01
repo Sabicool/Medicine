@@ -2,7 +2,7 @@
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
-date: 2024-03-01
+date: 2025-01-01
 ---
  If considering that the patient is in shock see shock notes: [Shock](01%20Disciplines/Clinical/Emergencies/Shock.md)
 - Thin young females often have a SBP of 80-100 mmHg
@@ -252,10 +252,31 @@ date: 2024-03-01
 - Other causes of hypotension
 	- Tension pneumothorax
 		- Do not wait for X-ray confirmation in an unstable patient
+		- Call for senior assistance and get a 14-16G cannula ready to insert into the second intercostal space in the midclavicular line on the affected side
+		- Will result in immediate improvement in blood pressure if done properly
+		- Follow with insertion of a chest tube
 	- Cardiac tamponade
+		- Suspect when elevated JVP, hypotension and soft heart sounds (Beck's triad) with agitation related to intracerebral venous congestion
+		- Urgent bedside ultrasound now best confirms the diagnosis
+		- Most commonly follows penetrating trauma or is non-traumatic in a patient with chronic renal impairment, malignancy, connective tissue disorders
+			- Traumatic → requires immediate surgery
+			- Pericardiocentesis with insertion of a catheter into the pericardial sac and aspiration of fluid should result in immediate improvement in non-traumatic cases
 	- Massive pulmonary embolism
+		- Sudden hypotension, elevated JVP and cyanosis accompanied by additional evidence of acute RV overload such as RV heave, loud P2, right sided S3 or mumur of tricuspid insufficiency
+		- See [[Pulmonary Embolism#Management|PE management]]
 	- Drug toxicity
+		- Common drugs causing hypotension: GTN, vasodilators, opioids, sedatives, antiarrhythmics, beta-blockers, calcium channel blockers and ACE inhibitors
+		- Place the patient flat, elevate the legs and give 5-10 mL/kg IV of normal saline to support the BP until the effect of the drug wears off
+		- Bradycardia and hypotension from excessive narcotic are reversed by naloxone hydrochloride 0.1-0.2 mg IV, SC or IM every 5 minutes repeated until alert
+		- Reduce the dose or alter the schedule of the opioid
 	- Vasovagal syncope
+		- Usually normotensive by the time you arrive but will still fell nauseated and miserable
+		- Warn the patient of continuing to feel faint for several hours afterwards
+		- Look for a precipitating stimulus such as pain or exposure to blood with prodromal light-headedness and sweating
+		- Ensure no underlying exacerbating factors (e.g. dehydration, infections) as there is no specific treatment
+# Complications
+- Be wary of post-shock complications over the next few days in hypotensive patients who are successfully resuscitated
+	- Multiorgan failure, thrombotic stroke, watershed cortical infarction, diffuse myocardial injury, acute tubular necrosis, hepatic necrosis, bowel ischaemia or infarction
 # Sources
 1. FRCEM AFTBAFFF, FFSEM MCMMbcF, FACEM ACMMc. Marshall & Ruedy’s On Call: Principles & Protocols. 3rd edition. Elsevier; 2016. 648 p. 157
 2. Common reasons for review lecture Pre-internship teaching 2024
