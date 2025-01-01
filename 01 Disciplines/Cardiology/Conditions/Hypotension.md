@@ -4,7 +4,8 @@ Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
 date: 2025-01-01
 ---
- If considering that the patient is in shock see shock notes: [Shock](01%20Disciplines/Clinical/Emergencies/Shock.md)
+-  If considering that the patient is in shock see shock notes: [Shock](01%20Disciplines/Clinical/Emergencies/Shock.md)
+- Note that it is not the absolute BP level that dictates the need to intervention but rather the threat to end-organ function; therefore the **priority is to assess for tissue hypoperfusion**
 - Thin young females often have a SBP of 80-100 mmHg
 # Phone Call/Presentation Questions
 - Normal blood pressure? and other observations (notably HR and RR)
