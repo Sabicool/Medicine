@@ -145,21 +145,58 @@ Rotations:
 - PMHx
 - Charts
 	- Observation chart
-		- 
+		- See whether there has been a slow deterioration or sudden change
+		- Check the temperature chart for fever
+		- Look for a change in weight as loss of weight can indicate fluid loss
 	- Fluid balance chart
+		- Look for evidence of hypovolaemia:
+			- Reduced PO or IV intake
+			- Excessive fluid loss from NG or surgical drains or ileostomies
+			- Urine output <30mL/h
+		- Check for recent excessive urinary loss from diuretic medications, osmotic diuresis (hyperglycaemia, mannitol administration, hypertonic IV contrast material), post-obstructive renal diuresis, diabetes insipidus, recovery phase of acute tubular necrosis, adrenal insufficiency with vomiting
 	- Medication chart
+		- Note any recent change in dose or addition of hypotension-inducing medications
+			- Antihypertensive medications and alpha-blockers (e.g. antipsychotic medications) lower BP excessively
+			- Beta blockers, calcium channel blockers and other antiarrhythmics cause hypotension and counter a reflex tachycardia
+			- Diuretics cause hypovolaemia
+			- Excessive doses of analgesics or sedatives cause hypotension
+			- Recent administration of radiographic contrast may precipitate anaphylaxis
+			- NSAIDs and steroids can precipitate GI bleeding and anticoagulants worsen any bleeding
 ## Examination
 - Peripheral CRT, skin turgor
 - Pallor of the palmar creases
 - JVP
 - Heart sounds
 - Calves
+
+| Examination | Notes                                                                |
+| ----------- | -------------------------------------------------------------------- |
+| Vital signs | Recheck HR, BP and peripheral perfusion and assess for improvement   |
+| HEENT       | Dry mouth (hypovolaemia)                                             |
+| CVS         | Recheck JVP to assess for any improvement                            |
+|             | Displaced apex beat, S3 gallop ⇒ LVF                                 |
+|             | Muffled heart sounds, impalpable apex beat ⇒ pericardial effusion    |
+| Resp        | Crackles, pleural effusions ⇒ cardiogenic shock                      |
+|             | Wheezes ⇒ anaphylaxis, LVF or PE-related bronchospasm                |
+| GIT         | Tender hepatomegaly ⇒ heart failure                                  |
+| Rectal      | Melaena or haematochezia ⇒ GI bleed                                  |
+| Skin        | Pruritic, urticarial rash with vasodilated peripheries ⇒ anaphylaxis |
+|             | Pale skin creases and conjunctivae ⇒ occult haemorrhage              |
+| Ext         | Sacral or ankle oedema ⇒ pre-existing CCF                            |
+| Urine       | Reassess urine output                                                |
+
+> [!NOTE] 
+> Patients with acute cardiogenic shock are note oedematous unless they have previous CCF. Patients with anaphylaxis or sepsis may become oedematous from capillary leakage
+## Investigations
 - Investigations
 	- Note other charts:
 		- Fluid charts
 		- Medication charts: (e.g. antihypertensives)
 	- Bloods
 	- Imaging
+- Check recent Hb for trends
+- VBG might show lactic acidosis or hyperkalaemia from low tissue perfusion
+- Urea to creatinine ratio: a ratio >12 is suggestive of volume depletion or a GI bleed
 # Sources
 1. FRCEM AFTBAFFF, FFSEM MCMMbcF, FACEM ACMMc. Marshall & Ruedy’s On Call: Principles & Protocols. 3rd edition. Elsevier; 2016. 648 p. 157
 2. Common reasons for review lecture SCGH: Pre-internship 2024
