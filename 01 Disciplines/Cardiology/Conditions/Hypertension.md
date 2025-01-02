@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Cardiology|Cardiology]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
-date: 2025-01-01
+date: 2025-01-02
 ---
 - Note that it is not the absolute BP level that dictates the need for intervention, but rather the threat to organ dysfunction
 # Phone Call/Presentation Questions
@@ -29,6 +29,52 @@ date: 2025-01-01
 # Common Causes *(Corridor Thoughts)*
 - Essential hypertension
 - Secondary hypertension
+	- Obstructive uropathy, renal artery stenosis, chronic pyelonephritis
+	- Glomerulonephritis, diabetic renal disease, polycystic kidney disease
+	- Endocrine disease such as Cushing's syndrome, Conn's syndrome, acromegaly, thyrotoxicosis, myxoedema
+	- Autoimmune disease such as SLE or scleroderma
+- Medications
+	- Corticosteroids, oral contraceptive pill, NSAIDs
+- Catecholamine related
+	- Phaeochromacytoma
+	- Drug overdose (especially cocaine, amphetamines, ecstasy)
+- Medication withdrawal
+	- Abrupt withdrawal from a beta-blocker, clonidine or ACE inhibitor resulting in a rebound hypertensive crisis
+- Drug interaction
+	- MAOI antidepressant in combination with a sympathomimetic or other psychoatcive drug or a food containing tyramine (e.g. cheese or wine)
+- Neurogenic
+	- Anxiety (e.g. white coat hypertension, unexpected/distressing hospital admission)
+	- Raised intracranial pressure (e.g. Cushing's reflex of hypertension and bradycardia)
+	- Cerebral ischaemia (e.g stroke)
+- Other
+	- Preeclampsia
+	- Coarctation of the aorta
+	- Polycytheaemia
+	- Hypercalcaemia
+	- Hyperparathyroidism
+	- Sleep apnoea
+- Other miscellaneous that cause transient ↑ BP: pain, bladder distension, alcohol or nicotine withdrawal, agitation and anxiety
+# Assessment
+## End of Bed
+- The initial appearance often undermines the situation; even a patient with hypertensive encephalopathy may look deceptively well
+## A → E Assessment
+- Blood pressure? 
+	- Retake the blood pressure in both arms (lower pressure in one arm can indicate aortic coarctation)
+- Heart rate?
+	- Bradycardia and hypertension in a patient not on beta-blockers ⇒ ? ↑ICP
+	- Tachycardia and hypertension ⇒ catecholamine related cause
+- Respiratory rate?
+	- Dyspnoea may indicate pulmonary oedema with acute LVF → listen at lung bases for confirmatory basal crackles
+# Immediate Management
+- If acutely symptomatic or suggestive of a serious cause:
+	- Call for senior help
+	- Oxygen to maintain the saturation >94%
+	- Attach cardiac monitoring and pulse oximeter to the patient
+	- Establish IV access
+	- Acute lowering of the BP may be required but only when critical hypertensive emergency is diagnosed
+		- The choice of antihypertensive agent otherwise depends on cause of the hypertension, age and medical history
+# Selective History and Chart Review
+
 # Sources
 1. FRCEM AFTBAFFF, FFSEM MCMMbcF, FACEM ACMMc. Marshall & Ruedy’s On Call: Principles & Protocols. 3rd edition. Elsevier; 2016. Chapter 19 Hypertension
 # Footnotes
