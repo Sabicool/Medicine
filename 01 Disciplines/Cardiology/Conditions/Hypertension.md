@@ -74,7 +74,12 @@ date: 2025-01-02
 	- Acute lowering of the BP may be required but only when critical hypertensive emergency is diagnosed
 		- The choice of antihypertensive agent otherwise depends on cause of the hypertension, age and medical history
 # Selective History and Chart Review
-
+- Signs of end-organ damage indicating a hypertensive emergency
+	- Myocardial ischaemia/infarction
+	- Aortic regurgitation ⇒ aortic dissection
+	- Absent pulse ⇒ Aortic dissection
+	- Pulmonary oedema (LVF)
+	- 
 # Sources
 1. FRCEM AFTBAFFF, FFSEM MCMMbcF, FACEM ACMMc. Marshall & Ruedy’s On Call: Principles & Protocols. 3rd edition. Elsevier; 2016. Chapter 19 Hypertension
 # Footnotes
