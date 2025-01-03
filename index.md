@@ -1,5 +1,6 @@
 ---
 title: Home
+date: 2025-01-03
 ---
 # About this Website
 This is the note database of a junior doctor in Australia. The information contained in these notes is for educational purposes only and should not be construed as medical advice. While I strive for accuracy, I make no guarantees regarding the completeness or reliability of the content provided. Additionally, I do not claim copyright for any images included herein unless explicitly stated. If you wish to request a correction, removal, or alteration of any content, please feel free to contact me or submit an issue via the associated [github repository](https://github.com/Sabicool/Medicine). The colour theme for this website is based off [catppuccin](https://github.com/catppuccin/catppuccin).
@@ -15,21 +16,21 @@ Mainly for the admin side of things as a junior doctor
 If you'd rather just find notes on medicine relevant to the particular rotation you are on look below:
 <!-- QueryToSerialize: LIST FROM "02 Rotations" -->
 <!-- SerializedQuery: LIST FROM "02 Rotations" -->
-- [[Common Ward Calls]]
-- [[Emergency Medicine]]
-- [[Nephrology]]
-- [[Intensive Care Unit]]
-- [[Neurology]]
-- [[Respiratory]]
-- [[Paediatrics]]
 - [[Cardiology]]
+- [[Emergency Medicine]]
+- [[Intensive Care Unit]]
+- [[Common Ward Calls]]
+- [[Nephrology]]
+- [[Neurology]]
+- [[Paediatrics]]
+- [[Respiratory]]
 <!-- SerializedQuery END -->
 
 Otherwise have a look through the "01 Disciplines" on the left panel.
 # How I Studied in Medical School
 This is a non-exhaustive guide to studying in medical school. I do plan on making a more complete guide one day but until then here's some words of wisdom.
 
-I rarely made comprehensive notes. I mainly studied by doing pre-made flashcard decks and a bunch of questions. Closer to exams for my OSCE exams in particular, I would try to learn by approaches to presenting complaints.
+I rarely made comprehensive notes. I mainly studied by doing pre-made flashcard decks, my own flashcards and a bunch of practice questions. Closer to exams for my OSCE exams in particular, I would try to learn by approaches to presenting complaints.
 
 > [!TIP] 
 > I used to take notes using notion during medical school. I found it to be fairly reliable and meant that I did not need to bring a laptop to placement to take notes. I could simply just login to notion and take notes or even review my notes from any computer I had access to on placement. You can find my notes here [https://mango-cellar-b90.notion.site/](https://mango-cellar-b90.notion.site/ "my medicine notes on notion"). Another alternative is Remnote, which provides a more unified experience with flashcard support but it can be a bit buggy at times. Personally I have been moving towards trying to use more FOSS (hence this website).
@@ -41,6 +42,7 @@ I rarely made comprehensive notes. I mainly studied by doing pre-made flashcard 
 - Other national resources (e.g. eTG, AMH Online)
 - Other useful Australian resources: LITFL
 - Other useful resources: Teach Me Series (e.g. Teach me surgery, Teach me Obgyn), Amboss
+- I mainly used emedici as my question bank during medical school although passmedicine and armadex are probably better
 # How I made these notes
 These notes are for the most part formatted in markdown and hopefully made to be quite presentable and accurate.
 
