@@ -117,7 +117,6 @@ date: 2025-01-03
 |                | Focal neurological defecits ⇒ [[Aortic Dissection]], late sign of hypertensive encephalopathy                                                             |
 # Investigations
 
-
 # Sources
 1. FRCEM AFTBAFFF, FFSEM MCMMbcF, FACEM ACMMc. Marshall & Ruedy’s On Call: Principles & Protocols. 3rd edition. Elsevier; 2016. Chapter 19 Hypertension
 # Footnotes
