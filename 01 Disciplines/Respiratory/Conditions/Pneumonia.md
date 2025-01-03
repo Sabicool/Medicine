@@ -1,3 +1,6 @@
+---
+date: 2025-01-03
+---
 # Aetiologies
 - Common
 	- S. pneumoniae >50%
