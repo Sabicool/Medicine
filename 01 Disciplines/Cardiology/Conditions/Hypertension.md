@@ -145,7 +145,7 @@ date: 2025-01-03
 		- Review the patient's current antihypertensive treatment and consider in dose or one-off dose making a clear note in the patient's chart
 		- A decision to use a new agent can usually await the patient's regular medical care team (i.e. don't change much on an overnight/on call shift) but can consider among: beta-blockers, diuretics, ACE inhibitors, ARBs, and CCBs
 - [[Aortic Dissection#Management|Aortic Dissection Management]]
-- 
+-  
 # Sources
 1. FRCEM AFTBAFFF, FFSEM MCMMbcF, FACEM ACMMc. Marshall & Ruedy’s On Call: Principles & Protocols. 3rd edition. Elsevier; 2016. Chapter 19 Hypertension
 # Footnotes
