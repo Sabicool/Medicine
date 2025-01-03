@@ -145,7 +145,34 @@ date: 2025-01-03
 		- Review the patient's current antihypertensive treatment and consider in dose or one-off dose making a clear note in the patient's chart
 		- A decision to use a new agent can usually await the patient's regular medical care team (i.e. don't change much on an overnight/on call shift) but can consider among: beta-blockers, diuretics, ACE inhibitors, ARBs, and CCBs
 - [[Aortic Dissection#Management|Aortic Dissection Management]]
--  
+## Hypertensive Encephalopathy
+- Arrange an urgent CT brain scan to exclude alternative causes of confusion (e.g. SAH, space-occupying lesion, intracranial infection or stroke) and consider postictal state or non-convulsive status epilepticus
+- Look for evidence of renal disease
+	- Check for proteinuria on urinalysis and send a sample for microscopy
+- Look for retinal haemorrhages, exudates or papilloedema on fundoscopy
+	- If present, the BP should be carefully lowered over the next 2-4 hours; call for senior help
+- Aim to initally reduce the MAP by 25% or for a DBP of 100-110 mmHg within the first 24 hours
+	- Start oral therapy:
+		- Atenolol 50mg, labetalol 100mg, amlodipine 5-10mg or felodipine sustained-release 5-10mg
+	- If unsuccessful, give hydralazine 5-10mg slow IV boluses every 15-30 minutes
+	- If still unsuccessful, arrange for admission to the ICU
+		- In ICU start sodium nitroprusside 0.25-10 mcg/kg/min IV with intra-arterial BP monitoring
+- Once controlled, the usual medical team can continue oral therapy to maintain satisfactory BP control
+## Catecholamine Crisis
+- Consider other presentations with sudden hypertension, headache, diaphoresis, anxiety, palpitations, nausea or abdominal pain which are more likely than phaeochromocytoma:
+	- Cocaine, ecstasy and amphetamine misuse
+		- In cocaine-induced hypertension, use high-dose titrated benzodiazepines such as diazepam 0.1-0.2mg/kg or midazolam 0.1mg/kg IV
+			- Check ECG and measure troponin to exclude myocardial damage
+	- Abrupt antihypertensive medication withdrawal (clonidine)
+	- Interaction between MAOI and tyramine-containing foods (e.g. cheese or wine) and/or sympthaomimetic or other psychoactive drugs
+		- Call senior and transfer to ICU/CCU
+		- Phentolamine or nitroprusside may be used by beta-blockers should be avoided because of the risk of unopposed alpha stimulation causing increased BP
+- If phaeochromocytoma suspected, call your senior and transfer the patient to the ICU/CCU for ECG and intra-arterial BP monitoring followed by alpha-adrenergic blockade
+## Pre-eclampsia and Eclampsia
+- The treatment of choice near term is immediate delivery of the baby and magnesium sulfate IV. Call for senior help including the obstetric team, and commence magnesium for any complications:
+- Give magnesium sulfate 4 g IV over 10–15 minutes, followed by maintenance infusion 1 g/hour continued for at least 24 hours after delivery.
+- Magnesium sulfate does not significantly lower the BP. Therefore, other drugs such as hydralazine or labetalol are given according to local practice.
+- Diuretics are avoided as the patient is already volume-depleted from an activated renin–angiotensin system, despite being hypertensive.
 # Sources
 1. FRCEM AFTBAFFF, FFSEM MCMMbcF, FACEM ACMMc. Marshall & Ruedy’s On Call: Principles & Protocols. 3rd edition. Elsevier; 2016. Chapter 19 Hypertension
 # Footnotes
