@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Cardiology|Cardiology]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
-date: 2025-01-02
+date: 2025-01-03
 ---
 - Note that it is not the absolute BP level that dictates the need for intervention, but rather the threat to organ dysfunction
 # Phone Call/Presentation Questions
@@ -74,12 +74,50 @@ date: 2025-01-02
 	- Acute lowering of the BP may be required but only when critical hypertensive emergency is diagnosed
 		- The choice of antihypertensive agent otherwise depends on cause of the hypertension, age and medical history
 # Selective History and Chart Review
-- Signs of end-organ damage indicating a hypertensive emergency
-	- Myocardial ischaemia/infarction
-	- Aortic regurgitation ⇒ aortic dissection
-	- Absent pulse ⇒ Aortic dissection
-	- Pulmonary oedema (LVF)
-	- 
+- Signs of end-organ damage indicating a hypertensive emergency?
+	- Sudden onset tearing chest or back pain ⇒ [[Aortic Dissection]]
+	- Focal weakness or sensory symptoms ⇒ [[Aortic Dissection]]
+	- Shortness of breath, orthopnoea ⇒ [[Acute Pulmonary Oedema]]
+	- Chest pain ⇒ myocardial ischaemia
+	- Sudden headache, confusion ⇒ Subarachnoid haemorrhage
+	- Headache, nausea and vomiting, confusion, blurred vision ⇒ Hypertensive encephalopathy
+- Does the patient have a history of hypertension or any risk factors for hypertension?
+	- Ask specifically about previously diagnosed renal, autoimmune or endocrine disease, amphetamine or cocaine use, steroid therapy or progressive uraemia (renal hypertension)
+- Was the patient taking antihypertensive medications prior to coming to hospital?
+	- Prescribed antihypertensive agents
+		- Also consider over-the-counter remedies containing ephedrine, liquorice, St John's wort
+	- Check medication chart to ensure the patient's normal antihypertensive medications have been charted
+	- Discontinuation of an antihypertensive medication often happens at admission → look back in the chart or for a GP's letter
+- Charts
+	- Observation chart
+		- Check previous BP measurements and confirm that is abnormally high for the patient (check modifications)
+		- Decide whether there has been a sudden or slow change
+		- Check the HR (is the hypertension associated with tachycardia or bradycardia)
+	- Medication chart
+		- Check for prescribed agents that cause hypertension:
+			- Corticosteroid
+			- Amphetamine derivative (usually prescribed for appetite suppression or narcolepsy)
+			- NSAIDs
+			- Nasal decongestants (e.g. pseudoephidrine within 14 days of a MAOI)
+			- Oral contraceptive pill
+			- MAOI
+# Examinations
+
+| Examination    | Notes                                                                                                                                                     |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Vitals         | Repeat now and check BP in both arms                                                                                                                      |
+| Mental         | Agitation, confusion ⇒ ↑ ICP, SAH, hypertensive encephalopathy                                                                                            |
+| Fundoscopy     | Assess fundi for hypertensive changes (arteriolar narrowing, flame shaped haemorrhages near the disc, exudates and ischaemic changes 'cotton wool spots') |
+|                | Papilloedema is a bad sign as it indicates hypertensive encephalopathy **with** cerebral oedema                                                           |
+|                | Severe hypertension may not show marked encephalopathy or papilloedema but will usually show retinal haemorrhages or exudates                             |
+| Resp           | Tachypnoea, crackles, pleural effusion ⇒ [[Acute Pulmonary Oedema\|APO]]                                                                                  |
+| Cardiovascular | S3 gallop, elevated JVP ⇒ LVF and biventricular [[Heart Failure]]                                                                                         |
+|                | Absent pulse, new murmur ⇒ [[Aortic Dissection]]                                                                                                          |
+| Neuro          | Hyperreflexia, clonus, headache and visual disturbances ⇒ pre-eclampsia, hypertensive encephalopathy                                                      |
+|                | Focal neurological defecits ⇒ [[Aortic Dissection]], late sign of hypertensive encephalopathy                                                             |
+# Investigations
+
+
 # Sources
 1. FRCEM AFTBAFFF, FFSEM MCMMbcF, FACEM ACMMc. Marshall & Ruedy’s On Call: Principles & Protocols. 3rd edition. Elsevier; 2016. Chapter 19 Hypertension
 # Footnotes
