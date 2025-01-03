@@ -32,7 +32,7 @@ date: 2025-01-03
 	- Place arterial line
 	- In ICU with intra-arterial BP monitoring: if BP not controlled despite <60 beats/min add sodium nitroprusside or a GTN infusion until SBP 100-120 mmHg
 	- Correct coagulopathy
-	- Prepare patient for surgery if type A AAD otherwise if type B AAD manage in ICU with control of BP and cosnideration of endovascular stent repair
+	- Prepare patient for surgery if type A AAD otherwise if type B AAD manage in ICU with control of BP and consideration of endovascular stent repair
 - If clinical suspicion is low but aortic dissection is in your differential list (AAD-RS ≤1)
 	- Exclude with a negative D-dimer if they do not have typical history, exam or risk factors; discuss with senior regarding this approach
 	- *D-dimer should only be considered if you have already decided the patient requires aortic dissection rule out*
