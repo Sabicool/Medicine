@@ -116,7 +116,36 @@ date: 2025-01-03
 | Neuro          | Hyperreflexia, clonus, headache and visual disturbances ⇒ pre-eclampsia, hypertensive encephalopathy                                                      |
 |                | Focal neurological defecits ⇒ [[Aortic Dissection]], late sign of hypertensive encephalopathy                                                             |
 # Investigations
+- Bedside
+	- ECG
+	- Urinalysis
+			- Urinary beta-hCG in women of childbearing age (pre-eclampsia)
+			- Proteinuria (pre-eclampsia, nephrotic syndrome, glomerulonephritis)
+			- Haematuria (renal hypertension, glomerulonephritis, nephritic syndrome)
+- Bloods
+	- FBC (polycythaemia, anaemia with chronic renal disease)
+	- U&E to determine renal function (cause or effect of hypertension)
+	- LFTs including urate (pre-eclampsia)
+- Imaging
+	- CXR may show
+		- Cardiomegaly
+		- Evidence of heart failure
+		- Widened mediastinum
+# Specific Management
 
+> [!NOTE] 
+> - Overly aggressive treatment may cause syncope, cortical blindness with occipital stroke, myocardial ischaemia. Do not treat the BP reading, only treat the complication(s) associated with it
+> - Severe hypertension (SBP>180 mmHg) is common in hospitalised patients and usually has no features of a hypertensive emergency and a high reading alone does not require urgent treatment
+- Isolated hypertension
+	- Exclude end-organ dysfunction: history, examination, urinalysis, ECG, renal function
+	- Identify precipitating cause:
+		- Non-compliance, incorrect dose, drug interaction
+		- Secondary cause (as outlined earlier)
+	- Gain control gradually over 48 hours or more using oral antihypertensive medications:
+		- Review the patient's current antihypertensive treatment and consider in dose or one-off dose making a clear note in the patient's chart
+		- A decision to use a new agent can usually await the patient's regular medical care team (i.e. don't change much on an overnight/on call shift) but can consider among: beta-blockers, diuretics, ACE inhibitors, ARBs, and CCBs
+- [[Aortic Dissection#Management|Aortic Dissection Management]]
+- 
 # Sources
 1. FRCEM AFTBAFFF, FFSEM MCMMbcF, FACEM ACMMc. Marshall & Ruedy’s On Call: Principles & Protocols. 3rd edition. Elsevier; 2016. Chapter 19 Hypertension
 # Footnotes
