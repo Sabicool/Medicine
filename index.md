@@ -15,13 +15,13 @@ Mainly for the admin side of things as a junior doctor
 If you'd rather just find notes on medicine relevant to the particular rotation you are on look below:
 <!-- QueryToSerialize: LIST FROM "02 Rotations" -->
 <!-- SerializedQuery: LIST FROM "02 Rotations" -->
-- [[Emergency Medicine]]
-- [[Intensive Care Unit]]
-- [[Nephrology]]
-- [[Neurology]]
-- [[Paediatrics]]
-- [[Respiratory]]
 - [[Common Ward Calls]]
+- [[Emergency Medicine]]
+- [[Nephrology]]
+- [[Intensive Care Unit]]
+- [[Neurology]]
+- [[Respiratory]]
+- [[Paediatrics]]
 - [[Cardiology]]
 <!-- SerializedQuery END -->
 

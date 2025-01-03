@@ -5,6 +5,7 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
 aliases:
   - APO
+date: 2025-01-03
 ---
 # Presentation
 - Develops over minutes with severe breathlnessness, coughing frothy pink sputum, orthopnoea and PND
@@ -27,9 +28,10 @@ Can remember as LMNOP (backwards)
 - **P**osition the patient upright
 - Give high-flow **o**xygen via a reservoir mask aiming for oxygen saturation >95%
 - **N**itrates for patients acutely hypertensive:
-	- ==Give GTN 0.3-0.6 mg SL. Repeat after 5 minutes if SBP remains >100 mmHg. Remove the tablet if excessive hypotension occurs==
-	- Commence a GTN infusion IV as per hospital guidelines once the patient is fully monitored; infuse initially at 1mL/h maintaining SBP >100mmHg, quincly increase by doubling the infusion rate every 5 minutes to 20 mL/h or more, titrated to SBP
+	- ==Give GTN 0.3-0.6 mg SL or GTN 0.4mg spray. Repeat after 5 minutes if SBP remains >100 mmHg. Remove the tablet if excessive hypotension occurs (hence tablet preferred)==
+	- Commence a GTN infusion IV as per hospital guidelines once the patient is fully monitored preferably in an ICU area; infuse initially at 1mL/h maintaining SBP >100mmHg, quincly increase by doubling the infusion rate every 5 minutes to 20 mL/h or more, titrated to SBP
 - **M**orphine or opioid potentially
+	- Titrate IV morphine in small boluses 1.25-2.5mg for chest pain and anxiety but take care not to depress respirations
 - In patients with evidence of systemic fluid overload, give frusemide (**L**asix) 40mg IV or twice the usual daily dose IV (if already on frusemide)
 - If unresponsive to above measures
 	- Commence mask CPAP ventilation if the patient does not respond quickly to above measures, remains distressed or is persistently hypoxic despite maximal oxygen delivery
