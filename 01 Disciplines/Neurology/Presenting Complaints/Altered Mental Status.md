@@ -164,7 +164,7 @@ date: 2025-01-04
 		- Look for newly prescribed medications and potential drug interactions
 		- Look at the list of medications normally taken at home; consider if an important medication has been omitted e.g. anti-hypertensive
 		- Consider dose adjusting medications that might need renal or hepatic adjustment
-## Examination
+# Examination
 
 | Examination   | Notes                                                                                                                         |
 | ------------- | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -190,13 +190,30 @@ date: 2025-01-04
 |               | Asterixis or flap ⇒ liver failure, renal failure, hypercapnoea                                                                |
 |               | Tremor ⇒ DT, Parkinson's disease hyperthyroidism                                                                              |
 ![[Pasted image 20250104210246.png]]
-## Investigations
-- Charts
-- Previous investigations
-- Bedside
-- Bloods
-- Imaging
-## Management
+# Investigations
+- Exclude hyper/hypoglycaemia and hypoxia:
+	- Check a BGL and pulse oximetry
+- Send blood for FBC, UEC, LFTs
+	- FBC may reveal a leucocytosis indicating infection
+	- Macrocytosis suggesting alcohol use, folate or vitamin B12 deficiency
+	- Reticulocytes may suggest haemolysis
+	- UEC may identify renal failure or electrolyte abnormality
+	- LFTs may show hepatic dysfunction → if abnormal send a coagulation screen
+- CXR
+	- Take two sets of paired blood cultures and send urine for MCS if sepsis is possible
+- Other investigations depending on aetiology
+	- Thyroid function tests (myxoedema, thyrotoxicosis)
+	- Drug levels (digoxin, lithium, anticonvulsants)
+	- Antinuclear antibody, rheumatoid factor, ESR, complement C3 or C4 in autoimmune disease
+	- CT ead scan if suspect head trauma, meningism, focal neurological signs, ↑ ICP (papilloedema, hypertension and bradycardia); seizures
+	- Lumbar puncture after CT if suspect SAH or meningitis/encephalitis
+	- EEG if non-convulsive status epilepticus is considered
+# Specific Management
+- Hypoxia: see [[Acute Respiratory Failure]]
+- Hypotension: see [[Shock]] or [[Hypotension]]
+- CNS disorders including seizures
+- Drug intoxication or side effects:
+	- 
 # Reference
 - Also see: [ECI guidelines: Delirium and management of behaviourally disturbed older patients](https://aci.health.nsw.gov.au/networks/eci/clinical/clinical-tools/aged-care/delirium-and-management-of-behaviourally-disturbed-older-patients)
 ![](Attachments/Pasted%20image%2020241210112733.png)
