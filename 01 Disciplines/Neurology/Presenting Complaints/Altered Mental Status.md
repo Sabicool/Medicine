@@ -166,12 +166,16 @@ date: 2025-01-04
 		- Consider dose adjusting medications that might need renal or hepatic adjustment
 ## Examination
 
-| Examination   | Notes                                          |
-| ------------- | ---------------------------------------------- |
-| Vitals        | Repeat                                         |
-| Mental status | Record a formal GCS for level of consciousness |
-|               |                                                |
-
+| Examination   | Notes                                                                                                         |
+| ------------- | ------------------------------------------------------------------------------------------------------------- |
+| Vitals        | Repeat                                                                                                        |
+| Mental status | Record a formal GCS for level of consciousness                                                                |
+|               | If GCS intact perform a quick confusion scale                                                                 |
+| HEENT         | Nuchal rigidity, neck stiffness, photophobia ⇒ meningitis, [[Subarachnoid Haemorrhage]]                       |
+|               | Pinpoint pupils ⇒ opioids, clonidine, brainstem stroke or eye drops (e.g. pilocarpine for glaucoma)           |
+|               | Dilated pupils ⇒ sympathomimetic or anticholinergic effect, hypoxia, ↑ ICP                                    |
+| Fundoscopy    | Papilloedema ⇒ hypercapnoea, ↑ ICP, [[Hypertension#Hypertensive Encephalopathy\|Hypertensive encephalopathy]] |
+![[Pasted image 20250104210246.png]]
 ## Investigations
 - Charts
 - Previous investigations
