@@ -226,9 +226,31 @@ date: 2025-01-04
 		- There is clouding of consciousness, terrifying visual  hallucinations, gross tremor, autonomic hyperactivity with tachycardia and cardiac arrhythmias, dilated pupils, fever, sweating, dehydration and grand mal seizures that may be prolonged (status epilepticus)
 		- Give midazolam or diazepam 5-10mg IV as a bolus every 5-15 minutes until the patient is sedated (i.e. drowsy but rouses when stimulated)
 		- Refer to ICU
-	- Renal and hepatic failure
+- Renal and hepatic failure
 		- Ensure that end-stage kidney and liver failure have not been worsened by nephrotoxic or hepatotoxic medications
-		- Aggressive treatment of the kidney failure (dialysis) or liver failure (lactulose, coagulopathy, raised ICP) may be needed
+		- Aggressive treatment of the kidney failure (dialysis) or liver failure (lactulose, coagulopathy, raised ICP) may be needed; get senior help
+- Depressed consciousness of unknown cause
+	- Some patients may have a depressed conscious level with no cause evident on history, physical examination or routine tests, including CT scan and lumbar puncture
+	-  Intoxication or poisoning with:
+		-  Anticonvulsant medication (may have ataxia or nystagmus)
+		-  New-generation antipsychotics
+		-  Partial-agonist opioids
+		-  Long-acting benzodiazepines (e.g. clonazepam)
+		-  Gamma-hydroxybutyrate (GHB)
+		-  ‘Other’ alcohols, including methanol, ethylene glycol, isopropanol. Check for a metabolic acidosis with raised anion and osmolar gaps, and renal function
+	- Brainstem stroke
+		- May have pinpoint pupils, generalised hyperreflexia and bilateral upgoing plantars
+	- Non-convulsive status epilepticus or prolonged postictal phase
+		- Obtain urgent EEG if possible or give therapeutic trial of benzodiazepine to abort seizure activity
+	- Cerebral vasculitis
+		- CT or MR angiography will be needed, plus an immunology or rheumatology opinion
+- Dementia
+	- Stable dementia may acutely decompensate to cause, or follow, hospital admission
+	- Manage as for acute delirium after looking for a precipitating cause:
+		-  Quiet environment
+		-  Set routines
+		-  Calendars, clocks and staff continuity for environmental re-orientation
+		-  Risperidone PO or SL to control agitation
 # Reference
 - Also see: [ECI guidelines: Delirium and management of behaviourally disturbed older patients](https://aci.health.nsw.gov.au/networks/eci/clinical/clinical-tools/aged-care/delirium-and-management-of-behaviourally-disturbed-older-patients)
 ![](Attachments/Pasted%20image%2020241210112733.png)
