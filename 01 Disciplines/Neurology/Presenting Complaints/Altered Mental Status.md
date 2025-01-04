@@ -251,6 +251,22 @@ date: 2025-01-04
 		-  Set routines
 		-  Calendars, clocks and staff continuity for environmental re-orientation
 		-  Risperidone PO or SL to control agitation
+# Psychiatric Evaluation
+- When normal level of consciousness, normal vital signs, normal investigation and no remaining confusion, but the patient has altered mental state perform a mental state examination and discuss with the acute psychiatry services:
+	-  General appearance—grooming, posture, eye contact, motor activity, attitude
+	-  Speech—rate, volume, spontaneity, articulation, pressure, neologisms
+	-  Mood (the patient's subjective experience of the emotional state)—elevated, happy, sad, angry, depressed
+	-  Affect (the observer's assessment of the patient's emotional state)—dull, inappropriate, disinhibited
+	-  Thought process—quality, relevance, blocking
+	-  Thought content—suicidal, delusions, preoccupations, phobias, depersonalisation, ideas of reference, thought disorders
+	-  Perceptual disorders—illusions, hallucinations
+	-  Cognition
+		-  Level of consciousness and orientation
+		- Memory—remote, recent, immediate (phrase or object recall)
+		- Concentration—serial 7s or equivalent
+		- Intelligence—vocabulary, general knowledge
+		- Judgement—ability to form rational opinions and choices
+		- Insight—awareness of situation.
 # Reference
 - Also see: [ECI guidelines: Delirium and management of behaviourally disturbed older patients](https://aci.health.nsw.gov.au/networks/eci/clinical/clinical-tools/aged-care/delirium-and-management-of-behaviourally-disturbed-older-patients)
 ![](Attachments/Pasted%20image%2020241210112733.png)
