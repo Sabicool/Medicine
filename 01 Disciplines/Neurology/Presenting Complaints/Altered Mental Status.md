@@ -32,6 +32,16 @@ date: 2025-01-04
 # Common Causes *(Corridor thoughts)*
 - CNS causes
 	- Infection: meningitis, encephalitis, abscess
+	- Stroke: CVA, SAH
+	- Tumour
+	- Head trauma: subdural or extradural haematoma
+	- Seizures: post-ictal, complex partial
+	- Cerebral vasculitis: SLE, polyarteritis nodosa
+- Drugs
+	- Alcohol
+	- Narcotic and sedative drug excess or withdrawal
+	- Psychotropic medications (TCAs, lithium, phenothiazines, MAOIs, benzodiasepines, SSRIs)
+	- Miscellaneous (steroids, antihistamines, anticholinergics, levodopa)
 - Delirium (mnemonic: I WATCH DEATH)
 	- Transient clouding of consciousness, *inattention* and failure of recent memory
 	- Acute fluctuating confusional state with restless (sometimes aggressive) behaviour and non-auditory hallucinations
