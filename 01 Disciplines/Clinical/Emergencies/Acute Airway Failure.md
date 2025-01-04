@@ -2,6 +2,7 @@
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
+date: 2025-01-04
 ---
 # Causes
 - Depressed level of consciousness

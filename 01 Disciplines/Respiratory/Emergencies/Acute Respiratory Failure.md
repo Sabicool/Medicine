@@ -2,6 +2,7 @@
 Rotations:
   - "[[02 Rotations/Respiratory|Respiratory]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
+date: 2025-01-04
 ---
 - Type 1: Hypoxaemia with normal (or low) Pa$\ce{CO2}$
 	- Primarily a failure of oxygenation
