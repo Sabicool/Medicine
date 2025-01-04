@@ -225,7 +225,10 @@ date: 2025-01-04
 		- DT is uncommon and usually occurs later at 72 hours after abstinence
 		- There is clouding of consciousness, terrifying visual  hallucinations, gross tremor, autonomic hyperactivity with tachycardia and cardiac arrhythmias, dilated pupils, fever, sweating, dehydration and grand mal seizures that may be prolonged (status epilepticus)
 		- Give midazolam or diazepam 5-10mg IV as a bolus every 5-15 minutes until the patient is sedated (i.e. drowsy but rouses when stimulated)
-		- Refer to ICU, who will need 
+		- Refer to ICU
+	- Renal and hepatic failure
+		- Ensure that end-stage kidney and liver failure have not been worsened by nephrotoxic or hepatotoxic medications
+		- Aggressive treatment of the kidney failure (dialysis) or liver failure (lactulose, coagulopathy, raised ICP) may be needed
 # Reference
 - Also see: [ECI guidelines: Delirium and management of behaviourally disturbed older patients](https://aci.health.nsw.gov.au/networks/eci/clinical/clinical-tools/aged-care/delirium-and-management-of-behaviourally-disturbed-older-patients)
 ![](Attachments/Pasted%20image%2020241210112733.png)
