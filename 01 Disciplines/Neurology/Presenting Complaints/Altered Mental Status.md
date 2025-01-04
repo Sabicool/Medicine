@@ -159,8 +159,19 @@ date: 2025-01-04
 		- Consider residual effects of anaesthetic and analgesic medication, fluid and electrolyte disturbances, urinary infection (esp. with IDC), chest infection (including atelactasis within 24-48 hours) and/or PE
 - Charts
 	- Observation chart
-		- 
+		- Sudden change in vital signs may indicate drug toxicity or acute intracranial pathology
+	- Medication chart
+		- Look for newly prescribed medications and potential drug interactions
+		- Look at the list of medications normally taken at home; consider if an important medication has been omitted e.g. anti-hypertensive
+		- Consider dose adjusting medications that might need renal or hepatic adjustment
 ## Examination
+
+| Examination   | Notes                                          |
+| ------------- | ---------------------------------------------- |
+| Vitals        | Repeat                                         |
+| Mental status | Record a formal GCS for level of consciousness |
+|               |                                                |
+
 ## Investigations
 - Charts
 - Previous investigations
