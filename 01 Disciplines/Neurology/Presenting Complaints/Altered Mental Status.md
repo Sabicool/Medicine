@@ -166,15 +166,29 @@ date: 2025-01-04
 		- Consider dose adjusting medications that might need renal or hepatic adjustment
 ## Examination
 
-| Examination   | Notes                                                                                                         |
-| ------------- | ------------------------------------------------------------------------------------------------------------- |
-| Vitals        | Repeat                                                                                                        |
-| Mental status | Record a formal GCS for level of consciousness                                                                |
-|               | If GCS intact perform a quick confusion scale                                                                 |
-| HEENT         | Nuchal rigidity, neck stiffness, photophobia ⇒ meningitis, [[Subarachnoid Haemorrhage]]                       |
-|               | Pinpoint pupils ⇒ opioids, clonidine, brainstem stroke or eye drops (e.g. pilocarpine for glaucoma)           |
-|               | Dilated pupils ⇒ sympathomimetic or anticholinergic effect, hypoxia, ↑ ICP                                    |
-| Fundoscopy    | Papilloedema ⇒ hypercapnoea, ↑ ICP, [[Hypertension#Hypertensive Encephalopathy\|Hypertensive encephalopathy]] |
+| Examination   | Notes                                                                                                                         |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Vitals        | Repeat                                                                                                                        |
+| Mental status | Record a formal GCS for level of consciousness                                                                                |
+|               | If GCS intact perform a quick confusion scale                                                                                 |
+| HEENT         | Nuchal rigidity, neck stiffness, photophobia ⇒ meningitis, [[Subarachnoid Haemorrhage]]                                       |
+|               | Pinpoint pupils ⇒ opioids, clonidine, brainstem stroke or eye drops (e.g. pilocarpine for glaucoma)                           |
+|               | Dilated pupils ⇒ sympathomimetic or anticholinergic effect, hypoxia, ↑ ICP                                                    |
+|               | Haemotympanum or blood in ear canal ⇒ basal skull fracture                                                                    |
+|               | Lacerated tongue or cheek ⇒ post-ictal state                                                                                  |
+| Fundoscopy    | Papilloedema ⇒ hypercapnoea, ↑ ICP, [[Hypertension#Hypertensive Encephalopathy\|Hypertensive encephalopathy]]                 |
+|               | Dot and blot haemorrhages, exudates, neovascularisation ⇒ diabetic retinopathy                                                |
+|               | Silver wiring, AV nipping, cottol-wool exudates and haemorrhage ⇒ hypertensive retinopathy                                    |
+| Resp          | Cyanosis ⇒ hypoxia                                                                                                            |
+|               | Barrel chest, wheeze, prolonged expiration and ↑ WOB ⇒ COPD with predominant hypoxia or with hypercapnoea                     |
+|               | Basal crackles ⇒ LVF, pneumonia                                                                                               |
+| CVS           | ↑ JVP, S3 gallop, pitting oedema ⇒ CCF                                                                                        |
+| Abdo          | Costovertebral angle tenderness ⇒ pyelonephritis                                                                              |
+|               | Guarding, rebound tenderness ⇒ intra-abdominal haemorrhage or peritonism                                                      |
+|               | Jaundice, hepatomegaly, bruising, flap, encephalopathy ⇒ liver failure and/or ascites with splenomegaly ⇒ portal hypertension |
+| Neuro         | Bilateral upgoing plantars ⇒ encephalopathies, ↑ ICP, postictal state, non-convulsive epilepticus, brainstem stroke           |
+|               | Asterixis or flap ⇒ liver failure, renal failure, hypercapnoea                                                                |
+|               | Tremor ⇒ DT, Parkinson's disease hyperthyroidism                                                                              |
 ![[Pasted image 20250104210246.png]]
 ## Investigations
 - Charts
