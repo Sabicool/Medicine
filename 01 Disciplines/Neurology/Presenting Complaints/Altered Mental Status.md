@@ -30,6 +30,8 @@ date: 2025-01-04
 ## Prioritisation
 
 # Common Causes *(Corridor thoughts)*
+- CNS causes
+	- Infection: meningitis, encephalitis, abscess
 - Delirium (mnemonic: I WATCH DEATH)
 	- Transient clouding of consciousness, *inattention* and failure of recent memory
 	- Acute fluctuating confusional state with restless (sometimes aggressive) behaviour and non-auditory hallucinations
