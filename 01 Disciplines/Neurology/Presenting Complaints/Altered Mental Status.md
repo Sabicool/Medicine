@@ -5,11 +5,29 @@ Rotations:
 date: 2025-01-04
 ---
 # Phone Call/Presentation Questions
-- Reason for admission
-- Previous episodes
-- Does this patient have dementia
-- Who is there with the patient?
+- In what way is the patient acutely confused?
+- Is there a depressed level of consciousness (see [[Unconsciousness]])?
+- Other vital signs?
+- How old is this patient?
+- Reason for admission?
+- Previous episodes?
+- Is there an obvious reason for the patient's behaviour?
+- Does this patient have dementia?
+- Is the patient aggressive?
 - Are they a danger to themselves/others?
+- What measures have been tried to reason or calm the patient?
+- Are staff or patients at risk of harm or actually injured?
+- Who is there with the patient?
+- What additional hospital personal are there to help now?
+## Instructions Over the Phone
+- Check the patient's airway, breathing and circulation and attach a pulse oximeter if the patient becomes unresponsive
+- For combative or aggressive patients ensure safety of nursing staff and the patient by:
+	- Call security personnel if the patient is aggressive, confused or irrational
+	- Check a fingerprick glucose test
+- Ask the nurse to give diazepam 5-10mg PO or olanzapine 5-10mg PO
+- Request an IV trolley for the patient's bedside and ask for 10mg midazolam or 10mg diazepam in 10mL syringe and 10mg haloperidol also in a 10mL syringe to be drawn up ready
+## Prioritisation
+
 # Common Causes *(Corridor thoughts)*
 - Delirium (mnemonic: I WATCH DEATH)
 	- Transient clouding of consciousness, *inattention* and failure of recent memory
