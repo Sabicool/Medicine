@@ -213,7 +213,19 @@ date: 2025-01-04
 - Hypotension: see [[Shock]] or [[Hypotension]]
 - CNS disorders including seizures
 - Drug intoxication or side effects:
-	- 
+	- Stop the medication if the confusion is secondary to drugs
+	- Reverse opioid intoxication. with naloxone 0.1-0.2 mg IV, SC, IM every 5 minute repeated until alert
+		- Beware of precipitating an agitated withdrawal state in an opioid dependent patient or re-sedation as the naloxone wears off
+- Drug withdrawal
+	- Alcohol withdrawal syndrome
+		- 12-48 hours of abstinence and may last up to 1 week; characterised by agitation, irritability, fine tremor, sweats and tachycardia
+		- Start the patient on an alcohol withdrawal chart
+		- Commence diazepam 5-20mg PO regularly until the patient is comfortable, plus thiamine 250mg IV daily. Give IV fluids and electrolyte replacement as required
+	- Delirium tremens
+		- DT is uncommon and usually occurs later at 72 hours after abstinence
+		- There is clouding of consciousness, terrifying visual  hallucinations, gross tremor, autonomic hyperactivity with tachycardia and cardiac arrhythmias, dilated pupils, fever, sweating, dehydration and grand mal seizures that may be prolonged (status epilepticus)
+		- Give midazolam or diazepam 5-10mg IV as a bolus every 5-15 minutes until the patient is sedated (i.e. drowsy but rouses when stimulated)
+		- Refer to ICU, who will need 
 # Reference
 - Also see: [ECI guidelines: Delirium and management of behaviourally disturbed older patients](https://aci.health.nsw.gov.au/networks/eci/clinical/clinical-tools/aged-care/delirium-and-management-of-behaviourally-disturbed-older-patients)
 ![](Attachments/Pasted%20image%2020241210112733.png)
