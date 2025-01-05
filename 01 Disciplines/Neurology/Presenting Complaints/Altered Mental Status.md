@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-date: 2025-01-04
+date: 2025-01-05
 ---
 # Phone Call/Presentation Questions
 - In what way is the patient acutely confused?
@@ -28,7 +28,8 @@ date: 2025-01-04
 - Ask the nurse to give diazepam 5-10mg PO or olanzapine 5-10mg PO
 - Request an IV trolley for the patient's bedside and ask for 10mg midazolam or 10mg diazepam in 10mL syringe and 10mg haloperidol also in a 10mL syringe to be drawn up ready
 ## Prioritisation
-
+- Immediately see any patient with confusion associated with abnormal vital signs, a decreased level of consciousness, agitation or aggressive behaviour.
+- Your role is not to rush to the ward to help restrain the patient, but to determine the cause of the patient's behaviour and to organise appropriate support and medical treatment
 # Common Causes *(Corridor thoughts)*
 - CNS causes
 	- Infection: meningitis, encephalitis, abscess

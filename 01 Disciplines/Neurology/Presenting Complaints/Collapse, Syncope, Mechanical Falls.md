@@ -1,0 +1,70 @@
+---
+aliases:
+  - Collapse
+  - Syncope
+  - Mechanical Fall
+Rotations:
+  - "[[02 Rotations/Cardiology|Cardiology]]"
+  - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
+  - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
+date: 2025-01-05
+---
+- All of these are characterised by full and rapid neurological recovery
+- Syncope is transient loss of consciousness and postural tone from reduced cerebral perfusion, followed by spontaneous and full recovery
+- Presyncope refers to a reduction in cerebral perfusion resulting in a sensation of impending loss of consciousness, although the patient does not actually pass out
+# Phone Call/Presentation Questions
+- Was the collapse witnessed?
+- Was the patient lying, sitting or standing when the episode occurred?
+	- If while lying down likely cardiac; cannot be postural hypotension
+- Did the patient actually lose consciousness?
+- Was any seizure like activity observed?
+- What are the vital signs now, including GCS score?
+- Did the patient sustain any injury?
+- What is the blood glucose level?
+- What was the reason for admission?
+## Instructions Over the Phone
+- When no evidence of injury (head, neck or lower limb) and the vital signs are stable:
+	- Ask the nurse to slowly raise the patient to a seated position, then standing position
+	- Place the patient back into bed to remain there until you arrive
+	- Request an ECG and attach non-invasive monitoring to the patient if syncope was the cause of collapse
+	- Request a fingerprick BGL
+	- Obtain a lying and standing HR and BP; ask the nurse to wait at least 2 minutes after standing the patient up before taking the observations, then repeat the vital signs every 15 minutes until you arrive at the bedside
+	- Ask the nurse to call you back immediately if there is deterioration in the level of consciousness or any cardiorespiratory instability
+## Prioritisation
+- Attend immediately if the patient remains unconscious and/or the HR or BP are abnormal
+- If the patient is alert and conscious with normal vital signs, or following an uncomplicated fall with no injury, there is no immediate urgency to attend
+# Common Causes *(Corridor Thoughts)*
+- Can remember using the mnemonic: HEAD, HEART, VESSELS
+    - CNS (head)
+        - Hypoxia (hypoglycemia does not cause syncope)
+        - Epilepsy (not a true cause of syncope)
+        - Anxiety and hyperventilation
+        - Dysfunctional brain stem (basivertebral TIA)
+    - Cardiac (heart)
+        - Heart attack (ACS)
+        - Embolism (PE)
+        - Aortic obstruction (IHSS, AS or myxoma)
+        - Rhythm disturbance, ventricular
+        - Tachycardia
+    - Vascular (vessels)
+        - Vasovagal (emotional reactions) or Valsalva (micturition, cough, straining etc)
+        - Ectopic (and other causes of hypovolemia)
+        - Situational
+        - Subclavian steal
+        - ENT (glossopharyngeal neuralgia)
+        - Low systemic vascular resistance
+            - autononic dysfunction: Addison’s, diabetic vascular neuropathy
+            - Drugs such as CCBs, beta-blockers, anti-hypertensives
+        - Sensitive carotid sinus
+- Otherwise categorise into causes of syncope and causes of mechanical fall:
+	- Syncope
+		- Cardiac central vascular
+			- Bradyarrhythmia (Stokes-Adams attack): sinus arrest, second- and third- degree AV block, sick sinus syndrome, pacemaker malfunction
+			- Tachyarrhythmia: VT, rapid AF or flutter (±WPW), rapid paroxysmal SVT (±WPW), Torsades de pointes (usually with prolonged QT)
+			- Obstructive or low-flow conditions: HCM, aortic stenosis, pulmonary embolism
+		- Peripheral vascular orthostatic (postural) hypotension
+			- Durg induced: Nitrates, hydralazine, prazosin, ACE-i, antipsychotics, levodopa
+			- Volume depletion:
+			- Autonomic failure
+# Resources
+- My notes from medical school: https://mango-cellar-b90.notion.site/Approach-to-a-pre-syncope-syncope-308c2fce084d467e9b2ebb7cc3afb6a5
