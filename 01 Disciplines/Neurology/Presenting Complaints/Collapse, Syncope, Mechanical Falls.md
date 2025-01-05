@@ -87,6 +87,8 @@ date: 2025-01-05
 			- Parkinson's disease, or other movement disorders including normal pressure hydrocephalus
 			- Cerebellar lesions with ataxia
 		- Metabolic disorder
+			- Electrolyte abnormality such as hyponatraemia, hypokalaemia, hypoglycaemia, hyperglycaemia
+			- Dehydration, renal failure (multifactorial), hepatic failure
 		- Drugs
 		- Sensory impairment
 		- Musculoskeletal
