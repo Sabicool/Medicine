@@ -59,12 +59,17 @@ date: 2025-01-05
 - Otherwise categorise into causes of syncope and causes of mechanical fall:
 	- Syncope
 		- Cardiac central vascular
-			- Bradyarrhythmia (Stokes-Adams attack): sinus arrest, second- and third- degree AV block, sick sinus syndrome, pacemaker malfunction
-			- Tachyarrhythmia: VT, rapid AF or flutter (±WPW), rapid paroxysmal SVT (±WPW), Torsades de pointes (usually with prolonged QT)
+			- [[Arrhythmias#Bradyarrhythmias|Bradyarrhythmias]] (Stokes-Adams attack): sinus arrest, second- and third- degree AV block, sick sinus syndrome, pacemaker malfunction
+			- [[Arrhythmias#Tachyarrhythmias|Tachyarrhythmias]]: VT, rapid AF or flutter (±WPW), rapid paroxysmal SVT (±WPW), Torsades de pointes (usually with prolonged QT)
 			- Obstructive or low-flow conditions: HCM, aortic stenosis, pulmonary embolism
 		- Peripheral vascular orthostatic (postural) hypotension
 			- Durg induced: Nitrates, hydralazine, prazosin, ACE-i, antipsychotics, levodopa
 			- Volume depletion: GI bleed, ruptured AAA, ectopic pregnancy, dehydration
-			- Autonomic failure
+			- Autonomic failure: Diabetes, Parkinson's disease/plus/Lewy body
+		- Vasovagal syncope
+			- Excessive vagal tone assocaited with standing, emotion, fear, pain, stress, hunger
+		- Situational syncope
+			- ↑ intrathoracic pressure from coughing, micturition, swallowing, defecation, sneezing
+		- 
 # Resources
 - My notes from medical school: https://mango-cellar-b90.notion.site/Approach-to-a-pre-syncope-syncope-308c2fce084d467e9b2ebb7cc3afb6a5
