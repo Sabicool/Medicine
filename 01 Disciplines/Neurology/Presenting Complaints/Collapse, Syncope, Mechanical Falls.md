@@ -110,6 +110,27 @@ date: 2025-01-05
 	- Tachycardia, bradycardia or irregular rhythm may indicate an arrhythmia as the primary cause → perform ECG and attach cardiac monitoring
 	- Cardiac cause of collapse have a increased mortality risk
 - Blood pressure?
-	- 
+	- A postural fall in BP together with a postural rise in HR (>20 beats/min) suggests intravascular volume depletion
+	- A drop in BP without a change in HR, or one that corrects on standing, suggests autonomic dysfunction
+	- Hypertension may be associated with SAH or brainstem TIA
+# Immediate Management
+- Recovery from syncope will be delayed if the patient is kept upright and not placed supine until symptoms resolve
+	- Gradually sit the patient up over a few minutes as tolerated
+- A cardiac arrhythmia should be confirmed with a 12-lead ECG and treated immediately
+- Obtain IV access and give normal saline 10–20 mL/kg IV rapidly if BP <90 mmHg and does not quickly improve with recumbency
+- Check for head or neck injury, as spinal immobilisation may be needed
+- Move onto selective history and examination if the patient has fully recovered from the syncopal episode, has a normal ECG and normal vital signs
+# Selective History and Chart Review
+- Previous syncopal episode?
+	- Ask if the patient has ever had a previous syncopal episode
+	- Ask whether these previous episodes have been documented investigated or diagnosed
+- What does the patient (or a witness) recall about the time immediately before the syncope?
+	- Try to determine preceding symptoms or obvious precipitant to the collapse
+	- Sudden collapse with no warning, syncope lying down, associated palpitations or syncope on exertion suggests a cardiac cause known as a Stokes-Adams attack
+	- Syncope on rising from a supine position suggests orthostatic or postural hypotension
+	- Emotion or a noxious stimulus such as IV line insertion or painful wound dressing change may cause collapse secondary to a vasovagal episode
+	- Preceding nausea, sweating, distant hearing and light-headedness are common with a vasovagal episode
+	- Syncope during or immediately after coughing, micturition, straining at stool or sneezing suggests situational syncope
+	- Syncope after turning the head to one side (especially if wearing a tight collar) or while shaving may indicate carotid sinus syncope, often in elderly men
 # Resources
 - My notes from medical school: https://mango-cellar-b90.notion.site/Approach-to-a-pre-syncope-syncope-308c2fce084d467e9b2ebb7cc3afb6a5
