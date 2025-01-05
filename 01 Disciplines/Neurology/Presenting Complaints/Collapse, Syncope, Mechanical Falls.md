@@ -90,8 +90,26 @@ date: 2025-01-05
 			- Electrolyte abnormality such as hyponatraemia, hypokalaemia, hypoglycaemia, hyperglycaemia
 			- Dehydration, renal failure (multifactorial), hepatic failure
 		- Drugs
+			- Narcotics, sedatives, tranquilisers
 		- Sensory impairment
+			- Cataracts, age-related macular degeneration, glaucoma
+			- Impaired balance and proprioception
 		- Musculoskeletal
+			- Arthritis, obesity and physical inactivity
 		- Environmental
+			- Wet floor
+			- Unsafe clothing or inappropriate footwear
+			- Physical
+				- Bed rails, IV pole, bed height, edge of a carpet, poor lighting or no handrails
+# Assessment
+## End of Bed
+- Pallor followed by flushing occurs in cardiac syncope, whereas persistent pallor may indicate occult bleeding or another cause of poor peripheral perfusion
+- However, most patients who have had a simple mechanical fall or an episode of syncope regain normal consciousness and look perfectly well
+## A to E Assessment
+- Heart rate?
+	- Tachycardia, bradycardia or irregular rhythm may indicate an arrhythmia as the primary cause → perform ECG and attach cardiac monitoring
+	- Cardiac cause of collapse have a increased mortality risk
+- Blood pressure?
+	- 
 # Resources
 - My notes from medical school: https://mango-cellar-b90.notion.site/Approach-to-a-pre-syncope-syncope-308c2fce084d467e9b2ebb7cc3afb6a5
