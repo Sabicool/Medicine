@@ -137,6 +137,16 @@ date: 2025-01-05
 - Confirm any presenting problem or past medical they may have caused the collapse; examples include:
 	- Previous episodes of collapse or falls with or without known diagnosis
 	- Evidence of LV failure or a documented reduced LV ejection fraction <30%
-	- 
+	- Known cerebrovascular disease
+	- Autonomic neuropathy
+	- Positive family history of collapse or sudden death may be due to underlying HCM, WPW syndrome, long QT syndrome or Brugada's syndrome
+- Charts
+	- Observation charts
+		- Check the vital signs to determine whether this is an acute change or if there were long-standing abnormalities in postural BP ⇒ autonomic neuropathy
+		- Check the signs of hypovolaemia such as tachycardia, narrowing pulse pressure
+		- Check for adequate fluid intake and look at the fluid balance chart
+	- Medication charts
+		- Nitrates, vasodilator antihypertensives, diuretics, antiarrhythmics, tricyclic antidepressants, antipsychotics, levodopa and sildenafil (Viagra) cause postural hypotension
+		- Beta-blockers (including eye drops), calcium-channel blockers, digoxin and amiodarone may cause bradycardia
 # Resources
 - My notes from medical school: https://mango-cellar-b90.notion.site/Approach-to-a-pre-syncope-syncope-308c2fce084d467e9b2ebb7cc3afb6a5
