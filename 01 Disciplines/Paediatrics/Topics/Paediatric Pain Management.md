@@ -3,6 +3,7 @@ Rotations:
   - "[[02 Rotations/Paediatrics|Paediatrics]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
+date: 2025-01-05
 ---
 - Stress and anxiety can exacerbate the perception of pain. Strategies that may be helpful to minimise stress and anxiety include:
 	- Parental presence and comforting touch when possible
