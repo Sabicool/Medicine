@@ -133,6 +133,7 @@ date: 2025-01-05
 	- Syncope during or immediately after coughing, micturition, straining at stool or sneezing suggests situational syncope
 	- Syncope after turning the head to one side (especially if wearing a tight collar) or while shaving may indicate carotid sinus syncope, often in elderly men
 	- Syncope occurring during arm exercise suggests subclavian steal syndrome
-	- 
+	- Numbness and tingling in the hands and feet are common just before presyncope or syncope caused by hyperventilation
+- Confirm any presenting problem or past medical 
 # Resources
 - My notes from medical school: https://mango-cellar-b90.notion.site/Approach-to-a-pre-syncope-syncope-308c2fce084d467e9b2ebb7cc3afb6a5
