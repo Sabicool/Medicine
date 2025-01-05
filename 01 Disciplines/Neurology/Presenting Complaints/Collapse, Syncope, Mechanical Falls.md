@@ -186,9 +186,37 @@ date: 2025-01-05
 	- CT if possible neurological cause (e.g. SAH, vertebrobasilar insufficiency) - usually quite rate <2% of syncope
 # Specific Management
 ## Cardiac Causes
+- Arrange continuous ECG monitoring if you suspect a cardiac cause for syncope such as an arrhythmia, valvular or a pacemaker problem
+- Exclude MI with resultant AV block, VT or VF as the cause by ECG analysis and troponin
+- Arrange for an echocardiogram in the morning to document a suspected cardiac lesion
+- Organise a cardiology consultation if aortic stenosis, hypertrophic cardiomyopathy or an arrhythmia is suspected
+- Pacemaker syncope requires a cardiology consultation for reprogramming of the pacing rate, output or mode, or for an upgrade to AV sequential pacing
+- Otherwise, arrange an outpatient 24-hour Holter ECG in younger patients with no overt evidence of heart disease
 ## Orthostatic Hypotension
+- Volume depletion → IV fluid replacement
+- Drug-induced orthostatic hypotension and autonomic failure → leave to the medical team to manage
+- Instruct patients that if they need to get out of bed during the night, they must ask the nurse for assistance and should move slowly from supine to sitting, dangle their legs for 2 minutes and then move slowly again from sitting to standing
 ## Neurological Causes
+- Arrange a CT head for suspected TIA (with contrast) or SAH (non-contrast) and consult with senior
 ## Vasovagal Syncope
+- Nausea and malaise persist for longer in these patients
+- Exclude pregnancy in females
 ## Situational Syncope
+- Usually no specific therapy other than explanation (e.g. tell men to micturate sitting down)
+- Refer a patient with suspected carotid sinus syncope to a cardiologist for investigation
+## Hyperventilation
+- Presyncopal patient due to hyperventilation or anxiety:
+	- Instruct to breathe into a paper bag when the anxiety presyncopal feeling begins (corrects hypocapnia from hyperventilation)
+	- Administer a benzodiazepine if resistant but remember to explore the underlying precipitating trigger
+## Falls
+- Correct the reversible factors
+	- Postural hypotension from volume depletion and unnecessary drug therapy in elderly
+	- Make sure nocturia is not iatrogenic (e.g. cancel evening diuretic order or unecessary IV infusion) and limit evening fluid intake
+	- Disorientation: ensure the call bell is easily accessible and a nightlight is left on
+		- Lower the bed height
+- Check for complications (e.g. shoulder dislocation, hip fracture on paralysed side of a stroke patient)
+	- Anticoagulated patient may develop a serious delayed traumatic intracranial haemorrhage (leave a note for the medical team to re-examine these patients frequently)
+	- Common fractures: Colles', femoral neck, pubic rami, spinal crush, rib and humeral neck
+	- Fear, loss of confidence and independence, loss of mobility → arrange physiotherapy and occupational therapy consultation
 # Resources
 - My notes from medical school: https://mango-cellar-b90.notion.site/Approach-to-a-pre-syncope-syncope-308c2fce084d467e9b2ebb7cc3afb6a5
