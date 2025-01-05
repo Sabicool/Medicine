@@ -70,6 +70,26 @@ date: 2025-01-05
 			- Excessive vagal tone assocaited with standing, emotion, fear, pain, stress, hunger
 		- Situational syncope
 			- ↑ intrathoracic pressure from coughing, micturition, swallowing, defecation, sneezing
-		- 
+		- Carotid sinus hypersensitivity causes syncope on turning head, tight neck collar etc
+		- Cerebrovascular
+			- Subarachnoid haemorrhage
+			- Vertebrobasillar insufficiency
+			- Subclavian artery steal: extremity exercise leads to vertebrobasilar insuffiency
+		- Psychogenic
+			- Hyperventilation
+			- Psychogenic collapse: diagnosis of exclusion only; look for underlying organic basis first
+	- Mechanical falls
+		- Can be multifactorial especially in older people; combination of environmental hazards, poor vision, diminished muscular strength and impaired proprioception
+		- Neurological
+			- Dementia resulting in poor safety awareness
+			- Confusion and cognitive impairment
+			- Pre-existing weakness
+			- Parkinson's disease, or other movement disorders including normal pressure hydrocephalus
+			- Cerebellar lesions with ataxia
+		- Metabolic disorder
+		- Drugs
+		- Sensory impairment
+		- Musculoskeletal
+		- Environmental
 # Resources
 - My notes from medical school: https://mango-cellar-b90.notion.site/Approach-to-a-pre-syncope-syncope-308c2fce084d467e9b2ebb7cc3afb6a5
