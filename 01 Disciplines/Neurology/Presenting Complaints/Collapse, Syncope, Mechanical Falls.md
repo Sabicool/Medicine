@@ -64,7 +64,7 @@ date: 2025-01-05
 			- Obstructive or low-flow conditions: HCM, aortic stenosis, pulmonary embolism
 		- Peripheral vascular orthostatic (postural) hypotension
 			- Durg induced: Nitrates, hydralazine, prazosin, ACE-i, antipsychotics, levodopa
-			- Volume depletion:
+			- Volume depletion: GI bleed, ruptured AAA, ectopic pregnancy, dehydration
 			- Autonomic failure
 # Resources
 - My notes from medical school: https://mango-cellar-b90.notion.site/Approach-to-a-pre-syncope-syncope-308c2fce084d467e9b2ebb7cc3afb6a5
