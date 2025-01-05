@@ -180,7 +180,15 @@ date: 2025-01-05
 - Urinary beta-hCG in women of reproductive years
 - Other tests as indicated:
 	- FBC (bleeding, anaemia)
-	- UEC,
+	- UEC, troponin if AMI is suspected
+	- CXR re. cardiomegaly, heart failure
+	- Echocardiography, Holter monitoring and exercise testing to investigate for cardiac cause
+	- CT if possible neurological cause (e.g. SAH, vertebrobasilar insufficiency) - usually quite rate <2% of syncope
 # Specific Management
+## Cardiac Causes
+## Orthostatic Hypotension
+## Neurological Causes
+## Vasovagal Syncope
+## Situational Syncope
 # Resources
 - My notes from medical school: https://mango-cellar-b90.notion.site/Approach-to-a-pre-syncope-syncope-308c2fce084d467e9b2ebb7cc3afb6a5
