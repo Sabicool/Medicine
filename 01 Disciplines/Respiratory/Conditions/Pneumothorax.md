@@ -1,3 +1,6 @@
+---
+date: 2025-01-01
+---
 # History
 - Chest pain is sudden and pleuritic
 # Examination

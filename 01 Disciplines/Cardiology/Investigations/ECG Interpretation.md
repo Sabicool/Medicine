@@ -24,8 +24,8 @@ https://www.youtube.com/watch?v=H6yTQm2h8dc
 ![[Pasted image 20250105130531.png]]
 ## Sick Sinus Syndrome
 ![[Sinus Node Dysfunction Venn Diagram.excalidraw.png]]
-%%[[Sinus Node Dysfunction Venn Diagram.excalidraw|🖋 Edit in Excalidraw]]%%
+%%[[Sinus Node Dysfunction Venn Diagram.excalidraw.md|🖋 Edit in Excalidraw]]%%
 - Sick sinus syndrome = sinus node dysfunction + secondary symptoms (e.g. lightheadedness, syncope, heart failure symptoms)
 - Tachycardia-bradycardia syndrome = sick sinus syndrome + atrial tachyarrhythmia (e.g. atrial flutter or atrial fibrillation)
-![[Sick Sinus Syndrome ECG Example.png]]
-%%[[Sick Sinus Syndrome ECG Example|🖋 Edit in Excalidraw]]%%
+![[Sick Sinus Syndrome ECG Example.excalidraw.png]]
+%%[[Sick Sinus Syndrome ECG Example.excalidraw.md|🖋 Edit in Excalidraw]]%%

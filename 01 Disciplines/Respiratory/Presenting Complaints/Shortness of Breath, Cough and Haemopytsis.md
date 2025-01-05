@@ -8,6 +8,7 @@ Rotations:
   - "[[02 Rotations/Respiratory|Respiratory]]"
   - "[[02 Rotations/Cardiology|Cardiology]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
+date: 2025-01-01
 ---
 # Phone Call/Presentation Questions
 - Reason for admission
