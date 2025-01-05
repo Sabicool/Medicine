@@ -148,5 +148,39 @@ date: 2025-01-05
 	- Medication charts
 		- Nitrates, vasodilator antihypertensives, diuretics, antiarrhythmics, tricyclic antidepressants, antipsychotics, levodopa and sildenafil (Viagra) cause postural hypotension
 		- Beta-blockers (including eye drops), calcium-channel blockers, digoxin and amiodarone may cause bradycardia
+		- Any CNS depressant increases the risk of falls
+		- Quinidine, procainamide, disopyramide, sotalol, amiodarone, tricyclic antidepressants, antipsychotics and some of the ‘non-sedating’ antihistamines prolong the QT interval
+# Examination
+
+| Examination | Notes                                                                                                                                                                                                   |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Vitals      | Repeat now, then take the BP in both arms. A difference >20 mmHg may indicate aortic dissection or subclavian steal syndrome                                                                            |
+| HEENT       | Bitten tongue or cheek ⇒ seizure disorder                                                                                                                                                               |
+|             | Neck stiffness ⇒ meningitis causing a seizure, SAH                                                                                                                                                      |
+|             | Haemotympanum ⇒ fractured base of skull                                                                                                                                                                 |
+| Resp        | Crackles, wheezes ⇒ LVF, or aspiration during syncope                                                                                                                                                   |
+| CVS         | Pacemaker ⇒ pacemaker syncope                                                                                                                                                                           |
+|             | Flat JVP ⇒ volume depletion                                                                                                                                                                             |
+|             | Focal features of right heart failure ⇐ ↑ JVP and parasternal heave with dyspnoea suggesting PE                                                                                                         |
+|             | Atrial fibrillation ⇒ verebrobasilar embolism                                                                                                                                                           |
+|             | Systolic murmur ⇒ aortic stenosis, HCM, pulmonary stenosis                                                                                                                                              |
+|             | Supra- or subclavicular bruit ⇒ subclavian steal syndrome                                                                                                                                               |
+| Abdo        | Abdominal mass ⇒ ruptured AAA                                                                                                                                                                           |
+|             | Rectal blood or melaena ⇒ GI bleed                                                                                                                                                                      |
+|             | Pelvic tenderness, vaginal bleeding ⇒ ectopic pregnancy                                                                                                                                                 |
+| GU          | Urinary incontinence ⇒ seizure disorder                                                                                                                                                                 |
+| Neuro       | Residual localising signs such as unsteadiness or cranial nerve abnormalities such as diplopia, nystagmus, facial paralysis, vertigo, dysphagia and dysarthria occur in brainstem (vertebrobasilar) TIA |
+| MSS         | Check passive ROM of the limbs and for evidence of a fracture if the patient fell                                                                                                                       |
+| Skin        | Contusions, abrasions and laceration from injury                                                                                                                                                        |
+# Investigations
+- Check a fingerprick glucose for hypo/hyperglycaemia
+- ECG in all patients
+	- Bradyarrhythmia, tachyarrhythmia, evidence of ACS or previous MI
+	- Conduction defects, WPW, prolonged QT, LVH in HCM, or Brugada's syndrome
+- Urinary beta-hCG in women of reproductive years
+- Other tests as indicated:
+	- FBC (bleeding, anaemia)
+	- UEC,
+# Specific Management
 # Resources
 - My notes from medical school: https://mango-cellar-b90.notion.site/Approach-to-a-pre-syncope-syncope-308c2fce084d467e9b2ebb7cc3afb6a5
