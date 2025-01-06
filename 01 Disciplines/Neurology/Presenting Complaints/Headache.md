@@ -20,3 +20,27 @@ date: 2025-01-06
 - A sudden severe headache and a headache associated with fever, vomiting or a decreased level of consciousness mandate seeing the patient immediately
 - A patient with a chronic or recurrent headache should have analgesia prescribed and be reviewed non-urgently
 # Common Causes *(Corridor Thoughts)*
+- Secondary headaches:
+	- Intracranial
+		- Haemorrhage (subarachnoid, intracerebral, subdural)
+		- Infection (abscess, meningitis, encephalitis)
+		- Posttraumatic (subdural, extradural, cerebral contusion)
+		- Cerebral space-occupying lesion (secondary metastasis, primary benign or malignant tumour, abscess, tuberculoma)
+		- Cerebral venous sinus thrombosis
+		- Idiopathic (benign) intracranial hypertension
+		- Cerebral vasculitis such as SLE, RA, PAN, Wegener’s granulomatosis
+		- Post-LP
+	- Local
+		- Glaucoma (always examine for a painful red eye, with a cloudy cornea and ovoid, fixed pupil)
+		- Temporal arteritis
+		- Vertebral artery dissection
+		- Neuralgia (greater occipital, glossopharyngeal, trigeminal)
+		- Sinusitis, otitis media, mastoiditis
+		- Dental caries, tooth abscess
+		- TMJ dysfunction
+		- Cervical osteoarthritis
+	- Systemic
+		- Severe hypertension
+		- Systemic infection
+		- Hypercapnia
+		- Preeclampsia (is the patient pregnant?)
