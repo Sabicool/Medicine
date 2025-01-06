@@ -3,9 +3,11 @@ aliases:
   - On call
 date: 2025-01-06
 ---
-## Auto Generated List
-<!-- QueryToSerialize: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) group by reverse(split(file.folder, "/"))[0] -->
-<!-- SerializedQuery: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) group by reverse(split(file.folder, "/"))[0] -->
+ Also see:
+- [iSBAR Handover](00%20Reference/Clinical/iSBAR%20Handover.md)
+# Common Conditions and Presentations
+<!-- QueryToSerialize: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) group by reverse(split(file.folder, "/"))[0] -->
+<!-- SerializedQuery: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) group by reverse(split(file.folder, "/"))[0] -->
 - Conditions: 
     - [[Hypertension]]
     - [[Hypotension]]
@@ -34,9 +36,10 @@ date: 2025-01-06
 
 <!-- SerializedQuery END -->
 
-Also see:
-- [iSBAR Handover](00%20Reference/Clinical/iSBAR%20Handover.md)
-## Documenting on call visits
+# Medications to Know
+<!-- QueryToSerialize: list rows.file.link from "03 Medications" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) group by reverse(split(file.folder, "/"))[0] -->
+
+# Documenting on call visits
 1. Begin with date, time and who you are: *9 December 2024: 0300 hours. Resident on-call note*
 2. State who called you and at what time you were called: *Called by nursing staff at 02:30 hours to see a patient who 'fell out of bed'*. If the assessment was delayed by more pressing matter, say so
 3. Brief summary of the patient's admission diagnosis and major medical problems:

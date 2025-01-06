@@ -6,9 +6,9 @@ date: 2025-01-04
 - Conditions: 
     - [[Pulmonary Hypertension]]
     - [[Asthma]]
-    - [[COPD]]
-    - [[Pneumothorax]]
     - [[Acute Pulmonary Oedema]]
+    - [[Pneumothorax]]
+    - [[COPD]]
     - [[Pulmonary Embolism]]
     - [[Pneumonia]]
 
@@ -16,7 +16,7 @@ date: 2025-01-04
     - [[Acute Respiratory Failure]]
 
 - Presenting Complaints: 
-    - [[Shortness of Breath, Cough and Haemopytsis]]
     - [[Hiccups]]
+    - [[Shortness of Breath, Cough and Haemopytsis]]
 
 <!-- SerializedQuery END -->

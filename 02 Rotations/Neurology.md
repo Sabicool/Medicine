@@ -11,5 +11,6 @@ date: 2025-01-03
 
 - Presenting Complaints: 
     - [[Altered Mental Status]]
+    - [[Collapse, Syncope, Mechanical Falls]]
 
 <!-- SerializedQuery END -->

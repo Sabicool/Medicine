@@ -16,14 +16,14 @@ Mainly for the admin side of things as a junior doctor
 If you'd rather just find notes on medicine relevant to the particular rotation you are on look below:
 <!-- QueryToSerialize: LIST FROM "02 Rotations" -->
 <!-- SerializedQuery: LIST FROM "02 Rotations" -->
-- [[Cardiology]]
 - [[Emergency Medicine]]
 - [[Intensive Care Unit]]
-- [[Common Ward Calls]]
-- [[Nephrology]]
 - [[Neurology]]
 - [[Paediatrics]]
+- [[Nephrology]]
 - [[Respiratory]]
+- [[Common Ward Calls]]
+- [[Cardiology]]
 <!-- SerializedQuery END -->
 
 Otherwise have a look through the "01 Disciplines" on the left panel.
