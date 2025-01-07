@@ -103,4 +103,21 @@ date: 2025-01-07
 	- Never make a first diagnosis of migraine with a defintiive history of previous similar attacks
 	- Give metoclopramide 10-20mg IV + NSAID (e.g. aspirin 300mg three tablets = 900mg PO) + commence normal saline at 500mL/h if volume depleted
 # Selective History and Chart Review
-- 
+- Onset sudden or insidious?
+	- Sudden onset ⇒ vascular cause e.g. subarachnoid or intracerebral haemorrhage, cerebral venous sinus thrombosis or vertebral or carotid artery dissection
+- Headache severity?
+	- Sudden onset worst headache ever ⇒ SAH until proven otherwise
+	- Migraine headache causes pain bad enough to interfere with normal daily function
+	- Muscle contraction headaches (tension) are band-like, mild and rarely incapacitating
+- Main site of pain?
+	- Unilateral throbbing headache ⇒ migraine
+	- Tight band around the head or ache acorss the forehead ⇒ tension headache
+	- Lancinating or electric shock pain ⇒ neuralgia
+	- Extreme facial or eye pain in short recurring bouts, many months apart ⇒ cluster headache
+	- Retro-orbital pain may be caused by orbital lesions including glaucoma, cavernous sinus venous thrombosis, berry aneurysm and SAH, and sphenoid or ethmoid sinusitis
+- Affect of posture on headache severity?
+	- Tension headache is improved by lying down and resting
+	- Headache worse by lying or bending down ⇒ ↑ ICP
+	- Headache worse by standing up ⇒ low-pressure syndrome such as post LP headache or spontaneous CSF leak
+- Other associated symptoms?
+	- Visual aura such as scintillations, zigzag lines, migratory scotomata and tunnel or blurred vision precede a ‘classic migraine’ headache
