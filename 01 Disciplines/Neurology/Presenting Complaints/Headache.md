@@ -78,3 +78,29 @@ date: 2025-01-07
 |               | Unequal pupils + ↓ level of consciousness → life threatening. Call for senior help and arrange for intubation, a CT head scan and urgent neurosurgical consult                                                          |
 | Skin          | Maculopapular rash (early), petechiae or purpura (later) ⇒ meningococcaemia → call for senior help, take blood cultures immediately and give benzylpenicillin 2.4g IV or ceftriaxone 2g IV if penicillin hypersensitive |
 # Immediate Management
+- Attach monitoring (non-invasive ECG, BP and pulse oximeter)
+- Commence oxygen therapy to maintain oxygen saturation >94%
+- Obtain IV access with large-bore 14-16G peripheral cannulae
+	- Draw and send blood samples for FBC, coags, UEC, LFT, group and hold and if ? infection two sets of paired blood cultures
+- Give antibiotics for suspected meningitis and titrate morphine 2.5mg IV boluses with metoclopramide 10mg IV for SAH
+- Request immediate CT head scan if secondary intracranial cause suspected
+- LP contraindicated when:
+	- Papilloedema
+	- Focal neurology incl. altered conscious level
+	- Immunosuppression
+	- Coagulopathy
+## Immediate Specific Management
+- Patient unwell with fever, altered mental status, nucal rigidity or photophobia ⇒ bacterial meningitis:
+	- Give normal saline to support low BP
+	- Give dexamethasone 0.15mg/kg IV with ceftriaxone 4g IV as soon as the diagnosis is suspected
+		- Do not delay initial management while awaiting for an LP
+	- If altered behaviour, speech disorder, focal neurology or CSF shows atypical leucocytosis (predominantly monocytes) or negative Gram stain for bacteria ⇒ herpes simplex encephalitis → aciclovir 10mg/kg IV
+- Patient unwell with fever and there is subdural empyema, brain abscess, suspected infected ventriculoperitoneal shunt → call neurosurgery immediately
+- Severe headache, confusion or altered conscious level, nuchal rigidity but no fever ⇒ ? SAH
+	- Request urgent non-contrast CT head scan
+- Typical aura, no fever, no nuchal rigidity, no confusion and no papilloedema ⇒ migraine headache
+	- Other features common: vomiting with photophobia and phonophobia and past history of migraine
+	- Never make a first diagnosis of migraine with a defintiive history of previous similar attacks
+	- Give metoclopramide 10-20mg IV + NSAID (e.g. aspirin 300mg three tablets = 900mg PO) + commence normal saline at 500mL/h if volume depleted
+# Selective History and Chart Review
+- 
