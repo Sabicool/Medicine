@@ -65,4 +65,16 @@ date: 2025-01-07
 	- Hypertension + bradycardia ⇒ ↑ ICP
 - Temperature?
 	- Fever + headache → immediate blood cultures, IV antibiotics, CT scan and LP if no contraindications
-## 
+## Initial Examination: Signs of ↑ ICP or Meningitis?
+
+| Examination   | Notes                                                                                                                                                                                                                   |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| HEENT         | Nuchal rigidity (meningitis, SAH)                                                                                                                                                                                       |
+| Fundoscopy    | Absent venous pulsations (earliest sign of raised ICP)                                                                                                                                                                  |
+|               | Papilloedema                                                                                                                                                                                                            |
+|               | Retinal haemorrhages ⇒ hypertension, SAH                                                                                                                                                                                |
+| Mental status |                                                                                                                                                                                                                         |
+| Neuro         | Test for Kernig's sign and Brudzinski's sign ⇒ meningitis, SAH                                                                                                                                                          |
+|               | Unequal pupils + ↓ level of consciousness → life threatening. Call for senior help and arrange for intubation, a CT head scan and urgent neurosurgical consult                                                          |
+| Skin          | Maculopapular rash (early), petechiae or purpura (later) ⇒ meningococcaemia → call for senior help, take blood cultures immediately and give benzylpenicillin 2.4g IV or ceftriaxone 2g IV if penicillin hypersensitive |
+# Immediate Management
