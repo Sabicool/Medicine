@@ -1,5 +1,5 @@
 ---
-date: 2025-01-06
+date: 2025-01-07
 ---
 # Phone Call/Presentation Questions
 - Was the onset sudden or gradual? Sudden onset of a severe headache is a SAH until proven otherwise?
@@ -44,3 +44,13 @@ date: 2025-01-06
 		- Systemic infection
 		- Hypercapnia
 		- Preeclampsia (is the patient pregnant?)
+	- Drugs
+		- Nitrates
+		- Calcium channel blockers
+		- NSAIDs
+		- Medication overuse headache
+- Primary headaches
+	- Tension headache
+	- Migraine
+	- Cluster headache
+# 
