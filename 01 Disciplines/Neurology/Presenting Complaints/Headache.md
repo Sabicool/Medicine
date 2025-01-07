@@ -53,4 +53,16 @@ date: 2025-01-07
 	- Tension headache
 	- Migraine
 	- Cluster headache
-# 
+# Assessment
+## End of Bed
+- Patients with SAH, meningitis or intracranial herniation look sick, are often in significant pain and frequently have altered mental status
+- Patients with migraine are also distressed and sick, but remain fully conscious
+## A to E Assessment
+- Blood pressure?
+	- Severe hypertension (SBP >180mmHg and DBP >120 mmHg) can result in a headache
+	- Otherwise, headache is **not** a symptom of headache unless there has been a sudden increase in BP or an associated intracranial bleed
+- Heart rate?
+	- Hypertension + bradycardia ⇒ ↑ ICP
+- Temperature?
+	- Fever + headache → immediate blood cultures, IV antibiotics, CT scan and LP if no contraindications
+## 
