@@ -1,5 +1,5 @@
 ---
-date: 2025-01-07
+date: 2025-01-08
 ---
 # Phone Call/Presentation Questions
 - Was the onset sudden or gradual? Sudden onset of a severe headache is a SAH until proven otherwise?
@@ -121,3 +121,39 @@ date: 2025-01-07
 	- Headache worse by standing up ⇒ low-pressure syndrome such as post LP headache or spontaneous CSF leak
 - Other associated symptoms?
 	- Visual aura such as scintillations, zigzag lines, migratory scotomata and tunnel or blurred vision precede a ‘classic migraine’ headache
+	- Cluster headaches are associated with unilateral parasympathetic signs such as conjunctival injection, lacrimation, rhinorrhoea, ptosis and miosis on the same side as the pain
+	- Clicking or popping when opening or closing the jaw indicates TMJ dysfunction
+	- Hearing loss is associated with otitis media and mastoiditis
+- Past history of chronic, recurring headaches and what is their pattern?
+	- Tension headache is generally mild in the morning and becomes more severe over the day
+	- Headache from raised ICP is worse on wakening, with effortless vomiting
+	- Migraine headache is commonly unilateral, pulsating or throbbing in nature, is aggravated by movement and is associated with nausea and/or vomiting, photophobia or phonophobia
+- Unwell for weeks or months
+	- Malaise, scalp tenderness or hyperaesthesiae, jaw claudication, weight loss and shoulder girdle ache ⇒ temporal (giant cell) arteritis ± polymyalgia rheumatica (PMR) in patients older than 50 years
+		- Send blood for an ESR, and if raised >50 mm/h start prednisone 60 mg PO immediately
+	- Acute angle-closure glaucoma may be precipitated by pupil dilation
+		- The patient complains of a severe unilateral headache located over the brow and may develop nausea, vomiting and abdominal pain that can be mistaken for an acute abdomen
+- Medication charts
+	- Nitrates, calcium-channel blockers, oral contraceptives and NSAIDs can cause headache
+	- Anticoagulant therapy (e.g. warfarin or a NOAC) ⇒ ? intracranial haemorrhage → urgent CT head scan + seek senior help to reverse the anticoagulation
+		- A low threshold for investigation should also be maintained in elderly patients taking aspirin or clopidogrel, particularly following a fall
+
+> [!NOTE]
+>  Relief of pain with analgesia does not aid diagnosis. Do not discount the seriousness of a headache just because it has responded to analgesia, as it can still be a SAH
+
+# Examination
+
+| Examination | Notes                                                                                                                                                                                                                                                |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Vitals      | Repeat now                                                                                                                                                                                                                                           |
+| HEENT       | Red eye ⇒ acute angle-closure glaucoma, cluster headache                                                                                                                                                                                             |
+|             | Tender, raised temporal artery ⇒ temporal arteritis                                                                                                                                                                                                  |
+|             | Tenderness on percussion over the frontal or maxillary sinuses ⇒ sinusitis                                                                                                                                                                           |
+|             | Inability to fully open the jaw and the tenderness over the TMJ ⇒ TMJ dysfunction                                                                                                                                                                    |
+|             | Evidence of recent head trauma ⇒ subdural or extradural haematoma                                                                                                                                                                                    |
+|             | Haemotympanum or blood in the ear canal, raccoon eyes ⇒ basal skull fracture                                                                                                                                                                         |
+|             | Palpate the scalp muscles for evidence of tenderness or contraction ⇒ tension headache, occipital neuralgia                                                                                                                                          |
+|             | Tenderness at the apex of the suboccipital triangle that exacerbates the pain ⇒ greater occipital neuralgia                                                                                                                                          |
+| Neuro       | Complete neuro exam                                                                                                                                                                                                                                  |
+|             | Unequal pupils or abnormality of conscious level, visual fields, eye movements, limbs, tone, reflexes or plantar responses suggests structural brain disease → make certain an urgent CT head scan has been arranged and you have called your senior |
+# Investigations
