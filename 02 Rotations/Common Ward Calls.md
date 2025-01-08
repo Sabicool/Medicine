@@ -1,43 +1,43 @@
 ---
 aliases:
   - On call
-date: 2025-01-06
+date: 2025-01-08
 ---
  Also see:
 - [iSBAR Handover](00%20Reference/Clinical/iSBAR%20Handover.md)
 # Common Conditions and Presentations
-<!-- QueryToSerialize: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) group by reverse(split(file.folder, "/"))[0] -->
-<!-- SerializedQuery: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) group by reverse(split(file.folder, "/"))[0] -->
+<!-- QueryToSerialize: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) sort file.name asc group by reverse(split(file.folder, "/"))[0] -->
+<!-- SerializedQuery: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) sort file.name asc group by reverse(split(file.folder, "/"))[0] -->
 - Conditions: 
-    - [[01 Disciplines/Respiratory/Conditions/Acute Pulmonary Oedema.md|Acute Pulmonary Oedema]]
-    - [[01 Disciplines/Cardiology/Conditions/Hypotension.md|Hypotension]]
-    - [[01 Disciplines/Cardiology/Conditions/Hypertension.md|Hypertension]]
-    - [[01 Disciplines/Endocrinology/Conditions/Hyperglycaemia.md|Hyperglycaemia]]
+    - [[Acute Pulmonary Oedema]]
+    - [[Hyperglycaemia]]
+    - [[Hypertension]]
+    - [[Hypotension]]
 
 - Emergencies: 
-    - [[01 Disciplines/Clinical/Emergencies/Advanced Life Support.md|Advanced Life Support]]
-    - [[01 Disciplines/Clinical/Emergencies/Basic Life Support.md|Basic Life Support]]
+    - [[Advanced Life Support]]
+    - [[Basic Life Support]]
 
 - Presenting Complaints: 
-    - [[01 Disciplines/Respiratory/Presenting Complaints/Shortness of Breath, Cough and Haemopytsis.md|Shortness of Breath, Cough and Haemopytsis]]
-    - [[01 Disciplines/Cardiology/Presenting Complaints/Arrhythmias.md|Arrhythmias]]
-    - [[01 Disciplines/Cardiology/Presenting Complaints/Chest Pain.md|Chest Pain]]
-    - [[01 Disciplines/Neurology/Presenting Complaints/Altered Mental Status.md|Altered Mental Status]]
-    - [[01 Disciplines/Neurology/Presenting Complaints/Collapse, Syncope, Mechanical Falls.md|Collapse, Syncope, Mechanical Falls]]
-    - [[01 Disciplines/Nephrology/Presenting Complaints/Decreased Urine Output.md|Decreased Urine Output]]
+    - [[Altered Mental Status]]
+    - [[Arrhythmias]]
+    - [[Chest Pain]]
+    - [[Collapse, Syncope, Mechanical Falls]]
+    - [[Decreased Urine Output]]
+    - [[Shortness of Breath, Cough and Haemopytsis]]
 
 - Procedures: 
-    - [[01 Disciplines/Clinical/Procedures/IV Cannulation.md|IV Cannulation]]
+    - [[IV Cannulation]]
 
 - Topics: 
-    - [[01 Disciplines/Paediatrics/Topics/Paediatric Pain Management.md|Paediatric Pain Management]]
-    - [[01 Disciplines/Clinical/Topics/Pain Management.md|Pain Management]]
-    - [[01 Disciplines/Clinical/Topics/Preparing Patients for Transfer.md|Preparing Patients for Transfer]]
+    - [[Paediatric Pain Management]]
+    - [[Pain Management]]
+    - [[Preparing Patients for Transfer]]
 
 <!-- SerializedQuery END -->
 
 # Medications to Know
-<!-- QueryToSerialize: list rows.file.link from "03 Medications" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) group by reverse(split(file.folder, "/"))[0] -->
+ <!-- QueryToSerialize: list rows.file.link from "03 Medications" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) sort file.name asc group by reverse(split(file.folder, "/"))[0] -->
 
 # Documenting on call visits
 1. Begin with date, time and who you are: *9 December 2024: 0300 hours. Resident on-call note*
@@ -85,5 +85,6 @@ where
 		+ replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")  
 		+ ")") OR
 	contains(Rotations, this.file.link)
+sort file.name ASC
 group by reverse(split(file.folder, "/"))[0]
 ```
