@@ -4,9 +4,12 @@ Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
 aliases:
   - Low urine output
+date: 2025-01-08
 ---
 # Phone Call/Presentation Questions
-- What is the urine output?
+- What is the urine output? (How much urine has been passed in the past 24 hours)
+	- Oliguria = urine output <400mL/day (<20mL/h)
+	- Anuria ⇒ mechanical obstruction of bladder outlet, blocked IDC or obstructed single kidney
 	- How are we measuring this and why?
 	- How much does the patient weigh?
 - Other observations?
