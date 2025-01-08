@@ -157,4 +157,3 @@ date: 2025-01-08
 | Neuro       | Complete neuro exam                                                                                                                                                                                                                                  |
 |             | Unequal pupils or abnormality of conscious level, visual fields, eye movements, limbs, tone, reflexes or plantar responses suggests structural brain disease → make certain an urgent CT head scan has been arranged and you have called your senior |
 # Investigations
-- 
