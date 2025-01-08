@@ -157,4 +157,12 @@ date: 2025-01-08
 | Neuro       | Complete neuro exam                                                                                                                                                                                                                                  |
 |             | Unequal pupils or abnormality of conscious level, visual fields, eye movements, limbs, tone, reflexes or plantar responses suggests structural brain disease → make certain an urgent CT head scan has been arranged and you have called your senior |
 # Investigations
-- FBC may be unhelpful, as a proportion of patients with meningitis will have a normal WCC and differential
+- Bloods
+	- FBC may be unhelpful, as a proportion of patients with meningitis will have a normal WCC and differential
+	- Arrange an ESR in patients >50 with suspected temporal arteritis
+	- Check coagulation profile if the patient is on anticoagulants or is septic with DIC
+- Imaging
+	- Arrange urgent CT head scan for:
+		- Sudden onset 'thunderclap' headache (SAH)
+		- Neurological deficits (other than migrainous aura), altered mental status, papilloedema, nuchal rigidity or seizures, haemorrhage, abscess, vasculitis
+		- 
