@@ -196,7 +196,35 @@ date: 2025-01-08
 	- Diagnosis is confirmed by red cells with xanthochromia or
 	- If the CSF analysis for xanthochromia was equivocal
 ## Space-Occupying Lesion
-
+- Headaches become progressively more frequent and severe, worse in the mornings and exacerbated by coughing, bending or straining
+	- Vomiting without nausea and focal neurological signs develop, including subtle personality change, changes in concentration or even disinhibited behaviour
+- Fundoscopy can show loss of spontaneous venous pulsation int he central retinal vein and blurring of the optic disc margin
+- Arrange an immediate CT head scan and perform CXR to look for primary tumour
+- Refer to neurosurgery when confirmed mass lesion
 ## Temporal Arteritis
+- Patients aged >50 years, with diffuse or bitemporal headache associated with a history of malaise, weight loss and myalgia plus shoulder girdle weakness from associated polymyalgia rheumatica
+	- Sometimes pain on chewing
+- Assess for localised scalp tenderness and hyperaesthesia with temporal artery tenderness
+- Send blood for ESR and give prednisolone 60mg immediately
+- Arrange for temporal artery biopsy within the next 7 days
 ## Migraine
+- Ask the patient what is usually taken for the migraine and prescribe this immediately
+- Alternatively, give an oral analgesic such as aspirin 300mg three tablets (900mg) PO, ibuprofen 600mg PO or paracetamol 1g
+- Add metoclopramide 10–20 mg IV and avoid inappropriate opioid analgesia
+- If oral analgesia plus metoclopramide fail, give chlorpromazine 12.5–25 mg IV diluted in 500 mL normal saline over 30 minutes and keep the patient in bed (∵ risk of postural hypotension)
+
+> [!NOTE] 
+> if you consider a triptan such as sumatriptan 6 mg SC for a resistant headache, make certain there is no risk of coronary artery disease and no ergotamine has been given in the last 24 hours
+
 ## Cluster Headache
+- Often difficult to treat, discuss with senior and try the following:
+	- High flow oxyegn by non-rebreather mask as early as possible to abort an attack
+	- Intranasal local anaesthetic spray (e.g. 5% lignocaine bilaterally)
+	- Sumatriptan 6mg SC
+- Avoid giving morphine
+## Post Lumbar Puncture Headache
+- Low pressure headache on standing up, within 48 hours of LP usually 2° to continuing CSF leak
+- Treat with strict bed rest (no toilet priviledges), oral or IV fluids and regular paracetamol 500mg with codeine phosphate 8mg two tablets PO
+- If unsuccessful consider anaesthetist applied epidural blood patch
+## Tension Headache
+- Oral analgesic such as paracetamol 500mg with codeine phosphate 8mg two tablets 6 hourly PO or ibuprofen 400mg 6 hourly PO
