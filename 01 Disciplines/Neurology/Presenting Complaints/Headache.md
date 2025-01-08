@@ -171,10 +171,26 @@ date: 2025-01-08
 - If CT scan inconclusive and suspected cerebral venous sinus thrombosis, vasculitis or vertebral or carotid artery dissection → MRI/MRA
 # Specific Management
 ## Meningoencephalitis
-- Generalised headache, fever and vomiting with altered mental status, irritability and drowsiness progressing to coma, neck stiffness and photophobia
+- **Presentation:** Generalised headache, fever and vomiting with altered mental status, irritability and drowsiness progressing to coma, neck stiffness and photophobia
 - Most often viral but if bacterial: Neisseria meningitidis, Streptococcus pneumoniae, Haemophilus influenzae (non-vaccinated) and Listeria monocytogenes
-- 
+	- Viral infection usually causes less severe headache, and may have a typical prodrome, but always do an LP if in any doubt.
+	- Suspect herpes simplex virus (HSV) encephalitis if altered level of consciousness, behavioural disturbance, focal neurological deficits or seizures
+- Commence antibiotics and/or antiviral therapy as soon as two sets of paired blood cultures have been drawn
+	- Do not delay by waiting for a CT scan or LP
+- Perform a non-contrast CT head scan before an LP to exclude SAH or unexpected focal mass lesion such as a cerebral abscess
 ## Subarachnoid Haemorrhage
+- **Presentation:** Sudden or ‘thunderclap’, severe, ‘worst-ever’ headache, sometimes following exertion or straining, with nausea, vomiting, altered conscious state and meningism
+	- Oculomotor palsy or other focal findings are common
+- Give the patient oxygen (aim for oxygen saturation >94%) and nurse head upwards
+- Gain IV access and send blood for FBC, coagulation profile, UEC, blood glucose and group & hold
+- Attach cardiac monitor and pulse oximeter to the patient
+- Give paracetamol 500mg and codeine phosphate 8mg
+	- Avoid any NSAID
+	- Can give morphine 2.5-5mg IV boluses
+- Call senior
+- Control agitation or seizure with IV benzodiazepine
+- Perform ECG, request CXR and urgent non-contrast CT head scan
+- If
 ## Space-Occupying Lesion
 ## Temporal Arteritis
 ## Migraine

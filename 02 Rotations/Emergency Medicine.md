@@ -7,9 +7,9 @@ date: 2025-01-06
 - Conditions: 
     - [[Acute Coronary Syndromes]]
     - [[Hypertension]]
-    - [[Hypotension]]
     - [[Supraventricular Tachycardia]]
     - [[Ventricular Tachycardia]]
+    - [[Hypotension]]
     - [[Hyperglycaemia]]
     - [[Septicaemia]]
     - [[Subarachnoid Haemorrhage]]
@@ -17,11 +17,11 @@ date: 2025-01-06
     - [[Acute Pulmonary Oedema]]
 
 - Emergencies: 
-    - [[Acute Airway Failure]]
-    - [[Basic Life Support]]
-    - [[Unconsciousness]]
-    - [[Shock]]
     - [[Advanced Life Support]]
+    - [[Basic Life Support]]
+    - [[Acute Airway Failure]]
+    - [[Shock]]
+    - [[Unconsciousness]]
     - [[Anaphylaxis]]
     - [[Acute Respiratory Failure]]
 
