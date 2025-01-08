@@ -189,9 +189,14 @@ date: 2025-01-08
 	- Can give morphine 2.5-5mg IV boluses
 - Call senior
 - Control agitation or seizure with IV benzodiazepine
-- Perform ECG, request CXR and urgent non-contrast CT head scan
-- If
+- Perform an ECG, request CXR and urgent non-contrast CT head scan
+- If CT head normal → LP after >10-12 hours after the headache
+	- Send CSF for microscopy, culture, glucose, protein and xanthochromia studies
+- Refer to neurosurgery if
+	- Diagnosis is confirmed by red cells with xanthochromia or
+	- If the CSF analysis for xanthochromia was equivocal
 ## Space-Occupying Lesion
+
 ## Temporal Arteritis
 ## Migraine
 ## Cluster Headache
