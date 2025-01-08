@@ -1,6 +1,7 @@
 ---
 Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
+date: 2025-01-08
 ---
 # Presentation
 - Pain is sharp, retrosternal and radiates to the back; worse on inspiration, swallowing or lying down and relieved by sitting up
