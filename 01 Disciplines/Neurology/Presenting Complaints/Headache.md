@@ -165,4 +165,17 @@ date: 2025-01-08
 	- Arrange urgent CT head scan for:
 		- Sudden onset 'thunderclap' headache (SAH)
 		- Neurological deficits (other than migrainous aura), altered mental status, papilloedema, nuchal rigidity or seizures, haemorrhage, abscess, vasculitis
-		- 
+		- Recent head trauma (subdual, extradural or intracranial bleed)
+		- Patient is on anticoagulation medication
+- Proceed to LP and CSF analysis in suspected meningoencephalitis, SAH or benign intracranial hypertension
+- If CT scan inconclusive and suspected cerebral venous sinus thrombosis, vasculitis or vertebral or carotid artery dissection → MRI/MRA
+# Specific Management
+## Meningoencephalitis
+- Generalised headache, fever and vomiting with altered mental status, irritability and drowsiness progressing to coma, neck stiffness and photophobia
+- Most often viral but if bacterial: Neisseria meningitidis, Streptococcus pneumoniae, Haemophilus influenzae (non-vaccinated) and Listeria monocytogenes
+- 
+## Subarachnoid Haemorrhage
+## Space-Occupying Lesion
+## Temporal Arteritis
+## Migraine
+## Cluster Headache
