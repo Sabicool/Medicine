@@ -51,10 +51,29 @@ date: 2025-01-09
 		- Poisons (e.g. ethylene glycol, mercury, carbon tetrachloride)
 		- Endogenous substances (e.g. myoglobin, Bence-Jones protein, amyloid)
 	- Glomerulonephritis
-- Dehydration
-- Catheter blockage
-- Sepsis
-- AKI
+	- Interstitial nephritis
+		- Pyelonephritis
+		- Medications (e.g. NSAIDs, penicillins, cephalosporins, sulfonamides, ciprofloxacin, rifampicin)
+		- Malignancy (e.g. lymphoma or leukaemia)
+		- Systemic disorder (SLE, sarcoidosis, hypercalcaemia)
+- Post-renal
+	- Upper renal tract obstruction
+		- Stone, blood clot, sloughed papilla (single kidney)
+		- Retroperitoneal fibrosis, retroperitoneal tumour
+	- Lower urinary tract obstruction (bladder outlet obstruction)
+		- Prostatic hypertrophy, carcinoma of the cervix
+		- Stone, blood clot, urethral stricture
+	- Catheter blockage
+
+> [!WARNING]
+> - A reduced urine output may be the earliest manifestation of shock; restoration of urine output >0.5mL/kg/h signifies restoration of adequate renal perfusion
+> - Oliguric acute renal failure may be associated with hyperkalaemia, hypertension or acute pulmonary oedema
+> - Sequelae of acute renal failure include:
+> 	- Hyperkalaemia
+> 	- Metabolic acidosis 
+> 	- Acute hypertension (see [[Hypertension#Immediate Management|Hypertension]])
+> 	- Pulmonary oedema secondary to salt and water retention
+
 # Assessment
 ## End of Bed
 ## A → E Assessment
