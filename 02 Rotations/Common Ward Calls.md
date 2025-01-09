@@ -3,13 +3,14 @@ aliases:
   - On call
 date: 2025-01-09
 ---
- Also see:
+# Important Notes
 - [iSBAR Handover](00%20Reference/Clinical/iSBAR%20Handover.md)
 # Common Conditions and Presentations
 <!-- QueryToSerialize: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) sort file.name asc group by reverse(split(file.folder, "/"))[0] -->
 <!-- SerializedQuery: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) sort file.name asc group by reverse(split(file.folder, "/"))[0] -->
 - Conditions: 
     - [[Acute Pulmonary Oedema]]
+    - [[Alcohol Withdrawal]]
     - [[Hyperglycaemia]]
     - [[Hypertension]]
     - [[Hypotension]]
@@ -19,6 +20,7 @@ date: 2025-01-09
     - [[Basic Life Support]]
 
 - Presenting Complaints: 
+    - [[Abdominal Pain]]
     - [[Altered Mental Status]]
     - [[Arrhythmias]]
     - [[Chest Pain]]

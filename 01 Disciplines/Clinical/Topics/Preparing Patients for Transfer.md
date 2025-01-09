@@ -1,6 +1,7 @@
 ---
 Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
+date: 2025-01-09
 ---
 # Preparation and Stabilisation Prior to Transfer
 - Review patient's airway, breathing and circulation. Have a low threshold for organising procedures such as endotracheal intubation or chest drain insertion if there is any concern that the patient's condition may deteriorate en route.
