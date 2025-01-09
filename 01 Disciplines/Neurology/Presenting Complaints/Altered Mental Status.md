@@ -219,7 +219,7 @@ date: 2025-01-09
 	- Reverse opioid intoxication. with naloxone 0.1-0.2 mg IV, SC, IM every 5 minute repeated until alert
 		- Beware of precipitating an agitated withdrawal state in an opioid dependent patient or re-sedation as the naloxone wears off
 - Drug withdrawal
-	- Alcohol withdrawal syndrome
+	- Alcohol withdrawal syndrome (see [[Alcohol Withdrawal]])
 		- 12-48 hours of abstinence and may last up to 1 week; characterised by agitation, irritability, fine tremor, sweats and tachycardia
 		- Start the patient on an alcohol withdrawal chart
 		- Commence diazepam 5-20mg PO regularly until the patient is comfortable, plus thiamine 250mg IV daily. Give IV fluids and electrolyte replacement as required
