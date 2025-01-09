@@ -1,22 +1,22 @@
 ---
-date: 2025-01-04
+date: 2025-01-09
 ---
-<!-- QueryToSerialize: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) group by reverse(split(file.folder, "/"))[0] -->
-<!-- SerializedQuery: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) group by reverse(split(file.folder, "/"))[0] -->
+<!-- QueryToSerialize: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) sort file.name asc group by reverse(split(file.folder, "/"))[0] -->
+<!-- SerializedQuery: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) sort file.name asc group by reverse(split(file.folder, "/"))[0] -->
 - Conditions: 
-    - [[Pulmonary Hypertension]]
+    - [[Acute Pulmonary Oedema]]
     - [[Asthma]]
     - [[COPD]]
-    - [[Pneumothorax]]
-    - [[Acute Pulmonary Oedema]]
     - [[Pneumonia]]
+    - [[Pneumothorax]]
     - [[Pulmonary Embolism]]
+    - [[Pulmonary Hypertension]]
 
 - Emergencies: 
     - [[Acute Respiratory Failure]]
 
 - Presenting Complaints: 
-    - [[Shortness of Breath, Cough and Haemopytsis]]
     - [[Hiccups]]
+    - [[Shortness of Breath, Cough and Haemopytsis]]
 
 <!-- SerializedQuery END -->

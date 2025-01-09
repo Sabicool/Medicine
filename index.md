@@ -1,6 +1,6 @@
 ---
 title: Home
-date: 2025-01-08
+date: 2025-01-09
 ---
 # About this Website
 This is the note database of a junior doctor in Australia. The information contained in these notes is for educational purposes only and should not be construed as medical advice. While I strive for accuracy, I make no guarantees regarding the completeness or reliability of the content provided. Additionally, I do not claim copyright for any images included herein unless explicitly stated. If you wish to request a correction, removal, or alteration of any content, please feel free to contact me or submit an issue via the associated [github repository](https://github.com/Sabicool/Medicine). The colour theme for this website is based off [catppuccin](https://github.com/catppuccin/catppuccin).
