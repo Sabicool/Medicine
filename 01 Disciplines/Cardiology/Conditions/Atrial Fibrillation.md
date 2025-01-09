@@ -1,3 +1,6 @@
+---
+date: 2025-01-09
+---
 # Management
 ## Acute Management of Rapid Ventricular Response
 - Unstable: AF with hypotension, altered mental status, chest pain (angina) or SOB (LV failure)

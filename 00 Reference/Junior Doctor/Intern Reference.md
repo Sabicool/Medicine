@@ -1,3 +1,6 @@
+---
+date: 2025-01-09
+---
 # Preparation
 - Create a common medications and doses list:
 	- Analgesia: See [Paediatric Pain Management](01%20Disciplines/Paediatrics/Topics/Paediatric%20Pain%20Management.md) and [Pain Management](01%20Disciplines/Clinical/Topics/Pain%20Management.md)

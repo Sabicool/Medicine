@@ -2,6 +2,7 @@
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Paediatrics|Paediatrics]]"
+date: 2025-01-09
 ---
 - Always exclude other causes of the [[Febrile child]]
 - Peak age prevalence is 6-18 months

@@ -1,3 +1,6 @@
+---
+date: 2025-01-09
+---
 # Pain
 Treatment depends on the cause and nature of the pain:
 - Somatic pain from superficial structures is well localised: follow regular [Pain Management](01%20Disciplines/Clinical/Topics/Pain%20Management.md) with paracetamol or NSAIDs and add an opiate analgesic when required

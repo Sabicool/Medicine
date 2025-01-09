@@ -1,3 +1,6 @@
+---
+date: 2025-01-09
+---
 A child {≥16 years} of age may freely give consent for medical treatment
 <!--ID: 1733882652721-->
 

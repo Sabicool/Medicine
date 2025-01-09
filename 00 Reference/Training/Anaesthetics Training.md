@@ -1,3 +1,6 @@
+---
+date: 2025-01-09
+---
 # Getting into the Training Program
 - For NSW is fairly competitive and need 1-2 years of SRMO before getting onto non-scheme anaesthetic job; need to apply for a scheme job as well that goes through the rest of the training requirements
 - Express interest to the anaesthetics department

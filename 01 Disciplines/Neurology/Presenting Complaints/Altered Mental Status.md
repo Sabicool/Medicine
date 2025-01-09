@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-date: 2025-01-05
+date: 2025-01-09
 ---
 # Phone Call/Presentation Questions
 - In what way is the patient acutely confused?
@@ -190,6 +190,7 @@ date: 2025-01-05
 | Neuro         | Bilateral upgoing plantars ⇒ encephalopathies, ↑ ICP, postictal state, non-convulsive epilepticus, brainstem stroke           |
 |               | Asterixis or flap ⇒ liver failure, renal failure, hypercapnoea                                                                |
 |               | Tremor ⇒ DT, Parkinson's disease hyperthyroidism                                                                              |
+
 ![[Pasted image 20250104210246.png]]
 # Investigations
 - Exclude hyper/hypoglycaemia and hypoxia:

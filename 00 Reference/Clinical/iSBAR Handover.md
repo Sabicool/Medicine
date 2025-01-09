@@ -1,6 +1,7 @@
 ---
 Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
+date: 2025-01-09
 ---
 - **Identify:** state who you are, where you are calling from and the name of the patient
 - **Situation:** describe your concern and the reason you are calling
