@@ -76,6 +76,7 @@ date: 2025-01-09
 
 # Assessment
 ## End of Bed
+
 ## A → E Assessment
 ## History
 ## Examination
