@@ -76,8 +76,16 @@ date: 2025-01-09
 
 # Assessment
 ## End of Bed
-
+- How does the patient look?
+    - A restless patient with abdominal discomfort, agitation and a sensation of needing to pass urine suggests an acutely distended bladder
+    - Sometimes urinary retention and/or ↓ urine output can have no obvious problems
 ## A → E Assessment
+- Heart rate and blood pressure?
+    - ↑HR by >20 beats/min + ↓SBP by >20mmHg or any ↓DBP ⇒ significant hypovolaemia → pre-renal hypoperfusion
+    - However ↑HR alone may be due to ↓ intravascular volume, pain of distended bladder or infection
+    - Acute hypertenstion with oedema may result from acute glomerulonephritis
+- Temperature?
+    - Fever suggests sepsis which could be 2° to UTI, pyelonephritis or systemic bacteraemia
 ## History
 ## Examination
 ## Investigations
