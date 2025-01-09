@@ -28,6 +28,29 @@ date: 2025-01-09
 - Otherwise can wait for high-priority problems, provided patient is not in pain and serum potassium is not elevated
 # Common Causes *(Corridor thoughts)*
 - Normal urine output in a healthy individual should be between 0.5-1.5 mL/kg/hour, and patients should generally be urinating at least every 6 hours ([Geeky Medics: Measuring & Recording Urine Output](https://geekymedics.com/measuring-recording-urine-output/#:~:text=Calculating%20the%20rate%20of%20urine%20output&text=Normal%20urine%20output%20in%20a,at%20least%20every%206%20hours.)).
+- Pre-renal
+	- Absolute decrease in circulating blood volume causing hypoperfusion:
+		- Inadequate fluid intake e.g. after surgery
+		- Increased loss of blood or fluids (haemorrhage, burns, erythroderma, hypertheymia, GI fluid losses such as vomiting, diarrhoea, NG suction, renal losses such as diuretics and glycosuria)
+		- Third spacing of fluid e.g. in pancreatitis, bowel obstruction
+	- Cardiac failure 
+		- MI (cardiogenic shock), CCF
+	- Effective decrease in blood volume (vasodilation)
+		- Sepsis, anaphylaxis, neurogenic [[Shock]]
+		- Vasodilatory drugs, anaesthetic drugs
+	- Obstruction to circulation
+		- Constrictive pericarditis, cardiac tamponade, PE
+	- Locally reduced renal perfusion
+		- Renal artery or renal vein occlusion (2° thrombosis or stenosis)
+		- Noradrenaline, adrenaline
+		- NSAIDs, ACE-i
+- Intra-renal
+	- Acute tubular necrosis
+		- Usually 2° to pre-renal causes
+		- Medications (e.g. aminoglycosides, amphotericin B, IV contrast, chemotherapy)
+		- Poisons (e.g. ethylene glycol, mercury, carbon tetrachloride)
+		- Endogenous substances (e.g. myoglobin, Bence-Jones protein, amyloid)
+	- Glomerulonephritis
 - Dehydration
 - Catheter blockage
 - Sepsis
