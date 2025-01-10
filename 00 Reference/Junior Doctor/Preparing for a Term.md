@@ -1,0 +1,57 @@
+---
+date: 2025-01-10
+---
+# Things to Bring
+- Medications list including dosages (see [[03 Medications/index|Medications Folder]]); some handy medications include: ![[03 Medications/index#^handy-medications|index]]
+- Documents folder/clipboard that has storage, clipboard and handle. Proves useful when trying to keep a list of documents, providing a clipboard for the patient to sign consent forms and a handle to make it easier to carry. Forms that are useful on ward rounds include:
+	- Scripts and S8s
+	- Med charts (sucks to be those who do not use eMeds[^1]
+	- Fluid charts
+	- Consent forms
+	- Outpatient imaging and pathology forms
+	- Patient stickers
+	- Medical certificates because often family members may want one
+	- Business card of the boss
+	- Overtime form
+	- Other forms to consider: MMSE, DNR/NFR
+- Stethoscope
+- Pens (multicolour)
+	- Start with blue in the morning, move on to green for the next round of reports and jobs, then red for the fnal round and black just for writing up the million things you need to write up.
+- Pen torch
+- Note on the phone with:
+	- AHPRA number
+	- Provider number
+	- Prescriber number
+- Scrubs
+# Things to Do/Know
+- Be prepared for a handover
+- List set up/proxies
+- Documentation: 
+	- Change the name of your auto-text to your new Term, Reg and Bosses
+	- Update your discharge summary template
+- Review your preparedness with life round
+- Pagers
+	- Controls
+		- Pause button = Option
+		- Fat power button = Enter and Home
+		- Arrows = Arrows
+	- Things to do:
+		- Change to vibrate only
+	- How to:
+		- Turn pager off: Options and keep arrowing until it asks pager off and click right arrow
+		- Delete all messages: options → delete all (may need to read all pages so can hold arrow key to read all pages)
+		- Set time option → arrow until you reach set time, click option to raise time then arrow to go to the next time bracket and home key when done
+	- Consider using text pagers in places with no reception as well
+- Meet/know the ward if time allows
+	- Find out where everything is: e.g. Med charts, patient files, forms, scripts, cannula gear, printers, faxes, storerooms/equipment rooms and their codes, offices
+- Learn some of the common medical things related to the term e.g. common diagnoses, assessment, management, procedures
+# People to Know
+- Team supervisor as they'll assess and sign all your forms
+- Director of training (e.g. DPET): they are your contacy for any issues you have
+- Medical admin: determines rosters, term preferences, leave and processing your pay; notify them early of anything you want to do regarding terms, leaves, rostering
+	- Confirm with them over email for everything 
+- Team and current/outgoing JMO
+- Ward Team
+- People involved in your desired training
+- Signer of overtime
+- Medical officer's association
