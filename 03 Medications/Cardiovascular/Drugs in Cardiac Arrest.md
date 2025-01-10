@@ -17,7 +17,19 @@ Rotations:
 		- IV, intraosseous: ==10mcg/kg (max: 1mg as single dose)== repeat every 3-5 min
 # Amiodarone
 - Also see: [[Antiarrhythmics]]
+- Indication: Cardiac arrest—give following 3rd shock in refractory VF/pVT
 - Adverse effects: may worsen bradyarrhythmias
-- Cautions: Thrombophlebitis when injected into a peripheral vein. Not compatible with normal saline
+- Cautions: Thrombophlebitis when injected into a peripheral vein. Not compatible with normal saline give with glucose 5%
 - Comments: Can be given via intraosseous route if IV access not available
-- Dose: Available in 150 mg ampoules. Cardiac arrest: Give 300 mg IV by bolus injection over 1–2 min if VF/pVT persists after the 3rd shock. Repeat 150 mg dose in 3–5 min if VF/pVT persists
+- Dose: Available in 150 mg ampoules. 
+	- Give ==300 mg IV by bolus injection over 1–2 min if VF/pVT persists after the 3rd shock== Repeat 150 mg dose in 3–5 min if VF/pVT persists
+	- **Give amiodarone 300 mg IV diluted in 5% dextrose up to 20 mL after the third shock**
+# Calcium
+- Indication: Cardiac arrest associated with hyperkalaemia (not due to digoxin toxicity), hypocalcaemia, calcium-channel blocker toxicity
+- Cautions: Thrombophlebitis when injected into a peripheral vein. Not compatible with sodium bicarbonate → *Do not give calcium solutions and sodium bicarbonate simultaneously by the same route*
+- Comments: Can be given via intraosseous route if IV access not available
+- Dose: Available as 10% calcium chloride (6.8 mmol in 10 mL) and 10% calcium gluconate (2.2 mmol in 10 mL) ampoules
+	- Cardiac arrest: 10 mL of Ca chloride or 30 mL of Ca gluconate as rapid IV bolus. Repeat in 3–5 min if no response
+# Lignocaine
+# Magnesium
+# Sodium Bicarbonate
