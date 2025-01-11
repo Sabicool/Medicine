@@ -5,6 +5,7 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
 aliases:
   - ALS
+date: 2025-01-11
 ---
 # Shockable Rhythms
 - The only two shockable rhythms are:
@@ -46,9 +47,10 @@ aliases:
 - Reassess the patient and rhythm every 2 minutes:
 	- If VF/pVT then switch to the shockable rhythm algorithm
 	- If pulse present, commence post-resuscitation care
-# In All Cardiac Arrest
+# In All Cardiac Arrest/During CPR:
 - Insert a LMA or ETT when practical and confirm placement with capnography
 	- Ventilate 10 times per minute once a definitive airway is in place without pausing for compressions and monitor using waveform capnography
+	- Verify ET position
 - *Give at least 20 mL of normal saline to flush any drugs administered and elevate the limb for 10-20 seconds to facilitate drug delivery to the central circulation*
 - Establish a second IV line
 - Search and correct 4 Hs and 4Ts
@@ -72,11 +74,23 @@ aliases:
 	- Thrombosis (PE or ACS)
 		- Perform vigorous external chest compressions to attempt to break up a massive PE when this is likely, and give a fluid load bolus of 20 mL/kg
 		- If high clinical suspicion of a massive PE (or ACS) causing cardiac arrest, a fibrinolytic agent can be given
-# Indications for other Drugs
-- Calcium: give 10 mL of 10% calcium chloride or 20 mL of 10% calcium gluconate IV for hyperkalaemia, hypocalcaemia or calcium-channel blocker overdose and repeat as necessary
-- Lignocaine: initial bolus of 1 mg/kg IV for VF or pVT, when amiodarone is not available, followed by 0.5 mg/kg if necessary. Omit if amiodarone has been given
-- Magnesium: give 2.5 g (10 mmol or 5 mL) of 49.3% magnesium sulfate IV in suspected hypomagnesaemia such as in patients with torsades de pointes, on potassium-losing diuretics or with digoxin toxicity
-- Sodium bicarbonate: give 50 mmol of 8.4% (50 mL) IV boluses for hyperkalaemia, tricyclic antidepressant or other sodium-channel blocker overdose or severe metabolic acidosis.
+- Consider following drugs (see [[Drugs in Cardiac Arrest]]):
+# Drugs to Consider During Arrest
+- In ventricular fibrillation/ventricular tachycardia (see below or see [[Drugs in Cardiac Arrest]])
+	- Calcium: give 10 mL of 10% calcium chloride or 20 mL of 10% calcium gluconate IV for hyperkalaemia, hypocalcaemia or calcium-channel blocker overdose and repeat as necessary
+	- Lignocaine: initial bolus of 1 mg/kg IV for VF or pVT, when amiodarone is not available, followed by 0.5 mg/kg if necessary. Omit if amiodarone has been given
+	- Magnesium: give 2.5 g (10 mmol or 5 mL) of 49.3% magnesium sulfate IV in suspected hypomagnesaemia such as in patients with torsades de pointes, on potassium-losing diuretics or with digoxin toxicity
+		- Can repeat this bolus once and follow by an infusion of 20mmol over 4 hours (5mmol/h)
+	- Sodium bicarbonate: give 50 mmol of 8.4% (50 mL) IV boluses for hyperkalaemia, tricyclic antidepressant or other sodium-channel blocker overdose or severe metabolic acidosis or protracted arrest greater than 15 min
+	- Potassium: Give bolus of 5mmol IV for a low serum potassium especially when patient is on digoxin therapy or hypomagnesaemia
+- In asystole or PEA
+	- Make sure the ECG leads are not disconnected or broken by observing for compression artefact on the ECG screen during CPR
+	![[ECG Compression Artefact.excalidraw.png]]
+	%%[[ECG Compression Artefact.excalidraw.md|🖋 Edit in Excalidraw]]%%
+	- Check appropriate ECG lead selection and sensitivity
+	- Consider atropine 1.0mg repeated to a maximum of 3mg for resistant asystole
+	
+![[Drugs in Cardiac Arrest]]
 # Post Resuscitation Care
 - Continue respiratory support
 	- Give supplemental oxygen, even if the patient has rapidly returned to consciousness

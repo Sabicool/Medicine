@@ -1,5 +1,5 @@
 ---
-date: 2025-01-10
+date: 2025-01-11
 Rotations:
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
@@ -31,5 +31,17 @@ Rotations:
 - Dose: Available as 10% calcium chloride (6.8 mmol in 10 mL) and 10% calcium gluconate (2.2 mmol in 10 mL) ampoules
 	- Cardiac arrest: 10 mL of Ca chloride or 30 mL of Ca gluconate as rapid IV bolus. Repeat in 3–5 min if no response
 # Lignocaine
+- Indication: Cardiac arrest -> give following 3rd shock in refractory VF/pVT if amiodarone unavailable
+- Actions: Membrane-stabilising antiarrhythmic
+- Adverse effects: Proarrhythmic -> may worsen bradyarrhythmias
+- Comments: Can be given via intraosseous route if IV access not available
+- Dose: Available 100mg ampoules or rapid access syringes
+	- Cardiac arrest: 100mg rapid IV bolus. Repeat in 3-5 min if no response
 # Magnesium
+- Indication: Cardiac arrest associated with hypomagnesaemia, torsades de points or digoxin toxicity; third line agent in refractory VF/pVT
+- Comments: Can be given intraosseous route if IV access not available
+- Dose: Available as 0% magnesium sulfate ampoules (2.g/10mmol in 5mL)
+	- Cardiac arrest: 10mmol rapid IV bolus. Repeat in 3-5 minutes if no response
 # Sodium Bicarbonate
+- Indication: Cardiac arrest assocaited with hyperkalaemia, sodium channel blocker activity toxicity (TCA overdose) or severe metabolic acidosis
+- Cautions: Not compatiable with calcium -> Do not give simultaneously by the same route
