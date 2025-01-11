@@ -1,5 +1,7 @@
 ---
 date: 2025-01-11
+Rotations:
+  - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
 ---
 # Phone Call/Presentation Questions
 - What is the main problem the patient complains of?

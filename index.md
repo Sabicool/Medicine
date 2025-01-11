@@ -19,6 +19,7 @@ If you'd rather just find notes on medicine relevant to the particular rotation 
 - [[Cardiology]]
 - [[Common Ward Calls]]
 - [[Emergency Medicine]]
+- [[Gastroenterology]]
 - [[Intensive Care Unit]]
 - [[Nephrology]]
 - [[Neurology]]

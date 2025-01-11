@@ -15,6 +15,9 @@ date: 2025-01-09
 - Emergencies: 
     - [[Acute Respiratory Failure]]
 
+- Investigations: 
+    - [[Blood Gas Interpretation]]
+
 - Presenting Complaints: 
     - [[Hiccups]]
     - [[Shortness of Breath, Cough and Haemopytsis]]

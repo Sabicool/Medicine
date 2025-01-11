@@ -13,6 +13,7 @@ date: 2025-01-09
     - [[Shock]]
 
 - Investigations: 
+    - [[Blood Gas Interpretation]]
     - [[ECG Interpretation]]
 
 - Presenting Complaints: 

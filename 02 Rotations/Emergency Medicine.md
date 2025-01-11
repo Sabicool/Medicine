@@ -8,6 +8,7 @@ date: 2025-01-09
     - [[Acute Coronary Syndromes]]
     - [[Acute Otitis Media]]
     - [[Acute Pulmonary Oedema]]
+    - [[Alcohol Withdrawal]]
     - [[Hyperglycaemia]]
     - [[Hypertension]]
     - [[Hypotension]]
@@ -26,10 +27,12 @@ date: 2025-01-09
     - [[Unconsciousness]]
 
 - Investigations: 
+    - [[Blood Gas Interpretation]]
     - [[Chest X-ray]]
     - [[ECG Interpretation]]
 
 - Presenting Complaints: 
+    - [[Abdominal Pain]]
     - [[Altered Mental Status]]
     - [[Arrhythmias]]
     - [[Chest Pain]]
