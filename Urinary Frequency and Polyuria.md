@@ -15,4 +15,24 @@ date: 2025-01-11
 	- Check fingerprick BGL
 	- Collect and send serum for FBC, UEC and LFTs
 	- Collect a urine sample, perform bedside urinalysis and prepare sample to send for MCS and urinary electrolyte analysis
-	- Commence volume replacement with intiial bolus of 10-20mL/kg normal saline if the patient has signs of volume 
+	- Commence volume replacement with initial bolus of 10-20mL/kg normal saline if the patient has signs of volume depletion
+## Prioritisation
+- Immediate review if there are significant changes in vital signs, mental status or features of dehydration
+- Otherwise a patient with polyuria, frequency or inctoninence need not to be seen urgently if the vital signs are stable
+# Common Cause *(Corridor Thoughts)*
+- Polyuria
+	- Diabetes mellitus (osmotic diuresis)
+	- Diabetes insipidus
+		- Either central DI or nephrogenic DI
+		- DI is most commonly caused by head trauma, cerebral oedema, pituitary tumours or prescribed medication
+	- Drugs
+		- Diuretics, mannitol
+		- Lithium toxicity, amphotericin B, demeclocycline
+	- Renal disease
+		- Diuretic phase of acute tubular necrosis
+		- Post-obstructive diuresis
+		- Salt-losing nephritis
+		- Polycystic kidney disease (causes nephrogenic DI)
+		- Hypercalcaemia (nephrogenic DI)
+		- Hypokalaemia (nephrogenic DI)
+		- Physiological diuresis following large volumes of PO or IV fluids during the resolutino phase of major illness
