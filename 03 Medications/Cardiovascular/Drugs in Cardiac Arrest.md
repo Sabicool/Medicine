@@ -45,3 +45,6 @@ Rotations:
 # Sodium Bicarbonate
 - Indication: Cardiac arrest assocaited with hyperkalaemia, sodium channel blocker activity toxicity (TCA overdose) or severe metabolic acidosis
 - Cautions: Not compatiable with calcium -> Do not give simultaneously by the same route
+- Comments: Can be given via intraosseous route if IV access not available
+- Dose: Available in 100mL of 8.4% (100mmol) ampoules or 50mL of 8.4% (50mmol) rapid-access syringes
+	- Cardiac arrest: 50mmol rapid IV bolus. Repeat in 3-5 min if no response
