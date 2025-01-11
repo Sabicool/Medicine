@@ -62,8 +62,24 @@ date: 2025-01-11
 - Heart rate and blood pressure?
 	- Look for signs of dehydration with intravascular volume depletion such as a resting tachycardia or hypotension (SBP <90mmHg)
 	- Examine for postural changes if the HR and BP are normal at rest
-	- A rise in HR >20 beats/min 
-# Immediate Management
+		- A rise in HR >20 beats/min, a fall in SBP >20mmHg or any fall in DBP indicates hypovolaemia
+- Does the patient have a fever?
+	- May suggest a possible UTI
+## Immediate Management
+- Attach continuous non-invasive ECG, BP and pulse oximeter monitoring to the patient
+- Commence oxygen therapy to maintain oxygen saturation >94%
+- Insert a large-bore (14-16G) peripheral cannula; send blood samples for FBC; UEC and calcium
+	- Add blood cultures if suspicion of sepsis
+- Dipstick the urine for sugar and ketones
+	- Send an MSU for microscopy, culture and sensitivity as well as urinary sodium and osmolarity
+- Commence fluid resuscitation to maintain normotension and normovolaemia
+- Give a 20 mL/kg normal saline bolus for acute volume depletion
+- Observe the effect of this fluid challenge on the BP
+- A patient with significant polyuria will require further IV fluid to balance the urinary losses and maintain normotension
+- Replace potassium according to UEC results
+- Watch for complications, such as pulmonary oedema from excessive fluid resuscitation
+## Selective History and Chart Review
+
 # Footnotes
 
 [^1]: On call says to always do a PR examination

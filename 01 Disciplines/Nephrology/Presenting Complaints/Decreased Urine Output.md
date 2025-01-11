@@ -3,6 +3,7 @@ Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
 aliases:
   - Low urine output
+  - Oliguria
 date: 2025-01-09
 ---
 # Phone Call/Presentation Questions
