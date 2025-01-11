@@ -79,6 +79,28 @@ date: 2025-01-11
 - Replace potassium according to UEC results
 - Watch for complications, such as pulmonary oedema from excessive fluid resuscitation
 ## Selective History and Chart Review
+- Polyuria
+	- Ask about associated symptoms such as polydipsia in diabetes mellitus, DI, hypercalcaemia or compulsive water drinking (primary, psychogenic polydipsia)
+	- Review the medication chart for causative medications:
+		- Lithium, amphotericin B and demeclocycline
+		- Diuretics
+	- Check for recent laboratory results
+		- Blood glucose and bicarbonate (diabetes mellitus)
+		- Hypokalaemia and hypercalcaemia
+- Frequency
+	- Ask about associated symptoms:
+		- Fever, dysuria, haematuria and bad-smelling urine suggesting UTI
+	- Poor stream, hesitance, terminal dribbling and nocturia => prostatism
+- Incontinence
+	- Ask them when the incontinence occurs to figure out what type of incontinence it is
+## Examination
+
+| Examination   | Notes                                                                                |
+| ------------- | ------------------------------------------------------------------------------------ |
+| Vitals        | Repeat now; look for signs of tachycardia or postural BP changes (hypovolaemia)      |
+| Mental status | Altered mental status (decreased cerebral perfusion, sepsis, intracranial pathology) |
+| HEENT         | Dry mucous membranes and flat neck veins (dehydration)                               |
+|               | Visual field abnormality (pituitary tumour)                                          |
 
 # Footnotes
 
