@@ -56,7 +56,14 @@ date: 2025-01-11
 		- Inaccessible call bell, poor mobility, obstacles to the bathroom
 # Assessment
 ## End of Bed Assessment
-
+- Most patients with polyuria, frequency or incontinence look well
+- If the patient looks unwell, search for a previously unrecognised condition or look for a UTI in patients with frequency or incontinence
+## A to E Assessment
+- Heart rate and blood pressure?
+	- Look for signs of dehydration with intravascular volume depletion such as a resting tachycardia or hypotension (SBP <90mmHg)
+	- Examine for postural changes if the HR and BP are normal at rest
+	- A rise in HR >20 beats/min 
+# Immediate Management
 # Footnotes
 
 [^1]: On call says to always do a PR examination
