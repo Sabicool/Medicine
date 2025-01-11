@@ -3,6 +3,7 @@ aliases:
   - SVT
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
+date: 2025-01-11
 ---
 # Management
 - Treatment of narrow-complex SVT is the same, irrespective of whether WPW is present (unlike SVT with aberrancy i.e. wide complex SVT))

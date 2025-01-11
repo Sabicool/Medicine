@@ -1,6 +1,7 @@
 ---
 Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
+date: 2025-01-11
 ---
 Although other emergencies take precedence over pronouncing a patient dead, try not to postpone this task for too long, as the time of death is legally the time at which you see and then pronounce the patient dead. It also allows the nursing staff to begin organising the numerous notifications and procedures required once death has been certified.
 # Expected Deaths

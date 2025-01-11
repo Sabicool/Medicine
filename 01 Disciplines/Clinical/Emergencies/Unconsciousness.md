@@ -5,6 +5,7 @@ Rotations:
 aliases:
   - Acute neurological failure
   - Coma
+date: 2025-01-11
 ---
 - Comatose = requires painful stimulus to rouse or if GCS ≤8
 # Causes
