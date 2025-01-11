@@ -35,4 +35,28 @@ date: 2025-01-11
 		- Polycystic kidney disease (causes nephrogenic DI)
 		- Hypercalcaemia (nephrogenic DI)
 		- Hypokalaemia (nephrogenic DI)
-		- Physiological diuresis following large volumes of PO or IV fluids during the resolutino phase of major illness
+		- Physiological diuresis following large volumes of PO or IV fluids during the resolution phase of major illness or during recovery from major surgery
+		- Primary psychogenic polydipsia
+- Increased frequency
+	- Urinary tract infection
+	- Partial bladder outlet obstruction
+	- Bladder irritation
+	- Large fluid intake
+	- Psychological
+- Incontinence
+	- Urge incontinence
+	- Stress incontinence
+		- Usually in multiparous women
+		- In men it occurs after prostate surgery
+	- Overflow incontinence
+		- Bladder obstructino such as BPH, urethral stricture, spinal cord disease, autonomic neuropathy, faecal impaction[^1]
+	- Iatrogenic factors
+		- Diuretics, sedatives, anticholinergics drugs, alpha-blockers, calcium channel blockers, ACE inhibitors
+	- Environmental factors
+		- Inaccessible call bell, poor mobility, obstacles to the bathroom
+# Assessment
+## End of Bed Assessment
+
+# Footnotes
+
+[^1]: On call says to always do a PR examination
