@@ -61,6 +61,9 @@ nmap <Space>wv :splitVertical
 exmap splitHorizontal obcommand workspace:split-horizontal
 nmap <Space>ws :splitHorizontal
 
+exmap closewindow obcommand workspace:close-window
+nmap <Space>wc :closewindow
+
 " undo/redo consistently on one key
 nnoremap U <C-r>
 
