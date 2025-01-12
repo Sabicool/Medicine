@@ -1,5 +1,5 @@
 ---
-date: 2025-01-10
+date: 2025-01-12
 ---
 # Useful Notes
 - [[Preparing for a Term]]
