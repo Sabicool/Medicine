@@ -44,7 +44,7 @@ exmap commandpalatte obcommand command-palette:open
 map <A-x> :commandpalatte
 
 exmap focusRight obcommand editor:focus-right
-nmap <Space>wl :focusRight
+map <Space>wl :focusRight
 
 exmap focusLeft obcommand editor:focus-left
 nmap <Space>wh :focusLeft
@@ -61,7 +61,7 @@ nmap <Space>wv :splitVertical
 exmap splitHorizontal obcommand workspace:split-horizontal
 nmap <Space>ws :splitHorizontal
 
-exmap closewindow obcommand workspace:close-window
+exmap closewindow obcommand workspace:close-tab-group
 nmap <Space>wc :closewindow
 
 " undo/redo consistently on one key
