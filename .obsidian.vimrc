@@ -44,7 +44,7 @@ exmap commandpalatte obcommand command-palette:open
 map <A-x> :commandpalatte
 
 exmap focusRight obcommand editor:focus-right
-map <Space>wl :focusRight
+nmap <Space>wl :focusRight
 
 exmap focusLeft obcommand editor:focus-left
 nmap <Space>wh :focusLeft
