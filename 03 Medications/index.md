@@ -1,11 +1,11 @@
 ---
 title: 03 Medications
-date: 2025-01-10
+date: 2025-01-13
 ---
 This is a list of common and important medications organised broadly by discipline. Again see the disclaimer at the bottom. This is meant to just be a quick reference. All doses are for adult patients with normal renal and hepatic function, unless otherwise stated.
 
 The ones I seem to most frequently reference are:
-- [[Analgesics and Musculoskeletal Drugs]]
+- [[Analgesics]]
 - [[Antibacterials]]
 - [[Anti-emetics]]
 - [[Nutritional/Electrolyte Supplements]]
