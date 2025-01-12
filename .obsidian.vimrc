@@ -11,6 +11,9 @@
 "" vnoremap gj j
 "" vnoremap gk k
 
+nmap j gj
+nmap k gk
+
 nmap <A-e> <C-e> " move one line down
 nmap <A-y> <C-y> " move one line up
 nmap <A-b> <C-b> " move page up
