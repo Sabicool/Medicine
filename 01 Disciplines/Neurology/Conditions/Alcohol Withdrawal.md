@@ -2,7 +2,7 @@
 Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
-date: 2025-01-09
+date: 2025-01-13
 ---
 # Symptoms
 ![[Pasted image 20250109181337.png]]
@@ -54,6 +54,5 @@ date: 2025-01-09
 - https://alcoholtreatmentguidelines.com.au/pdf/guidelines-for-the-treatment-of-alcohol-problems.pdf from page 116 onwards
 - eTG: Alcohol withdrawal
 - AMH Online: Alcohol withdrawal
-# Footnotes
 
 [^1]: Chlordiazepoxide is not registered in Australia

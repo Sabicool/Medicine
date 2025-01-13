@@ -1,5 +1,8 @@
 ---
 date: 2025-01-13
+Rotations:
+  - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
+  - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
 ---
 # Paracetamol
 - Adverse effects: Abnormal LFTs common, allergic reactions are rare

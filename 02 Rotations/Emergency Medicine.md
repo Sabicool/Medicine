@@ -1,5 +1,5 @@
 ---
-date: 2025-01-09
+date: 2025-01-13
 ---
 # Common Conditions and Presentations
 <!-- QueryToSerialize: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) sort file.name asc group by reverse(split(file.folder, "/"))[0] -->
@@ -37,6 +37,7 @@ date: 2025-01-09
     - [[Arrhythmias]]
     - [[Chest Pain]]
     - [[Collapse, Syncope, Mechanical Falls]]
+    - [[Otalgia]]
     - [[Shortness of Breath, Cough and Haemopytsis]]
 
 - Topics: 
@@ -46,11 +47,10 @@ date: 2025-01-09
 <!-- SerializedQuery END -->
 
 # Medications to Know
-<!-- QueryToSerialize: list rows.file.link from "03 Medications" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) sort file.name asc group by reverse(split(file.folder, "/"))[0] -->
-<!-- SerializedQuery: list rows.file.link from "03 Medications" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) sort file.name asc group by reverse(split(file.folder, "/"))[0] -->
-- Cardiovascular: 
-    - [[Drugs in Cardiac Arrest]]
-
+<!-- QueryToSerialize: list from "03 Medications" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) sort file.name asc -->
+<!-- SerializedQuery: list from "03 Medications" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) sort file.name asc -->
+- [[Analgesics]]
+- [[Drugs in Cardiac Arrest]]
 <!-- SerializedQuery END -->
 # Useful Resources
 - Notes on training: [Emergency Medicine Training](00%20Reference/Training/Emergency%20Medicine%20Training.md)

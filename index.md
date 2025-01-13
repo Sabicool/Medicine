@@ -4,6 +4,8 @@ date: 2025-01-13
 ---
 # About this Website
 This is the note database of a junior doctor in Australia. The information contained in these notes is for educational purposes only and should not be construed as medical advice. While I strive for accuracy, I make no guarantees regarding the completeness or reliability of the content provided. Additionally, I do not claim copyright for any images included herein unless explicitly stated. If you wish to request a correction, removal, or alteration of any content, please feel free to contact me or submit an issue via the associated [github repository](https://github.com/Sabicool/Medicine). The colour theme for this website is based off [catppuccin](https://github.com/catppuccin/catppuccin).
+
+Anything surrounded by curly braces is likely a card that has been incorporated into the Malleus anki deck *(I can't demonstrate here, otherwise it'll create a card)*
 # Quick Reference
 Consider taking a look through my [Intern Reference file](00%20Reference/Junior%20Doctor/Intern%20Reference.md) if you are an intern yourself, otherwise here is a list of notes in my rotations folder. Click on whatever rotation you might be on right now:
 ## Useful Notes
@@ -24,6 +26,7 @@ If you'd rather just find notes on medicine relevant to the particular rotation 
 - [[Nephrology]]
 - [[Neurology]]
 - [[Paediatrics]]
+- [[Psychiatry]]
 - [[Respiratory]]
 <!-- SerializedQuery END -->
 
@@ -71,14 +74,6 @@ Obsidian has been a great to use on my other devices (namely, my iPad and my pho
     - Style Settings
     - Text Extractor
     - Vimrc Support[^3]
-
-i do want to add some improvements to the notes:
-
-- [x] Make a functional website; something like quartz might work well
-- [x] Add a date last updated to all the notes
-- [x] Implement way to add cards from Obsidian to Anki[^2]
-    - Anything surrounded by curly braces is likely a card that has been incorporated into the Malleus anki deck *(I can't demonstrate here, otherwise it'll create a card)*
-# Footnotes
 
 [^1]: Both are great applications for note taking but unfortunately there might be some barrier to using either application because of the initial learning to use either program. If that is the case for you, I'd recommend something like notion or remnote to take notes on
 [^2]: I should generally be adding these cards to the Malleus Clinical Medicine Anki project
