@@ -1,6 +1,6 @@
 ---
 title: Home
-date: 2025-01-12
+date: 2025-01-13
 ---
 # About this Website
 This is the note database of a junior doctor in Australia. The information contained in these notes is for educational purposes only and should not be construed as medical advice. While I strive for accuracy, I make no guarantees regarding the completeness or reliability of the content provided. Additionally, I do not claim copyright for any images included herein unless explicitly stated. If you wish to request a correction, removal, or alteration of any content, please feel free to contact me or submit an issue via the associated [github repository](https://github.com/Sabicool/Medicine). The colour theme for this website is based off [catppuccin](https://github.com/catppuccin/catppuccin).
@@ -43,7 +43,7 @@ I rarely made comprehensive notes. I mainly studied by doing pre-made flashcard 
 - Other national resources (e.g. eTG, AMH Online)
 - Other useful Australian resources: LITFL
 - Other useful resources: Teach Me Series (e.g. Teach me surgery, Teach me Obgyn), Amboss
-- I mainly used emedici as my question bank during medical school although passmedicine and armadex are probably better
+- Qbanks: I used emedici but there also exists passmedicine and armadex
 # How I made these notes
 These notes are for the most part formatted in markdown and hopefully made to be quite presentable and accurate.
 
