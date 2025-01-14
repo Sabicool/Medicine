@@ -10,7 +10,21 @@ date: 2025-01-14
 # Classification
 - Otitis media ⇒ inflammation or infection in the middle ear space
 - Otitis media with effusion or serous otitis ⇒ middle ear effusion without infection
-- 
+- Acute otitis media ⇒ Infection of fluid in the middle ear i.e. OME + infection
+	- Therefore acute otitis media is diagnosed on the basis of signs and symptoms of middle ear inflammation: fever, ear, pain distinct erythema of the tympanic membrane + middle ear effusion
+# Aetiology
+- Often preceded by a viral URTI
+- Explain to parents that the Eustachian tube in children is shorter and more horizontal so infection happens from bacterial pathogens in the nasopharynx going to the ear through the Eustachian tube
+- Bacterial pathogens:
+	- Steptococcus pneumoniae
+	- Haemophilus influenzae (less common due to vaccination)
+	- Moraxella catarrhalis
+- If purulent consider can be caused by:
+	- Staphylococcus aureus or Pseudomonas aeruginosa
+# Epidemiology
+- Common: 90% of children have ≥1 episode and two thirds have ≥1 episode by 6 years old
+- Peak incidence is between 6 and 24 months
+
 # Management
 - A→E Assessment including vitals
 - Investigations: General paediatrics exams + ENT
@@ -23,5 +37,7 @@ date: 2025-01-14
 		- Only hearing ear
 		- Child has cochlear implant → discuss with ENT
 		- Possible suppurative complication → discuss with ENT
+# Complications
+- 
 # Sources
 - [RCH Guidelines](https://www.rch.org.au/clinicalguide/guideline_index/acute_otitis_media/)
