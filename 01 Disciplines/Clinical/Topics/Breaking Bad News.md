@@ -1,3 +1,52 @@
 ---
-date: 2025-01-09
+date: 2025-01-14
 ---
+# Prepare
+- Consider the following:
+	- Interpreter
+		- If a health care interpreter is present, sit opposite the patient with the interpreter on the side. Introduce the interpreter by name and explain their role. Speak directly to the person, not to the interpreter.
+	- Aboriginal Liaison Officer
+- Ask if they want someone else present during the consultation
+- Consider asking who will be the spokesperson if there are multiple people
+- Prepare what you are going to say and familiarise yourself with the face
+- Familiarise with the services and resources available for the patient/carers
+- Setting
+	- A private location (or drawn curtains)
+	- Make sure you won't be disturbed
+		- Silent your mobile and pager
+	- Sit down with the patient
+- Introduce yourself to everyone present and ask for names and relationships to the patient
+# Breaking the News
+- Ask before you break the news
+	- "What have you been told about all this so far?"
+	- "What have you been led to expect?"
+	- "Are you worried that this might be something serious?"
+- Ask the patient what and how much they want to know 
+	- "Would you prefer if I give you all the details about your diagnosis and treatment options or just the key points?"
+- Help the patient get ready to receive unexpected bad news 
+	- "There is no easy way to say this"
+	- "I have some bad news to tell you"
+- Use the same language your patient uses
+	- If your patient uses the words 'growth' and 'spread', you should also use these words
+- Give the information in small chunks and clarify that the patient understands what you have said at the end of each chunk 
+	- "Is this making sense so far?"
+	- Have pauses and give opportunities for interruptions and questions.
+- Allow silence and tears, and avoid the urge to talk to overcome your own discomfort
+- Proceed at the patient's pace and allow them to absorb the news, gather their thoughts and express their emotions
+- Assess, acknowledge and respond to emotional reactions
+- Be aware of cognitive coping strategies (e.g. denial, blame, intellectualisation, disbelief, acceptance)
+- Be empathetic
+	- "I'm sorry"
+	- "I can tell you weren't expecting to hear this news"
+	- "I can see how upsetting this is for you"
+	- "I wish the news were better"
+- Enquire about the patient's emotional and spiritual needs and what support systems they have in place
+- Ask if they would like you to organise additional support services such as a social worker or psychologist to help them
+- Summarise the main points of the discussion and assess the patient's understanding
+- Address any further questions and ask, "Is there anything further you would like to discuss?" 
+- Offer assistance to tell others the bad news
+- Make a plan of what is likely to happen next, especially in relation to your own involvement
+# Afterwards
+- Document the consultation
+- Inform other health care professionals
+- Set up further appointments
