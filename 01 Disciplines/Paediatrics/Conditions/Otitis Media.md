@@ -2,11 +2,15 @@
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Paediatrics|Paediatrics]]"
-date: 2025-01-09
+date: 2025-01-14
 ---
 - Always exclude other causes of the [[Febrile child]]
 - Peak age prevalence is 6-18 months
 - Exposure to cigarette smoke from household contacts is a known modifiable risk factor
+# Classification
+- Otitis media ⇒ inflammation or infection in the middle ear space
+- Otitis media with effusion or serous otitis ⇒ middle ear effusion without infection
+- 
 # Management
 - A→E Assessment including vitals
 - Investigations: General paediatrics exams + ENT
