@@ -41,3 +41,4 @@ date: 2025-01-14
 - 
 # Sources
 - [RCH Guidelines](https://www.rch.org.au/clinicalguide/guideline_index/acute_otitis_media/)
+- Clinical Emergency Medicine Textbook
