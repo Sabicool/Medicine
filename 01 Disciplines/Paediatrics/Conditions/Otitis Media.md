@@ -24,10 +24,15 @@ date: 2025-01-14
 # Epidemiology
 - Common: 90% of children have ≥1 episode and two thirds have ≥1 episode by 6 years old
 - Peak incidence is between 6 and 24 months
-
+# Presentation
+- Acute onset of fever and ear pain often preceded by URTI symptoms
+	- Includes: irritability, restless sleep and crying
+- Purulent drainage from the ear may be present with AOM with tympanic membrane perforation or otitis externa
+# Examination Findings
+- 
 # Management
 - A→E Assessment including vitals
-- Investigations: General paediatrics exams + ENT
+- Examinations: General paediatrics exams + ENT
 - Symptomatic management
 - Admission/Referral/High Risk Criteria
 	- Patients who should be considered for immediate treatment with antibiotics
@@ -38,7 +43,21 @@ date: 2025-01-14
 		- Child has cochlear implant → discuss with ENT
 		- Possible suppurative complication → discuss with ENT
 # Complications
-- 
+- Common
+	- Persistent middle ear effusion
+	- Tympanic membrane perforation
+	- Tympanosclerosis
+- Other
+	- Cholestatoma
+	- Hearing loss
+	- Tinnitis
+	- Balance problems
+	- Facial nerve injury
+- Unlikely but serious
+	- Mastoiditis
+	- Intracranial abscess
+	- Meningitis
+	- Venous sinus thrombosis
 # Sources
 - [RCH Guidelines](https://www.rch.org.au/clinicalguide/guideline_index/acute_otitis_media/)
 - Clinical Emergency Medicine Textbook
