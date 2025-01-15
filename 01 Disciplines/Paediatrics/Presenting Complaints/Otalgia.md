@@ -67,6 +67,11 @@ Rotations:
 | ![[Pasted image 20250115145146.png]]                                                                                                                                        | **Perforated tympanic membrane with otorrhoea**                                                                                                                                                                                                           |
 | ![[Pasted image 20250115150243.png]]                                                                                                                                        | **[[Otitis Externa]]**<br>Ear is tender to examine; not recommended to perform otoscopy<br>Skin of external ear canal is swollen and often a thin layer of pus                                                                                            |
 
+> [!Warning] 
+> Patients with an attic perforation or persistent crusting or granulation (above the malleus,
+in the top part of the TM) should be referred to an ENT surgeon immediately to exclude
+cholesteatoma
+
 #  Investigations
 - None regularly performed
 - Imaging:

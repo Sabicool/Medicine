@@ -26,6 +26,7 @@ date: 2025-01-15
 			- Note the size of the hole
 	- Recurrent acute otitis media => ≥3 episodes of AOM within 6 months or ≥4 episodes in 12 months
 - Chronic suppurative otitis media ⇒ perforated eardrum and discharge >6 weeks[^1]
+	- Can think of it as on the worser spectrum of AOMwiP. Adequate management of AOMwiP will reduce progression to CSOM
 # Aetiology
 - Often preceded by a viral URTI
 - Explain to parents that the Eustachian tube in children is shorter and more horizontal so infection happens from bacterial pathogens in the nasopharynx going to the ear through the Eustachian tube
@@ -148,7 +149,7 @@ date: 2025-01-15
 			- Advise the family about the likely hearing loss (usually around 20 dB) and the difficulty their child will have hearing speech, speech at a distance, and speech in background noise
 			- Discuss the importance of going to the health centre if their child develops ear discharge, pain, or if they have concerns about language development
 			- School-aged children can have classroom sound-field amplification
-		- If hearing loss >20 dB or persistent OME for 3 months (6 months altogether) → refer for ENT assessment for possible surgical intervention
+		- If hearing loss >20 dB or persistent OME for 3 months (6 months altogether) and/or speech and language delay → refer for ENT assessment for possible surgical intervention
 	- Refer children with hearing loss and speech delay to speech pathology
 
 ![[Pasted image 20250115190341.png]]
