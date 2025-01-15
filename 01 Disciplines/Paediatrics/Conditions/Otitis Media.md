@@ -9,12 +9,23 @@ date: 2025-01-15
 - Exposure to cigarette smoke from household contacts is a known modifiable risk factor
 # Classification
 - Otitis media ⇒ inflammation or infection in the middle ear space
-- Otitis media with effusion or serous otitis ⇒ middle ear effusion without infection
+- Otitis media with effusion or serous otitis ⇒ middle ear effusion without infection; there are two types: persistent and episodic
+	- Episodic otitis media with effusion ⇒ middle ear effusion present for <3 months without inflammation
+	- Persistent (chronic) otitis media with effusion (glue ear) => middle ear effusion present for >3 month without inflammation
 - Acute otitis media ⇒ Infection of fluid in the middle ear i.e. OME + infection
-	- Therefore acute otitis media is diagnosed on the basis of signs and symptoms of middle ear inflammation: fever, ear, pain distinct erythema of the tympanic membrane + middle ear effusion
-- Persistent otitis media with effusion (glue ear) => middle ear effusion present for >3 month without inflammation
-- Recurrent acute otitis media => ≥3 episodes of AOM within 6 months or ≥4 episodes in 12 months
-- Chronic suppurative otitis media ⇒ perforated eardrum and discharge >6 weeks
+	- Formally defined as middle ear effusion + ≥1 of the following:
+		- Bulging tympanic membrane
+		- Red tympanic membrane
+		- Recent discharge of pus
+		- Fever
+		- Ear pain
+		- Irritability
+	- Can be categorised into with and without perforation
+		- AOM with perforation (AOMwiP) => discharge of pus through a perforation in the tympanic membrane within the last 2 weeks
+			- Perforation is typically quite small initially when it first ruptures
+			- Note the size of the hole
+	- Recurrent acute otitis media => ≥3 episodes of AOM within 6 months or ≥4 episodes in 12 months
+- Chronic suppurative otitis media ⇒ perforated eardrum and discharge >6 weeks[^1]
 # Aetiology
 - Often preceded by a viral URTI
 - Explain to parents that the Eustachian tube in children is shorter and more horizontal so infection happens from bacterial pathogens in the nasopharynx going to the ear through the Eustachian tube
@@ -135,3 +146,5 @@ date: 2025-01-15
 - eTG: Otitis Media
 - [Acute otitis media - emergency management qld guidelines](https://www.childrens.health.qld.gov.au/for-health-professionals/queensland-paediatric-emergency-care-qpec/queensland-paediatric-clinical-guidelines/acute-otitis-media)
 - [Otitis Media Guidelines](https://app.otitismediaguidelines.com/start)
+
+[^1]: Note that the otitis media guidelines for Aboriginal populations defines it as lasting ≥2 weeks and >2% of pars tensa has perforated
