@@ -2,7 +2,7 @@
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Paediatrics|Paediatrics]]"
-date: 2025-01-14
+date: 2025-01-15
 ---
 - Always exclude other causes of the [[Febrile child]]
 - Peak age prevalence is 6-18 months
@@ -31,8 +31,6 @@ date: 2025-01-14
 # Examination Findings
 - 
 # Management
-- A→E Assessment including vitals
-- Examinations: General paediatrics exams + ENT
 - Symptomatic management
 - Admission/Referral/High Risk Criteria
 	- Patients who should be considered for immediate treatment with antibiotics
@@ -42,6 +40,7 @@ date: 2025-01-14
 		- Only hearing ear
 		- Child has cochlear implant → discuss with ENT
 		- Possible suppurative complication → discuss with ENT
+![[Pasted image 20250115150711.png]]
 # Complications
 - Common
 	- Persistent middle ear effusion
