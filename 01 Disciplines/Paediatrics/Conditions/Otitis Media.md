@@ -135,11 +135,24 @@ date: 2025-01-15
 - Address [[#Risk Factors|risk factors for recurrent bacterial otitis media]]
 - Effusion <3 months:
 	- If children has normal hearing and not at risk for speech or language problems → just observation
+		- Family education: Advise the family about the likely temporary hearing loss (usually around 20 dB) and the difficulty their child will have hearing speech, speech at a distance, and speech in background noise
+			- Discuss the importance of going to the health centre if their child develops ear discharge, pain, or if they have concerns about language development
+		- Review monthly recording date of each otitis media diagnosis
 	- Refer to otolaryngolist if effusion is associated with speech delay or learning problems or structural damage to the tympanic membrane (e.g. significant retraction, cholestatoma) for consideration of tympanostomy tube or other interventions
 - Effusion >3 months:
 	- Can present with conductive hearing loss or behavioural problems
-	- Refer for audiometry
-		- If
+	- Refer all patients for audiometry
+		- Refer for ENT assessment if severe retraction of the tympanic membrane (i.e. retraction pocket or atelactsis)
+		- If hearing loss <20 dB suitable to wait a further 3 months and manage non-pharmacologically
+			- Review monthly to monitor for resolution
+			- Advise the family about the likely hearing loss (usually around 20 dB) and the difficulty their child will have hearing speech, speech at a distance, and speech in background noise
+			- Discuss the importance of going to the health centre if their child develops ear discharge, pain, or if they have concerns about language development
+			- School-aged children can have classroom sound-field amplification
+		- If hearing loss >20 dB or persistent OME for 3 months (6 months altogether) → refer for ENT assessment for possible surgical intervention
+	- Refer children with hearing loss and speech delay to speech pathology
+
+![[Pasted image 20250115190341.png]]
+- From: [Otitis Media Guidelines for ATSI Children Page XII](https://otitismediaguidelines.com/wp-content/uploads/2021/07/OtitisMedia_Guideline_2020.pdf)
 # Sources
 - [RCH Guidelines](https://www.rch.org.au/clinicalguide/guideline_index/acute_otitis_media/)
 - Clinical Emergency Medicine Textbook
