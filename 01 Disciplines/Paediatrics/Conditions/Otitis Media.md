@@ -120,8 +120,18 @@ date: 2025-01-15
 	- Meningitis
 	- Venous sinus thrombosis
 ## Otitis Media with Effusion Management
+- By 3 months 90% of effusions will resolve spontaneously
+- Address [[#Risk Factors|risk factors for recurrent bacterial otitis media]]
+- Effusion <3 months:
+	- If children has normal hearing and not at risk for speech or language problems → just observation
+	- Refer to otolaryngolist if effusion is associated with speech delay or learning problems or structural damage to the tympanic membrane (e.g. significant retraction, cholestatoma) for consideration of tympanostomy tube or other interventions
+- Effusion >3 months:
+	- Can present with conductive hearing loss or behavioural problems
+	- Refer for audiometry
+		- If
 # Sources
 - [RCH Guidelines](https://www.rch.org.au/clinicalguide/guideline_index/acute_otitis_media/)
 - Clinical Emergency Medicine Textbook
 - eTG: Otitis Media
 - [Acute otitis media - emergency management qld guidelines](https://www.childrens.health.qld.gov.au/for-health-professionals/queensland-paediatric-emergency-care-qpec/queensland-paediatric-clinical-guidelines/acute-otitis-media)
+- [Otitis Media Guidelines](https://app.otitismediaguidelines.com/start)
