@@ -38,6 +38,7 @@ Rotations:
 		- Rinne test: air conduction impaired in the affected ear
 	- Otoscopy
 		- Sit the child on the parent's lap with the head immbolised against the parent's chest
+			- ![[Pasted image 20250115153645.png]]
 		- Pull posteriorly and look anteriorly and superiorly for the tympanic membrane
 		- Assess the tympanic membrane for:
 			- Translucency: translucent/opaque/partly opaque

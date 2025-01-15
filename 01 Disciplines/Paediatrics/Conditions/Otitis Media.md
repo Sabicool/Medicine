@@ -32,15 +32,36 @@ date: 2025-01-15
 - 
 # Management
 - Symptomatic management
+	- See [[Paediatric Pain Management]]
+	- For severe acute ear pain consider
+		- Short term use of topical analgesia (e.g. 2% lignocaine or 1-2 drops of benzocaine + phenazone (Auralgen) applied to an **intact** tympanic membrane)
+	- [QLD acute otitis media analgesia recommendations](https://www.childrens.health.qld.gov.au/__data/assets/pdf_file/0020/170534/aom-flowchart-and-medications.pdf):
+		![[Pasted image 20250115153853.png]]
 - Admission/Referral/High Risk Criteria
-	- Patients who should be considered for immediate treatment with antibiotics
+	- Patients who should be considered for immediate treatment with antibiotics (see image below)
 		- <6 months old
 		- Immunocompromised
 		- ATSI
 		- Only hearing ear
 		- Child has cochlear implant → discuss with ENT
 		- Possible suppurative complication → discuss with ENT
-![[Pasted image 20250115150711.png]]
+- Non-pharm
+	- Avoid getting water in ear if perforated
+- Pharm
+	- Antibiotic therapy
+		- Most cases of acute otitis media resolve spontaneously and antibiotics are not recommended
+			- For every 100 children treated with antibiotics, only five children will be better at 2 to 3 days as a consequence of taking antibiotics
+			- ABx therapy can cause harm including diarrhoea, rash and hypersensitivity reactions
+		- Refer to [local guidelines for antibitoics](https://www.rch.org.au/clinicalguide/guideline_index/Local_Antimicrobial_Guidelines/)
+			- NSW (uses eTG):
+				- 1st line → Amoxicillin 15mg/kg up to 500mg PO 8-hourly for 5 days or Amoxicillin 30mg/kg up to g PO 12-hourly for 5 days
+				- If H. influenzae or M. catarrhalis suspected → Amoxicillin + clavulanate 22.5+3.2mg/kg up to 875+125mg orally 12 hourly for 5-7 days (older than >2 months old)
+				- Chronic otorrhoea → combine PO ABx with ciprofloxacin 0.3% ear drops, 5 drops in affected ear 12 hourly until free of discharge for ≥3 days
+			- QLD [Paediatric antibiocard](https://www.childrens.health.qld.gov.au/__data/assets/pdf_file/0037/176878/Antibiocard.pdf#page=9)
+				- Amoxicillin 30mg/kg/dose every 8 hours (max 1g/dose) for 5 days
+
+![[Otitis Media 2025-01-15 15.44.31.excalidraw.png]]
+%%[[Otitis Media 2025-01-15 15.44.31.excalidraw.md|🖋 Edit in Excalidraw]]%%
 # Complications
 - Common
 	- Persistent middle ear effusion
@@ -57,6 +78,15 @@ date: 2025-01-15
 	- Intracranial abscess
 	- Meningitis
 	- Venous sinus thrombosis
+- Safety netting:
+	- Return to your doctor if you experience any of the following:
+	- Severe ear pain with a headache
+	- An infection and you also have diabetes
+	- A worsening infection spreading around the outer ear and or the bone behind the ear
+	- Drooping of your face on the side of the ear infection
+	- Any other new symptoms affecting the muscle function of your face
 # Sources
 - [RCH Guidelines](https://www.rch.org.au/clinicalguide/guideline_index/acute_otitis_media/)
 - Clinical Emergency Medicine Textbook
+- eTG: Otitis Media
+- [Acute otitis media - emergency management qld guidelines](https://www.childrens.health.qld.gov.au/for-health-professionals/queensland-paediatric-emergency-care-qpec/queensland-paediatric-clinical-guidelines/acute-otitis-media)
