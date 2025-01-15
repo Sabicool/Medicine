@@ -6,8 +6,10 @@ Rotations:
 ---
 # Common Causes *(Corridor Thoughts)*
 - Otological causes (primary)
-	- Acute [[Otitis Media]]
-	- [[Otitis Media]] with Effusion
+	- [[Otitis Media]] and its subtypes
+		- Acute otitis media
+		- Otitis media with Effusion
+		- Chronic suppurative otitis media
 	- [[Otitis Externa]]
 	- Perforation
     - Foreign body in ear (younger children, pain, hearing loss ± foul-smelling discharge)
@@ -17,7 +19,7 @@ Rotations:
 	- Pharyngitis/tonsilitis (always examine ENT)
 	- Cervical lymphadenopathy
 - Other important
-	- Acute mastoiditis
+	- [[Acute Mastoiditis]]
 	- Tumours (consider in those with recurrent otitis media, unilateral hearing loss)
 	- Can consider other things like ramsay hunt
 # Assessment
@@ -56,6 +58,8 @@ Rotations:
 				- Bulging tympanic membrane, purulent effusion and distinct erythema of the tympanic membrane
 			- Note that a red tympanic membrane may occur with fever or crying
 				- Also differentiate between distinct erythema of the tympanic membrane itself and increased vascularity with red appearance only in areas of blood vessels
+- Other
+	- Assess facial nerve function especially in chronic suppurative otitis media
 
 | Otoscopy Appearance                                                                                                                                                         | Notes                                                                                                                                                                                                                                                     |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -63,14 +67,16 @@ Rotations:
 | ![[Pasted image 20250115143933.png]]                                                                                                                                        | **Injected Tympanic Membrane**<br>Pink/red tympanic membrane<br>Often seen with fever, eustachian tube obstruction or viral URTI<br>Tympanic membrane is transparent (no effusion)<br>The handle of the malleus is visible and more horizontal            |
 | ![[Pasted image 20250115144058.png]]<br>![[Pasted image 20250115145459.png\|200]]<br>![[Pasted image 20250115145519.png\|200]]<br>![[Pasted image 20250115145746.png\|200]] | **Acute [[Otitis Media]]**<br>Loss of the tympanic membrane landmarks (esp. handle of the malleus)<br>Tympanic membrane is opaque either completely red (inflammation) or white (pus in middle ear)                                                       |
 | ![[Pasted image 20250115145857.png\|200]]                                                                                                                                   | **Bullous myringitis (type of AOM)**<br>Can be mistaken for herpes zoster oticus (Ramsay Hunt)<br>The tympanic membrane shows erythematous changes with visible isolated hemorrhagic infiltrates (dark spots)                                             |
+| ![[Pasted image 20250115194411.png\|200]]                                                                                                                                   | **Acute Otitis Media with Perforation**<br>Lies on the same spectrum as chronic chronic suppurative otitis media except it is the initial appearance. Accompanied often by pain and other features of AOM                                                 |
+| ![[Pasted image 20250115145146.png]]<br>![[Pasted image 20250115195433.png\|200]]                                                                                           | **Chronic Suppurative Otitis Media**<br>Also known as chronic mucosal otitis media. Differs from AOM by duration (>6 weeks)<br>                                                                                                                           |
+| ![[Pasted image 20250115194032.png\|200]]                                                                                                                                   | **Chronic Squamous Otitis Media secondary to cholesteatoma**                                                                                                                                                                                              |
 | ![[Pasted image 20250115144424.png]]<br>![[Pasted image 20250115144609.png\|200]]<br>![[Pasted image 20250115144626.png\|200]]<br>![[Pasted image 20250115145047.png\|200]] | **[[Otitis Media]] with Effusion**<br>Tympanic membrane is retracted with prominence of handle of malleus which is more horizontal<br>Tympanic membrane may be bulging or have air fluid level behind<br>Yellow/amber appearance<br>Light reflex apparent |
-| ![[Pasted image 20250115145146.png]]                                                                                                                                        | **Perforated tympanic membrane with otorrhoea**                                                                                                                                                                                                           |
 | ![[Pasted image 20250115150243.png]]                                                                                                                                        | **[[Otitis Externa]]**<br>Ear is tender to examine; not recommended to perform otoscopy<br>Skin of external ear canal is swollen and often a thin layer of pus                                                                                            |
+^otoscopy-table
 
 > [!Warning] 
-> Patients with an attic perforation or persistent crusting or granulation (above the malleus,
-in the top part of the TM) should be referred to an ENT surgeon immediately to exclude
-cholesteatoma
+> Patients with an attic perforation (squamous chronic otitis media) or persistent crusting or granulation (above the malleus, in the top part of the TM) should be referred to an ENT surgeon immediately to exclude cholesteatoma
+> ![[Pasted image 20250115195524.png]]
 
 #  Investigations
 - None regularly performed
@@ -84,3 +90,6 @@ cholesteatoma
 		- If using wait-and-see approach patients should be instructed to follow up with GP if symptoms do not improve in 48-72 hours or earlier if symptoms worsen or signs or symptoms of complications of AOM
 - Referral
 - Management (specific)
+	- See 
+		- [[Otitis Media#Acute Otitis Media Management|AOM Management]]
+		- [[Otitis Media#Otitis Media with Effusion Management|OME Management]]

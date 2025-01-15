@@ -25,8 +25,9 @@ date: 2025-01-15
 			- Perforation is typically quite small initially when it first ruptures
 			- Note the size of the hole
 	- Recurrent acute otitis media => ≥3 episodes of AOM within 6 months or ≥4 episodes in 12 months
-- Chronic suppurative otitis media ⇒ perforated eardrum and discharge >6 weeks[^1]
+- Chronic suppurative otitis media (sometimes chronic mucosal otitis media) ⇒ perforated eardrum and discharge >6 weeks[^1]
 	- Can think of it as on the worser spectrum of AOMwiP. Adequate management of AOMwiP will reduce progression to CSOM
+	- Should be definition have no features of fever or otalgia (if present consider other diagnoses: [[Otitis Externa]], [[Acute Mastoiditis]] or intracranial involvement)
 # Aetiology
 - Often preceded by a viral URTI
 - Explain to parents that the Eustachian tube in children is shorter and more horizontal so infection happens from bacterial pathogens in the nasopharynx going to the ear through the Eustachian tube
@@ -52,8 +53,9 @@ date: 2025-01-15
 - Acute onset of fever and ear pain often preceded by URTI symptoms
 	- Includes: irritability, restless sleep and crying
 - Purulent drainage from the ear may be present with AOM with tympanic membrane perforation or otitis externa
+- See [[Otalgia#Assessment|assessment of otalgia]]
 # Examination Findings
-- 
+![[Otalgia#^otoscopy-table]]
 # Management
 ## Acute Otitis Media Management
 - Symptomatic management
@@ -82,6 +84,12 @@ date: 2025-01-15
 				- 1st line → Amoxicillin 15mg/kg up to 500mg PO 8-hourly for 5 days or Amoxicillin 30mg/kg up to g PO 12-hourly for 5 days
 				- If H. influenzae or M. catarrhalis suspected → Amoxicillin + clavulanate 22.5+3.2mg/kg up to 875+125mg orally 12 hourly for 5-7 days (older than >2 months old)
 				- Chronic otorrhoea → combine PO ABx with ciprofloxacin 0.3% ear drops, 5 drops in affected ear 12 hourly until free of discharge for ≥3 days
+				- Chronic suppurative otitis media (>6 weeks) ↓
+					- Clean the external ear by dry aural toilet before instilling ear drops
+						- Healthcare professsional: mechanical suction or, under direct visualisation, cotton wool on a probe
+						- Patient or carer: Roll corner of tissue and mopping the ear
+					- Ciprofloxacin 0.3% ear drops, 5 drops instilled into the affected ear, 12-hourly until the middle ear has been free of discharge for at least 3 days
+					- No need for PO antibiotics
 			- QLD [Paediatric antibiocard](https://www.childrens.health.qld.gov.au/__data/assets/pdf_file/0037/176878/Antibiocard.pdf#page=9)
 				- Amoxicillin 30mg/kg/dose every 8 hours (max 1g/dose) for 5 days
 			- Victoria (see RCH guidelines)
