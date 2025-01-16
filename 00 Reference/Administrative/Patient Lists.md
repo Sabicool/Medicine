@@ -47,6 +47,18 @@ date: 2025-01-16
 	- Shrink your list to that space using wrap text, cutting attending consultant shrinking the font
 	- In newer excel may need to be through file -> page setup -> landscape (consider reducing margins and adding header) and view -> page break preview/page layout
 - **Save** this perfectly formatted list for the rest of the days on the term
+- Even if the patients change you can copy and paste on top of this and delete the columns you don't want (can even record a macro for this)
+- Have the columns in the following order
+	- Location
+	- Patient record number
+	- Patient name
+	- Age
+	- Attending consult
+	- Admit reason/clinical history
+	- Other columns as you please
+## Rounds List
+- Regular list with columns that can display certain results/investigations/patient numbers; particularly useful on surgical terms where you often do not know all the patients because of high turnover
+- Consider setting it up to show things like: temperature, HR, sats, Hb, WBC, Br, eGFR, Cr
 # List Maintenance
 - You will often need to add new consultants, change the order of columns etc. There are 3 main ways to maintain/customise your list:
 	1. List maintenance (spanner icon): Chooses lists. Pop up two columns 'Available Lists' and 'Active Lists'
