@@ -65,7 +65,11 @@ date: 2025-01-16
 - Set up
 	- Click rounds list (next to multi-patient task list) -> choose the list you want a rounds list of -> a window will appear -> check select all and dropdown then select assigned -> rounds list will appear and auto-populate
 	- Note that all the columns are moveable and shrinkable so do it just like in excell for pinting space issues
-	- 
+	- To get parameters:
+		1. Find the far-right column and expand its size as in excel
+		2. Go to the top of the column and right click -> select 'insert column' (or delete column)
+		3. Start expanding folders and choose the results you want
+		4. Click ALLOCFSETS → Then ALLRESLTSECT → Then ALLSERVSECTS → Then you reach a few choices
 # List Maintenance
 - You will often need to add new consultants, change the order of columns etc. There are 3 main ways to maintain/customise your list:
 	1. List maintenance (spanner icon): Chooses lists. Pop up two columns 'Available Lists' and 'Active Lists'
