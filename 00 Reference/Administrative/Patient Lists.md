@@ -37,8 +37,16 @@ date: 2025-01-16
 - First sort the List based on Location, then Consultant (click each column heading); then simply highlight, right click and select ‘Hide’ for all patients not under the Rounding Consultant
 ## Personalised List
 - You don't have space in the above lists to note down in the lists above
-- Copy the list to excel
-- 
+- Copy and paste the list to excel (always into column A)
+- One time formatting of adjusting width
+	- Add two other empty columns: one for results to note and the other for jobs
+	- Consider deleting the admit reason if you have time to write up some actual diagnoses and past history of the patient
+- Landscape and double sided printing
+	- See if it fits by going to the print tab and then back to the usual cells
+	- Dotted lines should now appear denoting the printable space
+	- Shrink your list to that space using wrap text, cutting attending consultant shrinking the font
+	- In newer excel may need to be through file -> page setup -> landscape (consider reducing margins and adding header) and view -> page break preview/page layout
+- **Save** this perfectly formatted list for the rest of the days on the term
 # List Maintenance
 - You will often need to add new consultants, change the order of columns etc. There are 3 main ways to maintain/customise your list:
 	1. List maintenance (spanner icon): Chooses lists. Pop up two columns 'Available Lists' and 'Active Lists'
