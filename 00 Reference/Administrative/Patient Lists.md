@@ -35,6 +35,10 @@ date: 2025-01-16
 ## Consultant List
 - Create this list when the registrar says "[consultant name] is rounding today"
 - First sort the List based on Location, then Consultant (click each column heading); then simply highlight, right click and select ‘Hide’ for all patients not under the Rounding Consultant
+## Personalised List
+- You don't have space in the above lists to note down in the lists above
+- Copy the list to excel
+- 
 # List Maintenance
 - You will often need to add new consultants, change the order of columns etc. There are 3 main ways to maintain/customise your list:
 	1. List maintenance (spanner icon): Chooses lists. Pop up two columns 'Available Lists' and 'Active Lists'
