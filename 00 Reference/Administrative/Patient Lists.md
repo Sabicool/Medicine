@@ -1,7 +1,7 @@
 ---
 date: 2025-01-16
 ---
-# Setting Up a List
+# Patient Lists
 1. Click ‘Patient List’ (top Toolbar): A List will pop up
 2. Press the Spanner in top left: A pop-up will appear with two columns
 3. Press ‘New’ button in bottom right
@@ -77,7 +77,7 @@ date: 2025-01-16
 	- Attending consult
 	- Admit reason/clinical history
 	- Other columns as you please
-## Handover/
+
 # List Maintenance
 - You will often need to add new consultants, change the order of columns etc. There are 3 main ways to maintain/customise your list:
 	1. List maintenance (spanner icon): Chooses lists. Pop up two columns 'Available Lists' and 'Active Lists'
@@ -105,3 +105,22 @@ date: 2025-01-16
 			- New results
 - Other functions
 	- Right click on patient row to bring up additional options like sort or hide (which is useful to count number of patients using the number of patients hidden)
+# Task Lists
+## Handover/Multi-Patient Task List
+- List of all patients in the hospital who need something overnight/during the weekend (e.g. monitoring, repeat reviews/investigations/management)
+- Going home and giving people work to do:
+	1. Copy the history and relevant information into word before opening the list as you are not able to access this information while creating the consult form
+	2. Go to Ad hoc -> look down the long list until you see Medical Handover -> Select Medical Handover Summary Form and Chart
+	3. Brings up a lot of stuff, fill out areas on Situation (actual problem) and recommendation (what needs to be done); fill out other parts relevant to handover
+	4. Check the other yellow boxes as appropriate
+	5. Call the after hours person and personally hand over if its important
+	- Also give information on what do once the results come back (i.e. do this if positive, do this if negative)
+- Finding work to do as overnight/relief person
+	1. Go to multi-parent task list -> click handover tasks/handover tab and peruse jobs -> click yellow/tab square next to each patient job to signify completion
+	2. To modify your multi-patient task list right click department view (top bar in grey) -> select customise patient view -> pick your location by either hospital or ward -> go to side tab 'Times Frames' -> select generic time frame -> then put in the range of times you want to see jobs for
+	3. Remember to click save under location filters to save repeating this process each time
+	4. Log in and log out and refresh if it doesn't auto-update
+	5. Click the jobs to see what needs doing
+	6. Start triaging then doing jobs
+	7. If the handover form doesn't appear -> go to patient profile and pretend you're charting a handover -> handover form should appear filled with the instructions
+## Task Manager: JMO Jobs List
