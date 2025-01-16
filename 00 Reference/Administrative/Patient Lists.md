@@ -35,6 +35,27 @@ date: 2025-01-16
 ## Consultant List
 - Create this list when the registrar says "[consultant name] is rounding today"
 - First sort the List based on Location, then Consultant (click each column heading); then simply highlight, right click and select ‘Hide’ for all patients not under the Rounding Consultant
+
+## Rounds List
+- Regular list with columns that can display certain results/investigations/patient numbers; particularly useful on surgical terms where you often do not know all the patients because of high turnover
+- Consider setting it up to show things like: temperature, HR, sats, Hb, WBC, Br, eGFR, Cr
+	- However note that it does not show the trend or changes
+	- Cannot do subtotals so can be limited use for drain outputs but can use the daily output
+- For printing just screenshot and print it in word
+- Set up
+	- Click rounds list (next to multi-patient task list) -> choose the list you want a rounds list of -> a window will appear -> check select all and dropdown then select assigned -> rounds list will appear and auto-populate
+	- Note that all the columns are moveable and shrinkable so do it just like in excell for pinting space issues
+	- To get parameters:
+		1. Find the far-right column and expand its size as in excel
+		2. Go to the top of the column and right click -> select 'insert column' (or delete column)
+		3. Start expanding folders and choose the results you want
+		4. Click ALLOCFSETS → Then ALLRESLTSECT → Then ALLSERVSECTS → Then you reach a few choices
+			- Laboratory: self-explanatory
+			- Patient care: nursing obs
+		5. Once desired parameter is highlighted -> click next and choose how far back in time you want to look for that result
+		6. Click next again and enter a header or name for the column (short as possible) then finish
+		7. Screen print and print from Word via landscape
+
 ## Personalised List
 - You don't have space in the above lists to note down in the lists above
 - Copy and paste the list to excel (always into column A)
@@ -56,20 +77,7 @@ date: 2025-01-16
 	- Attending consult
 	- Admit reason/clinical history
 	- Other columns as you please
-## Rounds List
-- Regular list with columns that can display certain results/investigations/patient numbers; particularly useful on surgical terms where you often do not know all the patients because of high turnover
-- Consider setting it up to show things like: temperature, HR, sats, Hb, WBC, Br, eGFR, Cr
-	- However note that it does not show the trend or changes
-	- Cannot do subtotals so can be limited use for drain outputs but can use the daily output
-- For printing just screenshot and print it in word
-- Set up
-	- Click rounds list (next to multi-patient task list) -> choose the list you want a rounds list of -> a window will appear -> check select all and dropdown then select assigned -> rounds list will appear and auto-populate
-	- Note that all the columns are moveable and shrinkable so do it just like in excell for pinting space issues
-	- To get parameters:
-		1. Find the far-right column and expand its size as in excel
-		2. Go to the top of the column and right click -> select 'insert column' (or delete column)
-		3. Start expanding folders and choose the results you want
-		4. Click ALLOCFSETS → Then ALLRESLTSECT → Then ALLSERVSECTS → Then you reach a few choices
+## Handover/
 # List Maintenance
 - You will often need to add new consultants, change the order of columns etc. There are 3 main ways to maintain/customise your list:
 	1. List maintenance (spanner icon): Chooses lists. Pop up two columns 'Available Lists' and 'Active Lists'
