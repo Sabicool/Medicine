@@ -31,7 +31,34 @@ date: 2025-01-16
 1. Double click 'Custom for the 'Patient List Type'
 2. Enter a Name and hit 'Finish' -> Done
 - Can use it as a team list by copying all patients from the auto-populating one (medical service one above) and then adding patients to it for whatever purpose (e.g. consults, after hours, follow-up) and remove them if you no longer need them
+- You can also right click on patients in the custom list and click 'Add to a Patient List' or 'Remove Patient from List'
 ## Consultant List
 - Create this list when the registrar says "[consultant name] is rounding today"
 - First sort the List based on Location, then Consultant (click each column heading); then simply highlight, right click and select ‘Hide’ for all patients not under the Rounding Consultant
 # List Maintenance
+- You will often need to add new consultants, change the order of columns etc. There are 3 main ways to maintain/customise your list:
+	1. List maintenance (spanner icon): Chooses lists. Pop up two columns 'Available Lists' and 'Active Lists'
+		- Left/right arrow makes the selected list active or inactive
+			- Active lists appear as a tab on the patient list screen
+			- Available lists are ones you don't need for now (e.g. list of prior terms)
+		- Up/down arrow shuffles the physical order of your active lists
+		- You can also use this to make new lists
+	2. List properties (pointing finger icon): Changes lists structurally
+		- Adjusts the properties of the list you're now in
+			- Will bring you back to the page where you first set up the list to modify if needed (e.g. changing 'discharge' criteria to find a discharged patient with no discharge papers)
+			- Not used unless doing something like adding a new boss
+		- Proxying which allows other people use your list
+			- Click proxy tab on the top → click new → find the reg under provider (last name first) -> access is mostly full -> grant access for a reasonable time -> click apply and ok -> tell the reg to transfer it from their available list to their active list
+	3. Customise columns (red/yellow pen on paper icon)
+		- Move active and available columns with the arrows then shuffle them up or down using the blue arrow
+		- Click and simply add categories that you want and delete what you don’t. While on the left, you can organise column order by up and down arrows and at last save
+		- Useful columns to include
+			- Room and bed
+			- Patient record number
+			- Name
+			- Age
+			- Admit reason
+			- Attending physician
+			- New results
+- Other functions
+	- Right click on patient row to bring up additional options like sort or hide (which is useful to count number of patients using the number of patients hidden)
