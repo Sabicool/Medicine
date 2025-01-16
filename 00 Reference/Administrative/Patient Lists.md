@@ -59,6 +59,13 @@ date: 2025-01-16
 ## Rounds List
 - Regular list with columns that can display certain results/investigations/patient numbers; particularly useful on surgical terms where you often do not know all the patients because of high turnover
 - Consider setting it up to show things like: temperature, HR, sats, Hb, WBC, Br, eGFR, Cr
+	- However note that it does not show the trend or changes
+	- Cannot do subtotals so can be limited use for drain outputs but can use the daily output
+- For printing just screenshot and print it in word
+- Set up
+	- Click rounds list (next to multi-patient task list) -> choose the list you want a rounds list of -> a window will appear -> check select all and dropdown then select assigned -> rounds list will appear and auto-populate
+	- Note that all the columns are moveable and shrinkable so do it just like in excell for pinting space issues
+	- 
 # List Maintenance
 - You will often need to add new consultants, change the order of columns etc. There are 3 main ways to maintain/customise your list:
 	1. List maintenance (spanner icon): Chooses lists. Pop up two columns 'Available Lists' and 'Active Lists'
