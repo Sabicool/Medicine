@@ -40,7 +40,7 @@ As from: [PASCA ACS Flowchart](https://aci.health.nsw.gov.au/__data/assets/pdf_f
 	- Isoelectric ST segment in V1 with marked ST depression in V2
 	- ST elevation in III > II
 - **Diagnosis is confirmed by the presence of ST elevation in the right-sided leads (V3R-V6R)**
-## Management
+## Acute Management
 - Determine if alternate cause of ST elevation (i.e. type 2 MI) and manage that cause accordingly
 - Call senior doctor and obtain an urgent cardiology consult
 - Move to resuscitation bay or apply defibrillator pads
@@ -58,6 +58,7 @@ As from: [PASCA ACS Flowchart](https://aci.health.nsw.gov.au/__data/assets/pdf_f
 		- Heparin 5000 units IV
 		- Ticagrelor 180mg PO or Prasugrel 60mg PO preferred otherwise alternatively
 			- Clopidogrel 300-600mg PO
+			- Note that ticagrelor is contraindicated in 2nd or 3rd degree AV block
 		- Ask cardiologist if glycoprotein IIb/IIIa inhibitor is indicated (e.g. eptifibatide, tirofiban)
 	- Transfer for PCI
 - PCI not available:
@@ -103,7 +104,7 @@ Basic level (MONASH)
 ![[Pasted image 20241225131156.png]]
 ![[Pasted image 20241225131213.png]]
 As from [PASCA ACS Checklist](https://aci.health.nsw.gov.au/__data/assets/pdf_file/0020/824141/Pathway-for-Acute-Coronary-syndrome-Assessment-PACSA-Checklist-SAMPLE.pdf)
-## Management
+## Acute Management
 - Perform serial ECGs immediately and after 6-8 hours or every 15 minutes if the pain is continuing. Also perform ECG each time a troponin is taken
 - Perform high sensitivity troponin at 0 and 2 hours
 - Perform standard sensitivity troponin at 6 and 8 hours
@@ -165,6 +166,13 @@ As from: [PASCA ACS Flowchart](https://aci.health.nsw.gov.au/__data/assets/pdf_f
 ## Recurrent Pain
 - Recurrent episodes of ischaemic chest pain may require GTN infusion for a short period of time; prolonged infusion rapidly induces tolerance
 	- GTN 10 micrograms/minute by IV infusion increasing by 10 micrograms/minute every 3 minutes until pain is controlled provided systolic blood pressure ≥95 mmHg
+## Long Term Management
+- Aspirin and a P2Y-12 inhibitor (DAPT)
+- Statin
+- Beta-blocker
+- ACE-inhibitor
+	- Should be started within 24-48 hours of acute myocardial infarciton
+	- Contraindications include haemodynamic instability and hypotension
 # Sources
 - *More so from* Pathway for acute coronary syndromes: https://aci.health.nsw.gov.au/networks/eci/clinical/tools/cardiology/pathway-for-acute-coronary-syndrome Published June 2021
 - ACI chest pain guidelines: https://aci.health.nsw.gov.au/ecat/adult/chest-pain Published December 2023.
