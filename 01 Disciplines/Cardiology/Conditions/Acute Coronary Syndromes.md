@@ -4,7 +4,7 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
 aliases:
   - ACS
-date: 2025-01-03
+date: 2025-01-17
 ---
 # Risk factors
 - Increased risk of ACS with central obesity, autoimmune conditions, chronic renal disease, diabetes and HIV
@@ -13,6 +13,9 @@ date: 2025-01-03
 - Atypical symptoms of myocardial ischaemia occur in women, people with diabetes and the elderly
 # Classification
 ![[Pasted image 20241225161943.png]]
+- Other classification
+	- Type 1 spontaneous myocardial infarction = atherothrombotic coronary occlusion compromises myocardial blood flow (i.e. heart attack due to coronary plaque rupture)
+	- Type 2 myocardial infarction = secondary to ischaemic imbalance between myocardial oxygen suply and/or demand. Can happen due to coronary artery spasm, tachyarrhythmias, bradyarrhythmias, anaemia etc
 # STEMI
 ## ECG STEMI Criteria
 - Ongoing chest pain and any of the following:
@@ -167,6 +170,7 @@ As from: [PASCA ACS Flowchart](https://aci.health.nsw.gov.au/__data/assets/pdf_f
 - ACI chest pain guidelines: https://aci.health.nsw.gov.au/ecat/adult/chest-pain Published December 2023.
 - eTG pages: Acute chest pain of possible cardiac origin, Acute coronary syndrome pages
 - *Less so from* FRCEM AFTBAFFF, FFSEM MCMMbcF, FACEM ACMMc. Marshall & Ruedy’s On Call: Principles & Protocols. 3rd edition. Elsevier; 2016. 648 Chapter 16: Chest Pain p. 117
+- Brown, Cadogan (2020) Emergency Medicine : Diagnosis and Management, Taylor & Francis Group.
 
 [^1]: eTG says if PCI is available within 120 minutes
 [^2]: eTG says within 2 hours for very high risk and within 24 hours for high risk
