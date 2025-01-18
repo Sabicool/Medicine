@@ -9,3 +9,7 @@ date: 2025-01-18
 		- Patient care results for nurse inputted data
 	- Searching individual results:
 		- Click the '...' button next ot flowsheet just under the results row of tabs at the top
+	- Navigator
+		- Next to the list of Results there’s a contents panel called Navigator  with all the categories, e.g. Blood Gases or Coagulation Studies; very useful to jump between Results
+	- Tear off
+		- 
