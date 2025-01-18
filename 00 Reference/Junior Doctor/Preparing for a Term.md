@@ -1,11 +1,11 @@
 ---
-date: 2025-01-12
+date: 2025-01-18
 ---
 # Things to Bring
 - Medications list including dosages (see [[03 Medications/index|Medications Folder]]); some handy medications include: ![[03 Medications/index#^handy-medications|index]]
 - Documents folder/clipboard that has storage, clipboard and handle. Proves useful when trying to keep a list of documents, providing a clipboard for the patient to sign consent forms and a handle to make it easier to carry. Forms that are useful on ward rounds include:
 	- Scripts and S8s
-	- Med charts (sucks to be those who do not use eMeds[^1]
+	- Med charts (sucks to be those who do not use eMeds
 	- Fluid charts
 	- Consent forms
 	- Outpatient imaging and pathology forms
