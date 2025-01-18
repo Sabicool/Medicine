@@ -8,11 +8,12 @@ date: 2025-01-13
     - [[Acute Coronary Syndromes]]
     - [[Acute Pulmonary Oedema]]
     - [[Alcohol Withdrawal]]
+    - [[Hyperemesis Gravidarum]]
     - [[Hyperglycaemia]]
     - [[Hypertension]]
     - [[Hypotension]]
     - [[Otitis Media]]
-    - [[Septicaemia]]
+    - [[Sepsis]]
     - [[Subarachnoid Haemorrhage]]
     - [[Supraventricular Tachycardia]]
     - [[Ventricular Tachycardia]]
@@ -30,6 +31,7 @@ date: 2025-01-13
     - [[Blood Gas Interpretation]]
     - [[Chest X-ray]]
     - [[ECG Interpretation]]
+    - [[Lumbar Puncture]]
 
 - Presenting Complaints: 
     - [[Abdominal Pain]]

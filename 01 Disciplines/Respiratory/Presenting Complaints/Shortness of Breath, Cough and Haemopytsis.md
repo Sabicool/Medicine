@@ -43,7 +43,7 @@ date: 2025-01-01
 	- [Pulmonary Embolism](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md)
 - Miscellaneous
 	- Upper airway obstruction (with stridor; see [Acute Airway Failure](01%20Disciplines/Clinical/Emergencies/Acute%20Airway%20Failure.md))
-	- Metabolic acidosis (DKA, [Septicaemia](01%20Disciplines/Infectious%20Disease/Conditions/Septicaemia.md))
+	- Metabolic acidosis (DKA, [Sepsis](Sepsis.md))
 	- Neuromuscular weakness (Guillain-Barré syndrome, myaesthenia gravis, muscular dystrophy)
 	- Anaemia
 	- Hyperthyroidism

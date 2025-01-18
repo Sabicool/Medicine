@@ -15,7 +15,7 @@ date: 2025-01-13
     - [[Pericarditis]]
     - [[Pulmonary Hypertension]]
     - [[Secondary Hypertension]]
-    - [[Septicaemia]]
+    - [[Sepsis]]
     - [[Stable Angina]]
     - [[Supraventricular Tachycardia]]
     - [[Ventricular Tachycardia]]
