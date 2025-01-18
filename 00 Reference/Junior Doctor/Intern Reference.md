@@ -6,6 +6,16 @@ date: 2025-01-18
 - [[03 Medications/index|Medications]]
 - [[Patient Lists]]
 - [[Finding Notes and Documents]]
+# Administrative Tasks
+<!-- QueryToSerialize: List from "00 Reference/Administrative" sort file.name asc -->
+<!-- SerializedQuery: List from "00 Reference/Administrative" sort file.name asc -->
+- [[End-of-life orders]]
+- [[Finding Notes and Documents]]
+- [[Home Screen]]
+- [[Patient Lists]]
+- [[Viewing Investigations]]
+- [[Writing Discharge Summaries]]
+<!-- SerializedQuery END -->
 # Clinical Tasks
 - See: [Common Ward Calls](02%20Rotations/Common%20Ward%20Calls.md) 
 - [IV Cannulation](01%20Disciplines/Clinical/Procedures/IV%20Cannulation.md)
