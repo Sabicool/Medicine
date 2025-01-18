@@ -7,6 +7,7 @@ date: 2025-01-17
 - A type _II_ hiatal hernia is a _paraoesophageal_ hiatal hernia
 - A type _III_ hiatal hernia is a _mixed_ hiatal hernia
 - A type _IV_ hiatal hernia is a _complex_ hiatal hernia
+![[2024-02-24_14-36-47_screenshot 1.png]]
 # Risk Factors
 - Age -> phrenooesophageal ligament weakens
 - Obesity -> deposition of fat in and around the crura → widened hiatus
@@ -44,3 +45,4 @@ date: 2025-01-17
 	- Gastric volvulus
 	  - Total gastric obstruction
 	    - Total gastric obstruction is characterised by _Borchadt_ triad which is _severe epigastric pain, unproductive retching and inability to pass a NG tube_ 
+- Cameron lesions
