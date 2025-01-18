@@ -14,4 +14,22 @@ date: 2025-01-18
 	- Tear off
 		- Whatever page you need to refer to (mostly Results), click ‘Tear Off’ next to ‘Change User’ and that screen will ‘tear off’ into another window
 		- Re-size so you can read your Progress notes and Results windows simultaneously
-	- Patietn care results
+	- Patient care results
+		- Includes data such as:
+			- Weights
+			- Observations (under vital signs): easier to copy numbers from here into your notes
+			- All nurse inputted data including alcohol withdrawal scale, blood sugar levels, ketones, urine output, stool chart, neuro observations, drains/stoma/other outputs, GCS, UAs
+	- Inputs and outputs and other nurse inputted data not under patient care results could be under the following:
+		- I-view: anything with a tick next to it means data are present
+			- For most input/ output data, go right to the bottom of Contents to the ‘Input and Output’ tab and it’ll expand a new set of Contents and show all Input/Output data, e.g. IV fuids received, stool chart, urine output, etc
+		- BTF observation chart: mostly obs and trends but sometimes weight and UA
+		- Advanced graphing
+				- Useful for  visual people as it graphs daily input and output so you can see graphically if balance is achieved and the proportions of each contributor, e.g. what volume was IV fluids, how much was PO intake, how much was urine output, how much was drain output
+				- Also available under I-View under the ‘Input and Output’ tab
+	- Trends
+	- Extra Info
+	- The Eye
+		- Click the Eye, i.e. ‘Bookmark’, top lef, next to the green magnifying  glass to have ‘viewed’ the Results. Probably best do this under ‘All Results’ tab
+		- Now you get instant updates if new Results (especially ones you’ve been waiting for) have come
+		- In your normal List, there’s one column with a clipboard in it. If there’s none, this implies that there are no new Results. As soon as a new Result comes, it reappears (when you hit ‘Refresh’ in the top-right corner)
+	- 
