@@ -27,9 +27,15 @@ date: 2025-01-18
 				- Useful for  visual people as it graphs daily input and output so you can see graphically if balance is achieved and the proportions of each contributor, e.g. what volume was IV fluids, how much was PO intake, how much was urine output, how much was drain output
 				- Also available under I-View under the ‘Input and Output’ tab
 	- Trends
+		- You can graph your Results, and even against each other. Check the  box next to the Result you want to graph (check multiple if you like), then click the ‘Graph’ button on the top lef (next to the green magnifying glass) and you get graphs for each Result to see the trend over time
 	- Extra Info
+		- If you right click a given Result, you can get extra information  about it, including ‘Order information’. Choose the relevant button, e.g. ‘View Order Info’ or ‘View Details’ or ‘View Comments’. Tings like who/when/ where the Investigation was Ordered is ofen found here
 	- The Eye
 		- Click the Eye, i.e. ‘Bookmark’, top lef, next to the green magnifying  glass to have ‘viewed’ the Results. Probably best do this under ‘All Results’ tab
 		- Now you get instant updates if new Results (especially ones you’ve been waiting for) have come
 		- In your normal List, there’s one column with a clipboard in it. If there’s none, this implies that there are no new Results. As soon as a new Result comes, it reappears (when you hit ‘Refresh’ in the top-right corner)
-	- 
+		- Te main limitation is that you can’t filter the type of Result the clipboard appears for, i.e. all new Results including a new Nursing note or a new BSL will activate it. However, it is still potentially useful, but requires daily maintenance
+		- You can also achieve the same effect by clicking the ‘clipboard’ in the List, which will bring up a new window of all the unread Results. You can click the ‘Eye’ then. However, this window is often slow if there are lots of Results (e.g. with newly Admitted patients), so do this in the ‘Results’ section, then you can do it from the clipboard thereafter
+	- Seeker
+		- Only for when you are familiar where everything is
+		- You can click the ‘seeker’, which will bring up a mini-map/aerial view of that tab, with blue/pink bars for all the normal/deranged Results. Simply click where you know your Result will be and ‘seeker’ will instantly take you there
