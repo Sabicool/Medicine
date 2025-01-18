@@ -12,4 +12,6 @@ date: 2025-01-18
 	- Navigator
 		- Next to the list of Results there’s a contents panel called Navigator  with all the categories, e.g. Blood Gases or Coagulation Studies; very useful to jump between Results
 	- Tear off
-		- 
+		- Whatever page you need to refer to (mostly Results), click ‘Tear Off’ next to ‘Change User’ and that screen will ‘tear off’ into another window
+		- Re-size so you can read your Progress notes and Results windows simultaneously
+	- Patietn care results
