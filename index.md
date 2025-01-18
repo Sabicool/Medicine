@@ -1,6 +1,6 @@
 ---
 title: Home
-date: 2025-01-16
+date: 2025-01-18
 ---
 # About this Website
 This is the note database of a junior doctor in Australia. The information contained in these notes is for educational purposes only and should not be construed as medical advice. While I strive for accuracy, I make no guarantees regarding the completeness or reliability of the content provided. Additionally, I do not claim copyright for any images included herein unless explicitly stated. If you wish to request a correction, removal, or alteration of any content, please feel free to contact me or submit an issue via the associated [github repository](https://github.com/Sabicool/Medicine). The colour theme for this website is based off [catppuccin](https://github.com/catppuccin/catppuccin).
@@ -14,6 +14,15 @@ Mainly for the admin side of things as a junior doctor
 - [iSBAR Handover](00%20Reference/Clinical/iSBAR%20Handover.md)
 - [Pronouncing Death](00%20Reference/Clinical/Pronouncing%20Death.md)
 - [Writing Discharge Summaries](00%20Reference/Administrative/Writing%20Discharge%20Summaries.md)
+
+Some other administrative notes:
+<!-- QueryToSerialize: List from "00 Reference/Administrative" sort file.name asc -->
+<!-- SerializedQuery: List from "00 Reference/Administrative" sort file.name asc -->
+- [[End-of-life orders]]
+- [[Finding Notes and Documents]]
+- [[Patient Lists]]
+- [[Writing Discharge Summaries]]
+<!-- SerializedQuery END -->
 ## Rotations
 If you'd rather just find notes on medicine relevant to the particular rotation you are on look below:
 <!-- QueryToSerialize: LIST FROM "02 Rotations" sort file.name asc -->
