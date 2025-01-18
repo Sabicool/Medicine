@@ -1,10 +1,11 @@
 ---
-date: 2025-01-16
+date: 2025-01-18
 ---
 # Useful Notes
 - [[Preparing for a Term]]
 - [[03 Medications/index|Medications]]
 - [[Patient Lists]]
+- [[Finding Notes and Documents]]
 # Clinical Tasks
 - See: [Common Ward Calls](02%20Rotations/Common%20Ward%20Calls.md) 
 - [IV Cannulation](01%20Disciplines/Clinical/Procedures/IV%20Cannulation.md)

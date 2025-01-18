@@ -1,5 +1,5 @@
 ---
-date: 2025-01-16
+date: 2025-01-18
 ---
 # Patient Lists
 1. Click ‘Patient List’ (top Toolbar): A List will pop up
@@ -55,7 +55,6 @@ date: 2025-01-16
 		5. Once desired parameter is highlighted -> click next and choose how far back in time you want to look for that result
 		6. Click next again and enter a header or name for the column (short as possible) then finish
 		7. Screen print and print from Word via landscape
-
 ## Personalised List
 - You don't have space in the above lists to note down in the lists above
 - Copy and paste the list to excel (always into column A)
@@ -115,7 +114,7 @@ date: 2025-01-16
 	4. Check the other yellow boxes as appropriate
 	5. Call the after hours person and personally hand over if its important
 	- Also give information on what do once the results come back (i.e. do this if positive, do this if negative)
-- Finding work to do as overnight/relief person
+- Finding work to do as overnight/relief person (also see below [[#Task Manager JMO Jobs List]])
 	1. Go to multi-parent task list -> click handover tasks/handover tab and peruse jobs -> click yellow/tab square next to each patient job to signify completion
 	2. To modify your multi-patient task list right click department view (top bar in grey) -> select customise patient view -> pick your location by either hospital or ward -> go to side tab 'Times Frames' -> select generic time frame -> then put in the range of times you want to see jobs for
 	3. Remember to click save under location filters to save repeating this process each time
@@ -124,3 +123,16 @@ date: 2025-01-16
 	6. Start triaging then doing jobs
 	7. If the handover form doesn't appear -> go to patient profile and pretend you're charting a handover -> handover form should appear filled with the instructions
 ## Task Manager: JMO Jobs List
+- Set up one List type for each type of After Hours shift there is:
+	- Go to task manager (same column as patient list) -> on the left column -> click + sign (new list) -> choose facility/hospital -> choose wards you cover -> click refresh sign (generate list) -> populates the jobs in your area of cover -> click save sign -> name it -> saved for future reference
+	- You can simply click on whichever shift type you're working an the job lists will populate automatically
+- Can mark complete and cancel on the various tasks
+- The list can also be filtered by clicking the column headings
+	- Can batch tasks by grouping by task (e.g. recharting all med charts together)
+	- Patient information: location
+# Other Lists
+## Emergency Department List When Not Physically There
+- You can see all ED patients in PowerChart
+- Go to patient dashboard -> click emergency medicine -> choose your institution -> click emergency dept.-All patients -> see list of all ed patients
+## Journey Board: Allied Health Progress List
+- Journey board (same bar as patient list) -> select a ward and choose the ward
