@@ -1,0 +1,11 @@
+---
+date: 2025-01-18
+---
+- Tips
+	- Always use the relevant tabs for results:
+		- Pathology for bloods
+		- Medical imaging for scans
+		- Microbiology for bugs
+		- Patient care results for nurse inputted data
+	- Searching individual results:
+		- Click the '...' button next ot flowsheet just under the results row of tabs at the top
