@@ -1,0 +1,18 @@
+---
+date: 2025-01-19
+---
+- Prior approval of unrostered overtime is not required when overtimes happens because of:
+	- Medical emergency
+	- Transfer of a patient
+	- Extended shift in theatre
+	- Patient admission/discharge
+	- Completion of outstanding patient transfer/discharge summary
+	- Late ward rounds
+	- Mandatory training
+	- Clinical handover
+	- Hospital-based outpatient clinics
+- In all other circumstances, unrostered overtime requires approval prior to being worked. This means that if you believe you are required to work unrostered overtime for any reason other than those outlined in the Policy Directive, you must obtain approval for the unrostered overtime prior to performing it.
+- Meal allowance can be claimed if you worked unrostered overtime:
+	- Prior to 6:00am, a breakfast allowance
+	- At least one hour after the ordinary ceasing time and extending beyond (or wholly after) 7:00pm, an evening allowance 
+	- Extending after 2:00pm on Saturdays, Sundays or Public Holidays, a luncheon allowance
