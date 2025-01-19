@@ -54,6 +54,7 @@ date: 2025-01-19
 	- Confirm with them over email for everything 
 - Team and current/outgoing JMO
 - Ward Team
+	- Know everyone's names, get everyone's numbers, do a WhatsApp group if needed
 - People involved in your desired training
 - Signer of overtime
 - Medical officer's association
