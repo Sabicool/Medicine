@@ -1,5 +1,5 @@
 ---
-date: 2025-01-18
+date: 2025-01-19
 ---
 # Things to Bring
 - Medications list including dosages (see [[03 Medications/index|Medications Folder]]); some handy medications include: ![[03 Medications/index#^handy-medications|index]]
@@ -24,6 +24,7 @@ date: 2025-01-18
 	- Prescriber number
 - Scrubs
 - Water bottle and food + snacks
+- Have the [[Useful Phone Numbers to Save]] on your phone
 # Things to Do/Know
 - Be prepared for a handover
 - List set up/proxies
