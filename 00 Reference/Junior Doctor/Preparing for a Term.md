@@ -24,7 +24,7 @@ date: 2025-01-19
 	- Prescriber number
 - Scrubs
 - Water bottle and food + snacks
-- Have the [[Useful Phone Numbers to Save]] on your phone
+- Have the [[Useful Numbers to Save on Your Phone]] on your phone
 # Things to Do/Know
 - Be prepared for a handover
 - List set up/proxies

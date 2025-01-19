@@ -1,0 +1,14 @@
+---
+date: 2025-01-19
+---
+- Switch, hospital external extension, paging line and code blue/met call number
+- Radiology
+	- Reception
+	- X-ray, CT, Ultrasound, MRI, Nuclear Medicine, IR and the registrar for each
+- Team reg numbers
+- Pathology
+- Pharmacy
+- Clinics
+- Consultant/Boss rooms
+- Ward phones
+- Door codes
