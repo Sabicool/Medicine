@@ -12,6 +12,8 @@ date: 2025-01-21
 	- Blanket/make the patient is warm
 	- Put arm below the level of the heart
 	- Tap the veins or rub the veins
+	- Go for the most distal place that satisfies the purpose
+	- Position the arm in line with the motion of your arm (e.g. out to the side)
 	- Straighter and larger the vein, the easier
 		- Can also go at the point of bifurcation as its less likely to roll away
 			![[IV Cannulation 2025-01-21 22.27.14.excalidraw.png]]
