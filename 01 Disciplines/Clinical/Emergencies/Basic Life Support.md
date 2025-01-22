@@ -4,7 +4,7 @@ Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
 aliases:
   - BLS
-date: 2025-01-22
+date: 2025-01-23
 ---
 ![](Attachments/Pasted%20image%2020241212215451.png)
 - In an unresponsive patient with no signs of life; commence CPR and call the MET
@@ -15,6 +15,12 @@ date: 2025-01-22
 # Breathing
 - Assess work and efficacy of breathing including pulse oximetry
 - Give oxygen and provide assisted ventilation if ventilatory failure present
+- Assess breathing using RATES:
+	- Respiratory rate over 1 minute
+	- Auscultation
+	- Trachea position
+	- Effort
+	- Sats probe
 - See [Acute Respiratory Failure](01%20Disciplines/Respiratory/Emergencies/Acute%20Respiratory%20Failure.md)
 # Circulation
 - Recheck vital signs
