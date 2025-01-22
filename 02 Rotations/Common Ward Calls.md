@@ -1,7 +1,7 @@
 ---
 aliases:
   - On call
-date: 2025-01-20
+date: 2025-01-22
 ---
 # Important Notes
 - [iSBAR Handover](00%20Reference/Clinical/iSBAR%20Handover.md)
@@ -82,6 +82,9 @@ date: 2025-01-20
 11. Sign the clinical note and print name and designation
 
 # For reference
+Slippery straight catheter wire
+Females size 12 or 13
+Males size 16 to 18 can use curate tip
 
  ```dataview
 list rows.file.link
