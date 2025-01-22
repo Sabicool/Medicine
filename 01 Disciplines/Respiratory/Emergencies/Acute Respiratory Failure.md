@@ -35,8 +35,7 @@ date: 2025-01-23
 5. Consider adjuncts
 6. Escalation of care
 # Assessment
-- Airway patency
-- ![[Acute Respiratory Failure#^airway-assessment]]
+- Airway Patency![[Acute Airway Failure#^airway-assessment]]
 - Work of breathing
 	- Signs include: ↑ RR, use of accessory muscles, soft-tissue recession, ↑ HR, sweaty/clammy skin
 - Effectiveness of respiratory function (saturation probe)

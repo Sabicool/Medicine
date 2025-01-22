@@ -38,10 +38,12 @@ date: 2025-01-23
 		- No stridor, airway sounds or breath sounds on lung auscultation
 		- Inability to ventilate the patient with a bag-mask
 		- Rapid development of cyanosis and unconsciousness
+
+^airway-assessment
+
 - Call senior immediately
 - [MET call](00%20Reference/Clinical/MET%20Activation%20Criteria.md) should be made for any patient with a threatened airway (including partial airway obstruction)
 
-^airway-assessment
 
 # Management
 - General measures
