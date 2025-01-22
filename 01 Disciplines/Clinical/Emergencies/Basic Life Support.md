@@ -32,7 +32,21 @@ date: 2025-01-23
 	- Give 20 mL/kg IV fluid rapidly if hypovolaemic shock
 - Optimise abnormal cardiac rhythm with cardioversion, pacing or antiarrhythmic agent
 - See [Acute Circulatory Failure](01%20Disciplines/Clinical/Emergencies/Shock.md)
-# Attach Defibrillator
+
+# Disability
+- Disability
+- Dextrose
+- Drugs
+- Documentation
+- Attach defibrillator
+
+## Disability
+- Assess for depressed [GCS](00%20Reference/Clinical/Glasgow%20Coma%20Scale.md)
+	- GCS ≤8 indicates inadequate airway protection
+- Note pupil size and lateralising signs
+- See [Acute neurological failure](01%20Disciplines/Clinical/Emergencies/Unconsciousness.md)
+
+## Attach Defibrillator
 - Remember safety considerations of attaching a defibrillator using DOOR:
 	- D: ensure patient is **d**ry prior to applying pads
 	- O: Do not place pads over other **o**bjects (e.g. pacemakers, jewellery, clothes, ECG leads, medication patches)
@@ -54,11 +68,6 @@ date: 2025-01-23
 	-  Charge. Once the defibrillator is charged, state loudly: ‘Stop CPR and move away.’ Visually confirm the shockable rhythm is still present
 	- Check that no personnel are in physical contact with the patient or bed and state loudly: ‘Delivering shock'
 	- Press ‘Shock’ on the defibrillator. Immediately state loudly ‘Recommence CPR’ without checking the rhythm or pulse.
-# Disability
-- Assess for depressed [GCS](00%20Reference/Clinical/Glasgow%20Coma%20Scale.md)
-	- GCS ≤8 indicates inadequate airway protection
-- Note pupil size and lateralising signs
-- See [Acute neurological failure](01%20Disciplines/Clinical/Emergencies/Unconsciousness.md)
 # Environment, exposure and examination
 - Measure and normalise body temperature
 - Investigations to perform in critically ill patients:

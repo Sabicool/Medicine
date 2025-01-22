@@ -5,7 +5,7 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
 aliases:
   - ALS
-date: 2025-01-22
+date: 2025-01-23
 ---
 # Shockable Rhythms
 - The only two shockable rhythms are[^1]:
