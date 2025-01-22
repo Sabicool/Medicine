@@ -32,8 +32,22 @@ date: 2025-01-22
 	- O: Do not place pads over other **o**bjects (e.g. pacemakers, jewellery, clothes, ECG leads, medication patches)
 	- O: **O**xygen to be away from patient prior to pressing the shock button
 	- R: Visually **r**e-check and ensure no one is touching the patient prior to pressing the shock button. Ensure that you announce clearly to everyone that you are about to deliver a shock
+- Optimum size for adults is 10–13 cm in diameter (smaller in children)
+- Do not place over female breast (↑ impedence)
+- Standard placement
+	- Right chest: 2nd intercostal space, mid-clavicular line
+	- Left chest: 5–6th intercostal space, mid-axillary line
+- Anteroposterior placement
+	- Anterior chest: 5–6th intercostal space, anterior or mid-axillary line
+	- Posterior chest: over left or right infrascapular region
 - Indications
 	- VF, pVT and asystole when fine VF cannot be confidently excluded
+- Standard Usage (different to ALS):
+	- Observe ECG trace and identify rhythm
+	- Select energy level
+	-  Charge. Once the defibrillator is charged, state loudly: ‘Stop CPR and move away.’ Visually confirm the shockable rhythm is still present
+	- Check that no personnel are in physical contact with the patient or bed and state loudly: ‘Delivering shock'
+	- Press ‘Shock’ on the defibrillator. Immediately state loudly ‘Recommence CPR’ without checking the rhythm or pulse.
 # Disability
 - Assess for depressed [GCS](00%20Reference/Clinical/Glasgow%20Coma%20Scale.md)
 	- GCS ≤8 indicates inadequate airway protection
