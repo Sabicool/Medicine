@@ -5,10 +5,10 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
 aliases:
   - ALS
-date: 2025-01-11
+date: 2025-01-22
 ---
 # Shockable Rhythms
-- The only two shockable rhythms are:
+- The only two shockable rhythms are[^1]:
 	1. Ventricular fibrillation
 	2. Pulseless ventricular tachycardia
 - Do not delay defibrillation for *any* other procedure
@@ -108,3 +108,5 @@ date: 2025-01-11
 - Seek and treat underlying cause of the cardiac arrest or any complications of the resuscitations (e.g. pneumothorax from a broken rib or pulmonary aspiration)
 - Consider immediate coronary angiography and PCI especially for patients following chest pain or with ST elevation
 - Transfer to ICU, cardiac catheter lab or CCU
+
+[^1]: Asystole only when fine VF cannot confidently be excluded

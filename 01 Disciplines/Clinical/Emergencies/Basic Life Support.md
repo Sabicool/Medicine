@@ -4,7 +4,7 @@ Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
 aliases:
   - BLS
-date: 2025-01-10
+date: 2025-01-22
 ---
 ![](Attachments/Pasted%20image%2020241212215451.png)
 - In an unresponsive patient with no signs of life; commence CPR and call the MET
@@ -32,7 +32,8 @@ date: 2025-01-10
 	- O: Do not place pads over other **o**bjects (e.g. pacemakers, jewellery, clothes, ECG leads, medication patches)
 	- O: **O**xygen to be away from patient prior to pressing the shock button
 	- R: Visually **r**e-check and ensure no one is touching the patient prior to pressing the shock button. Ensure that you announce clearly to everyone that you are about to deliver a shock
-
+- Indications
+	- VF, pVT and asystole when fine VF cannot be confidently excluded
 # Disability
 - Assess for depressed [GCS](00%20Reference/Clinical/Glasgow%20Coma%20Scale.md)
 	- GCS ≤8 indicates inadequate airway protection
