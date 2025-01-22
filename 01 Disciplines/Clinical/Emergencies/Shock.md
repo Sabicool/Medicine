@@ -4,7 +4,7 @@ aliases:
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-date: 2025-01-04
+date: 2025-01-23
 ---
 # Causes
 ## Classification
@@ -30,6 +30,7 @@ date: 2025-01-04
 	- Tension pneumothorax
 	- Cardiac tamponade
 	- Dynamic hyperinflation: Excessive ventilation with severe bronchospasm ([Asthma](01%20Disciplines/Respiratory/Conditions/Asthma.md), [COPD](01%20Disciplines/Respiratory/Conditions/COPD.md))
+
 ![](Attachments/Pasted%20image%2020241216122047.png)
 # Assessment
 - Identify the possible cause as above, assessing volume status and JVP and examining the ECG
@@ -49,6 +50,7 @@ date: 2025-01-04
 - Volume overload features:
 	- Raised JVP, peripheral oedema (taut, non-compliant skin), enlarged tender liver with positive hepatojugular reflux (liver pressing causes persistent elevation in JVP)
 	- An S3 gallop, lung crackles or pleural effusion
+
  > [!NOTE] Measuring JVP
 > - Can actually be done at any angle from 0 to 90 degrees. We often start at 45 degrees but if you can't see it, the JVP is either low in which case lower the head of the bed or the JVP is high in which case raise the head of the bed
 > - Once identified measure the perpendicular distance above the sternal angle to the top of the column of blood
@@ -57,6 +59,8 @@ date: 2025-01-04
 > ![](Attachments/Pasted%20image%2020241216160849.png)
 # Management
 - Give oxygen and rapid IV fluid replacement (provided no evidence of cardiac failure)
+	- Maintain SpO2>95%
+	- Known COPD and modifications to obs. chart then can titrate the SpO2
 - Call early for a senior doctor to help
 - Start monitoring
 	- Pulse oximetry, ECG, BP, urine output, invasive arterial and venous monitoring if in ICU
@@ -77,6 +81,7 @@ date: 2025-01-04
 	- Inotropic support (e.g. low-dose adrenaline, dobutamine or dopamine infusion) if still shocked despite above measures
 - Treat sepsis:
 	- Give broad-spectrum antibiotics early if septic shock is suspected
+
 > [!NOTE] Fluid replacement in dehydrated patients
 > 1. Resuscitate intravascular volume until perfusion is normalised as above with 20 mL/kg boluses of crystalloid (normal saline preferred)
 > 2. Calculate fluid losses (generally at least 10% of body weight if patient is dehydrated and hypotensive, i.e. 70kg patient is depleted of 7L of fluid)

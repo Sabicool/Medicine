@@ -9,5 +9,9 @@ aliases:
 ---
 - SOFA Score can be used for sepsis severity score
 	- ≥2 => ↑ mortality
+- Antiobiotis
+	- Tazoscin
+	- Vancomycin
+	- ±Azithromycin if suspicious of respiratory cause
 - Source: 
 	- 16+ years old: https://www.cec.health.nsw.gov.au/__data/assets/pdf_file/0005/291803/Adult-Sepsis-Pathway.PDF
