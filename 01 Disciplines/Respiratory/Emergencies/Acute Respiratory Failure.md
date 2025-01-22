@@ -2,7 +2,7 @@
 Rotations:
   - "[[02 Rotations/Respiratory|Respiratory]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
-date: 2025-01-04
+date: 2025-01-23
 ---
 - Type 1: Hypoxaemia with normal (or low) Pa$\ce{CO2}$
 	- Primarily a failure of oxygenation
@@ -27,10 +27,19 @@ date: 2025-01-04
 	- Muscular weakness (Guillain-Barré syndrome, myaesthenia gravis, muscular dystrophy)
 	- Drug intoxication (opioid, sedative)
 	- Poisoning (carbon monoxide, opioid)
+# Overview of Assessment and Management
+1. Always call for help
+2. Give oxygen
+3. Assess the patient
+4. CXR/ABG/VBG
+5. Consider adjuncts
+6. Escalation of care
 # Assessment
+- Airway patency
+- ![[Acute Respiratory Failure#^airway-assessment]]
 - Work of breathing
 	- Signs include: ↑ RR, use of accessory muscles, soft-tissue recession, ↑ HR, sweaty/clammy skin
-- Effectiveness of respiratory function
+- Effectiveness of respiratory function (saturation probe)
 	- Hypoxia
 		- Cyanosis (oxygen saturation <88%)
 		- Cardiac ischaemia or arrhythmias
@@ -59,8 +68,16 @@ date: 2025-01-04
 		- [Asthma](01%20Disciplines/Respiratory/Conditions/Asthma.md) (Pa$\ce{CO2}$ rises very late)
 		- [Pulmonary Embolism](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md)
 		- [Pneumothorax](01%20Disciplines/Respiratory/Conditions/Pneumothorax.md)
+# Investigations
+- Investigations to consider
+	- ECG
+	- ABG/VBG
+	- CXR
+	- TTE
+	- CTPA
 # Management
 - Use supplemental oxygen in all hypoxic patients with high-flow oxygen at 15 L/min through a mask with a reservoir
+	- High inspired oxygen concentrations do not depress ventilation in patients who are in respiratory distress
 	- In patients with COPD who chronically retain $\ce{CO2}$ titrate use of a venturi mask
 		- Giving too much oxygen to patients who chronically retain $\ce{CO2}$ causes a rise in Pa$\ce{CO2}$ because:
 			- Changes in pulmonary vasoconstriction, dead space and shunting (V/Q mistmatch)
@@ -74,6 +91,8 @@ date: 2025-01-04
 			- Decrease oxygen deliver if $\ce{CO2}$ is increasing but maintain $\ce{O2}$ saturation of 88-92%
 				- If $\ce{CO2}$ is increasing and you are unable to maintain oxygen saturation >88%, the patient requires assisted ventilation (BiPAP) *see ventilation below*
 - Blood gases are necessary to determine the adequacy of ventilation (can use either venous or arterial as it will likely not influence immediate management)
+- Consider bronchodilators (see: [[COPD#Exacerbation of COPD|COPD Exacerbation]])
+- Consider reversing opiates
 ## Ventilation
 - Ensure the patient has not received respiratory depressants (e.g. opioids) in the past 24 hours (e.g. check pupils)
 	- Give ==naloxone 0.2mg up to 2mg IV, SC or IM every 5 minutes== repeated until alert

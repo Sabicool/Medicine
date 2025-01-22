@@ -2,7 +2,7 @@
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-date: 2025-01-04
+date: 2025-01-23
 ---
 # Causes
 - Depressed level of consciousness
@@ -40,6 +40,9 @@ date: 2025-01-04
 		- Rapid development of cyanosis and unconsciousness
 - Call senior immediately
 - [MET call](00%20Reference/Clinical/MET%20Activation%20Criteria.md) should be made for any patient with a threatened airway (including partial airway obstruction)
+
+^airway-assessment
+
 # Management
 - General measures
 	- Administer high-flow oxygen and reverse cause of depressed conscioussness
