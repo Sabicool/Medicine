@@ -7,8 +7,9 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
-date: 2025-01-05
+date: 2025-01-24
 ---
+- For in-patient falls see: https://www.cec.health.nsw.gov.au/__data/assets/pdf_file/0003/258465/Post-Fall-Guide.pdf
 - All of these are characterised by full and rapid neurological recovery
 - Syncope is transient loss of consciousness and postural tone from reduced cerebral perfusion, followed by spontaneous and full recovery
 - Presyncope refers to a reduction in cerebral perfusion resulting in a sensation of impending loss of consciousness, although the patient does not actually pass out
@@ -152,26 +153,32 @@ date: 2025-01-05
 		- Quinidine, procainamide, disopyramide, sotalol, amiodarone, tricyclic antidepressants, antipsychotics and some of the ‘non-sedating’ antihistamines prolong the QT interval
 # Examination
 
-| Examination | Notes                                                                                                                                                                                                   |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Vitals      | Repeat now, then take the BP in both arms. A difference >20 mmHg may indicate aortic dissection or subclavian steal syndrome                                                                            |
-| HEENT       | Bitten tongue or cheek ⇒ seizure disorder                                                                                                                                                               |
-|             | Neck stiffness ⇒ meningitis causing a seizure, SAH                                                                                                                                                      |
-|             | Haemotympanum ⇒ fractured base of skull                                                                                                                                                                 |
-| Resp        | Crackles, wheezes ⇒ LVF, or aspiration during syncope                                                                                                                                                   |
-| CVS         | Pacemaker ⇒ pacemaker syncope                                                                                                                                                                           |
-|             | Flat JVP ⇒ volume depletion                                                                                                                                                                             |
-|             | Focal features of right heart failure ⇐ ↑ JVP and parasternal heave with dyspnoea suggesting PE                                                                                                         |
-|             | Atrial fibrillation ⇒ verebrobasilar embolism                                                                                                                                                           |
-|             | Systolic murmur ⇒ aortic stenosis, HCM, pulmonary stenosis                                                                                                                                              |
-|             | Supra- or subclavicular bruit ⇒ subclavian steal syndrome                                                                                                                                               |
-| Abdo        | Abdominal mass ⇒ ruptured AAA                                                                                                                                                                           |
-|             | Rectal blood or melaena ⇒ GI bleed                                                                                                                                                                      |
-|             | Pelvic tenderness, vaginal bleeding ⇒ ectopic pregnancy                                                                                                                                                 |
-| GU          | Urinary incontinence ⇒ seizure disorder                                                                                                                                                                 |
-| Neuro       | Residual localising signs such as unsteadiness or cranial nerve abnormalities such as diplopia, nystagmus, facial paralysis, vertigo, dysphagia and dysarthria occur in brainstem (vertebrobasilar) TIA |
-| MSS         | Check passive ROM of the limbs and for evidence of a fracture if the patient fell                                                                                                                       |
-| Skin        | Contusions, abrasions and laceration from injury                                                                                                                                                        |
+| Examination | Notes                                                                                                                                                                                                      |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Vitals      | Repeat now, then take the BP in both arms. A difference >20 mmHg may indicate aortic dissection or subclavian steal syndrome                                                                               |
+| HEENT       | Bitten tongue or cheek ⇒ seizure disorder                                                                                                                                                                  |
+|             | Neck stiffness ⇒ meningitis causing a seizure, SAH                                                                                                                                                         |
+|             | Haemotympanum ⇒ fractured base of skull                                                                                                                                                                    |
+| Eyes        | Check for visual fields                                                                                                                                                                                    |
+| Resp        | Crackles, wheezes ⇒ LVF, or aspiration during syncope                                                                                                                                                      |
+| CVS         | Pacemaker ⇒ pacemaker syncope                                                                                                                                                                              |
+|             | Flat JVP ⇒ volume depletion                                                                                                                                                                                |
+|             | Focal features of right heart failure ⇐ ↑ JVP and parasternal heave with dyspnoea suggesting PE                                                                                                            |
+|             | Atrial fibrillation ⇒ verebrobasilar embolism                                                                                                                                                              |
+|             | Systolic murmur ⇒ aortic stenosis, HCM, pulmonary stenosis                                                                                                                                                 |
+|             | Supra- or subclavicular bruit ⇒ subclavian steal syndrome                                                                                                                                                  |
+| Abdo        | Abdominal mass ⇒ ruptured AAA                                                                                                                                                                              |
+|             | Rectal blood or melaena ⇒ GI bleed                                                                                                                                                                         |
+|             | Pelvic tenderness, vaginal bleeding ⇒ ectopic pregnancy                                                                                                                                                    |
+| GU          | Urinary incontinence ⇒ seizure disorder                                                                                                                                                                    |
+| Neuro       | Residual localising signs such as unsteadiness or cranial nerve abnormalities such as diplopia, nystagmus, facial paralysis, vertigo, dysphagia and dysarthria occur in brainstem (vertebrobasilar) TIA    |
+|             | Can consider gait and balance                                                                                                                                                                              |
+|             | 4AT                                                                                                                                                                                                        |
+|             | Other testing: mental status, muscle strength (power), lower extremity peripheral nerves (can use blunt needle (red in colour) to test pin prick sensation), proprioception, reflexes, cerebellar function |
+| MSS         | Check passive ROM of the limbs and for evidence of a fracture if the patient fell                                                                                                                          |
+|             | Gently externally or internally rotate the leg                                                                                                                                                             |
+|             | Get the patient to take a deep breath in (assessing for rib fracture)                                                                                                                                      |
+| Skin        | Contusions, abrasions and laceration from injury                                                                                                                                                           |
 # Investigations
 - Check a fingerprick glucose for hypo/hyperglycaemia
 - ECG in all patients
@@ -218,5 +225,6 @@ date: 2025-01-05
 	- Anticoagulated patient may develop a serious delayed traumatic intracranial haemorrhage (leave a note for the medical team to re-examine these patients frequently)
 	- Common fractures: Colles', femoral neck, pubic rami, spinal crush, rib and humeral neck
 	- Fear, loss of confidence and independence, loss of mobility → arrange physiotherapy and occupational therapy consultation
+- Consider referring to other teams such as falls clinic and ASET
 # Resources
 - My notes from medical school: https://mango-cellar-b90.notion.site/Approach-to-a-pre-syncope-syncope-308c2fce084d467e9b2ebb7cc3afb6a5
