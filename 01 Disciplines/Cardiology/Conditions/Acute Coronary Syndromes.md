@@ -4,7 +4,7 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
 aliases:
   - ACS
-date: 2025-01-17
+date: 2025-01-24
 ---
 # Risk factors
 - Increased risk of ACS with central obesity, autoimmune conditions, chronic renal disease, diabetes and HIV
@@ -43,7 +43,7 @@ As from: [PASCA ACS Flowchart](https://aci.health.nsw.gov.au/__data/assets/pdf_f
 ## Acute Management
 - Determine if alternate cause of ST elevation (i.e. type 2 MI) and manage that cause accordingly
 - Call senior doctor and obtain an urgent cardiology consult
-- Move to resuscitation bay or apply defibrillator pads
+- Move to resuscitation bay and apply defibrillator pads
 - Indications for reperfusion therapy for STEMI:
 	- Presented to hospital within 12 hours of chest pain/AMI symptoms
 	- Or if >12 hours since symptom onset any of:
@@ -56,7 +56,7 @@ As from: [PASCA ACS Flowchart](https://aci.health.nsw.gov.au/__data/assets/pdf_f
 	- Anticoagulation before PCI:
 		- Aspirin 300mg if not already given as part of [[Chest Pain#Assessment#Initial Assessment (if not done on the phone)|chest pain initial assessment & management]]
 		- Heparin 5000 units IV
-		- Ticagrelor 180mg PO or Prasugrel 60mg PO preferred otherwise alternatively
+		- ==Ticagrelor 180mg PO== or Prasugrel 60mg PO preferred otherwise alternatively
 			- Clopidogrel 300-600mg PO
 			- Note that ticagrelor is contraindicated in 2nd or 3rd degree AV block
 		- Ask cardiologist if glycoprotein IIb/IIIa inhibitor is indicated (e.g. eptifibatide, tirofiban)
@@ -87,6 +87,7 @@ As from: [PASCA ACS Flowchart](https://aci.health.nsw.gov.au/__data/assets/pdf_f
 			- Symptoms largely resolved
 			- Haemodynamically stable
 	- Admit or transfer for PCI depending on local protocols
+- Also organise echocardiogram
 
 ^stemi-management
 
