@@ -1,5 +1,5 @@
 ---
-date: 2025-01-20
+date: 2025-01-25
 ---
 # Things to Bring
 - Medications list including dosages (see [[03 Medications/index|Medications Folder]]); some handy medications include: ![[03 Medications/index#^handy-medications|index]]

@@ -2,7 +2,9 @@
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-date: 2025-01-11
+date: 2025-01-25
+aliases:
+  - ABG Interpretation
 ---
 # Useful information
 - With respiratory problems, PCO2 and pH change in different directions
@@ -30,7 +32,7 @@ date: 2025-01-11
 	- $\ce{HCO3-}$ >26
 		- If pH >7.45: primary metabolic alkalaosis
 		- If pH <7.35: renal compensation for respiratory acidosis
-![[2024-04-24_09-18-14_screenshot.png]]
+![[Pasted image 20250125184001.png]]
 # 12345 Rule
 - Respiratory acidosis :: For every 10 mmHg rise in PaCO2, there should be 1 increase in $\ce{HCO3-}$ for acute and 4 increase in chronic
 - Respiratory alkalosis :: For every 10mmHg rise in PaCO2, there should be 2 decrease in $\ce{HCO3-}$ for acute and 5 decrease in chronic

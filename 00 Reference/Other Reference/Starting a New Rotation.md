@@ -1,5 +1,5 @@
 ---
-date: 2025-01-24
+date: 2025-01-25
 ---
 # People to Know
 - Term supervisor and let them know you are intereesed in getting your term assessment form done (in case they are on leave during the assessment time)

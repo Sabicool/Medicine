@@ -7,7 +7,7 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
-date: 2025-01-24
+date: 2025-01-25
 ---
 - For in-patient falls see: https://www.cec.health.nsw.gov.au/__data/assets/pdf_file/0003/258465/Post-Fall-Guide.pdf
 - All of these are characterised by full and rapid neurological recovery
