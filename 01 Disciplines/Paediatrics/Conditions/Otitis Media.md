@@ -2,7 +2,7 @@
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Paediatrics|Paediatrics]]"
-date: 2025-01-15
+date: 2025-01-25
 ---
 - Always exclude other causes of the [[Febrile child]]
 - Peak age prevalence is 6-18 months
@@ -28,6 +28,9 @@ date: 2025-01-15
 - Chronic suppurative otitis media (sometimes chronic mucosal otitis media) ⇒ perforated eardrum and discharge >6 weeks[^1]
 	- Can think of it as on the worser spectrum of AOMwiP. Adequate management of AOMwiP will reduce progression to CSOM
 	- Should be definition have no features of fever or otalgia (if present consider other diagnoses: [[Otitis Externa]], [[Acute Mastoiditis]] or intracranial involvement)
+
+![[Otitis Media 2025-01-25 14.42.22.excalidraw.png]]
+%%[[Otitis Media 2025-01-25 14.42.22.excalidraw.md|🖋 Edit in Excalidraw]]%%
 # Aetiology
 - Often preceded by a viral URTI
 - Explain to parents that the Eustachian tube in children is shorter and more horizontal so infection happens from bacterial pathogens in the nasopharynx going to the ear through the Eustachian tube
