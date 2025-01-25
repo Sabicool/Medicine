@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-date: 2025-01-09
+date: 2025-01-25
 ---
 # Phone Call/Presentation Questions
 - In what way is the patient acutely confused?
@@ -61,6 +61,7 @@ date: 2025-01-09
 - Delirium (mnemonic: I WATCH DEATH)
 	- Transient clouding of consciousness, *inattention* and failure of recent memory
 	- Acute fluctuating confusional state with restless (sometimes aggressive) behaviour and non-auditory hallucinations
+	- ![[Pasted image 20250125201909.png]]
 - Dementia
 	- Chronic, progressive state of irreversible memory loss with global cognitive deficit
 - Psychiatric disorder
