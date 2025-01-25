@@ -8,6 +8,8 @@ date: 2025-01-17
     - [[Dumping Syndrome]]
     - [[Functional Dyspepsia]]
     - [[Gastroesophageal Reflux Disease]]
+    - [[Hiatus Hernia]]
+    - [[Pancreatitis]]
 
 - Presenting Complaints: 
     - [[Abdominal Pain]]

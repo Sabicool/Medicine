@@ -13,6 +13,7 @@ date: 2025-01-13
     - [[Hypertension]]
     - [[Hypotension]]
     - [[Otitis Media]]
+    - [[Pancreatitis]]
     - [[Sepsis]]
     - [[Subarachnoid Haemorrhage]]
     - [[Supraventricular Tachycardia]]

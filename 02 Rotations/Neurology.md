@@ -12,6 +12,9 @@ date: 2025-01-13
 - Emergencies: 
     - [[Unconsciousness]]
 
+- Investigations: 
+    - [[Lumbar Puncture]]
+
 - Presenting Complaints: 
     - [[Altered Mental Status]]
     - [[Collapse, Syncope, Mechanical Falls]]

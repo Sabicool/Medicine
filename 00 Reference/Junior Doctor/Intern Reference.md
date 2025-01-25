@@ -1,5 +1,5 @@
 ---
-date: 2025-01-18
+date: 2025-01-26
 ---
 # Useful Notes
 - [[Preparing for a Term]]
@@ -9,10 +9,13 @@ date: 2025-01-18
 # Administrative Tasks
 <!-- QueryToSerialize: List from "00 Reference/Administrative" sort file.name asc -->
 <!-- SerializedQuery: List from "00 Reference/Administrative" sort file.name asc -->
+- [[Consults and Referrals]]
 - [[End-of-life orders]]
 - [[Finding Notes and Documents]]
 - [[Home Screen]]
+- [[Ordering Investigations]]
 - [[Patient Lists]]
+- [[Useful Numbers to Save on Your Phone]]
 - [[Viewing Investigations]]
 - [[Writing Discharge Summaries]]
 <!-- SerializedQuery END -->

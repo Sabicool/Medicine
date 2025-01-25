@@ -12,6 +12,7 @@ date: 2025-01-13
     - [[Heart Failure]]
     - [[Hypertension]]
     - [[Hypotension]]
+    - [[Infective Endocarditis]]
     - [[Pericarditis]]
     - [[Pulmonary Hypertension]]
     - [[Secondary Hypertension]]
