@@ -1,7 +1,7 @@
 ---
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
-date: 2025-01-09
+date: 2025-01-25
 ---
 # Management
 - Give high-dose oxygen via a mask, aiming for an oxygen saturation >94%
@@ -22,7 +22,7 @@ date: 2025-01-09
 			- Glucagon can also cause positive ionotropic and chronotropic effects on the heart and improves vasodilation; also stabilises mast cells
 		- Give ==atropine 0.6 mg IV boluses== if bradycardia unresponsive to adrenaline
 	- *Cardiac arrest*
-		- Give adrenaline 1 mg IV dose and repeat; can use larger doses of adrenaline 3-5 mg IV
+		- Give ==adrenaline 1 mg IV== dose and repeat; can use larger doses of adrenaline 3-5 mg IV
 		- Deliver rapid boluses up to 60 mL/kg of normal saline
 	- *Adjunctive agents*
 		- Laryngeal oedema
@@ -31,6 +31,6 @@ date: 2025-01-09
 			- Give hydrocortisone 200 mg IV or prednisone 50 mg PO
 			- Give nebulised salbutamol 5 mg and repeat up to continuously as necessary
 		- H1 and or H2 antihistamines following recovery from anaphylaxis
-				- Cetirizine 10 mg PO or fexofenadine 180 mg plus rantidine 150 mg following recovery from the anaphylaxis
+			- Cetirizine 10 mg PO or fexofenadine 180 mg plus rantidine 150 mg following recovery from the anaphylaxis
 
 ^anaphylaxis-management
