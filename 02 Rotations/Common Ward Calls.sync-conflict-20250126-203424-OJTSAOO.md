@@ -1,49 +1,15 @@
 ---
 aliases:
   - On call
-date: 2025-01-22
+date: 2025-01-23
 ---
 # Important Notes
 - [iSBAR Handover](00%20Reference/Clinical/iSBAR%20Handover.md)
 # Common Conditions and Presentations
 <!-- QueryToSerialize: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) sort file.name asc group by reverse(split(file.folder, "/"))[0] -->
-<!-- SerializedQuery: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) sort file.name asc group by reverse(split(file.folder, "/"))[0] -->
-- Conditions: 
-    - [[Acute Pulmonary Oedema]]
-    - [[Alcohol Withdrawal]]
-    - [[Hyperglycaemia]]
-    - [[Hypertension]]
-    - [[Hypotension]]
-
-- Emergencies: 
-    - [[Advanced Life Support]]
-    - [[Basic Life Support]]
-
-- Presenting Complaints: 
-    - [[Abdominal Pain]]
-    - [[Altered Mental Status]]
-    - [[Arrhythmias]]
-    - [[Chest Pain]]
-    - [[Collapse, Syncope, Mechanical Falls]]
-    - [[Decreased Urine Output]]
-    - [[Shortness of Breath, Cough and Haemopytsis]]
-    - [[Urinary Frequency and Polyuria]]
-
-- Procedures: 
-    - [[IV Cannulation]]
-
-- Topics: 
-    - [[Paediatric Pain Management]]
-    - [[Pain Management]]
-    - [[Preparing Patients for Transfer]]
-
-<!-- SerializedQuery END -->
 
 # Medications to Know
  <!-- QueryToSerialize: list from "03 Medications" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) sort file.name asc -->
-<!-- SerializedQuery: list from "03 Medications" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) sort file.name asc -->
-- [[Analgesics]]
-<!-- SerializedQuery END -->
 
 # Documenting on call visits
 1. Begin with date, time and who you are: *9 December 2024: 0300 hours. Resident on-call note*
