@@ -2,7 +2,7 @@
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Paediatrics|Paediatrics]]"
-date: 2025-01-25
+date: 2025-01-26
 ---
 - Always exclude other causes of the [[Febrile child]]
 - Peak age prevalence is 6-18 months
@@ -27,7 +27,7 @@ date: 2025-01-25
 	- Recurrent acute otitis media => ≥3 episodes of AOM within 6 months or ≥4 episodes in 12 months
 - Chronic suppurative otitis media (sometimes chronic mucosal otitis media) ⇒ perforated eardrum and discharge >6 weeks[^1]
 	- Can think of it as on the worser spectrum of AOMwiP. Adequate management of AOMwiP will reduce progression to CSOM
-	- Should be definition have no features of fever or otalgia (if present consider other diagnoses: [[Otitis Externa]], [[Acute Mastoiditis]] or intracranial involvement)
+	- Should by definition have no features of fever or otalgia (if present consider other diagnoses: [[Otitis Externa]], [[Acute Mastoiditis]] or intracranial involvement)
 
 ![[Otitis Media 2025-01-25 14.42.22.excalidraw.png]]
 %%[[Otitis Media 2025-01-25 14.42.22.excalidraw.md|🖋 Edit in Excalidraw]]%%
