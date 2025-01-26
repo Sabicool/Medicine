@@ -1,5 +1,5 @@
 ---
-date: 2025-01-25
+date: 2025-01-26
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Paediatrics|Paediatrics]]"
