@@ -162,6 +162,8 @@ date: 2025-01-26
 			- School-aged children can have classroom sound-field amplification
 		- If hearing loss >20 dB or persistent OME for 3 months (6 months altogether) and/or speech and language delay → refer for ENT assessment for possible surgical intervention
 	- Refer children with hearing loss and speech delay to speech pathology
+	- ![[Chronic OME management diagram.excalidraw.png]]
+	%%[[Chronic OME management diagram.excalidraw.md|🖋 Edit in Excalidraw]]%%
 
 ![[Pasted image 20250115190341.png]]
 - From: [Otitis Media Guidelines for ATSI Children Page XII](https://otitismediaguidelines.com/wp-content/uploads/2021/07/OtitisMedia_Guideline_2020.pdf)
