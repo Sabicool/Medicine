@@ -1,5 +1,5 @@
 ---
-date: 2025-01-26
+date: 2025-01-27
 ---
 # Preparation Before the Consult
 - Prepare adequately but not obsessively; consider 
@@ -18,3 +18,4 @@ date: 2025-01-26
 	- 
 - Always better to refer early with a poorer presentation
 - https://litfl.com/wp-content/uploads/2020/01/Referral-cheat-sheet.pdf
+- Also see [[Consult Reference]]
