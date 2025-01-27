@@ -18,6 +18,7 @@ Mainly for the admin side of things as a junior doctor
 Some other administrative notes:
 <!-- QueryToSerialize: List from "00 Reference/Administrative" sort file.name asc -->
 <!-- SerializedQuery: List from "00 Reference/Administrative" sort file.name asc -->
+- [[Administrative Notes on Radiology]]
 - [[Consults and Referrals]]
 - [[End-of-life orders]]
 - [[Finding Notes and Documents]]
@@ -34,6 +35,7 @@ If you'd rather just find notes on medicine relevant to the particular rotation 
 <!-- SerializedQuery: LIST FROM "02 Rotations" sort file.name asc -->
 - [[Cardiology]]
 - [[Common Ward Calls]]
+- [[Common Ward Calls.sync-conflict-20250126-203424-OJTSAOO]]
 - [[Emergency Medicine]]
 - [[Gastroenterology]]
 - [[Intensive Care Unit]]

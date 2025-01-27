@@ -9,6 +9,7 @@ date: 2025-01-26
 # Administrative Tasks
 <!-- QueryToSerialize: List from "00 Reference/Administrative" sort file.name asc -->
 <!-- SerializedQuery: List from "00 Reference/Administrative" sort file.name asc -->
+- [[Administrative Notes on Radiology]]
 - [[Consults and Referrals]]
 - [[End-of-life orders]]
 - [[Finding Notes and Documents]]
