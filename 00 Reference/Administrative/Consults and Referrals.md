@@ -15,7 +15,7 @@ date: 2025-01-27
 - Do a practice run of the consult in your head making sure the opening is good
 - Prep a discharge for the consult; at least the issue relating to the consult
 	- You can avoid notes and results trawling and realise any holes in your current assessment
-	- 
 - Always better to refer early with a poorer presentation
+- 
 - https://litfl.com/wp-content/uploads/2020/01/Referral-cheat-sheet.pdf
 - Also see [[Consult Reference]]
