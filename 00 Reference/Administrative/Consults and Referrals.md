@@ -47,3 +47,8 @@ date: 2025-01-27
 	- Typically better to follow the long case format (HxPc, PMHx etc.) and keep it relevant to the consulted specialty
 	- Start your spiel only for that specialty e.g. 'This is a (age) old female/male presenting with/who has (condition) ± complicated by (condition), on a background of (two or three major comorbidities) with (any other extra important information)'
 		- HxPC: one sentence on why the patient's in hospital, then talk in detail about the consulted problem
+		- PMHx: Generally include everything but mention matters that are related to the consulted system first
+			- Also include the relevant consultant if the patient is already known to someone in the consulted specialty
+		- Medications: tailor to specialty and name the important ones first
+		- Other history: e.g. social history, mobility status, ADLs and home supports for Geris
+		- 
