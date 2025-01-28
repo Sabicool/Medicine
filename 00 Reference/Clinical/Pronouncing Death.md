@@ -1,7 +1,7 @@
 ---
 Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
-date: 2025-01-19
+date: 2025-01-28
 ---
 Although other emergencies take precedence over pronouncing a patient dead, try not to postpone this task for too long, as the time of death is legally the time at which you see and then pronounce the patient dead. It also allows the nursing staff to begin organising the numerous notifications and procedures required once death has been certified.
 # Expected Deaths
@@ -78,3 +78,4 @@ Although other emergencies take precedence over pronouncing a patient dead, try 
 		6. Ask the next of kin if they wish to come to the hospital to see their loved one for one last time and encourage them to do so. Inform the nurse of this decision
 		7. Questions pertaining to funeral arrangements and the patient's personal belongings are best referred to the nurse in charge or to the social worker to be sorted out in the morning
 		8. Autopsy or tissue donation should be introduced during face-to-face contact and could be deferred to the patient's usual medical team in the morning
+- Can attach a summary of care to the form and say refer to summary of care
