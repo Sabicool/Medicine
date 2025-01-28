@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Cardiology|Cardiology]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
-date: 2025-01-03
+date: 2025-01-28
 ---
 - Note that it is not the absolute BP level that dictates the need for intervention, but rather the threat to organ dysfunction
 # Phone Call/Presentation Questions
@@ -144,6 +144,7 @@ date: 2025-01-03
 	- Gain control gradually over 48 hours or more using oral antihypertensive medications:
 		- Review the patient's current antihypertensive treatment and consider in dose or one-off dose making a clear note in the patient's chart
 		- A decision to use a new agent can usually await the patient's regular medical care team (i.e. don't change much on an overnight/on call shift) but can consider among: beta-blockers, diuretics, ACE inhibitors, ARBs, and CCBs
+			- Amlodipine 5mg or GTN patch 5mcg or 10mcg instructing nursing staff to check BP every 30 minutes and remove patch when SBP <100
 - [[Aortic Dissection#Management|Aortic Dissection Management]]
 ## Hypertensive Encephalopathy
 - Arrange an urgent CT brain scan to exclude alternative causes of confusion (e.g. SAH, space-occupying lesion, intracranial infection or stroke) and consider postictal state or non-convulsive status epilepticus

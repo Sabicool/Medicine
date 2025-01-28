@@ -2,7 +2,7 @@
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
-date: 2025-01-09
+date: 2025-01-28
 ---
 # Phone Call/Presentation Questions
 - Type 1 or Type 2 diabetic?
@@ -19,6 +19,11 @@ date: 2025-01-09
 - Poorly controlled diabetes at home
 - Withholding regular antiglycaemics
 # Assessment
+- Read the patient ntoes as there may be a hyperglycaemia plan documented with a short-acting insulin (usaully Novorapid) sliding scale charted or JMO specific instructions
+- The thinksulin app can guide on charting insulin if the patient is hyperglycaemic with no insulin PRN charted
+- Check ketones if BSL >20
+- Consider if the patient has been recently commenced on steroids (e.g. respiratory conditions)
+- Ask the nurses to check BSLs again in 2 hours as Novorapid halfe life of 2-4 hours
 # Management
 - Short term
 	- Start novorapid

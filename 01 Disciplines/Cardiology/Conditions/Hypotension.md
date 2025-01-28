@@ -2,7 +2,7 @@
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
-date: 2025-01-01
+date: 2025-01-28
 ---
 -  If considering that the patient is in shock see shock notes: [Shock](01%20Disciplines/Clinical/Emergencies/Shock.md)
 - Note that it is not the absolute BP level that dictates the need to intervention but rather the threat to end-organ function; therefore the **priority is to assess for tissue hypoperfusion**
@@ -209,6 +209,7 @@ date: 2025-01-01
 	- Will confirm pericardial tamponade or right ventricular strain of PE 
 	- Hard to organise after hours
 # Specific Management
+- In most cases IV fluid bolus is the mainstay of management; involve your senior early if hypotension is not fluid responsive
 - Cardiogenic shock
 	- Clinically manifested by hypotension, elevated JVP and pulmonary oedema
 	- Treat ACS-related causes (see [[Acute Coronary Syndromes|ACS]])
