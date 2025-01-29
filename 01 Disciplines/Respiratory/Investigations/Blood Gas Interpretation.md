@@ -2,7 +2,7 @@
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-date: 2025-01-25
+date: 2025-01-29
 aliases:
   - ABG Interpretation
 ---
@@ -14,18 +14,18 @@ aliases:
 - Make sure you understand the difference between oxygenation and ventilation
 - Have a good understanding of [[Acute Respiratory Failure]]
 # Approach
-1. PaO2: Determine the adequacy of oxygenation (80-100 mmHg)
+1. $P\rm{a}\ce{O2}$: Determine the adequacy of oxygenation (80-100 mmHg)
 2. Determine pH status (7.35-7.45)
 	- pH <7.35: Acidosis is an abnormal process that increases the serum hydrogen ion concentration, lowers the pH and results in acidaemia
 	 - pH >7.45: Alkalosis is an abnormal process that decreases the hydrogen ion concentration and results in alkalaemia
-1. PaCO2: Determine the respiratory component (35-45 mmHg)
-	  - PaCO2 <35 ⇒ ↑ respiratory rate
+1. $P\rm{a}\ce{CO2}$: Determine the respiratory component (35-45 mmHg)
+	  - $P\rm{a}\ce{CO2}$ <35 ⇒ ↑ respiratory rate
 		+ If pH >7.45: primary respiratory alkalosis (especially if $\ce{HCO3-}$ normal)
 		+ If pH <7.35 and ↓ $\ce{HCO3-}$: respiratory compensation for metabolic acidosis
-   - PaCO2 >45 ⇒ ↓ respiratory rate
-     + If pH <7.35 and HCO3- normal: hypoventilation
-     + If pH >7.45 and ↑ $\ce{HCO3-}$: respiratory compensation for metabolic alkalosis
-2. $\ce{HCO3-}$: Determinethe metabolic component (22-26 mmol/L)
+	- $P\rm{a}\ce{CO2}$ >45 ⇒ ↓ respiratory rate
+	     + If pH <7.35 and $\ce{HCO3-}$ normal: hypoventilation
+	     + If pH >7.45 and ↑ $\ce{HCO3-}$: respiratory compensation for metabolic alkalosis
+1. $\ce{HCO3-}$: Determine the metabolic component (22-26 mmol/L)
 	- $\ce{HCO3-}$<22
 		- If pH <7.35: primary metabolic acidosis
 		- If pH >7.45: renal compensation for respiratory alkalosis

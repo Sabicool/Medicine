@@ -1,0 +1,16 @@
+---
+date: 2025-01-29
+---
+- Ceftriaxone
+- Metronidazole
+- Gentamicin
+- Azithromycin
+- Augmentin
+- Benzylpenicillin
+- Cefalexin
+- Trimethoprim
+- Amoxicillin
+- Doxycycline
+- Vancomycin
+- Tazocin
+- Flucloxacillin
