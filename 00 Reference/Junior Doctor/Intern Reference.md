@@ -1,11 +1,12 @@
 ---
-date: 2025-01-26
+date: 2025-02-02
 ---
 # Useful Notes
 - [[Preparing for a Term]]
 - [[03 Medications/index|Medications]]
 - [[Patient Lists]]
 - [[Finding Notes and Documents]]
+- [[After Hours]]
 # Administrative Tasks
 <!-- QueryToSerialize: List from "00 Reference/Administrative" sort file.name asc -->
 <!-- SerializedQuery: List from "00 Reference/Administrative" sort file.name asc -->
