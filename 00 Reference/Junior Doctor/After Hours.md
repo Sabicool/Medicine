@@ -6,4 +6,12 @@ date: 2025-02-02
 		- Very portable water bottle
 		- Food to have while walking
 	- Sit everywhere
-	- Phone orders
+	- Phone orders: You can start treatments before physically getting there by ordering on the phone as a STAT order
+	- Eating
+		- For evening shifts eat at the beginning of your shift as you'll unlikely have time during the rest of the time
+		- For night shifts have a routine that works (e.g. snack/hydrate around 1am, meal at 4am, snack/hydrate at 7am)
+	- Timing
+		- During nights the main job rush hour comes at about 10pm to 1am then again at about 6:30am to 8am because that is when the nurses have changed shift and the new nurses identify new tasks for the JMOs
+		- Therefore to save repetitive walking you can wait until 11:30pm to do all the jobs in a clean sweep by ward
+- Organising after hours
+	- 
