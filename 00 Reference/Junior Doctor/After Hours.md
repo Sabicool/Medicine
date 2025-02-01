@@ -13,5 +13,13 @@ date: 2025-02-02
 	- Timing
 		- During nights the main job rush hour comes at about 10pm to 1am then again at about 6:30am to 8am because that is when the nurses have changed shift and the new nurses identify new tasks for the JMOs
 		- Therefore to save repetitive walking you can wait until 11:30pm to do all the jobs in a clean sweep by ward
-- Organising after hours
+	- Know which wards you cover
+- EMR setup
+	- Have the following lists
+		- Ward lists
+		- Whole of hospital list, this is helpful to scan through if called or paged about a patient and at least you'll know if they're in the hospital
+		- Multi-patient task list
+		- Task manager
+		- After hours custom list
+- Organising after hours jobs
 	- 
