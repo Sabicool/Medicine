@@ -1,13 +1,25 @@
 ---
 Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
-date: 2025-01-21
+date: 2025-02-04
 ---
+# Cannula Selection
+
+| IVC Gauge                             | Indications                                                                                |
+| ------------------------------------- | ------------------------------------------------------------------------------------------ |
+| 24 gauge (yellow)                     | Paediatrics                                                                                |
+| 22 gauge (blue)                       | Elderly patients with smaller veins; suitable for slow infusions and IV medications        |
+| 20 gauge (pink)                       | Suitable for most infusions including antibiotics. The first choice of cannula for adults  |
+| 18 gauge (green)                      | Favoured by radiology for contrast infusions. IDeal cannula for infusion of blood products |
+| 16 gauge (grey) and 14 gauge (orange) | Large bore cannula used for resuscitation purposes                                         |
+# Procedure
 1. 5 moments hand hygiene and put on gloves
 2. Tourniquet (just below arterial pressure)
 	- Toruniquet is too tight if the patient complains or you cannot feel the arterial pulse
+	- Can use three tourniquets as well
 3. Apply a towel or bluey below arm
 4. Make the vein obvious:
+	- Veins can take time to stand out, always wait sufficient time for a vein to become apparent
 	- Ask the patient for their best vein
 	- Blanket/make the patient is warm
 	- Put arm below the level of the heart
@@ -30,6 +42,8 @@ date: 2025-01-21
 	- Make sure your cannula is the parallel to the vein
 9. Tense the skin over the side
 	- Make sure your thumb when you apply tension is not in the way of the cannula (e.g. over the knuckle edge or to the side slightly)
+	- Many ways to apply tension and try to apply counter traction where possible (e.g. flexing the wrist)
+		- Can use the C finger approach or can even pull on the skin from both sides
 	![[Pasted image 20250121221800.png]]
 	![[Pasted image 20250121223327.png]]
 10. Level when you find flushback then advance a few mm

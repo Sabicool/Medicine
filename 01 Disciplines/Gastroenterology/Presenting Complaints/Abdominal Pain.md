@@ -5,3 +5,9 @@ Rotations:
   - "[[Gastroenterology]]"
 date: 2025-01-09
 ---
+# Phone Call/Presentation Questions
+- SOCRATES of the pain
+	- Character of the pain
+	- How severe is the pain
+	- Where is the main site of pain; is it localised or generalised
+	- 

@@ -26,21 +26,6 @@ date: 2025-02-04
 - Always better to refer early with a poorer presentation
 - https://litfl.com/wp-content/uploads/2020/01/Referral-cheat-sheet.pdf
 - Also see [[Consult Reference]]
-## Common Questions by Specialty
-
-| Specialty        | Common Questions                                                                                                                                                                                                                                                                   |
-| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Cardiology       | What does their 12 lead ECG look like?<br>When was their most recent echo?<br>Have they ever had an angiogram?<br>What was their weight on admission and has it changed?<br>Have they had troponins? Has it peaked?<br>Have they had fasting lipids and glucose?                   |
-| Gastroenterology | Weight loss?<br>Scope history?<br>Family history?<br>Alcohol consumption?<br>If severe vomiting/diarrhoea, what are their UECs?<br>Haemodynamic stability?<br>If IBD -> surgical history?<br>If liver disease -> outcome of liver screen?<br>If hepatitis -> viral load? genotype? |
-| Renal            | UECs? Iron studies?<br>Urinary sodium, albumin to creatinine ratio, protein to reatinine ratio or electrophoresis?<br>Have they had a renal tract ultrasound?<br>Are they making urine?<br>Are they on dialysis or would they be considered for it?                                |
-| Surgery          | When was their last meals?<br>Are they anticoagulated?<br>Are they bariatric<br>Surgical history?<br>If they're bleeding -> have they been cross matched?<br>Have you done a PR?                                                                                                   |
-| Intensive care   | Indication for ICU review?<br>Have they breached MET criteria?<br>Do they have advanced life directives?                                                                                                                                                                           |
-| Anaesthetics     | Have they had an anaesthetic before?<br>Do they have a cardiac condition?<br>Are they bariatric?<br>Do they have dentures?<br>When was their last meal?<br>Are they anticoagulated?                                                                                                |
-| Orthopaedic      | As above for surgical referral plus:<br>Is the fracture open?<br>Are they neurovascularly intact?                                                                                                                                                                                  |
-| Rehabilitation   | What will be their goals?<br>Are they completely stable?<br>What is their follow-up plan with the home team?                                                                                                                                                                       |
-| Neurology        | What are their examination findings (the more specific the better)?<br>What does their imaging show?                                                                                                                                                                               |
-| Respiratory      | Have you done an ABG?<br>What are their saturations?<br>What does their CXR show?<br>Do they have recent spirometry or RFTs?<br>What is their smoking history?<br>Have you done thoracocentesis (if an effusion)?<br>What are their occupational exposures                         |
- 
 # Finding the Consult Number
 - Often consulting a team takes a while for the other consulted team to respond
 - Always have paperwork or something you can do while waiting for the consulted team to respond (e.g. discharges, pathology orders (although do not lock yourself out of eMR), your own overtime sheet)
@@ -77,17 +62,6 @@ date: 2025-02-04
 	- If you're not calling again, ask for a comprehesnive plan all the way down to the GP handover (e.g. when lines can come out, oral stepdowns, contingency plans)
 8. Obtain an easier way to get hold of them (e.g. mobile number)
 	- Can say that it is to send investigations results to them or give your number to them
-
-
-> [!Quote] Example
-> - Hi, my name is `[Your Name]`. I am the intern on General Medicine A. 
-> - Are you the Cardiology registrar on for external referrals today? 
-> - Do you have time to receive a referral? 
-> - I have with me Mr John Smith, a 55-year-old gentleman with unstable triple vessel disease that requires transfer for inpatient coronary bypass. He initially presented with severe, central chest pain radiating to his left arm and was diagnosed with an NSTEMI. His ECG shows new ischaemic changes in comparison with a graph from January and he is currently awaiting a transthoracic echo. 
-> - My consultant is concerned about his welfare if left untreated, and we were hoping to have him transferred to Large Metropolitan Hospital for inpatient bypass. 
-> - Would you be willing to accept this patient? Do you have a bed available? 
-> - Thank you for your time – if you need any more information I am holding pager #123.
-
 # After the Consult
 - Document, especially if they're coming or their phone advice and their plan
 	- Can just use a simple template:
