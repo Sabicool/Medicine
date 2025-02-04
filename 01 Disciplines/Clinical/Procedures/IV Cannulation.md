@@ -22,6 +22,7 @@ date: 2025-02-04
 	- Veins can take time to stand out, always wait sufficient time for a vein to become apparent
 	- Ask the patient for their best vein
 	- Blanket/make the patient is warm
+	- Warm water in a glove
 	- Put arm below the level of the heart
 	- Tap the veins or rub the veins
 	- Go for the most distal place that satisfies the purpose

@@ -36,4 +36,37 @@ date: 2025-02-04
 6. Task manager/JMO job books: the rest of the jobs
 - Specific prioritisation for particular jobs
 	- Cannulas (see [[IV Cannulation]]) IVABx/other active treatments/severe electrolyte derangement replacement > IV fluids/mild electrolyte replacement > protocol-driven change
-	- 	
+		- Always set up pre-emptively for five or six cannulas
+		- Carry common spares for tape/gauze/tourniquets/dressings
+		- Can consider doing the easier cannulas first to build up confidence
+	- Venepuncture
+		- Generally MET calls/clinical reviews > handover bloods > timed bloods (e.g. APTT)
+- Have an autotext for common procedures
+
+```
+Junior Medical Officer Dr [name]
+
+Asked to insert IDC
+
+Indication: [indication]
+
+Patient consented to procedure
+Sterile technique applied
+Hand hygiene performed
+Draped
+Cleaned urethral meatus with sterile normal saline
+Lubricant inserted into urethra
+Has had [Y/N] and to where] recent travel
+Inserted [#] French IDC first pass
+Inflated with 10mL sterile water
+Drained clear straw-coloured urine
+Procedure well tolerated by patient
+Nil complaints boiced
+
+Urine sent for MCS and urine creatinine, sodium and osmolality
+
+Plan:
+- Monitor urine output/colour
+- Team to chase urinary investigation results
+- Notify medical officer if any concerns
+```
