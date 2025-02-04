@@ -91,6 +91,7 @@ date: 2025-02-04
 # After the Consult
 - Document, especially if they're coming or their phone advice and their plan
 	- Can just use a simple template:
+
 ```
 [Your Specialty] JMO [Your Name]
 Discussed with [Consulted Specialty] Registrar Dr [Reg Name] 
