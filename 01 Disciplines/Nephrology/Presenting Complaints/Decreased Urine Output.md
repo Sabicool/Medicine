@@ -4,7 +4,7 @@ Rotations:
 aliases:
   - Low urine output
   - Oliguria
-date: 2025-01-14
+date: 2025-02-14
 ---
 # Phone Call/Presentation Questions
 - What is the urine output? (How much urine has been passed in the past 24 hours)
@@ -129,9 +129,17 @@ date: 2025-01-14
 	- FBC: Normal Hb suggests acute renal impairment whereas ↓ Hb suggests chronic renal impairment
 - LFTs, autoantibodies accordingly as suspected
 - VBG for raised anion gap metabolic acidosis from uraemia
+- Glomeruloneohritis concern
+	- Complements C3, C4
+		- Lupus ANA dsDNA
+		- Endocarditis multiple blood cultures
+		- Cryoglobulonaemia usually occurs because of hep C
+		- PT3 ANCA for ANCA positive vasculitis
 - Perform ECG
 	- Look for signs of hyperkalaemia: peaked T waves, depressed ST segments, prolonged PR interval, loos of P waves and wide QRS complexes
 	- Look for evidence of MI or the widespread concave elevation of pericarditis
+- Urine dipstick 
+	- If normal CT and no concern for UTI consider a glomerulonephritis to be the underlying cause
 - Bedside bladder scan to measure residual bladder volume in obstruction
 - Collect urine for dipstick analysis and send to laboratory for MCS including cells and casts, plus urinary electrolyte testing
 	- Specific gravity
