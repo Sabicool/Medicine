@@ -1,5 +1,5 @@
 ---
-date: 2025-02-04
+date: 2025-02-15
 ---
 # Important considerations
 - As in [[Preparing for a Term]] but particular emphasis on
@@ -71,3 +71,11 @@ Plan:
 - Notify medical officer if any concerns
 ```
 # Clinical Reviews
+# Handover
+- Use a piece of paper to write down all the reviews and code blues you have done to prepare for the handover
+- A brief summary of the shift: "this shift was quiet" or "this shift was a bit challenging"
+- Any code blues (MET calls)? Any rapids?
+- Any clinical reviews?
+- Any patients you've concerned about/anyone to keep an eye out for?
+- Anything to chase?
+- Any other information you have about a patient that can help a collage?
