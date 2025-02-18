@@ -1,5 +1,5 @@
 ---
-date: 2025-02-15
+date: 2025-02-18
 ---
 # Important considerations
 - As in [[Preparing for a Term]] but particular emphasis on
@@ -22,6 +22,10 @@ date: 2025-02-15
 		- Multi-patient task list
 		- Task manager
 		- After hours custom list
+			- An after hours custom list is used for all the patients you need to chase anything for; use instead of the folded/scrunched A4 sheet. Consider including
+				- Reviews
+				- Med/Surg reg reviews
+				- Handover
 	- Have all your auto-texts ready
 - Things
 	- Always carry a notebook or some paper at least
