@@ -1,7 +1,7 @@
 ---
 Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
-date: 2025-02-04
+date: 2025-02-18
 ---
 # Cannula Selection
 
@@ -34,6 +34,7 @@ date: 2025-02-04
 5. Semi-open some of the equipment and have sharps bin nearby
 	- Cap the syringe
 	- Flush the bung
+	- Consider bending the cannula to achieve a shallower angle
 6. Ask the patient if they have any allergies
 7. Apply chlorhexidine
 8. Hold cannula at sides and loosen the cannula and put it back into place
