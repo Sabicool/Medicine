@@ -3,7 +3,9 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-date: 2025-01-25
+date: 2025-02-19
+aliases:
+  - Depressed Consciousness
 ---
 # Phone Call/Presentation Questions
 - In what way is the patient acutely confused?
