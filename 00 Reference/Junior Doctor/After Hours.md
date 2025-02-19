@@ -131,6 +131,34 @@ Plan:
 	- GI bleeding
 	- Vague pain of any other body part
 	- Symptomatic relief
+## Protocol Based Reviews
+1. See the patient
+2. Set up auto-text the first time you do them
+3. Document/cross off job list
+```
+[Insert type of review] Medical Officer Dr [name]
+Asked to review day 3 IVC
+Patient consented to review
+
+[size] _G IVC in _[position]
+- Nil pain
+- Nil erythema
+- Nil oedema
+- Nil induration or palpable cord along path of cannula
+- Patient afebrile
+- Nil other complaints
+- Visual infusion phlebitis score = _
+
+Impression:
+- IV site appears _health/unhealthy
+- Sign of cannula infection/phlebitis: _yes/no
+
+Plan:
+- Keep and observe cannula for further 24 hours/please remove IVC and re-site
+- Team to review need for cannula mane
+- Notify Medical Officer if any concerns
+
+```
 # Handover
 - Use a piece of paper to write down all the reviews and code blues you have done to prepare for the handover
 - A brief summary of the shift: "this shift was quiet" or "this shift was a bit challenging"

@@ -1,7 +1,7 @@
 ---
 Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
-date: 2025-01-28
+date: 2025-02-19
 ---
 Although other emergencies take precedence over pronouncing a patient dead, try not to postpone this task for too long, as the time of death is legally the time at which you see and then pronounce the patient dead. It also allows the nursing staff to begin organising the numerous notifications and procedures required once death has been certified.
 # Expected Deaths
@@ -16,6 +16,34 @@ Although other emergencies take precedence over pronouncing a patient dead, try 
 
 > [!EXAMPLE] 
 > Called to pronounce Mr X deceased. Patient unresponsive to verbal or tactile stimuli. No heart sounds heard, no pulse felt. No spontaneous respirations observed and no air entry heart. Pupils fixed and dilated. Patient pronounced dead at 20:30 hours, 11 December 2024
+
+```
+XXX[your name] (MO [your role])
+Asked to review patient re: no signs of life
+
+Examined patient:
+- No response to verbal or painful stimulus
+- No carotid pulse
+- No breath or heart sounds over 5 minutes
+- Pupils non-reactive to light
+- No motor (withdrawal) response or facial grimace in response to painful stimulus
+
+Time of death: _
+
+Nursing staff/I have already attempted to contact family/NOK
+
+Cause of death: _
+
+Plan:
+1. Cremation certificate completed
+2. Coronial checklist completed
+3. Death certificate completed
+4. Patient death checklist completed
+5. Team to complete Discharge Summary (if not the team) or Discharge Summary Completd (if team)
+6. I will update Dr _ (AMO)
+7. Will attempt to contact family or Family notified
+8. Please leave patient on Ward until family have been given option of visiting patient in room
+```
 
 9. Decide if the death is reportable to the coroner (use the IB2010_058 - Coronial Checklist)
 	- Reportable death
