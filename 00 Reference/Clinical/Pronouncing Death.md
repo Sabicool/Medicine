@@ -47,7 +47,7 @@ Plan:
 
 9. Decide if the death is reportable to the coroner (use the IB2010_058 - Coronial Checklist)
 	- Reportable death
-		- Died a violent or unnatural death
+			- Died a violent or unnatural death
 		- Died a sudden death the cause of which is unknown
 		- Died under suspicious or unusual circumstances
 		- Died without having been attended by a medical practitioner in the six months immediately before their death
