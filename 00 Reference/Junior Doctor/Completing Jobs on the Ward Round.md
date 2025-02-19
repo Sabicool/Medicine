@@ -15,4 +15,8 @@ date: 2025-02-19
 		- Script writing/Outpatient forms/Med Certs/other forms the Nurses want
 	- Hopefully you have set up your investigations (see [[Ordering Investigations]])
 - Consider preparation for other jobs
-		- e.g. Cardio consult => cardiology letters needed => ask the patient now which cardiologist they see and in which rooms
+	- e.g. Cardio consult => cardiology letters needed => ask the patient now which cardiologist they see and in which rooms
+- Can consider also having multiple windows open:
+	- The patient at hand
+	- The patient soonest to be discharged and not prepped so that while there are delays (e.g. patient answering questions or the registrar is examining) you can finish documenting, finish jobs and commence discharges (parts which don't require much thinking)
+	- Can also start taking a look and prepping the notes for the next patient to be seen
