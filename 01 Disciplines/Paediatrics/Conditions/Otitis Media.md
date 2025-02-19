@@ -2,7 +2,7 @@
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Paediatrics|Paediatrics]]"
-date: 2025-01-26
+date: 2025-02-19
 ---
 - Always exclude other causes of the [[Febrile child]]
 - Peak age prevalence is 6-18 months
@@ -151,6 +151,8 @@ date: 2025-01-26
 			- Discuss the importance of going to the health centre if their child develops ear discharge, pain, or if they have concerns about language development
 		- Review monthly recording date of each otitis media diagnosis
 	- Refer to otolaryngolist if effusion is associated with speech delay or learning problems or structural damage to the tympanic membrane (e.g. significant retraction, cholestatoma) for consideration of tympanostomy tube or other interventions
+	- ![[Otitis Media 2025-02-19 19.07.33.excalidraw.png]]
+%%[[Otitis Media 2025-02-19 19.07.33.excalidraw.md|🖋 Edit in Excalidraw]]%%
 - Effusion >3 months:
 	- Can present with conductive hearing loss or behavioural problems
 	- Refer all patients for audiometry
