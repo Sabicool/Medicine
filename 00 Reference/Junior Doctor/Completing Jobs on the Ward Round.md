@@ -3,12 +3,16 @@ date: 2025-02-19
 ---
 - Your priority during the ward round should be to document
 	- Hopefully you would have prepped for the ward round before hand
-- Consider completing the following jobs during the ward round
-	- Discharges/updating them
-	- Ordering everything, including Imaging, Bloods and the various Nurse assisted Investigations, such as urines, swabs. 
-	- Consult request forms (harder as they take longer and lock you from the rest of eMR for a while, but get them ready in Word on an aside)
-	- Consents
-	- Medical Handover forms (as above)
-	- Charting Meds (e.g. the newly initiated, warfarin, prednisone, insulin)
-	- Charting Fluids
-	- Script writing/Outpatient forms/Med Certs/other forms the Nurses want
+- Try to do most simple jobs during the ward round
+	- Consider completing the following jobs during the ward round
+		- Discharges/updating them
+		- Ordering everything, including Imaging, Bloods and the various Nurse assisted Investigations, such as urines, swabs. 
+		- Consult request forms (harder as they take longer and lock you from the rest of eMR for a while, but get them ready in Word on an aside)
+		- Consents
+		- Medical Handover forms (as above)
+		- Charting Meds (e.g. the newly initiated, warfarin, prednisone, insulin)
+		- Charting Fluids
+		- Script writing/Outpatient forms/Med Certs/other forms the Nurses want
+	- Hopefully you have set up your investigations (see [[Ordering Investigations]])
+- Consider preparation for other jobs
+		- e.g. Cardio consult => cardiology letters needed => ask the patient now which cardiologist they see and in which rooms
