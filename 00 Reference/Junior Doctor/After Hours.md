@@ -119,6 +119,18 @@ Plan:
 	- Continue monitoring
 	- ± senior review or discuss with senior
 	- Notify MO if any concerns
+- Common clinical reviews:
+	- Falls
+	- Aggression
+	- Delirium/confusion/reduced level of consciousness
+	- Chest pain
+	- Abdominal pain
+	- Limb pain
+	- Low/high urine output
+	- Headache
+	- GI bleeding
+	- Vague pain of any other body part
+	- Symptomatic relief
 # Handover
 - Use a piece of paper to write down all the reviews and code blues you have done to prepare for the handover
 - A brief summary of the shift: "this shift was quiet" or "this shift was a bit challenging"
