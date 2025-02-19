@@ -3,9 +3,16 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Cardiology|Cardiology]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
-date: 2025-01-28
+date: 2025-02-19
 ---
 - Note that it is not the absolute BP level that dictates the need for intervention, but rather the threat to organ dysfunction
+
+> [!NOTE] Non-life threatening asymptomatic hypertension management overview
+> 1. Recheck manual BP/different arm
+> 2. Check for end-organ damage
+> 3. PRN anti-hypertensives if any or once off dose of existing anti-hypertensives if applicable
+> 4. Amlodipine/GTN patch
+
 # Phone Call/Presentation Questions
 - How high is the BP and what has it been previously?
 - What was the reason for admission?
@@ -145,6 +152,7 @@ date: 2025-01-28
 		- Review the patient's current antihypertensive treatment and consider in dose or one-off dose making a clear note in the patient's chart
 		- A decision to use a new agent can usually await the patient's regular medical care team (i.e. don't change much on an overnight/on call shift) but can consider among: beta-blockers, diuretics, ACE inhibitors, ARBs, and CCBs
 			- Amlodipine 5mg or GTN patch 5mcg or 10mcg instructing nursing staff to check BP every 30 minutes and remove patch when SBP <100
+			- Can also consider Hydralazine 12.5mg PRN for hypertension if already on amlodipine
 - [[Aortic Dissection#Management|Aortic Dissection Management]]
 ## Hypertensive Encephalopathy
 - Arrange an urgent CT brain scan to exclude alternative causes of confusion (e.g. SAH, space-occupying lesion, intracranial infection or stroke) and consider postictal state or non-convulsive status epilepticus

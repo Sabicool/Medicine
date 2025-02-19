@@ -1,5 +1,5 @@
 ---
-date: 2025-02-18
+date: 2025-02-19
 ---
 # Important considerations
 - As in [[Preparing for a Term]] but particular emphasis on
@@ -74,7 +74,51 @@ Plan:
 - Team to chase urinary investigation results
 - Notify medical officer if any concerns
 ```
-# Clinical Reviews
+# Reviews
+
+> [!WARNING]
+> Always call a senior if you are concerned about a patient
+
+1. Cardiac arrests/Code blues (attend immediately)
+2. Rapid response/MET calls (attend <10 minmutes)
+3. Clinical reviews/yellow zones (attend <30 minutes)
+4. Patient reviews
+5. Handover reviews
+6. Other/protocol-based reviews
+## Clinical Reviews
+- See [[Common Ward Calls]] for specific presenting complaints
+- Consider adopting the following procedure:
+	1. Call back so you can triage and know what's going on
+	2. Question fruitfully, getting as much info as you can before seeing the patient (see the phone call questions sections of the various presenting complaints notes)
+	3. Look through documentation and notes
+	4. Look through the patient's eMeds; consider telling the nurse to consider witholding/reducing some of the meds and giving others (e.g. PRNs)
+	5. *Optional:* Initiate basic investigations/management as appropriate
+	6. *Optional:* Prepare notes
+	7. Add the patient to your custom list for follow up/handover
+	8. See the patient and document
+	9. Generate differentials
+	10. Consider senior advice
+	11. Commence management
+	12. Chase and hand over
+- Note the following investigations you can order
+	- Blood, cultures, ABGs, VBGs
+	- Any nursing assisted investigations (e.g. swabs, urinalysis, urine MCS)
+	- ECG
+	- CXR ± other x-rays
+	- Obs/neuro obs/limb obs/other obs of all types/postural BPs
+	- BSLs
+- Note the following management you can start
+	- IV fluids
+	- Oxygen
+	- Symptomatic relief you're comfortable prescribing (e.g analgesia, anti-emetics, aperients)
+	- Electrolyte replacement you're comfortable with
+	- Bronchodilators
+	- PPIs
+- Common plans
+	- Continue as per team (unless not doing so)
+	- Continue monitoring
+	- ± senior review or discuss with senior
+	- Notify MO if any concerns
 # Handover
 - Use a piece of paper to write down all the reviews and code blues you have done to prepare for the handover
 - A brief summary of the shift: "this shift was quiet" or "this shift was a bit challenging"

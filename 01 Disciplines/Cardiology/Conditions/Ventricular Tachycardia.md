@@ -4,7 +4,7 @@ aliases:
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-date: 2025-01-09
+date: 2025-02-19
 ---
 - The most common cause of VT is myocardial ischaemia or myocardial scarring following acute MI
 - A broad-complex SVT with aberrancy from ventricular pre-excitation (WPW) is treated the same as VT
