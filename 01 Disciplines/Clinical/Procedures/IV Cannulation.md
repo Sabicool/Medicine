@@ -1,7 +1,7 @@
 ---
 Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
-date: 2025-02-18
+date: 2025-02-21
 ---
 # Cannula Selection
 
@@ -59,6 +59,8 @@ date: 2025-02-18
 16. Apply tegederm
 17. Dispose waste
 18. Hand hygiene
+# Review
+![[After Hours#^cannula-review]]
 # Sources
 - https://youtu.be/tlR8xqyDjNo?si=OXMLoN-ZwZtpNr30
 - https://youtu.be/MjkRHB2m2w0?si=wQDqWD3lBXaICFzc

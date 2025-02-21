@@ -1,5 +1,5 @@
 ---
-date: 2025-02-19
+date: 2025-02-21
 ---
 # Important considerations
 - As in [[Preparing for a Term]] but particular emphasis on
@@ -159,6 +159,8 @@ Plan:
 - Notify Medical Officer if any concerns
 
 ```
+^cannula-review
+
 # Handover
 - Use a piece of paper to write down all the reviews and code blues you have done to prepare for the handover
 - A brief summary of the shift: "this shift was quiet" or "this shift was a bit challenging"
