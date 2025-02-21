@@ -5,7 +5,7 @@ Rotations:
 aliases:
   - Acute neurological failure
   - Coma
-date: 2025-01-11
+date: 2025-02-21
 ---
 - Comatose = requires painful stimulus to rouse or if GCS ≤8
 # Causes
@@ -19,6 +19,21 @@ date: 2025-01-11
 - Post-ictal state (⇒ ? underlinyg cause of seizure)
 - Hyperthermia (e.g. sepsis)
 - Hepatic, renal or endocrine failure
+## Other Notes
+- Most common causes
+	- Poisoning (including alcohol and carbon monoxide)
+	- Hypoglycaemia
+	- Post-ictal state
+	- Stroke
+	- Head injury
+	- Subarachnoid haemorrhage
+	- Respiratory failure
+	- Hypotension
+- Consider in patients who have been abroad:
+	- Cerebral malaria
+	- Typhus, yellow fever, trypanosomiasis and typhoid
+	- Rabies, Japenese B encephalitis
+	- Severe acute respiratory syndrome (SARS), viral haemorrhagic fever
 # Assessment
 - Initial assessment of ABC and only progress forward once oxygenation and perfusion are stabilised
 - Disability (GCS, AVPU, painful stimulus)
