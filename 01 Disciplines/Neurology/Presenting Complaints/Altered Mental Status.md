@@ -3,9 +3,10 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-date: 2025-02-19
+date: 2025-02-21
 aliases:
   - Depressed Consciousness
+  - Delirium
 ---
 # Phone Call/Presentation Questions
 - In what way is the patient acutely confused?
@@ -275,6 +276,23 @@ aliases:
 # Reference
 - Also see: [ECI guidelines: Delirium and management of behaviourally disturbed older patients](https://aci.health.nsw.gov.au/networks/eci/clinical/clinical-tools/aged-care/delirium-and-management-of-behaviourally-disturbed-older-patients)
 ![](Attachments/Pasted%20image%2020241210112733.png)
+# Additional Flashcards
+```
+Avoid using benzodiazepines for delirium except when delirium is related to {{c1::alcohol or benzodiazepine withdrawal, or seizures::(2)}}
+Benzodiazepines increase delirium risk and adverse effects are common
+```
+```
+What is the pharmacological oral management for patients with delirium?
+
+{{c1::Haloperidol 0.5 mg orally as a single dose}}
+1 mg may be required for younger patients. Olanzapine and risperidone are also acceptable.
+```
+```
+What is the pharmacological management for patients with delirium in which oral administration is not possible?
+
+{{c1::Haloperidol 0.5 mg intramuscularly}}
+1mg may be required for younger patients. Olanzapine also acceptable.
+```
 # Footnotes
 
 [^1]: On call says to do this although I really thought you could give midazolam IM
