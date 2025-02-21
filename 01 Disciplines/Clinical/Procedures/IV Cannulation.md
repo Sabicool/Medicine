@@ -1,7 +1,7 @@
 ---
 Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
-date: 2025-02-21
+date: 2025-02-22
 ---
 # Cannula Selection
 
