@@ -7,7 +7,7 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
-date: 2025-02-21
+date: 2025-02-26
 ---
 > [!NOTE] Clinical Excellence Commission Post Fall Guide
 > https://www.cec.health.nsw.gov.au/__data/assets/pdf_file/0003/258465/Post-Fall-Guide.pdf
@@ -228,5 +228,6 @@ date: 2025-02-21
 	- Common fractures: Colles', femoral neck, pubic rami, spinal crush, rib and humeral neck
 	- Fear, loss of confidence and independence, loss of mobility → arrange physiotherapy and occupational therapy consultation
 - Consider referring to other teams such as falls clinic and ASET
+- Always organise a CT brain for all unwitnessed falls
 # Resources
 - My notes from medical school: https://mango-cellar-b90.notion.site/Approach-to-a-pre-syncope-syncope-308c2fce084d467e9b2ebb7cc3afb6a5

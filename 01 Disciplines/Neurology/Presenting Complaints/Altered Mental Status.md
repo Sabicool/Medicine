@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-date: 2025-02-21
+date: 2025-02-26
 aliases:
   - Depressed Consciousness
   - Delirium
@@ -137,6 +137,7 @@ aliases:
 		- Define acceptable and unacceptable behaviour and their likely consequences
 		- Speak firmly with courtesy and respect and address immediate concerns
 		- Explain what is happening at all times to the patient
+	- Call the registrar, geriatrics or team on call before using physical or chemical restraints
 	- Physical restraint
 		- A show of force with ideally five security personnel aims to encourage the patient to accept reasoning
 		- Have at least one person per limb plus one controlling the head
