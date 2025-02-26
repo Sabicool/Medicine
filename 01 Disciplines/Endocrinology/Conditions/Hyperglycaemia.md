@@ -2,7 +2,7 @@
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
-date: 2025-01-28
+date: 2025-02-26
 ---
 # Phone Call/Presentation Questions
 - Type 1 or Type 2 diabetic?
@@ -35,3 +35,7 @@ date: 2025-01-28
 	- Does the patient need to change insulin regime?
 	- Who is follow up diabetes management
 	- What is his Hba1c
+- Other considerations
+	- If renal function is low, insulin takes longer to act
+	- If type 1 diabetic, always measure ketones
+		- If ketones are high, do a VBG to assess if they are acidotic

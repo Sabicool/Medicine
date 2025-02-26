@@ -3,12 +3,13 @@ aliases:
   - Dyspnoea
   - Cough
   - Haemoptysis
+  - SOB
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Respiratory|Respiratory]]"
   - "[[02 Rotations/Cardiology|Cardiology]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
-date: 2025-01-01
+date: 2025-02-26
 ---
 # Phone Call/Presentation Questions
 - Reason for admission

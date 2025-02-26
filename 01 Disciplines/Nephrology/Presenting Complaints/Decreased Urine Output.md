@@ -4,7 +4,7 @@ Rotations:
 aliases:
   - Low urine output
   - Oliguria
-date: 2025-02-14
+date: 2025-02-26
 ---
 # Phone Call/Presentation Questions
 - What is the urine output? (How much urine has been passed in the past 24 hours)
@@ -190,6 +190,8 @@ date: 2025-02-14
 	- Severe and symptomatic metabolic acidosis (pH <7.1)
 	- Fluid overload unresponsive to diuretics
 	- Uraemic encephalopathy with symptoms of decreased mental status, obtundation and seizures or uraemic pericarditis
+# Other Considerations
+- Consider getting the nursing staff to do a two hourly bladder scan
 # Footnotes
 
 [^1]: Source: https://dermnetnz.org/topics/livedo-reticularis
