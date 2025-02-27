@@ -40,6 +40,7 @@ date: 2025-01-13
     - [[Arrhythmias]]
     - [[Chest Pain]]
     - [[Collapse, Syncope, Mechanical Falls]]
+    - [[Febrile Patient]]
     - [[Otalgia]]
     - [[Shortness of Breath, Cough and Haemopytsis]]
 

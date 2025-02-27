@@ -10,6 +10,7 @@ date: 2025-01-15
     - [[Otitis Media]]
 
 - Presenting Complaints: 
+    - [[Febrile child]]
     - [[Otalgia]]
 
 - Topics: 
