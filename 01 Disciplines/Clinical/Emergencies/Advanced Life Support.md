@@ -5,8 +5,11 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
 aliases:
   - ALS
-date: 2025-01-23
+date: 2025-02-27
 ---
+# ALS Algorithm
+![[Pasted image 20250227130949.png]]
+
 # Shockable Rhythms
 - The only two shockable rhythms are[^1]:
 	1. Ventricular fibrillation
