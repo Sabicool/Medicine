@@ -2,7 +2,7 @@
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
-date: 2025-02-26
+date: 2025-02-28
 ---
 # Phone Call/Presentation Questions
 - Type 1 or Type 2 diabetic?
@@ -25,6 +25,7 @@ date: 2025-02-26
 - Consider if the patient has been recently commenced on steroids (e.g. respiratory conditions)
 - Ask the nurses to check BSLs again in 2 hours as Novorapid halfe life of 2-4 hours
 # Management
+- Use thinksulin app
 - Short term
 	- Start novorapid
 - Medium term
