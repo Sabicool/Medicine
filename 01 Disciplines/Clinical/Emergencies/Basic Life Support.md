@@ -4,7 +4,7 @@ Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
 aliases:
   - BLS
-date: 2025-01-23
+date: 2025-03-03
 ---
 ![](Attachments/Pasted%20image%2020241212215451.png)
 - In an unresponsive patient with no signs of life; commence CPR and call the MET
@@ -15,12 +15,15 @@ date: 2025-01-23
 # Breathing
 - Assess work and efficacy of breathing including pulse oximetry
 - Give oxygen and provide assisted ventilation if ventilatory failure present
-- Assess breathing using RATES:
-	- Respiratory rate over 1 minute
-	- Auscultation
-	- Trachea position
-	- Effort
-	- Sats probe
+- Aim for sats of 94-98% with oxygen in ACS
+
+> [!NOTE] RATES 
+> - Respiratory rate over 1 minute
+> - Auscultation
+> - Trachea position
+> - Effort
+> - Sats probe
+
 - See [Acute Respiratory Failure](01%20Disciplines/Respiratory/Emergencies/Acute%20Respiratory%20Failure.md)
 # Circulation
 - Recheck vital signs
@@ -31,16 +34,21 @@ date: 2025-01-23
 	- Commence fluids and haemodynamic support if evidence of circulatory failure
 	- Give 20 mL/kg IV fluid rapidly if hypovolaemic shock
 - Optimise abnormal cardiac rhythm with cardioversion, pacing or antiarrhythmic agent
-- See [Acute Circulatory Failure](01%20Disciplines/Clinical/Emergencies/Shock.md)
 
+> [!NOTE] Circulation Assessment
+> - ECG/Defibrillation pads
+> - BP
+> - IV access and bloods
+> - Capillary refill
+> - Other (JVP, drains, mucous membranes)
+
+- See [Acute Circulatory Failure](01%20Disciplines/Clinical/Emergencies/Shock.md)
 # Disability
 - Disability
 - Dextrose
 - Drugs
 - Documentation
 - Attach defibrillator
-
-## Disability
 - Assess for depressed [GCS](00%20Reference/Clinical/Glasgow%20Coma%20Scale.md)
 	- GCS ≤8 indicates inadequate airway protection
 - Note pupil size and lateralising signs
