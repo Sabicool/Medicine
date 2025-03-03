@@ -42,6 +42,8 @@ date: 2025-03-03
 - Non shockable rhythms is basically anything not shockable:
 	- Asystole
 	- Pulseless electrical activity
+- Dump the charge
+- Check patient for ROSC
 - Check that the leads are connected, the monitor gain is turned up and/or try a different lead
 - Continue CPR
 - **Obtain IV access and administer adrenaline 1 mg immediately**
