@@ -5,7 +5,7 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
 aliases:
   - ALS
-date: 2025-02-27
+date: 2025-03-03
 ---
 # ALS Algorithm
 ![[Pasted image 20250227130949.png]]
@@ -100,6 +100,7 @@ date: 2025-02-27
 	- Monitor ABG and titrate inspired oxygen to achieve oxygen saturations of 94-98%
 	- Ensure ETT is correctly positioned and secure and organise an immediate CXR
 	- Place NG tube to decompress the stomach if the patient is still comatose and/or intubated, confirming again with the CXR
+- A->E assessment (including GCS)
 - Maintain cerebral perfusion
 	- Maintain SBP >100 mmHg
 	- May require intermittent boluses of adrenaline 50-100 microgramss iV or an adrenaline infusion under close supervision
