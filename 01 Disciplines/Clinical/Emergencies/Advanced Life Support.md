@@ -5,7 +5,7 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
 aliases:
   - ALS
-date: 2025-03-03
+date: 2025-03-04
 ---
 # ALS Algorithm
 ![[Pasted image 20250227130949.png]]

@@ -4,7 +4,7 @@ Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
 aliases:
   - BLS
-date: 2025-03-03
+date: 2025-03-04
 ---
 ![](Attachments/Pasted%20image%2020241212215451.png)
 - In an unresponsive patient with no signs of life; commence CPR and call the MET
