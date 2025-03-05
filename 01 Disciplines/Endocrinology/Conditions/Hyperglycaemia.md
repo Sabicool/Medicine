@@ -2,7 +2,7 @@
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
-date: 2025-02-28
+date: 2025-03-05
 ---
 # Phone Call/Presentation Questions
 - Type 1 or Type 2 diabetic?
@@ -23,7 +23,7 @@ date: 2025-02-28
 - The thinksulin app can guide on charting insulin if the patient is hyperglycaemic with no insulin PRN charted
 - Check ketones if BSL >20
 - Consider if the patient has been recently commenced on steroids (e.g. respiratory conditions)
-- Ask the nurses to check BSLs again in 2 hours as Novorapid halfe life of 2-4 hours
+- Ask the nurses to check BSLs again in 2 hours as Novorapid half life of 2-4 hours
 # Management
 - Use thinksulin app
 - Short term
