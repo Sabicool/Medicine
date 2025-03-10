@@ -40,3 +40,19 @@ date: 2025-03-10
 > 	- Tabes dorsalis
 > - Thoracolumbar spine
 > 	- Collapsed/fractured vertebra from osteoporosis, neoplasm or infection (e.g. TB)
+
+> [!NOTE] Surgical Causes of Acute Abdominal Pain
+> - Gastrointestinal
+> 	- Oesophageal cancer
+> 	- Gastric cancer
+> 	- Gallbladder: biliary colic, acute cholecystitis, ascending cholangitis
+> 	- Pancreatitis
+> 	- Liver: subphrenic abscess, hepatic abscess
+> 	- Spleen: rupture, abscess
+> 	- Small intestine: intussusception, obstruction, perforation, ischaemia
+> 	- Large intestine: obstruction, perforation, diverticulitis, ischaemic colitis
+> 	- Appendix: appendicitis, appendacaecal abscess
+> 	- Mesenteric adenitis
+> 	- Hernia
+> - Urological
+> 	- 
