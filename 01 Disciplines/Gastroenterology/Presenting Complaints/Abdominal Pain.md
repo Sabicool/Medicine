@@ -55,4 +55,8 @@ date: 2025-03-10
 > 	- Mesenteric adenitis
 > 	- Hernia
 > - Urological
+> 	- Renal: renal colic, ureteric colic
+> 	- Bladder: urinary retention
+> 	- Testicles: torsion, epididymitis, cancer
+> - Vascular:
 > 	- 
