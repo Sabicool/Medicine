@@ -59,4 +59,5 @@ date: 2025-03-10
 > 	- Bladder: urinary retention
 > 	- Testicles: torsion, epididymitis, cancer
 > - Vascular:
-> 	- 
+> 	- AAA
+
