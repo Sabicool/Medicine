@@ -1,5 +1,5 @@
 ---
-date: 2025-03-24
+date: 2025-03-25
 ---
 # Job Pre-Empting
 - Prep discharges
@@ -7,6 +7,6 @@ date: 2025-03-24
 - Chasing (i.e. people dependent jobs)
 - Optimising your favourites and auto-texts
 - Help your peers
-# Personal Pre-Empting
+# Personal Tasks
 - Study/career stuff
 - Life/career admin
