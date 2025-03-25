@@ -14,6 +14,8 @@ Documentation:
 - Select adult inpatient on the dropdown box and go through the list
 - Make sure to dose reduce heparin for renal function, over 75 year olds and low weight
 - Look at the anticoagulation guidelines on the intranet
+	- Policies and procedures (on the right side in red)
+	- Search anticoagulation
 - Risk factors for bleeding:
 	- Older age (> 65 years and especially > 75 years)
 	- Active bleeding or recent bleeding within last 30 days
@@ -26,3 +28,4 @@ Documentation:
 	- Concurrent antiplatelet therapy or thrombocytopenia
 	- DM, previous stroke, anaemia
 	- Frequent falls, reduced functional capacity
+- VTE patient education -> Goshare patient education
