@@ -1,5 +1,5 @@
 ---
-date: 2025-01-28
+date: 2025-03-27
 ---
 # Things to Bring
 - Medications list including dosages (see [[03 Medications/index|Medications Folder]]); some handy medications include: ![[03 Medications/index#^handy-medications|index]]
@@ -58,3 +58,11 @@ date: 2025-01-28
 - People involved in your desired training
 - Signer of overtime
 - Medical officer's association
+# Receiving a Handover
+- Make sure you get proxied the list
+- Inpatients:
+	- Outstanding jobs
+	- Common reviews
+	- Discharges have been prepped
+- Get all contacts for consultants and other team members (fellows, regs, srmos etc) as well as other departments (e.g. home team clinic, private room details)
+- 
