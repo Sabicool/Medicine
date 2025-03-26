@@ -65,4 +65,14 @@ date: 2025-03-27
 	- Common reviews
 	- Discharges have been prepped
 - Get all contacts for consultants and other team members (fellows, regs, srmos etc) as well as other departments (e.g. home team clinic, private room details)
-- 
+- Daily schedule
+	- Start times and location of the ward round
+	- Consultant ward round times
+	- Clinic meeting times
+	- Afternoon handover times
+	- General order of the day
+- Jobs
+	- Check if there are any Templates you can inherit, forms you need to keep, Bloods customarily ordered and frequency, special Investigations/Medications (standard doses) usually ordered and any other painful matters
+- Peri-procedural actions (e.g. ordering group and hold, coags, bowel prep for endoscopy in gastro teams)
+# Giving Handover
+- Consider handover for each patient: reason for admission, major comorbiditieis/clinical contexts if relevant, something about progress if extended admission, main current issues and plan/outstanding jobs/barriers to discharge
