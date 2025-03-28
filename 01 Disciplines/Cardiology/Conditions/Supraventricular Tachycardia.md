@@ -3,7 +3,7 @@ aliases:
   - SVT
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
-date: 2025-01-11
+date: 2025-03-29
 ---
 # Management
 - Treatment of narrow-complex SVT is the same, irrespective of whether WPW is present (unlike SVT with aberrancy i.e. wide complex SVT))
@@ -14,7 +14,7 @@ date: 2025-01-11
 	- Attach the ECG monitor/defibrillator to the patient and confirm the rhythm
 	- Prepare procedural sedation such as propofol 200mg in 20mL IV and call an anaesthetist
 	- Once senior assistance is present, the treatment of choice is synchronised DC cardioversion beginning with 70-120J (biphasic) repeated up to three times
-- Stable SVT
+- Stable SVT (as in [[AV Nodal Re-entry Tachycardia|AVNRT]] or AVRT)
 	- Vagal manoeuvres
 		- Valsalva maneuvre: 
 			1. Place the patient in the Trendelenburg (foot of the bed up) position on a trolley
