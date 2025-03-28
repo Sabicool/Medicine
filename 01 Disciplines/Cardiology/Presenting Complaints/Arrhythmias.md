@@ -2,7 +2,7 @@
 Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
-date: 2025-01-01
+date: 2025-03-28
 ---
 # Tachyarrhythmias
 ## Phone Call/Presentation Questions
@@ -21,10 +21,15 @@ date: 2025-01-01
 	- Request the cardiac arrest trolley with defibrillator and resuscitation equipment be brought to the patient's bedside
 - See any patient with tachycardia and signs of circulatory compromise such as chest pain, SOB, hypotension or an altered mental status immediately; or if the HR >140 beats/min, as this will trigger a MET call
 ## Common Causes
+
+> [!NOTE] 
+> [[AV Nodal Re-entry Tachycardia|AVNRT]] is the most common cause of palpitations in patients with structurally normal hearts
+
 - Rapid regular heart rate
 	- Sinus tachycardia
 	- Atrial flutter (with constant AV conduction 2:1 or 3:1)
 	- Supraventricular tachycardia
+		- [[AV Nodal Re-entry Tachycardia]]
 	- Paroxysmal atrial tachycardia
 	- Junctional tachycardia
 	- Ventricular tachycardia
@@ -33,6 +38,7 @@ date: 2025-01-01
 	- Atrial flutter with variable AV conduction/block
 	- Multifocal atrial tachycardia
 	- Sinus tachycardia with PACs or PVCs
+
 ![[Pasted image 20241228233254.png]]
 ## Assessment
 ### End of Bed
