@@ -15,7 +15,7 @@ aliases:
 # Pathophysiology
 *The following is the pathophysiology for the 'slow-fast' varient of AVNRT*
 ![[Pasted image 20250328223924.png]]
-- Requires:
+- Requires two specific pathways within the AV node:
 	- Slow conducting pathway (alpha) with a short refractory period
 	- Fast conducting pathway (beta) with a long refractory period
 1. PAC arrives while fast pathway is refractory and goes down the slow pathway
@@ -39,5 +39,6 @@ aliases:
 > ![[Pasted image 20250329004452.png]]
 > - Here there is residual ST depression in inferior and lateral leads (V4-6) => patient had rate-related myocardial ischaemia
 
+![[AV Re-entry Tachycardia#Differentiating orthodromic AVRT and AVNRT|AVRT]]
 # Management
 - See [[Supraventricular Tachycardia#Management|SVT Management]]

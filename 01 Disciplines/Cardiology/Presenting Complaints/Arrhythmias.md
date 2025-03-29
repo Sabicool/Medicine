@@ -2,7 +2,7 @@
 Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
-date: 2025-03-28
+date: 2025-03-29
 ---
 # Tachyarrhythmias
 ## Phone Call/Presentation Questions
