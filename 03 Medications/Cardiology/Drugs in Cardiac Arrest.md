@@ -1,5 +1,5 @@
 ---
-date: 2025-01-11
+date: 2025-03-30
 Rotations:
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
@@ -21,9 +21,12 @@ Rotations:
 - Adverse effects: may worsen bradyarrhythmias
 - Cautions: Thrombophlebitis when injected into a peripheral vein. Not compatible with normal saline give with glucose 5%
 - Comments: Can be given via intraosseous route if IV access not available
+	- It is oily; shaking will cause bubbles and make it hard to draw up
 - Dose: Available in 150 mg ampoules. 
-	- Give ==300 mg IV by bolus injection over 1–2 min if VF/pVT persists after the 3rd shock== Repeat 150 mg dose in 3–5 min if VF/pVT persists
-	- **Give amiodarone 300 mg IV diluted in 5% dextrose up to 20 mL after the third shock**
+	- **Give amiodarone 300 mg (6mL) IV or IO diluted in 5% dextrose up to 20 mL over 1-2 mins after the third shock**
+		- Flush with 5% dextrose or 0.9% sodium chloride, minimum of 20mLs
+	- Repeat 150 mg dose in 3–5 min if VF/pVT persists
+	- An infusion may be ordered fter bolus dose(s) e.g. 15mg/kg over 24 hours
 # Calcium
 - Indication: Cardiac arrest associated with hyperkalaemia (not due to digoxin toxicity), hypocalcaemia, calcium-channel blocker toxicity
 - Cautions: Thrombophlebitis when injected into a peripheral vein. Not compatible with sodium bicarbonate → *Do not give calcium solutions and sodium bicarbonate simultaneously by the same route*
