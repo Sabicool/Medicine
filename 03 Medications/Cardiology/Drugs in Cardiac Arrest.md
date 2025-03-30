@@ -21,7 +21,7 @@ Rotations:
 - Adverse effects: may worsen bradyarrhythmias
 - Cautions: Thrombophlebitis when injected into a peripheral vein. Not compatible with normal saline give with glucose 5%
 - Comments: Can be given via intraosseous route if IV access not available
-	- It is oily; shaking will cause bubbles and make it hard to draw up
+		- It is oily; shaking will cause bubbles and make it hard to draw up
 - Dose: Available in 150 mg ampoules. 
 	- **Give amiodarone 300 mg (6mL) IV or IO diluted in 5% dextrose up to 20 mL over 1-2 mins after the third shock**
 		- Flush with 5% dextrose or 0.9% sodium chloride, minimum of 20mLs
