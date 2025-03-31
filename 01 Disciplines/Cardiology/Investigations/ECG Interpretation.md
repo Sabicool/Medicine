@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[02 Rotations/Cardiology|Cardiology]]"
-date: 2025-01-25
+date: 2025-03-31
 ---
 # Procedure
 - 3-electrode system (gives leads I, II and III)
