@@ -1,5 +1,5 @@
 ---
-date: 2025-03-29
+date: 2025-04-01
 ---
 # Appearance
 - Consider: age, gender, race/ethnicity, build, hair style & colour, grooming, posture, level of hygiene, mode of dress, apparent level of health, signs of AOD use
@@ -84,3 +84,5 @@ date: 2025-03-29
 
 # Sources
 - https://tnicholson2013.wordpress.com/wp-content/uploads/2014/01/msedvdbookletoct2011highresolution.pdf
+- ![[Pasted image 20250401125659.png]]
+	- https://psychscenehub.com/psychinsights/ten-point-guide-to-mental-state-examination-mse-in-psychiatry/
