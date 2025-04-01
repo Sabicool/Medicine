@@ -1,5 +1,8 @@
 ---
 date: 2025-04-01
+Rotations:
+  - "[[Psychiatry]]"
+  - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
 ---
 # Appearance
 - Consider: age, gender, race/ethnicity, build, hair style & colour, grooming, posture, level of hygiene, mode of dress, apparent level of health, signs of AOD use
@@ -80,7 +83,7 @@ date: 2025-04-01
 
 > [!Example] 
 > Lisa showed insight and judgement. She was willing to consider that the experiences she was having could be due to a recurrence of her mental illness and was agreeable to the Mental Health Service being contacted for further assessment. 
-
+- Intellectual insight is when they are aware of the harm/benefit of something (e.g. they know that alcohol is hurting them)
 
 # Sources
 - https://tnicholson2013.wordpress.com/wp-content/uploads/2014/01/msedvdbookletoct2011highresolution.pdf

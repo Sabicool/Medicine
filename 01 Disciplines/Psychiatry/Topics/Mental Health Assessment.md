@@ -1,40 +1,78 @@
 ---
 date: 2025-04-01
+Rotations:
+  - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
+  - "[[Psychiatry]]"
 ---
-# History
-- Demographics
-	- Living situation (e.g. who are you living with)
-	- Financial situation
- - History of presenting complaints (mood, psychosis, anxiety)
-	 - Mood: Can you tell me how has your mood been? How would you describe your mod?
-		 - Rate from 0 as suicidal, 10 as top of the world and 5 as average where would you rate yourself for *most of the time* over the past 2 weeks (or other time frame)
-	 - Psychosis
-		 - Hallucinations
-			 - Do you hear voices when there is nobody around
-			 - Do you hear voices which other people say they can't hear
-			 - Do you see things which other people can't see
-		 - Ask about any delusions
-		 - Look at oxford handbook of psychiatry for how to ask these questions
-	 - Anxiety
-- Self harm
-	- What was the intent? Lethality? Emotional Release?
-	- What were they thinking at the time
-	- What are your thoughts now (e.g. they are remorseful)
-- Past psychiatric history
-	- Do they agree with their psychiatric diagnoses
-	- Past hospitalisations
-		- Longest admission => gives an indication of complexity of their psychiatric illness
-	- Community treatment
-	- History of compliance
-	- Voluntary or involuntary treatment
-- Physical health
-	- Psychiatric patients have poor physical health outcomes
-- Substance use
-	- Specifically ask for marijuanna as the population may not think of them when thinking about illicit drugs
-- Current medications (compliance, efficacy, tolerability)
-- Legal issues
-- Personal history
-
-Mental State Examination
-Risk
-Managment Plan
+- History
+	- Demographics
+		- Living situation (e.g. who are you living with)
+		- Financial situation
+	 - History of presenting complaints (mood, psychosis, anxiety)
+		 - Mood: Can you tell me how has your mood been? How would you describe your mod?
+			 - Rate from 0 as suicidal, 10 as top of the world and 5 as average where would you rate yourself for *most of the time* over the past 2 weeks (or other time frame)
+		 - Psychosis
+			 - Hallucinations
+				 - Do you hear voices when there is nobody around
+				 - Do you hear voices which other people say they can't hear
+				 - Do you see things which other people can't see
+			 - Ask about any delusions
+			 - Look at oxford handbook of psychiatry for how to ask these questions
+		 - Anxiety
+	- Self harm
+		- What was the intent? Lethality? Emotional Release?
+		- What were they thinking at the time
+		- What are your thoughts now (e.g. they are remorseful)
+	- Past psychiatric history
+		- Do they agree with their psychiatric diagnoses
+		- Past hospitalisations
+			- Longest admission => gives an indication of complexity of their psychiatric illness
+		- Community treatment
+		- History of compliance
+		- Voluntary or involuntary treatment
+	- Physical health
+		- Psychiatric patients have poor physical health outcomes
+	- Substance use
+		- Specifically ask for marijuanna as the population may not think of them when thinking about illicit drugs
+	- Current medications (compliance, efficacy, tolerability)
+	- Legal issues
+	- Personal history
+- [[Mental State Examination]]
+- Risk
+	- Physical harm to self
+	- Physical harm to others
+	- Harm to health
+	- Harm to finances
+	- Harm to relationships
+		- Exercise caution with patients who express delusions regarding their partner's infidelity (significant risk to their partner)
+	- Risks due to driving
+	- Risk to children / spouse
+	- Harm through exploitation
+	- Harm to reputation
+	- Corporate risk
+- Management Plan
+	- Biological treatments
+		- Antidepressants
+		- Antipsychotics
+		- Mood stabilisers
+		- Electroconvulsive therapy
+		- Transcranial magnetic stimulation
+	- Psychological treatments
+		- Brief cognitive behavioural therapy
+		- Formal cognitive behavioural therapy
+		- Interpersonal therapy
+		- Mindfulness
+		- Acceptance and commitment therapy
+		- Schema therapy
+	- Social treatments
+	- Lifestyle treatments
+	- Mental Health Act
+		- Schedule 1: Form 1
+			- Mentally ill:
+				- Delusions
+				- Hallucinations
+				- Serious disorder of thought form
+				- Severe disturbance of mood
+				- Sustained or repeated irrational behaviour indicating the presence of any one or more of the symptoms above
+			- Mentally disordered:
+				- Whose behaviour for the time being is so irrational as to justify a conclusion on reasonable grounds that temporary care, treatment or control of the person is necessary for the person's own harm from serious physical harm or for the protection of others from serious physical harm

@@ -45,6 +45,8 @@ date: 2025-01-13
     - [[Shortness of Breath, Cough and Haemopytsis]]
 
 - Topics: 
+    - [[Mental Health Assessment]]
+    - [[Mental State Examination]]
     - [[Paediatric Pain Management]]
     - [[Pain Management]]
 
