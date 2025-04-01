@@ -67,7 +67,7 @@ Rotations:
 	- Social treatments
 	- Lifestyle treatments
 	- Mental Health Act
-		- Schedule 1: Form 1
+		- Schedule 1: (12 hours)
 			- Mentally ill:
 				- Delusions
 				- Hallucinations
