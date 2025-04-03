@@ -5,7 +5,7 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
 aliases:
   - ALS
-date: 2025-03-04
+date: 2025-04-04
 ---
 # ALS Algorithm
 ![[Pasted image 20250227130949.png]]
@@ -65,6 +65,7 @@ date: 2025-03-04
 		- Give fluid/blood replacement rapidly if hypovolaemia is likely and alert the relevant surgeon and theatre
 	- Hyper/hypokalaemia, hypocalcaemia, acidaemia and other metabolic disorders
 		- Give 10-20 mL of 10% calcium chloride solution IV immediately for hyperkalaemia (e.g. in renal patient who has a cardiac arrest)
+			- Do not give calcium solutions and sodium bicarbonate simultaneously by the same route, establish a second IV line
 		- Consider 50 mL of 8.4% $\ce{NaHCO3-}$ if the patient is severely acidaemic (pH<6.8) and is undergoing prolonged resuscitation or post-resuscitation care; or if there is hyperkalaemia
 	- Hypothermia
 		- Check core temperature 
