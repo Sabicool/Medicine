@@ -42,8 +42,4 @@ date: 2025-01-13
 <!-- SerializedQuery: list from "03 Medications" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) sort file.name asc -->
 - [[Antiarrhythmics]]
 - [[Drugs in Cardiac Arrest]]
-- [[up of Antiarrhythmics]]
-- [[up of Antiarrhythmics 1]]
-- [[up of Antiarrhythmics 2]]
-- [[up of Antiarrhythmics 3]]
 <!-- SerializedQuery END -->
