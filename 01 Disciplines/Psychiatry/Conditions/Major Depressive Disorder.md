@@ -1,5 +1,7 @@
 ---
-date: 2025-01-17
+date: 2025-04-11
+aliases:
+  - Depression
 ---
 # DIagnostic Criteria
 - ≥5 of the following symptoms nearly every day during the same 2 week period (at least one symptom is either depressed mood or anhedonia):
