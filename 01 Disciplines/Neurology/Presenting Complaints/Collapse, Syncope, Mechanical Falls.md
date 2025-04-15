@@ -7,7 +7,7 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
-date: 2025-02-26
+date: 2025-04-15
 ---
 > [!NOTE] Clinical Excellence Commission Post Fall Guide
 > https://www.cec.health.nsw.gov.au/__data/assets/pdf_file/0003/258465/Post-Fall-Guide.pdf
@@ -124,6 +124,12 @@ date: 2025-02-26
 - Check for head or neck injury, as spinal immobilisation may be needed
 - Move onto selective history and examination if the patient has fully recovered from the syncopal episode, has a normal ECG and normal vital signs
 # Selective History and Chart Review
+- Can consider asking the 5P's:
+	- Precipitant
+	- Prodrome
+	- Position
+	- Palpitations
+	- Post-event phenomena
 - Previous syncopal episode?
 	- Ask if the patient has ever had a previous syncopal episode
 	- Ask whether these previous episodes have been documented investigated or diagnosed
