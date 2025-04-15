@@ -1,7 +1,7 @@
 ---
 aliases:
   - PE
-date: 2025-01-25
+date: 2025-04-15
 ---
 # Presentation
 - See: [[Shortness of Breath, Cough and Haemopytsis|Dyspnoea]]
@@ -28,9 +28,10 @@ date: 2025-01-25
 > Only send a D-dimer test in 
 > - Patients ≥50 years with a low pre-test probability or
 > - In any patient <50 with a low pre-test probability but who fails to fulfil one or more PERC criteria
-> 	- If all PERC criteria are fulfilled, the patients does not ahve a PE and does not need a D-dimer test sent
+> 	- If all PERC criteria are fulfilled, the patients does not have a PE and does not need a D-dimer test sent
 
 ![[Pasted image 20241220001259.png]]
+![[Pasted image 20250415182950.png]]
 - Arrange a CTPA or V/Q scan in:
 	- All patients with a high or intermediate pre-test probability
 	- Those with a positive D-dimer
