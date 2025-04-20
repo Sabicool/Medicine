@@ -4,7 +4,7 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
 aliases:
   - ACS
-date: 2025-04-06
+date: 2025-04-19
 ---
 # Risk factors
 - Increased risk of ACS with central obesity, autoimmune conditions, chronic renal disease, diabetes and HIV
@@ -33,6 +33,7 @@ date: 2025-04-06
 
 As from: [PASCA ACS Flowchart](https://aci.health.nsw.gov.au/__data/assets/pdf_file/0003/824142/Pathway-for-Acute-Coronary-Syndrome-Assessment-PACSA-flow-chart-SAMPLE.pdf) and [PASCA STEMI Flowchart](https://aci.health.nsw.gov.au/__data/assets/pdf_file/0019/824140/PACSA-STEMI-Reperfusion-flow-chart-SAMPLE.pdf)
 
+- ![[Pasted image 20250419231258.jpg]]
 ### Other STEMI
 - In patients with inferior STEMI, RV infarction is suggested by:
 	- ST elevation in V1

@@ -1,7 +1,7 @@
 ---
 Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
-date: 2025-01-08
+date: 2025-04-19
 ---
 # Presentation
 - Pain is sharp, retrosternal and radiates to the back; worse on inspiration, swallowing or lying down and relieved by sitting up
@@ -13,6 +13,7 @@ date: 2025-01-08
 	- Pericardial rubs on auscultation
 	- New widespread ST elevation or PR depression on ECG
 	- Pericardial effusion (new or worsening)
+- ![[Pasted image 20250419231258.jpg]]
 # Management
 - Attach cardiac monitoring and pulse oximeter to the patient
 - Send bloods for FBC, UEC, LFTs, troponin and viral serology
