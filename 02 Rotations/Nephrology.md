@@ -9,6 +9,7 @@ date: 2025-01-13
 
 - Presenting Complaints: 
     - [[Decreased Urine Output]]
+    - [[Haematuria]]
     - [[Urinary Frequency and Polyuria]]
 
 <!-- SerializedQuery END -->

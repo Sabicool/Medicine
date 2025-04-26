@@ -18,6 +18,7 @@ date: 2025-01-13
 
 - Investigations: 
     - [[Blood Gas Interpretation]]
+    - [[Spirometry]]
 
 - Presenting Complaints: 
     - [[Hiccups]]

@@ -1,8 +1,14 @@
 ---
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
-date: 2025-01-17
+  - "[[02 Rotations/Neurology|Neurology]]"
+date: 2025-04-26
 ---
+# Procedure
+Need separate tube for alzheimers
+Wrap SAH tap in aluminium foil after collecting
+
+Average patient needs 1/2 to 3/4 of a 9cm long needle
 # Results Interpretation
 - Request PCR on CSF to diagnose viral [[Meningitis]]
 - Typical features of bacterial [[Meningitis]] include:

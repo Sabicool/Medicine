@@ -1,5 +1,5 @@
 ---
-date: 2025-01-29
+date: 2025-04-26
 ---
 - Ceftriaxone
 - Metronidazole
@@ -14,3 +14,4 @@ date: 2025-01-29
 - Vancomycin
 - Tazocin
 - Flucloxacillin
+![[Pasted image 20250426141210.png]]

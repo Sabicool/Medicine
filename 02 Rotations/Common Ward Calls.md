@@ -27,6 +27,7 @@ date: 2025-02-26
     - [[Collapse, Syncope, Mechanical Falls]]
     - [[Decreased Urine Output]]
     - [[Febrile Patient]]
+    - [[Haematuria]]
     - [[Shortness of Breath, Cough and Haemopytsis]]
     - [[Urinary Frequency and Polyuria]]
 
