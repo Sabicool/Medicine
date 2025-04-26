@@ -1,5 +1,5 @@
 ---
-date: 2025-03-30
+date: 2025-04-26
 Rotations:
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
@@ -15,6 +15,8 @@ Rotations:
 		- IV infusion: ==1-4mcg/min==; seek specialist advice
 	- Child:
 		- IV, intraosseous: ==10mcg/kg (max: 1mg as single dose)== repeat every 3-5 min
+
+![[Pasted image 20250426204816.png]]
 # Amiodarone
 - Also see: [[Antiarrhythmics]]
 - Indication: Cardiac arrest—give following 3rd shock in refractory VF/pVT
