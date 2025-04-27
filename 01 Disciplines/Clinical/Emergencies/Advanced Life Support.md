@@ -47,7 +47,7 @@ date: 2025-04-27
 - Recommence CPR immediately after shock delivery: *state loudly: Recommence CPR*
 	- **Do not check for rhythm or pulse and just recommence CPR immediately**
 - Reassess patient and monitor rhythm after one cycle (five sets of 30 compressions:2 breaths over 2 minutes); remember to state *prepare to defibrillate* and apply coached mnemonic above
-- Repeat a single shock (200J biphasic or 360J monophasic) if there is persistent VF or pVT
+- Repeat a single shock (200J biphasic or 360J monophasic) if there is persistent VF or pVT, **consider increasing to 360J for the second shock**
 - **Obtain IV access and administer adrenaline 1 mg IV after the second shock**
 - Continue the reassess-defibrillate-CPR cycle
 - **Give amiodarone 300 mg IV diluted in 5% dextrose up to 20 mL after the third shock**
