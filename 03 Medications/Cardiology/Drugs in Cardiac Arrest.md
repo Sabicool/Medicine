@@ -1,5 +1,5 @@
 ---
-date: 2025-04-26
+date: 2025-04-27
 Rotations:
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
@@ -28,13 +28,17 @@ Rotations:
 	- **Give amiodarone 300 mg (6mL) IV or IO diluted in 5% dextrose up to 20 mL over 1-2 mins after the third shock**
 		- Flush with 5% dextrose or 0.9% sodium chloride, minimum of 20mLs
 	- Repeat 150 mg dose in 3–5 min if VF/pVT persists
-	- An infusion may be ordered fter bolus dose(s) e.g. 15mg/kg over 24 hours
+	- An infusion may be ordered after bolus dose(s) e.g. 15mg/kg over 24 hours
+
+![[Pasted image 20250427123044.png]]
 # Calcium
 - Indication: Cardiac arrest associated with hyperkalaemia (not due to digoxin toxicity), hypocalcaemia, calcium-channel blocker toxicity
 - Cautions: Thrombophlebitis when injected into a peripheral vein. Not compatible with sodium bicarbonate → *Do not give calcium solutions and sodium bicarbonate simultaneously by the same route*
-- Comments: Can be given via intraosseous route if IV access not available
+- Comments: Can be given via intraosseous route if IV access not available; flush well after use
 - Dose: Available as 10% calcium chloride (6.8 mmol in 10 mL) and 10% calcium gluconate (2.2 mmol in 10 mL) ampoules
 	- Cardiac arrest: 10 mL of Ca chloride or 30 mL of Ca gluconate as rapid IV bolus. Repeat in 3–5 min if no response
+
+![[Pasted image 20250427123204.png]]
 # Lignocaine
 - Indication: Cardiac arrest -> give following 3rd shock in refractory VF/pVT if amiodarone unavailable
 - Actions: Membrane-stabilising antiarrhythmic
@@ -42,14 +46,27 @@ Rotations:
 - Comments: Can be given via intraosseous route if IV access not available
 - Dose: Available 100mg ampoules or rapid access syringes
 	- Cardiac arrest: 100mg rapid IV bolus. Repeat in 3-5 min if no response
+
+![[Pasted image 20250427123312.png]]
 # Magnesium
 - Indication: Cardiac arrest associated with hypomagnesaemia, torsades de points or digoxin toxicity; third line agent in refractory VF/pVT
 - Comments: Can be given intraosseous route if IV access not available
 - Dose: Available as 0% magnesium sulfate ampoules (2.g/10mmol in 5mL)
 	- Cardiac arrest: 10mmol rapid IV bolus. Repeat in 3-5 minutes if no response
+
+![[Pasted image 20250427123451.png]]
 # Sodium Bicarbonate
-- Indication: Cardiac arrest assocaited with hyperkalaemia, sodium channel blocker activity toxicity (TCA overdose) or severe metabolic acidosis
+- Indication: Cardiac arrest assocaited with hyperkalaemia, sodium channel blocker activity toxicity (TCA overdose) or severe metabolic acidosis, protracted arrest (>15 minutes)
 - Cautions: Not compatiable with calcium -> Do not give simultaneously by the same route
 - Comments: Can be given via intraosseous route if IV access not available
 - Dose: Available in 100mL of 8.4% (100mmol) ampoules or 50mL of 8.4% (50mmol) rapid-access syringes
 	- Cardiac arrest: 50mmol rapid IV bolus. Repeat in 3-5 min if no response
+
+![[Pasted image 20250427123823.png]]
+# Potassium
+- Indication: Persistent VF, documented hypokalaemia
+- Dose: Bolus of 5mmol is given IV or IO
+
+![[Pasted image 20250427123615.png]]
+# Vasopressin
+![[Pasted image 20250427123918.png]]
