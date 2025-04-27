@@ -22,7 +22,6 @@ date: 2025-04-27
 	- Shave off excessive hair
 # Rhythm Assessment
 
-
 # Shockable Rhythms
 - The only two shockable rhythms are[^1]:
 	1. Ventricular fibrillation
@@ -92,18 +91,28 @@ date: 2025-04-27
 	- **Hypoxaemia**: Deliver high-flow 100% oxygen and ensure ventilations create a visible rise and fall of both sides of the chest
 	- **Hypovolaemia**: Severe blood loss following surgery or internal haemorrhage and volume loss in anaphylaxis or sepsis may cause cardiac arrest
 		- Give fluid/blood replacement rapidly if hypovolaemia is likely and alert the relevant surgeon and theatre
+		- In the initial stages of resuscitation there are no clear advantages to using colloid: Use saline or Hartmann's solution; Hartmann's solution is preferred in trauma cases
 		- Ensure that the fluids are actually running
 	- **Hyper/hypokalaemia, hypocalcaemia, acidaemia and other metabolic disorders**
 		- Give 10-20 mL of 10% calcium chloride solution IV immediately for hyperkalaemia (e.g. in renal patient who has a cardiac arrest)
 			- Do not give calcium solutions and sodium bicarbonate simultaneously by the same route, establish a second IV line
 		- Consider 50 mL of 8.4% $\ce{NaHCO3-}$ if the patient is severely acidaemic (pH<6.8) and is undergoing prolonged resuscitation or post-resuscitation care; or if there is hyperkalaemia
 	- **Hypothermia**
-		- Check core temperature 
+		- Check core temperature
+		- Warm blankets, bair hugger, administration of warmed IV fluids, irrigation or gastric lavage with warmed fluids, bladder irrigation with warmed fluids
+		- Defibrillation cannot be performed on a patient with a core temperature ≤30°C; only CPR can be performed
+		- In patients <30°C; adrenaline administration time doubles (every 8 minutes) as reduced liver metabolism can cause adrenaline to accumulate
 	- **Tension pneumothorax**
 		- Usually traumatic, particularly when the patient has positive-pressure ventilation
 		- Immediately insert a needle into the chest to decompress if there are asymmetrical chest movements and ventilation requires high pressures
+		- Immediate preparation for insertion of an intercostal drain/catheter is required
 	- **Tamponade**
 		- Usually traumatic but may follow cardiothoracic surgery, MI etc.
+		- Signs include:
+			- Presence of elevated central venous pressure with neck vein distention
+			- Muffled heart signs
+			- Hypotension
+		- Intra-arrest ultrasound may be used to confirm diagnosis; freeze the image to avoid interrupting CPR as much as possible
 		- Perform pericardiocentesis if the patient is in cardiac arrest or peri-arrest
 		- Traumatic usually requires an emergency thoracotomy
 	- **Toxins/poisons/drugs**
