@@ -1,5 +1,5 @@
 ---
-date: 2025-04-01
+date: 2025-05-08
 Rotations:
   - "[[Psychiatry]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
@@ -38,7 +38,13 @@ Rotations:
 - How does the patient describe his/her emotional state (mood)?
 - What do you observe about the patient's emotional state (affect)?
 	- Consider: depressed, anxious, angry, labile, inappropriate, high or elevated
-
+- High mood:
+	- Cheerful
+	- Happy
+	- Jovial
+	- Euphoric
+	- Elated
+	- Ecstatic
 > [!Example] 
 > Lisa’s mood was not depressed or elevated but she appeared anxious, fearful and agitated.
 
