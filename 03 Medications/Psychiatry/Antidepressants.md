@@ -1,7 +1,7 @@
 ---
 Rotations:
   - "[[Psychiatry]]"
-date: 2025-05-10
+date: 2025-05-23
 ---
 ![[Pasted image 20250423195607.png]]
 # SSRI

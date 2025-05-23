@@ -12,6 +12,7 @@ date: 2025-05-23
 ### Bloods
 - Consider performing an ABG
 	- Do not routinely unless pulse oximetry is reliable or demonstrates unexplained hypoxia on room air
+	- Low Pa$\ce{O2}$, Low $\ce{CO2}$, High pH
 	- Characteristic findings include acute respiratory alkalosis, or hypoxia and a raised A-a gradient
 - D-dimer
 	- Age adjusted cutoff 0.01 x age if >50 y/o
