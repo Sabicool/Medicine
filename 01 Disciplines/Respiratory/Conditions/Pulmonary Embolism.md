@@ -1,7 +1,7 @@
 ---
 aliases:
   - PE
-date: 2025-04-15
+date: 2025-05-23
 ---
 # Presentation
 - See: [[Shortness of Breath, Cough and Haemopytsis|Dyspnoea]]
