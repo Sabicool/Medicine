@@ -13,6 +13,8 @@ date: 2025-05-23
 - Consider performing an ABG
 	- Do not routinely unless pulse oximetry is reliable or demonstrates unexplained hypoxia on room air
 	- Characteristic findings include acute respiratory alkalosis, or hypoxia and a raised A-a gradient
+- D-dimer
+	- Age adjusted cutoff 0.01 x age if >50 y/o
 ### ECG
 - Significant PE may cause right axis deviation and right BBB but most common sign is sinus tachycardia (S1Q3T3 is neither specific nor sensitive for PE)
 
@@ -32,6 +34,8 @@ date: 2025-05-23
 
 ![[Pasted image 20241220001259.png]]
 ![[Pasted image 20250415182950.png]]
+- PERC needs to be 0 to rule out PE
+- If PERC positive -> YEARS score + D-dimer
 - Arrange a CTPA or V/Q scan in:
 	- All patients with a high or intermediate pre-test probability
 	- Those with a positive D-dimer
@@ -62,7 +66,9 @@ date: 2025-05-23
 - Give high-dose oxygen via mask, aiming for oxygen saturation >95%
 - Give IV normal saline to support BP if necessary
 	- Avoid excessive fluid ∵ worsens RV dilation → septal shift → worsens LV function 
+- Vasopressors: Norad first line, dobutamine
 - Relieve pain with titrated morphine 2.5 mg IV boluses
+- Can use PESI score or simplified PESI score to determine risk of 30 day mortality
 ## Anticoagulation
 - Commence anticoagulation when:
 	- The diagnosis is confirmed or
@@ -70,6 +76,13 @@ date: 2025-05-23
 - 2 anticoagulation options exist:
 	- Start heparin and warfarin and continue heparin until warfarinisation achieved (3-5 days)
 	- NOAC
+- Duration
+	- Provoked: minimum 3 months
+	- Unprovoked: >3 months
+	- Cancer associated: >6 months
+		- Can use DOAC or clexane
+			- LMWH for GI/GI cancers and high bleeding risk
+		- DOAC can be used for lung, breast, prostate, haem (unless thrombocytopenia), ovarian, brain
 ### Heparin + Warfarin
 - Give LMWH such as enoxaparin 1mg/kg SC BD
 	- LMWH does not require aPTT monitoring
