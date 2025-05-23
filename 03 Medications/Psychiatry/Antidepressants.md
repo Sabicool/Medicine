@@ -20,3 +20,4 @@ The types of drugs can be remembered easily with the indication mnemonic "Effect
 - Sadness: sertraline
 - Panic: paroxetine
 - Compulsions: citalopram
+![[Pasted image 20250523211948.png]]
