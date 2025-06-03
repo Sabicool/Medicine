@@ -32,6 +32,7 @@ aliases:
 	- $\ce{HCO3-}$ >26
 		- If pH >7.45: primary metabolic alkalaosis
 		- If pH <7.35: renal compensation for respiratory acidosis
+2. 
 
 ![[Pasted image 20250125184001.png]]
 # 12345 Rule
