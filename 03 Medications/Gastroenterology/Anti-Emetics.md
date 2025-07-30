@@ -1,10 +1,11 @@
 ---
-date: 2025-07-24
+date: 2025-07-30
 Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
   - "[[Gastroenterology]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
 ---
+![[Pasted image 20250730192411.png]]
 # Before Starting Treatment
 - Identify, treat or remove cause if possible
 - Ensure adequate hydration
