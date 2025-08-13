@@ -7,7 +7,7 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
-date: 2025-04-15
+date: 2025-08-13
 ---
 > [!NOTE] Clinical Excellence Commission Post Fall Guide
 > https://www.cec.health.nsw.gov.au/__data/assets/pdf_file/0003/258465/Post-Fall-Guide.pdf
@@ -135,7 +135,7 @@ date: 2025-04-15
 	- Ask whether these previous episodes have been documented investigated or diagnosed
 - What does the patient (or a witness) recall about the time immediately before the syncope?
 	- Try to determine preceding symptoms or obvious precipitant to the collapse
-	- Sudden collapse with no warning, syncope lying down, associated palpitations or syncope on exertion suggests a cardiac cause known as a Stokes-Adams attack
+	- Sudden collapse with no warning, syncope lying down, associated palpitations or syncope on exertion suggests a cardiac cause known as a Stokes-Adams attack (also consider syncope in individuals with a family history of sudden death or inherited cardiac condition)
 	- Syncope on rising from a supine position suggests orthostatic or postural hypotension
 	- Emotion or a noxious stimulus such as IV line insertion or painful wound dressing change may cause collapse secondary to a vasovagal episode
 	- Preceding nausea, sweating, distant hearing and light-headedness are common with a vasovagal episode

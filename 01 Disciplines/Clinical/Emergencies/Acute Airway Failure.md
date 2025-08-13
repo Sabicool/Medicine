@@ -4,6 +4,12 @@ Rotations:
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
 date: 2025-08-13
 ---
+# Overview
+- In summary:
+	1. Assess for signs of airway obstruction
+	2. Treat airway obstruction as a medical emergency (do a met call immediately)
+		- Airway clearance with suction, opening manoeuvres, insertion of nasopharyngeal or oropharyngeal airways
+	3. Give oxygen at high concentration
 # Causes
 - Depressed level of consciousness
 - Mechanical obstruction

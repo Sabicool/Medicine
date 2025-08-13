@@ -4,10 +4,11 @@ Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
 aliases:
   - BLS
-date: 2025-03-04
+date: 2025-08-13
 ---
 ![](Attachments/Pasted%20image%2020241212215451.png)
-- In an unresponsive patient with no signs of life; commence CPR and call the MET
+- In an unresponsive patient with no signs of life (i.e. no pulse) commence CPR and call the MET
+- In an unresponsive patient with a pulse follow [[Acute Respiratory Failure]] or [[Unconsciousness]]
 # Airway
 - Open and clear the airway and prevent aspiration
 - Use airway positioning, suction, airway adjuncts
@@ -31,6 +32,7 @@ date: 2025-03-04
 - Place ECG and NIBP monitoring
 	- Look for unstable arrhythmias or evidence of ACS
 - Obtain IV access
+	- Take bloods when inserting the IVC
 	- Commence fluids and haemodynamic support if evidence of circulatory failure
 	- Give 20 mL/kg IV fluid rapidly if hypovolaemic shock
 - Optimise abnormal cardiac rhythm with cardioversion, pacing or antiarrhythmic agent
