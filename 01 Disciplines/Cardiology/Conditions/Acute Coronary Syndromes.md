@@ -4,7 +4,7 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
 aliases:
   - ACS
-date: 2025-04-21
+date: 2025-08-13
 ---
 # Risk factors
 - Increased risk of ACS with central obesity, autoimmune conditions, chronic renal disease, diabetes and HIV
@@ -16,6 +16,12 @@ date: 2025-04-21
 - Other classification
 	- Type 1 spontaneous myocardial infarction = atherothrombotic coronary occlusion compromises myocardial blood flow (i.e. heart attack due to coronary plaque rupture)
 	- Type 2 myocardial infarction = secondary to ischaemic imbalance between myocardial oxygen suply and/or demand. Can happen due to coronary artery spasm, tachyarrhythmias, bradyarrhythmias, anaemia etc
+- Troponins
+	- For high sensitivity troponins, considered positive if[^4]:
+	    - Increase of ≥20% if first Tn elevated, or
+	    - Increase of ≥50% in patients with small initial Tn elevations
+	- Can consider a third troponin
+	- ![[Pasted image 20250813173556.png|600]]
 # STEMI
 ## ECG STEMI Criteria
 - Ongoing chest pain and any of the following:
@@ -185,3 +191,4 @@ As from: [PASCA ACS Flowchart](https://aci.health.nsw.gov.au/__data/assets/pdf_f
 [^1]: eTG says if PCI is available within 120 minutes
 [^2]: eTG says within 2 hours for very high risk and within 24 hours for high risk
 [^3]: eTG says for patients with unstable angina considered low risk non-invasive investigations such as stress testing are usually appropriate
+[^4]: As from https://www.aliem.com/high-sensitivity-troponin-testing/
