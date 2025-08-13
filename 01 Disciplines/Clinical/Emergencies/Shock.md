@@ -4,7 +4,7 @@ aliases:
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-date: 2025-01-23
+date: 2025-08-13
 ---
 # Causes
 ## Classification
@@ -38,6 +38,7 @@ date: 2025-01-23
 	- A raised JVP is seen in cardiogenic and obstructive shock
 		- ![](Attachments/Pasted%20image%2020241216142430.png)
 	- ECG changes may be the cause or the effect of the shock state
+- Look at the colour of the hands and digits and feel the temperature of the patient's hands 
 - Skin and mucous membranes
 	- An adequately hydrated patient has moist mucous membranes and a small pool of saliva at the undersurface of the tongue in the area of the frenulum
 	- Check tissue turgor by raising a fold of skin from the anterior chest area over the sternal angle
@@ -46,7 +47,10 @@ date: 2025-01-23
 		- An increase in HR >20 beats/min, a fall in SBP >20 mmHg or any fall in DBP indicates postural hypotension
 	- Assess the capillary refill time by pressing on a nailbed (held at the level of the heart) for 5 seconds. Over 2 seconds is regarded as prolonged
 	- JVP usually falls on inspiration but Kussmaul's sign is when JVP rises on inspiration seen in cardiac tamponade
+	- Low diastolic blood pressure suggests arterial vasodilation as in [[Anaphylaxis]] or [[Sepsis]]
+	- A narrowed pulse pressure (<35-45 mmHg) suggests arterial vasoconstriction (cardiogenic shock or hypovolaemia)
 - Measure urine output
+	- Oliguria (urine volume <0.5 mL/kg/h)
 - Volume overload features:
 	- Raised JVP, peripheral oedema (taut, non-compliant skin), enlarged tender liver with positive hepatojugular reflux (liver pressing causes persistent elevation in JVP)
 	- An S3 gallop, lung crackles or pleural effusion

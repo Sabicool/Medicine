@@ -101,4 +101,5 @@ date: 2025-08-13
 	- CNS including eyes and cranial nerves, limbs and higher cerebral functions
 - Obtain history from any source
 - Decide on a working diagnosis and definitive management plan
+- Consider which level of care is required by the patient (e.g. ward level, HDU, CCU or ICU)
 - Documentation
