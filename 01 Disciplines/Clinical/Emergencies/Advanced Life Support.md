@@ -5,7 +5,7 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
 aliases:
   - ALS
-date: 2025-05-08
+date: 2025-08-13
 ---
 # ALS Algorithm
 ![[Pasted image 20250227130949.png]]
@@ -14,7 +14,7 @@ date: 2025-05-08
 > The highest priorities in resuscitation is:
 > - Good quality CPR
 > - Reducing time to defibrillation
-> Once defibrillator pads are attached, do a rhythm assessment as soon as possible
+> Once defibrillator pads are attached, do a rhythm assessment as soon as possible. Chest compressions and ventilation must be undertaken immediately but should not delay attempts to deliver the first shock to defibrillate those patients in VF/pVT
 
 - Defibrillator attachment and usage
 	- Right of the sternum below the clavicle and mid-axillary line at 5th or 6th intercostal space
