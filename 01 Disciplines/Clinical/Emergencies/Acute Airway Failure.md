@@ -2,14 +2,14 @@
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-date: 2025-01-23
+date: 2025-08-13
 ---
 # Causes
 - Depressed level of consciousness
 - Mechanical obstruction
 	- Foreign material (food bolus, vomit, blood, dentures)
 	- Laryngospasm (multiple causes, including aspiration)
-	- Angio-oedema (alone or as part of anaphylaxis)
+	- Angio-oedema (alone or as part of [[Anaphylaxis|anaphylaxis]])
 	- Infection (para- or retropharyngeal abscess, croup, epiglottitis)
 	- Tumour either within or compressing the airway
 	- Burns, either inhalation or secondary to caustic ingestion
@@ -20,7 +20,8 @@ date: 2025-01-23
 		- Hoarse voice, inability to speak or cough 
 		- Stridor, snoring or gurgling secretions 
 		- Soft-tissue retraction-tracheal tug, rib or abdominal recession
-		- Loss, or an uncoordinated rise and fall, of the chest and / or abdomen 
+		- Loss, or an uncoordinated rise and fall, of the chest and/or abdomen 
+			- 'See-saw' pattern of chest and abdominal movement: the chest is drawn in and the abdomen expands on inspiration and the opposite occurs on expiration
 		- Altered level of consciousness or mental status or agitation 
 		- GCS ≤8
 	- Features of partial airway obstruction
@@ -43,11 +44,9 @@ date: 2025-01-23
 
 - Call senior immediately
 - [MET call](00%20Reference/Clinical/MET%20Activation%20Criteria.md) should be made for any patient with a threatened airway (including partial airway obstruction)
-
-
 # Management
 - General measures
-	- Administer high-flow oxygen and reverse cause of depressed conscioussness
+	- Administer high-flow oxygen and reverse cause of depressed consciousness
 	- Apply non-invasive monitoring, including ECG, pulse oximeter and BP
 	- Obtain reliable IV access
 	- Call senior for help and summon staff experienced in airway management
