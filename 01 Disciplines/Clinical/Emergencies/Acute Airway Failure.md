@@ -64,6 +64,7 @@ date: 2025-08-13
 		- Manually remove any intra-oral foreign body (e.g. loose-fitting dentures)
 		- Suction secretions and smaller foreign material using a large-bore rigid (Yankauer) sucker
 		- Laryngoscope and Magil forceps if material is lodged in the upper airway
+		- Can consider insertion of a nasogastric tube to empty the stomach
 	- Airway adjuncts
 		- Oropharyngeal (Guedel) airway
 			- Sized using distance from the angle of the jaw to the centre of the lips

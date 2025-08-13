@@ -2,7 +2,7 @@
 Rotations:
   - "[[02 Rotations/Respiratory|Respiratory]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
-date: 2025-01-23
+date: 2025-08-13
 ---
 - Type 1: Hypoxaemia with normal (or low) Pa$\ce{CO2}$
 	- Primarily a failure of oxygenation
@@ -35,6 +35,7 @@ date: 2025-01-23
 5. Consider adjuncts
 6. Escalation of care
 # Assessment
+- Can remember as RATES (respiratory rate, auscultate, trachea position, effort of breathing and saturation)
 - Airway Patency![[Acute Airway Failure#^airway-assessment]]
 - Work of breathing
 	- Signs include: ↑ RR, use of accessory muscles, soft-tissue recession, ↑ HR, sweaty/clammy skin
