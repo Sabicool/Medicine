@@ -1,7 +1,7 @@
 ---
 aliases:
   - On call
-date: 2025-02-26
+date: 2025-08-14
 ---
 # Important Notes
 - [iSBAR Handover](00%20Reference/Clinical/iSBAR%20Handover.md)
@@ -28,6 +28,7 @@ date: 2025-02-26
     - [[Decreased Urine Output]]
     - [[Febrile Patient]]
     - [[Haematuria]]
+    - [[Nausea and Vomiting]]
     - [[Shortness of Breath, Cough and Haemopytsis]]
     - [[Urinary Frequency and Polyuria]]
 
@@ -45,6 +46,7 @@ date: 2025-02-26
  <!-- QueryToSerialize: list from "03 Medications" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) sort file.name asc -->
 <!-- SerializedQuery: list from "03 Medications" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) sort file.name asc -->
 - [[Analgesics]]
+- [[Anti-Emetics]]
 <!-- SerializedQuery END -->
 
 # Documenting on call visits
