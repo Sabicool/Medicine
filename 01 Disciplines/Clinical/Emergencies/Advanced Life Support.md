@@ -54,8 +54,8 @@ date: 2025-08-14
 - Repeat adrenaline 1 mg IV after the fourth shock and every two cycles thereafter (approximately 4 minutes)
 - An additional dose of amiodarone 150 mg IV can be considered
 - Minimuse interruptions to CPR:
-	- ETT intubation should take no more than 5-10 seconds
 	- LMA insertion should be attempted without interrupting CPR
+	- ETT intubation should take no more than 5-10 seconds
 		- Can consider cricoid pressure while intubating (this is the application of pressure to the cricoid cartilage with the thumb and first fingers in the posterior direction; only remove the pressure when instructed by the person performing intubation which is usually only when the endotracheal tube is inflated)
 - Reassess the patient and rhythm every 2 minutes
 ## Organised Electrical Activity Present
