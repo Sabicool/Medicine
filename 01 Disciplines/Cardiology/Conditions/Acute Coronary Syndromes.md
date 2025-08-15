@@ -106,6 +106,8 @@ As from: [PASCA ACS Flowchart](https://aci.health.nsw.gov.au/__data/assets/pdf_f
 			- Symptoms largely resolved
 			- Haemodynamically stable
 	- Admit or transfer for PCI depending on local protocols
+		- Failed thrombolysis -> immediate transfer to PCI hospital for rescue PCI
+		- Sccuessful thrombolysis -> Angiography ± PCI during same admission
 - Also organise echocardiogram
 
 ^stemi-management
@@ -156,6 +158,8 @@ As from [PASCA ACS Checklist](https://aci.health.nsw.gov.au/__data/assets/pdf_fi
 			- Anticoagulation
 			- Antiplatelet therapy
 			- Beta blockers
+				- Or diltiazem if beta blockers are contraindicated
+				- Avoid dihydropyridine calcium channel blockers (e.g. nifedipine)
 			- Statins
 - Intermediate risk
 	- Criteria: Doesn't meet high or low risk criteria
