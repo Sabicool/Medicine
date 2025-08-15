@@ -31,7 +31,7 @@ date: 2025-08-15
 # STEMI
 ## ECG STEMI Criteria
 - Ongoing chest pain and any of the following:
-	- ST elevation of 1mm or more in 2 or more adjancent leads except V2 and V3 which require ST elevation of:
+	- ST elevation of 1mm or more in 2 or more adjacent leads except V2 and V3 which require ST elevation of:
 		- 2.5mm or more in men under 40 years
 		- 2.0mm or more in men aged 40 years or over
 		- 1.5mm or more in women
