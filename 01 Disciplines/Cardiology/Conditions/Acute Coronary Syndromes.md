@@ -4,7 +4,7 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
 aliases:
   - ACS
-date: 2025-08-15
+date: 2025-08-16
 ---
 # Risk factors
 - Increased risk of ACS with central obesity, autoimmune conditions, chronic renal disease, diabetes and HIV
@@ -27,7 +27,13 @@ date: 2025-08-15
 # Unstable Angina
 - Defined by ≥1 of:
 	- Angina on exertion, occurring with increasing frequency over a few days, provoked by progressively less exertion (also known as crescendo angina)
-	- Episodes of angina like pain occurring recurrently and unpredictably, without specific provocation by exercise
+	- Episodes of angina like pain occurring recurrently and unpredictably, without specific provocation by exercise. These episodes may be relatively short-lived (e.g. a few minutes) and may settle spontaneously or be relieved temporarily by sublingual glyceryl trinitrate, before recurring
+	- An unprovoked and prolonged episode of chest pain, raising suspicion of AMI, but, without definite ECG changes or laboratory evidence of AMI
+- In unstable angina the ECG may be:
+	- Be normal
+	- Show evidence of acute myocardial ischaemia (usually ST segment depression)
+	- Show non-specific abnormalities (e.g. T-wave inversion)
+- In unstable angina, by definition, troponins are negative
 # STEMI
 ## ECG STEMI Criteria
 - Ongoing chest pain and any of the following:
