@@ -1,7 +1,7 @@
 ---
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
-date: 2025-01-25
+date: 2025-08-16
 ---
 # Management
 - Give high-dose oxygen via a mask, aiming for an oxygen saturation >94%

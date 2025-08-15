@@ -1,5 +1,5 @@
 ---
-date: 2025-04-27
+date: 2025-08-16
 Rotations:
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
