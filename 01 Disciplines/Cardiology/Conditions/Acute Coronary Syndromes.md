@@ -4,7 +4,7 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
 aliases:
   - ACS
-date: 2025-08-13
+date: 2025-08-15
 ---
 # Risk factors
 - Increased risk of ACS with central obesity, autoimmune conditions, chronic renal disease, diabetes and HIV
@@ -22,6 +22,12 @@ date: 2025-08-13
 	    - Increase of ≥50% in patients with small initial Tn elevations
 	- Can consider a third troponin
 	- ![[Pasted image 20250813173556.png|600]]
+# Clinical Features
+- Some groups of people (females, diabetics, CKD and the elderly) are more likely to present with atypical or less-specific symptoms such as breathlessness and the pain is absent
+# Unstable Angina
+- Defined by ≥1 of:
+	- Angina on exertion, occurring with increasing frequency over a few days, provoked by progressively less exertion (also known as crescendo angina)
+	- Episodes of angina like pain occurring recurrently and unpredictably, without specific provocation by exercise
 # STEMI
 ## ECG STEMI Criteria
 - Ongoing chest pain and any of the following:
