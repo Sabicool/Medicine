@@ -1,5 +1,5 @@
 ---
-date: 2025-01-03
+date: 2025-08-19
 ---
 # Risk Factors
 - Hypertension especially in males >60 years
@@ -36,6 +36,7 @@ date: 2025-01-03
 - If clinical suspicion is low but aortic dissection is in your differential list (AAD-RS ≤1)
 	- Exclude with a negative D-dimer if they do not have typical history, exam or risk factors; discuss with senior regarding this approach
 	- *D-dimer should only be considered if you have already decided the patient requires aortic dissection rule out*
+
 > [!Example] 
 > A young healthy patient with no significant medical history presents to the ED with central chest pain which radiates to the back. The onset was not abrupt or severe and the pain is not described as ripping or tearing. He was no risk factors or exam findings suggestive of dissection. You can find no explanation for his pain and feel aortic dissection needs to be excluded. For this patient ADD score is 0 and exclusion of a dissection with a D-dimer is appropriate.
 
