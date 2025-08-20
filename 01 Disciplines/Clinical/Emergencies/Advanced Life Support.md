@@ -110,7 +110,7 @@ date: 2025-08-20
 		- In the initial stages of resuscitation there are no clear advantages to using colloid: Use saline or Hartmann's solution; Hartmann's solution is preferred in trauma cases
 		- Ensure that the fluids are actually running
 	- **Hyper/hypokalaemia, hypocalcaemia, acidaemia and other metabolic disorders**
-		- Hyperkalaemia
+		- Hyperkalaemia ($\ce{K+}$>6.5)
 			- Give 10-20 mL of 10% calcium chloride solution IV immediately for hyperkalaemia (e.g. in renal patient who has a cardiac arrest)
 				- Do not give calcium solutions and sodium bicarbonate simultaneously by the same route, establish a second IV line
 				- Also give shifting agents (glucose 25 g + 10 units of short acting insulin)
@@ -119,15 +119,30 @@ date: 2025-08-20
 		- Hypocalcaemia or calcium channel blocker overdose
 			- IV calcium chloride as above
 			- May occur in setting of shock, sepsis, pancreatitis and drug toxicities
+		- Hypokalaemia ($\ce{K+}$<3.5)
+			- Potassium 5 mmol IV as a bolus with a consideration for administration of magnesium sulflate 2g IV
 	- **Hypothermia**
 		- Check core temperature
 		- Warm blankets, bair hugger, administration of warmed IV fluids, irrigation or gastric lavage with warmed fluids, bladder irrigation with warmed fluids
 		- Defibrillation cannot be performed on a patient with a core temperature ≤30°C; only CPR can be performed
 		- In patients <30°C; adrenaline administration time doubles (every 8 minutes) as reduced liver metabolism can cause adrenaline to accumulate
+	- **Hyperthermia**
+		- Active cooling techniques including cooling mats, wrapped ice packs, intravascular cooling techniques and IV fluids
+		- Malignant hyperthermia -> dantrolene
+		- 
 	- **Tension pneumothorax**
 		- Usually traumatic, particularly when the patient has positive-pressure ventilation
+		- Consider in cases such as: thoracic trauma, thoracic surgery or procedures (e.g. temporary pacing wire, existing chest drain, pacemaker/internal defibrillator implant, transthoracic needle aspiration or biopsy, subclavian or jugular vein catheterisation, thoracentesis, closed pleural biopsy), asthma, chronic obstructive pulmonary disease, pulmonary barotrauma
 		- Immediately insert a needle into the chest to decompress if there are asymmetrical chest movements and ventilation requires high pressures
 		- Immediate preparation for insertion of an intercostal drain/catheter is required
+		- Bedside ultrasound ([[eFAST]])
+		- Clinical signs:
+			- Difficulty to ventilate
+			- Abnormal chest rise/fall on the affected side
+			- Decreased breath sounds on affected side
+			- Hyper-expanded chest with increased percussion note
+			- Tracheal deviation away from affected side
+		- Decompress rapidly by thoracostomy or needle thoracocentesis (using a 14g or larger long cannula/needle) into the second intercostal space at the midlcavicular line
 	- **Tamponade**
 		- Usually traumatic but may follow cardiothoracic surgery, MI etc.
 		- Signs include:
@@ -141,6 +156,7 @@ date: 2025-08-20
 	- **Thrombosis (PE or ACS)**
 		- Perform vigorous external chest compressions to attempt to break up a massive PE when this is likely, and give a fluid load bolus of 20 mL/kg
 		- If high clinical suspicion of a massive PE (or ACS) causing cardiac arrest, a fibrinolytic agent can be given
+		- If a fibrinolytic drug is given in these circumstances consider performing CPR for at least 30 minutes and up to 60-90 minutes before termination of resuscitation attempts
 - Monitoring during CPR
 	- Clinical signs such as breathing efforts, movements and eye opening can occur during CPR
 		- These can indicate ROSC and require verification by a rhythm and pulse check *but* can also occur because high quality CPR can generate sufficient circulation to restore signs of life including consciousness
