@@ -139,7 +139,7 @@ date: 2025-08-20
 	- Clinical signs such as breathing efforts, movements and eye opening can occur during CPR
 		- These can indicate ROSC and require verification by a rhythm and pulse check *but* can also occur because high quality CPR can generate sufficient circulation to restore signs of life including consciousness
 	- Carotid pulsation during CPR does not necessarily indicate adequate myocardial or cerebral perfusion in low cardiac output states
-	- 
+	- Waveform capnography
 - Consider following drugs (see [[Drugs in Cardiac Arrest]]):
 # Drugs to Consider During Arrest
 - In ventricular fibrillation/ventricular tachycardia (see below or see [[Drugs in Cardiac Arrest]])
