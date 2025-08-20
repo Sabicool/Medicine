@@ -21,6 +21,21 @@ date: 2025-08-20
 	- Right of the sternum below the clavicle and mid-axillary line at 5th or 6th intercostal space
 	- Do not defibrillate over ECG electrodes or leads, GTN patch, internal devices such as a pacemaker or jewellery
 	- Shave off excessive hair
+
+> [!NOTE] Monitored and Witnessed Cardiac Arrest
+> If a patient has all of the following:
+> - Monitored and witnessed cardiac arrest
+> - Immediately prior to the arrest was well oxygenated and perfused
+> - A manual defibrillator is rapidly available or the patient is already connected to the defibrillator
+> - It is possible to deliver the first shock within 20 seconds of the arrest onset
+> 
+> Then:
+> - Confirm cardiac arrest and shout for help
+> - Give three quick successive (stacked) shocks
+> 	- Rapidly check for rhythm change and, if appropriate check for a pulse and other signs of ROSC after each defibrillation attempt
+> 	- Start CPR if the third shock is unsuccessful
+> 	- These 'stacked' shocks count as the first defibrillation attempt in the ALS algorithm
+
 # Rhythm Assessment
 
 # Shockable Rhythms

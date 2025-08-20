@@ -32,6 +32,7 @@ date: 2025-08-20
 		- Assess for carotid pulse 
 		- ![[Pasted image 20250820173612.png|300]]
 		- If signs of life or pulse follow as in step 2
+		- If patient breathing and has a pulse follow [[Acute Respiratory Failure|Respiratory arrest]]
 		- If no signs of life and no pulse follow [[Advanced Life Support|ALS]] and begin CPR
 4. Review any documentation on the patient ('alert' bracelets or wallet cards)
 5. Review the patient's notes and other charts
