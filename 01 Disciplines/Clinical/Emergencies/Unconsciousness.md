@@ -5,18 +5,25 @@ Rotations:
 aliases:
   - Acute neurological failure
   - Coma
-date: 2025-08-13
+date: 2025-08-20
 ---
 - Comatose = requires painful stimulus to rouse or if GCS ≤8
 # Summary[^1]
-1. Rapid initial assessment of the patient's consciousness level using AVPU
-2. Check patient's drug chart for reversible drug-induced causes of depressed consciousness
-3. Check allergies
-4. Examine the pupils (size, equality and reaction to light)
-5. Measure the blood glucose (if <4.0 mmol/L give 50 mL of 10% glucose solution IV and repeat BGL, repeating dose if necessary)
-6. Review any documentation on the patient ('alert' bracelets or wallet cards)
-7. Review the patient's notes and other charts
-8. Nurse unconscious patients in the lateral position if their airway is not preotected
+1. Check for the patient for a response
+2. If patient responds
+	- Call for help if necessary
+	- A to E assessment
+		- Examine the pupils (size, equality and reaction to light)
+		- Measure the blood glucose (if <4.0 mmol/L give 50 mL of 10% glucose solution IV and repeat BGL, repeating dose if necessary)
+	- Attach monitoring
+	- Obtain IV access and take blood samples for investigation
+	- Check patient's drug chart for reversible drug-induced causes of depressed consciousness
+	- Check allergies
+3. If patient does not respond
+	- 
+4. Review any documentation on the patient ('alert' bracelets or wallet cards)
+5. Review the patient's notes and other charts
+6. Nurse unconscious patients in the lateral position if their airway is not preotected
 # Causes
 - Hypoglycaemia
 - Opioid/sedative toxicity
