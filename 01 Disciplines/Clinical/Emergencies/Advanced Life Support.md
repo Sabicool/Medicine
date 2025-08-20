@@ -140,8 +140,12 @@ date: 2025-08-20
 		- These can indicate ROSC and require verification by a rhythm and pulse check *but* can also occur because high quality CPR can generate sufficient circulation to restore signs of life including consciousness
 	- Carotid pulsation during CPR does not necessarily indicate adequate myocardial or cerebral perfusion in low cardiac output states
 	- Waveform capnography
+		- Normal end tidal $\ce{CO2}$ is noramlly ~38 mmHg (35-45 mmHg)
+		- If ROSC is suspected during CPR by a significant increase in the end-tidal $\ce{CO2}$, then withold adrenaline; give adrenaline if cardiac arrest is confirmed at the next rhythm check
+		- Failure to achieve an end-tidal $\ce{CO2}$ >10 mmHg after 20 minutes of CPR is associated with a poor outcome
 - Consider following drugs (see [[Drugs in Cardiac Arrest]]):
 # Drugs to Consider During Arrest
+- Drugs injected peripherally must be followed by a flush of at least 20 mL of fluid to facilitate drug delivery to the central circulation => **more practical to use a continuously running IV line than intermittent bolus flushing**
 - In ventricular fibrillation/ventricular tachycardia (see below or see [[Drugs in Cardiac Arrest]])
 	- Calcium: give 10 mL of 10% calcium chloride or 20 mL of 10% calcium gluconate IV for hyperkalaemia, hypocalcaemia or calcium-channel blocker overdose and repeat as necessary
 	- Lignocaine: initial bolus of 1 mg/kg IV for VF or pVT, when amiodarone is not available, followed by 0.5 mg/kg if necessary. Omit if amiodarone has been given

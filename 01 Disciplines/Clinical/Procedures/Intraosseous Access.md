@@ -1,0 +1,14 @@
+---
+date: 2025-08-20
+---
+- Three main sites recommended in adults: proximal tibia, distal tibia and proximal humerus. Alternative sites include distal femur and sternum
+	- The common recommended site for IO access is the proximal tibia because it is a flat surface with a thin layer over overlying tissue and ease of identifying landmarks while also being distant from the airway and chest
+	- Locate a flat area of bone 2cm medial to the tibial tuberosity or approximately 2-3cm below the patella and 2cm medial
+	- Cleanse the area with recommended solution and using sterile gloves and technique if possible
+	- Use local anaesthetic if required
+- Contraindications to intraosseous access:
+	- Trauma/fracture, infection or a prosthesis at the target site
+	- Recent IO access in the same limb including a failed attempt
+	- Failure to identify the anatomical landmarks
+- Attempt to aspirate from the needle; presence of IO blood indicates correct placement, absence of aspirate does not necessarily imply a failed attempt
+- 
