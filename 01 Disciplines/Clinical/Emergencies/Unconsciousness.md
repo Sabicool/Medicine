@@ -20,7 +20,16 @@ date: 2025-08-20
 	- Check patient's drug chart for reversible drug-induced causes of depressed consciousness
 	- Check allergies
 3. If patient does not respond
-	- 
+	- Call for help
+	- Turn the patient onto their back
+	- Open the airway using head tile and chin lift or risk of cervical spine injury use jaw thrust or chin lift in combination with manual in line stabilisation of the head and neck
+		- If life threatening airway obstruction persists despite effective application of jaw thrust or chin lift, add head tilt a small amount at a time until the airway is open
+	- Keeping the airway open, listen and feel to determine if the victim is breathing normally. This is a rapid check taking <10 seconds observing for:
+		- Look for chest movement (breathing or coughing)
+		- Look for any other movement or signs of life
+		- Listen at the victim's mouth for breath sounds
+		- Feel for air on your cheek
+		- Assess for carotid pulse 
 4. Review any documentation on the patient ('alert' bracelets or wallet cards)
 5. Review the patient's notes and other charts
 6. Nurse unconscious patients in the lateral position if their airway is not preotected
