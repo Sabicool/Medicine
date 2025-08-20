@@ -110,9 +110,15 @@ date: 2025-08-20
 		- In the initial stages of resuscitation there are no clear advantages to using colloid: Use saline or Hartmann's solution; Hartmann's solution is preferred in trauma cases
 		- Ensure that the fluids are actually running
 	- **Hyper/hypokalaemia, hypocalcaemia, acidaemia and other metabolic disorders**
-		- Give 10-20 mL of 10% calcium chloride solution IV immediately for hyperkalaemia (e.g. in renal patient who has a cardiac arrest)
-			- Do not give calcium solutions and sodium bicarbonate simultaneously by the same route, establish a second IV line
-		- Consider 50 mL of 8.4% $\ce{NaHCO3-}$ if the patient is severely acidaemic (pH<6.8) and is undergoing prolonged resuscitation or post-resuscitation care; or if there is hyperkalaemia
+		- Hyperkalaemia
+			- Give 10-20 mL of 10% calcium chloride solution IV immediately for hyperkalaemia (e.g. in renal patient who has a cardiac arrest)
+				- Do not give calcium solutions and sodium bicarbonate simultaneously by the same route, establish a second IV line
+				- Also give shifting agents (glucose 25 g + 10 units of short acting insulin)
+				- Calcium gluconate may be used in place of calcium chloride when its not available but calcium chloride is preferred because of its higher concentration of elemental calcium
+			- Consider 50 mL of 8.4% $\ce{NaHCO3-}$ if the patient is severely acidaemic (pH<6.8) and is undergoing prolonged resuscitation or post-resuscitation care; or if there is hyperkalaemia
+		- Hypocalcaemia or calcium channel blocker overdose
+			- IV calcium chloride as above
+			- May occur in setting of shock, sepsis, pancreatitis and drug toxicities
 	- **Hypothermia**
 		- Check core temperature
 		- Warm blankets, bair hugger, administration of warmed IV fluids, irrigation or gastric lavage with warmed fluids, bladder irrigation with warmed fluids
