@@ -168,6 +168,9 @@ date: 2025-08-21
 		- Normal end tidal $\ce{CO2}$ is noramlly ~38 mmHg (35-45 mmHg)
 		- If ROSC is suspected during CPR by a significant increase in the end-tidal $\ce{CO2}$, then withold adrenaline; give adrenaline if cardiac arrest is confirmed at the next rhythm check
 		- Failure to achieve an end-tidal $\ce{CO2}$ >10 mmHg after 20 minutes of CPR is associated with a poor outcome
+- Ultrasound during ALS
+	- A sub-xiphoid probe position is recommended
+	- Placement of the probe just before chest compressions are paused for a planned rhythm assessment is common place
 - Consider following drugs (see [[Drugs in Cardiac Arrest]]):
 # Drugs to Consider During Arrest
 - Drugs injected peripherally must be followed by a flush of at least 20 mL of fluid to facilitate drug delivery to the central circulation => **more practical to use a continuously running IV line than intermittent bolus flushing**
