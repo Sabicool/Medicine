@@ -171,6 +171,8 @@ date: 2025-08-21
 - Ultrasound during ALS
 	- A sub-xiphoid probe position is recommended
 	- Placement of the probe just before chest compressions are paused for a planned rhythm assessment is common place
+- Stopping resuscitation:
+	- It is generally accepted that asystole for more than 20 min in the absence of a reversible cause and with ongoing ALS constitutes reasonable grounds for stopping further resuscitation attempts
 - Consider following drugs (see [[Drugs in Cardiac Arrest]]):
 # Drugs to Consider During Arrest
 - Drugs injected peripherally must be followed by a flush of at least 20 mL of fluid to facilitate drug delivery to the central circulation => **more practical to use a continuously running IV line than intermittent bolus flushing**
