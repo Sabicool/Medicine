@@ -30,6 +30,7 @@ date: 2025-08-20
 		- Listen at the victim's mouth for breath sounds
 		- Feel for air on your cheek
 		- Assess for carotid pulse 
+		- ![[Pasted image 20250820173612.png]]
 4. Review any documentation on the patient ('alert' bracelets or wallet cards)
 5. Review the patient's notes and other charts
 6. Nurse unconscious patients in the lateral position if their airway is not preotected
