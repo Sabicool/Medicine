@@ -5,7 +5,7 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
 aliases:
   - ALS
-date: 2025-08-20
+date: 2025-08-21
 ---
 # ALS Algorithm
 ![[Pasted image 20250227130949.png]]
@@ -129,7 +129,6 @@ date: 2025-08-20
 	- **Hyperthermia**
 		- Active cooling techniques including cooling mats, wrapped ice packs, intravascular cooling techniques and IV fluids
 		- Malignant hyperthermia -> dantrolene
-		- 
 	- **Tension pneumothorax**
 		- Usually traumatic, particularly when the patient has positive-pressure ventilation
 		- Consider in cases such as: thoracic trauma, thoracic surgery or procedures (e.g. temporary pacing wire, existing chest drain, pacemaker/internal defibrillator implant, transthoracic needle aspiration or biopsy, subclavian or jugular vein catheterisation, thoracentesis, closed pleural biopsy), asthma, chronic obstructive pulmonary disease, pulmonary barotrauma
@@ -153,6 +152,10 @@ date: 2025-08-20
 		- Perform pericardiocentesis if the patient is in cardiac arrest or peri-arrest
 		- Traumatic usually requires an emergency thoracotomy
 	- **Toxins/poisons/drugs**
+		- Specific antidotes such as naloxone, flumazenil, digoxin specific antibody fragments, phentolamine and glucagon are not proven to improve mortality when administered during cardiac arrest (except for cyanide poisoning)
+			- Adult patients with suspected severe cyanide poisoning should receive immediate parenteral hydoxocobalamin 5mg with repeat dosing up to 15mg
+			- In opiate induced respiratory arrest the dose of naloxone varies between small aliquots of 100 micrograms and a large 2mg dose aimed at achieving immediate and complete reversal
+			- Tricyclic toxicity, sodium bicarbonate bolus is the mainstay of therapy
 	- **Thrombosis (PE or ACS)**
 		- Perform vigorous external chest compressions to attempt to break up a massive PE when this is likely, and give a fluid load bolus of 20 mL/kg
 		- If high clinical suspicion of a massive PE (or ACS) causing cardiac arrest, a fibrinolytic agent can be given
