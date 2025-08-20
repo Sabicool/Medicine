@@ -11,4 +11,4 @@ date: 2025-08-20
 	- Recent IO access in the same limb including a failed attempt
 	- Failure to identify the anatomical landmarks
 - Attempt to aspirate from the needle; presence of IO blood indicates correct placement, absence of aspirate does not necessarily imply a failed attempt
-- 
+- Label samples as bone marrow aspirate before being sent to the laboratory
