@@ -61,7 +61,7 @@ date: 2025-08-20
 ^coached
 
 - Recommence CPR immediately after shock delivery: *state loudly: Recommence CPR*
-	- **Do not check for rhythm or pulse and just recommence CPR immediately**
+	- **Do not check for rhythm or pulse and just recommence CPR immediately**[^2]
 - Reassess patient and monitor rhythm after one cycle (five sets of 30 compressions:2 breaths over 2 minutes); remember to state *prepare to defibrillate* and apply coached mnemonic above
 - Repeat a single shock (200J biphasic or 360J monophasic) if there is persistent VF or pVT, **consider increasing to 360J for the second shock**
 - **Obtain IV access and administer adrenaline 1 mg IV after the second shock**
@@ -187,3 +187,4 @@ date: 2025-08-20
 - Transfer to ICU, cardiac catheter lab or CCU
 
 [^1]: Asystole only when fine VF cannot confidently be excluded
+[^2]: This is because even if the defibrillation attempt is successful in restoring a perfusing rhythm, it is very rare for a pulse to be palpable immediately after defibrillation. The time until ROSC can be longer than two minutes in as many as 25% of successful shocks. The delay in trying to palpate a pulse will further compromise the myocardium if a perfusing rhythm has not been restored. Even if a perfusing rhythm has been restored has been restored, giving chest compressions does not
