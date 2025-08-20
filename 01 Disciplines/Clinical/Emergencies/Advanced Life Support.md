@@ -34,7 +34,7 @@ date: 2025-08-20
 > - Give three quick successive (stacked) shocks
 > 	- Rapidly check for rhythm change and, if appropriate check for a pulse and other signs of ROSC after each defibrillation attempt
 > 	- Start CPR if the third shock is unsuccessful
-> 	- These 'stacked' shocks count as the first defibrillation attempt in the ALS algorithm
+> 	- If unsuccessful continue with ALS  algorithm with these 'stacked' shocks count as the first defibrillation attempt
 
 # Rhythm Assessment
 
@@ -84,7 +84,7 @@ date: 2025-08-20
 	- Pulseless electrical activity
 - Dump the charge
 - Check patient for ROSC
-- Check that the leads are connected, the monitor gain is turned up and/or try a different lead
+- Asystole: Check that the leads are connected, the monitor gain is turned up and/or try a different lead
 - Continue CPR
 - **Obtain IV access and administer adrenaline 1 mg immediately**
 - Reassess the patient and rhythm every cycle (five sets of 30 compressions:2 breaths over approximately 2 minutes); remember to tell team *prepare to defibrillate* and use COACHED mnemonic:
@@ -135,6 +135,10 @@ date: 2025-08-20
 	- **Thrombosis (PE or ACS)**
 		- Perform vigorous external chest compressions to attempt to break up a massive PE when this is likely, and give a fluid load bolus of 20 mL/kg
 		- If high clinical suspicion of a massive PE (or ACS) causing cardiac arrest, a fibrinolytic agent can be given
+- Monitoring during CPR
+	- Clinical signs such as breathing efforts, movements and eye opening can occur during CPR
+		- These can indicate ROSC and require verification by a rhythm and pulse check *but* can also occur because high quality CPR can generate sufficient circulation to restore signs of life including consciousness
+	- 
 - Consider following drugs (see [[Drugs in Cardiac Arrest]]):
 # Drugs to Consider During Arrest
 - In ventricular fibrillation/ventricular tachycardia (see below or see [[Drugs in Cardiac Arrest]])
