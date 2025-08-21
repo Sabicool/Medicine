@@ -5,7 +5,7 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
 aliases:
   - ALS
-date: 2025-08-21
+date: 2025-08-22
 ---
 # ALS Algorithm
 ![[Pasted image 20250227130949.png]]
@@ -165,7 +165,7 @@ date: 2025-08-21
 		- These can indicate ROSC and require verification by a rhythm and pulse check *but* can also occur because high quality CPR can generate sufficient circulation to restore signs of life including consciousness
 	- Carotid pulsation during CPR does not necessarily indicate adequate myocardial or cerebral perfusion in low cardiac output states
 	- Waveform capnography
-		- Normal end tidal $\ce{CO2}$ is noramlly ~38 mmHg (35-45 mmHg)
+		- Normal end tidal $\ce{CO2}$ is normally ~38 mmHg (35-45 mmHg)
 		- If ROSC is suspected during CPR by a significant increase in the end-tidal $\ce{CO2}$, then withold adrenaline; give adrenaline if cardiac arrest is confirmed at the next rhythm check
 		- Failure to achieve an end-tidal $\ce{CO2}$ >10 mmHg after 20 minutes of CPR is associated with a poor outcome
 - Ultrasound during ALS
