@@ -105,6 +105,10 @@ date: 2025-08-22
 	- Lubricate the outer face of the cuff area with a water-soluble gel
 	- Flex the patient's neck slightly and extend the head
 	- Hold the LMA like a pen, insert it into the mouth and advance te tip behind the incisors with the upper surface applied to the palate until it reaches the posterior pharyngeal wall
+	- If possible, get an assistant to apply a jaw thrust after the LMA has been inserted into the mouth
+	- A slight 45 degree twist will often aid placement if intiial attempts at insertion beyond the pharynx are proving difficult
+	- Connect the inflating syringe and inflate the cuff with air (up to 40 mL for a size 5 LMA or up to 30 mL for a size 4 LMA) => the tube should lift 1-2cm out of the mouth as the cuff finds its correct position
+	- Confirm a clear airway by listening over the chest during inflation and observing bilateral chest movement
 - *Give at least 20 mL of normal saline to flush any drugs administered and elevate the limb for 10-20 seconds to facilitate drug delivery to the central circulation* but **more practical to use a continuously running IV line than intermittent bolus flushing**
 - Establish a second IV line or establish [[Intraosseous Access]]
 - Search and correct 4 Hs and 4Ts
