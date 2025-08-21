@@ -101,6 +101,10 @@ date: 2025-08-22
 	- Ventilate 10 times per minute once a definitive airway is in place without pausing for compressions and monitor using waveform capnography
 	- Verify ET position
 	- When an LMA can be inserted without delay it is preferable to avoid bag-mask ventilation altogether
+	- A size 5 will be correct for most men and a size 4 for most women
+	- Lubricate the outer face of the cuff area with a water-soluble gel
+	- Flex the patient's neck slightly and extend the head
+	- Hold the LMA like a pen, insert it into the mouth and advance te tip behind the incisors with the upper surface applied to the palate until it reaches the posterior pharyngeal wall
 - *Give at least 20 mL of normal saline to flush any drugs administered and elevate the limb for 10-20 seconds to facilitate drug delivery to the central circulation* but **more practical to use a continuously running IV line than intermittent bolus flushing**
 - Establish a second IV line or establish [[Intraosseous Access]]
 - Search and correct 4 Hs and 4Ts
