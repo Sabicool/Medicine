@@ -100,6 +100,7 @@ date: 2025-08-22
 - Insert a LMA or ETT when practical and confirm placement with capnography
 	- Ventilate 10 times per minute once a definitive airway is in place without pausing for compressions and monitor using waveform capnography
 	- Verify ET position
+	- When an LMA can be inserted without delay it is preferable to avoid bag-mask ventilation altogether
 - *Give at least 20 mL of normal saline to flush any drugs administered and elevate the limb for 10-20 seconds to facilitate drug delivery to the central circulation* but **more practical to use a continuously running IV line than intermittent bolus flushing**
 - Establish a second IV line or establish [[Intraosseous Access]]
 - Search and correct 4 Hs and 4Ts
