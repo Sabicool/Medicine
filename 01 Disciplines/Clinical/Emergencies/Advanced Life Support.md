@@ -100,15 +100,18 @@ date: 2025-08-22
 - Insert a LMA or ETT when practical and confirm placement with capnography
 	- Ventilate 10 times per minute once a definitive airway is in place without pausing for compressions and monitor using waveform capnography
 	- Verify ET position
-	- When an LMA can be inserted without delay it is preferable to avoid bag-mask ventilation altogether
-	- A size 5 will be correct for most men and a size 4 for most women
-	- Lubricate the outer face of the cuff area with a water-soluble gel
-	- Flex the patient's neck slightly and extend the head
-	- Hold the LMA like a pen, insert it into the mouth and advance te tip behind the incisors with the upper surface applied to the palate until it reaches the posterior pharyngeal wall
-	- If possible, get an assistant to apply a jaw thrust after the LMA has been inserted into the mouth
-	- A slight 45 degree twist will often aid placement if intiial attempts at insertion beyond the pharynx are proving difficult
-	- Connect the inflating syringe and inflate the cuff with air (up to 40 mL for a size 5 LMA or up to 30 mL for a size 4 LMA) => the tube should lift 1-2cm out of the mouth as the cuff finds its correct position
-	- Confirm a clear airway by listening over the chest during inflation and observing bilateral chest movement
+	- LMA insertion
+		- When an LMA can be inserted without delay it is preferable to avoid bag-mask ventilation altogether
+		- A size 5 will be correct for most men and a size 4 for most women
+		- Lubricate the outer face of the cuff area with a water-soluble gel
+		- Flex the patient's neck slightly and extend the head
+		- Hold the LMA like a pen, insert it into the mouth and advance te tip behind the incisors with the upper surface applied to the palate until it reaches the posterior pharyngeal wall
+		- If possible, get an assistant to apply a jaw thrust after the LMA has been inserted into the mouth
+		- A slight 45 degree twist will often aid placement if intiial attempts at insertion beyond the pharynx are proving difficult
+		- Connect the inflating syringe and inflate the cuff with air (up to 40 mL for a size 5 LMA or up to 30 mL for a size 4 LMA) => the tube should lift 1-2cm out of the mouth as the cuff finds its correct position
+		- Confirm a clear airway by listening over the chest during inflation and observing bilateral chest movement
+		- With an LMA: attempt continuous uninterrupted compressions initally but abandon if persistent leaks and hypoventilation occur
+	- i-gel airway
 - *Give at least 20 mL of normal saline to flush any drugs administered and elevate the limb for 10-20 seconds to facilitate drug delivery to the central circulation* but **more practical to use a continuously running IV line than intermittent bolus flushing**
 - Establish a second IV line or establish [[Intraosseous Access]]
 - Search and correct 4 Hs and 4Ts
