@@ -2,7 +2,7 @@
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-date: 2025-08-13
+date: 2025-08-22
 ---
 # Overview
 - In summary:
@@ -10,6 +10,8 @@ date: 2025-08-13
 	2. Treat airway obstruction as a medical emergency (do a met call immediately)
 		- Airway clearance with suction, opening manoeuvres, insertion of nasopharyngeal or oropharyngeal airways
 	3. Give oxygen at high concentration
+- Tracheostomy: https://tracheostomy.org.uk/healthcare-staff/emergency-care/emergency-algorithm-tracheostomy
+- Also see [[Choking]]
 # Causes
 - Depressed level of consciousness
 - Mechanical obstruction
