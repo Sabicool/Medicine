@@ -112,6 +112,11 @@ date: 2025-08-22
 		- Confirm a clear airway by listening over the chest during inflation and observing bilateral chest movement
 		- With an LMA: attempt continuous uninterrupted compressions initally but abandon if persistent leaks and hypoventilation occur
 	- i-gel airway
+		- Size 4 will function well in most adults although small females may require a size 3 and a tall men a size 4
+		- Lubricate the back, sides and front of the i-gel cuff with a thin layer of lubricant
+		- Grasp the lubricated i-gel firmly along the integrated bite block and position the device so that the i-gel cuff outlet is facing towards the chin of the patient
+		- Ensure the patient is in the sniffing position (head extended and neck flexed) and gently press the chin down before inserting the i-gel
+		- If there is early resistance during insertion of the, get an assistant to apply a jaw thrust or rotate the device
 - *Give at least 20 mL of normal saline to flush any drugs administered and elevate the limb for 10-20 seconds to facilitate drug delivery to the central circulation* but **more practical to use a continuously running IV line than intermittent bolus flushing**
 - Establish a second IV line or establish [[Intraosseous Access]]
 - Search and correct 4 Hs and 4Ts
