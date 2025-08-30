@@ -2,7 +2,9 @@
 Rotations:
   - "[[02 Rotations/Respiratory|Respiratory]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
-date: 2025-08-13
+date: 2025-08-31
+Next:
+  - "[[Shock]]"
 ---
 - Type 1: Hypoxaemia with normal (or low) Pa$\ce{CO2}$
 	- Primarily a failure of oxygenation

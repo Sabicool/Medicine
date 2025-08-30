@@ -5,6 +5,8 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
 date: 2025-08-13
+Next:
+  - "[[Unconsciousness]]"
 ---
 # Causes
 ## Classification
