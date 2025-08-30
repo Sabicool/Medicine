@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Cardiology|Cardiology]]"
-date: 2025-03-30
+date: 2025-08-30
 ---
 # Tachyarrhythmias
 ## Phone Call/Presentation Questions
@@ -184,6 +184,7 @@ Patients who are normotensive with a tachycardia or arrhythmia may look deceptiv
 	- Give ==atropine 0.5-0.6 mg IV==
 		- If no response after couple of minutes give an additional dose about every 3 minutes up to a total dose of 0.04 mg/kg (3mg for 75kg adult)
 		- Organise transthoracic pacing if still no improvement and the patient is symptomatic (requires small amounts of midazolam 1.25-2.5mg or diazepam 2.5mg IV as the procedure is uncomfortable)
+	- Other options include isoprenaline or adrenaline
 ## Selective History and Chart Review
 - Previous episodes of bradycardia or heart block?
 - Cardiac risk factors (e.g. smoking, hypertension, hypercholesterolaemia, diabetes, renal impairment)

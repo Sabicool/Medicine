@@ -4,10 +4,11 @@ aliases:
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-date: 2025-04-01
+date: 2025-08-30
 ---
 - The most common cause of VT is myocardial ischaemia or myocardial scarring following acute MI
-- A broad-complex SVT with aberrancy from ventricular pre-excitation (WPW) is treated the same as VT
+- A broad-complex SVT with aberrancy from ventricular pre-excitation (WPW) is treated the same as VT => **Regard al broad complex tachycardia as VT until, or unless, proved otherwise**
+- The identification of P waves dissociated from QRS complexes during broad complex tachycardia confirms VT
 # Management
 - Unstable VT
 	- No recordable BP and no palpable pulse (pVT)
@@ -38,8 +39,9 @@ date: 2025-04-01
 			- Review the baseline 12-lead ECG
 			- Normal baseline QT interval
 				- Give amiodarone as for monomorphic VT
-			- Baseline QT interval is prolonged 'torsades de pointes'
+			- Baseline QT interval is prolonged leading to 'torsades de pointes'
 				- Causes include electrolyte abnormality (e.g. hypokalaemia, hypomagnesamia, tricyclic antidepressants) drug interactions or a congenital disorder
 				- Give magnesium sulfate 2g (8mmol or 4mL of 49.3% solution) IV over 1-2 min
 				- Correct any underlying metabolic disorder, particularly hypokalaemia
 				- DC cardioversion is essential for critical hypotension but the torsades de points rhythym often recurs and may require several shocks
+				- Avoid drugs that prolong QT interval (including amiodarone)

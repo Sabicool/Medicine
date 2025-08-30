@@ -246,6 +246,6 @@ date: 2025-08-30
 - Consider immediate coronary angiography and PCI especially for patients following chest pain or with ST elevation
 - Transfer to ICU, cardiac catheter lab or CCU
 
-[^1]: Asystole only when fine VF cannot confidently be excluded
+[^1]: Asystole only when fine VF cannot confidently be excluded. Immediate high quality CPR may increase the amplitude and frequency of the VF making the diagnosis clear and increasing the probability of successful defibrillation
 [^2]: This is because even if the defibrillation attempt is successful in restoring a perfusing rhythm, it is very rare for a pulse to be palpable immediately after defibrillation. The time until ROSC can be longer than two minutes in as many as 25% of successful shocks. The delay in trying to palpate a pulse will further compromise the myocardium if a perfusing rhythm has not been restored. Even if a perfusing rhythm has been restored has been restored, giving chest compressions does not increase the chance of VF recurring
 [^3]: VF may be confused for supraventricular tachycardia with aberrancy. In the case where it leads to clinical cardiac arrest, the correct treatment is immediate defibrillation so misinterpretation as VF (or even VT) would not lead to inappropriate treatment
