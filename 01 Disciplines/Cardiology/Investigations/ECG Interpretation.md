@@ -5,6 +5,15 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
 date: 2025-08-30
 ---
+
+> [!NOTE] Assessing a Rhythm Strip in an Unstable/Critical Patient
+> 1. Is there any electrical activity?
+> 2. What is the ventricular QRS rate?
+> 3. Is the QRS rhythm regular or irregular?
+> 4. Is the QRS complex width normal ('narrow') or broad?
+> 5. Is atrial activity present?
+> 6. Is atrial activity related to ventricular activity and, if so, how?
+
 # Procedure
 - 3-electrode system (gives leads I, II and III)
 	- ![[Pasted image 20250125180940.png]]

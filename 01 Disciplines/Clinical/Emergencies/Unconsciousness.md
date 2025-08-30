@@ -5,7 +5,7 @@ Rotations:
 aliases:
   - Acute neurological failure
   - Coma
-date: 2025-08-20
+date: 2025-08-30
 ---
 - Comatose = requires painful stimulus to rouse or if GCS ≤8
 # Summary[^1]
@@ -15,7 +15,7 @@ date: 2025-08-20
 	- A to E assessment
 		- Examine the pupils (size, equality and reaction to light)
 		- Measure the blood glucose (if <4.0 mmol/L give 50 mL of 10% glucose solution IV and repeat BGL, repeating dose if necessary)
-	- Attach monitoring
+	- Attach monitoring (or pads)
 	- Obtain IV access and take blood samples for investigation
 	- Check patient's drug chart for reversible drug-induced causes of depressed consciousness
 	- Check allergies
