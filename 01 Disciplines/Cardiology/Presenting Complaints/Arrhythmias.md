@@ -3,7 +3,12 @@ Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Cardiology|Cardiology]]"
-date: 2025-08-30
+date: 2025-08-31
+Down:
+  - "[[Ventricular Tachycardia]]"
+  - "[[Supraventricular Tachycardia]]"
+  - "[[AV Re-entry Tachycardia|AVRT]]"
+  - "[[AV Nodal Re-entry Tachycardia|AVNRT]]"
 ---
 # Tachyarrhythmias
 ## Phone Call/Presentation Questions
@@ -71,7 +76,8 @@ Patients who are normotensive with a tachycardia or arrhythmia may look deceptiv
 	- A patient who is haemodynamically unstable and has VT, AF with rapid ventricular response or SVT requires emergency synchronised DC cardioversion
 		- Unless the patient is in cardiac arrest (in which case an immediate non-synchronised shock is given), always wait for senior staff to attend. Never administer procedural sedation and proceed to electrical DC cardioversion alone
 		- One doctor must attend to the airway, while the other operates the defibrillator and coordinates the cardiac care.
-		- Start with 120–150 J biphasic and repeat up to three times, with stepwise increases in joules.
+		- Must be synchronised so that the shock is triggered by the R wave on the ECG (anticipate a slight delay); if synchronisation fails, choose another lead and/or adjust the amplitude
+		- Start with 120–150 J biphasic and repeat up to three times, with stepwise increases in joules
 	- Note: if the patient is hypotensive and the rhythm is sinus tachycardia, the most likely cause is underlying hypotension.
 		- Look for and urgently treat any cause(s) for this, such as hypovolaemia, hypoxia, fever etc, and consider other precipitants of the tachycardia, such as anaemia or pain
 ## Selective History and Chart Review
