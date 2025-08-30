@@ -9,6 +9,7 @@ date: 2025-08-30
 - The most common cause of VT is myocardial ischaemia or myocardial scarring following acute MI
 - A broad-complex SVT with aberrancy from ventricular pre-excitation (WPW) is treated the same as VT => **Regard al broad complex tachycardia as VT until, or unless, proved otherwise**
 - The identification of P waves dissociated from QRS complexes during broad complex tachycardia confirms VT
+- Accelerated idioventricular rhythm (idioventricular rhythm with a heart rate of 50-110 beats/min) is not categorised at VT and commonly occurs after successful thrombolysis or PCI (see [[Acute Coronary Syndromes|ACS]])
 # Management
 - Unstable VT
 	- No recordable BP and no palpable pulse (pVT)
