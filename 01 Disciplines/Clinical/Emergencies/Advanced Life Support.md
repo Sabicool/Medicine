@@ -5,6 +5,7 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
 aliases:
   - ALS
+  - Cardiac Arrest
 date: 2025-08-30
 ---
 # ALS Algorithm
@@ -37,10 +38,13 @@ date: 2025-08-30
 > 	- If unsuccessful continue with ALS  algorithm with these 'stacked' shocks count as the first defibrillation attempt
 
 # Rhythm Assessment
-
+- Classified into 3 groups:
+	- Shockable rhythyms (VF, pVT)
+	- Asystole
+	- PEA
 # Shockable Rhythms
 - The only two shockable rhythms are[^1]:
-	1. Ventricular fibrillation
+	1. Ventricular fibrillation[^3] => check the patient immediately to establish whether the appearance is due to artefact; if the patient is conscious or has a pulse, the rhythm is not VF
 	2. Pulseless ventricular tachycardia
 - Do not delay defibrillation for *any* other procedure
 - First shock (200J biphasic or 360J monophasic)
@@ -244,3 +248,4 @@ date: 2025-08-30
 
 [^1]: Asystole only when fine VF cannot confidently be excluded
 [^2]: This is because even if the defibrillation attempt is successful in restoring a perfusing rhythm, it is very rare for a pulse to be palpable immediately after defibrillation. The time until ROSC can be longer than two minutes in as many as 25% of successful shocks. The delay in trying to palpate a pulse will further compromise the myocardium if a perfusing rhythm has not been restored. Even if a perfusing rhythm has been restored has been restored, giving chest compressions does not increase the chance of VF recurring
+[^3]: VF may be confused for supraventricular tachycardia with aberrancy. In the case where it leads to clinical cardiac arrest, the correct treatment is immediate defibrillation so misinterpretation as VF (or even VT) would not lead to inappropriate treatment
