@@ -1,6 +1,6 @@
 ---
 title: 03 Medications
-date: 2025-02-01
+date: 2025-08-31
 aliases:
   - Medications
 ---
