@@ -30,6 +30,14 @@ Related:
 	- Right of the sternum below the clavicle and mid-axillary line at 5th or 6th intercostal space
 	- Do not defibrillate over ECG electrodes or leads, GTN patch, internal devices such as a pacemaker or jewellery
 	- Shave off excessive hair; however in very hairy patients, a bi-axillary electrode position enable more rapid defibrillation
+	- Although they are marked positive and negative, each can be placed in either position
+	- Other acceptable positions:
+		- One electrode anteriorly, over the left precordium, and the other electrode on the back behind the heart, just inferior to the left scapula (preferred position for transcutaneous pacing)
+		- Each electrode on the lateral chest walls, one on the right and the other on the left side (bi-axillary)
+		- One electrode placed in the mid-axillary line, approximately level with the V6 electrode and the other electrode on the back, just inferior to the right scapula (postero-lateral)
+	- In patients with an ICD, place the electrode at least 10cm (if possible 15cm) away or use an alternative electrode position
+
+^defibrillator-position
 
 > [!NOTE] Monitored and Witnessed Cardiac Arrest
 > If a patient has all of the following:
@@ -86,6 +94,7 @@ Related:
 	- ETT intubation should take no more than 5-10 seconds
 		- Can consider cricoid pressure while intubating (this is the application of pressure to the cricoid cartilage with the thumb and first fingers in the posterior direction; only remove the pressure when instructed by the person performing intubation which is usually only when the endotracheal tube is inflated)
 - Reassess the patient and rhythm every 2 minutes
+- In a few cases of patients who are in VF, they are difficult to cardiovert (i.e. either remain in VF or keep developing recurrent VF), consider a change in electrode position (see [[Advanced Life Support#^defibrillator-position|defibrillator position]])
 ## Organised Electrical Activity Present
 - If at the 2-minute reassessment organised electrical activity is present, **dump the charge of the defibrillator and feel for a pulse:**
 	- If no pulse, continue CPR but switch to the non-shockable algorithm
