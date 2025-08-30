@@ -21,7 +21,7 @@ date: 2025-08-30
 - Defibrillator attachment and usage
 	- Right of the sternum below the clavicle and mid-axillary line at 5th or 6th intercostal space
 	- Do not defibrillate over ECG electrodes or leads, GTN patch, internal devices such as a pacemaker or jewellery
-	- Shave off excessive hair
+	- Shave off excessive hair; however in very hairy patients, a bi-axillary electrode position enable more rapid defibrillation
 
 > [!NOTE] Monitored and Witnessed Cardiac Arrest
 > If a patient has all of the following:
