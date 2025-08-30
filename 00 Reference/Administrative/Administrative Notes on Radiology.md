@@ -1,5 +1,6 @@
 ---
 date: 2025-01-27
+Up: "[[Intern Reference]]"
 ---
 - Always get the phone numbers of every radiology service department
 	- You don’t want to wait 10 minutes for Switch only to be told the CT number is busy, could you try again in 20 minutes

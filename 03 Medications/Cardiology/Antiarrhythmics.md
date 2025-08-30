@@ -1,5 +1,10 @@
 ---
 date: 2025-05-23
+Rotations:
+  - "[[02 Rotations/Cardiology|Cardiology]]"
+  - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
+Related:
+  - "[[Arrhythmias]]"
 ---
 
 # Amiodarone
