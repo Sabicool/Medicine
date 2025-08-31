@@ -77,7 +77,9 @@ Patients who are normotensive with a tachycardia or arrhythmia may look deceptiv
 		- Unless the patient is in cardiac arrest (in which case an immediate non-synchronised shock is given), always wait for senior staff to attend. Never administer procedural sedation and proceed to electrical DC cardioversion alone
 		- One doctor must attend to the airway, while the other operates the defibrillator and coordinates the cardiac care.
 		- Must be synchronised so that the shock is triggered by the R wave on the ECG (anticipate a slight delay); if synchronisation fails, choose another lead and/or adjust the amplitude
-		- Start with 120–150 J biphasic and repeat up to three times, with stepwise increases in joules
+		- Broad-complex tachycardia or atrial fibrillation: Start with 120–150 J biphasic and repeat up to three times, with stepwise increases in joules
+		- Atrial flutter and regular narrow-complex tachycardia: start with 70-120 J
+		- For atrial fibrillation and flutter use anteroposterior defibrillator pad positions
 	- Note: if the patient is hypotensive and the rhythm is sinus tachycardia, the most likely cause is underlying hypotension.
 		- Look for and urgently treat any cause(s) for this, such as hypovolaemia, hypoxia, fever etc, and consider other precipitants of the tachycardia, such as anaemia or pain
 ## Selective History and Chart Review
