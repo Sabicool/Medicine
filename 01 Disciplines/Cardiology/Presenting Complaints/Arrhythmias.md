@@ -68,14 +68,14 @@ Patients who are normotensive with a tachycardia or arrhythmia may look deceptiv
 	- Consider if the patient has APO
 ## Immediate Management
 - Tachycardia in a haemodynamically unstable patient with hypotension, chest pain, SOB and/or altered mental status:
-	- Call for senior help.
-	- Apply high-flow oxygen by mask, and gain IV access.
-	- Attach an ECG monitor/defibrillator to the patient.
-	- Confirm the cardiac rhythm with a 12-lead ECG (do not try to diagnose the rhythm without a formal 12-lead ECG, except in a dire emergency).
-	- Prepare procedural sedation, such as propofol 200 mg in 20 mL IV, and keep readily available. Call an anaesthetist, as cardioversion will be required.
+	- Call for senior help
+	- Apply high-flow oxygen by mask, and gain IV access
+	- Attach an ECG monitor/defibrillator to the patient
+	- Confirm the cardiac rhythm with a 12-lead ECG (do not try to diagnose the rhythm without a formal 12-lead ECG, except in a dire emergency)
+	- Prepare procedural sedation, such as propofol 200 mg in 20 mL IV, and keep readily available. Call an anaesthetist, as cardioversion will be required
 	- A patient who is haemodynamically unstable and has VT, AF with rapid ventricular response or SVT requires emergency synchronised DC cardioversion
 		- Unless the patient is in cardiac arrest (in which case an immediate non-synchronised shock is given), always wait for senior staff to attend. Never administer procedural sedation and proceed to electrical DC cardioversion alone
-		- One doctor must attend to the airway, while the other operates the defibrillator and coordinates the cardiac care.
+		- One doctor must attend to the airway, while the other operates the defibrillator and coordinates the cardiac care
 		- Must be synchronised so that the shock is triggered by the R wave on the ECG (anticipate a slight delay); if synchronisation fails, choose another lead and/or adjust the amplitude
 		- Broad-complex tachycardia or atrial fibrillation: Start with 120–150 J biphasic and repeat up to three times, with stepwise increases in joules
 		- Atrial flutter and regular narrow-complex tachycardia: start with 70-120 J
