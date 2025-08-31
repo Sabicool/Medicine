@@ -17,3 +17,7 @@ Related:
 	- Increase the current until each pacing spike is followed immediately by a QRS complex, indicating electrical capture (typically a current of 50-100 mA)
 	- In some circumstances when the need for pacing is urgent starting at the highest energy level and reducing until capture threshold is another method
 8. Check the apparent QRS complex is followed by a T wave
+9. Check that each paced QRS complex is followed by a palpable pulse (machanical response)
+10. Set the output to 10mA (10%) higher than the threshold to ensure maintenance of capture
+
+![[Scanned_20250831-1830.jpg]]
