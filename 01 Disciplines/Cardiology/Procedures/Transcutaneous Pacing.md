@@ -20,4 +20,4 @@ Related:
 9. Check that each paced QRS complex is followed by a palpable pulse (machanical response)
 10. Set the output to 10mA (10%) higher than the threshold to ensure maintenance of capture
 
-![[Scanned_20250831-1830.jpg]]
+![[Scanned_20250831-1830.jpg|450]]
