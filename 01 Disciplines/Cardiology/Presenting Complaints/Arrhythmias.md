@@ -3,13 +3,21 @@ Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Cardiology|Cardiology]]"
-date: 2025-08-31
+date: 2025-09-05
 Down:
   - "[[Ventricular Tachycardia]]"
   - "[[Supraventricular Tachycardia]]"
   - "[[AV Re-entry Tachycardia|AVRT]]"
   - "[[AV Nodal Re-entry Tachycardia|AVNRT]]"
 ---
+
+> [!NOTE] Priorities in Assessment
+> - Obtain 12-Lead ECG
+> - Condition of the patient (presence or absence of adverse features):
+> 	- Remember as: compromise of circulation - systemic, cerebral, pulmonary or cardiac
+> 	- Shock - hypotension (SBP < 90mmHg), pallor
+> - Heart rate
+
 # Tachyarrhythmias
 ## Phone Call/Presentation Questions
 - Heart rate?
