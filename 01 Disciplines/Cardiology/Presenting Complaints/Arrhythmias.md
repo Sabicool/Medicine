@@ -15,7 +15,10 @@ Down:
 > - Obtain 12-Lead ECG
 > - Condition of the patient (presence or absence of adverse features):
 > 	- Remember as: compromise of circulation - systemic, cerebral, pulmonary or cardiac
-> 	- Shock - hypotension (SBP < 90mmHg), pallor
+> 	- Shock - hypotension (SBP < 90mmHg), pallor, sweating, cold extremities, confusion or impaired consciousness
+> 	- Syncope
+> 	- Heart failure - pulmonary oedema and/or raised jugular venous pressure
+> 	- Myocardial ischaemia - typical ischaemic chest pain and/or other evidence of myocardial ischaemia on a 12-lead ECG
 > - Heart rate
 
 # Tachyarrhythmias
@@ -88,8 +91,15 @@ Patients who are normotensive with a tachycardia or arrhythmia may look deceptiv
 		- Broad-complex tachycardia or atrial fibrillation: Start with 120–150 J biphasic and repeat up to three times, with stepwise increases in joules
 		- Atrial flutter and regular narrow-complex tachycardia: start with 70-120 J
 		- For atrial fibrillation and flutter use anteroposterior defibrillator pad positions
+		- When delivering the shock, press the shock button and retain the pressure to keep it pressed until after the shock has occurred - there may be a slight delay before the shock is delivered
+			- If a second or third shock is needed, reactivate the synchronisation switch if necessary
+		- If cardioversion fails and adverse features persist, give amiodarone 300mg IV over 10-20 minutes and attempt further synchronised cardioversion; consider starting at the same energy level as the previous attempt
+		- The loading dose of amiodarone can be followed by an infusion of 900 mg over 24 hours given into a large vein (preferably central access)
 	- Note: if the patient is hypotensive and the rhythm is sinus tachycardia, the most likely cause is underlying hypotension.
 		- Look for and urgently treat any cause(s) for this, such as hypovolaemia, hypoxia, fever etc, and consider other precipitants of the tachycardia, such as anaemia or pain
+- Haemodynamically stable patient with broad complex tachycardia may be VT or SVT with bundle branch block
+	- Treat with amiodarone 300mg IV over 20-60 minutes, followed by an infusion of 900 mg over 24h
+	- If a regular broad complex tachycardia is known to be a supraventricular arrhythmia with a bundle branch block and the patient is stable, treat as a narrow-complex tachycardia
 ## Selective History and Chart Review
 - Only if the patient is stable or immediate management has been commenced and help is on its way
 - Onset of palpitations?
