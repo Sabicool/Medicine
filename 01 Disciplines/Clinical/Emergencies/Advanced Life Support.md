@@ -78,7 +78,7 @@ Related:
 > - **C**harging (top, middle bottom clear)
 > - **H**ands off (request CPR to say "I am safe" or "pause compressions" if mechanical CPR)
 > - **E**valuate rhythym (±pulse check)
-> - **D**efibrillate (delivering shock) or dump charge
+> - **D**efibrillate (delivering shock) or **D**ump charge
 ^coached
 
 - Recommence CPR immediately after shock delivery: *state loudly: Recommence CPR*
