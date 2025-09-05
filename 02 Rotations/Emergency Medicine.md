@@ -8,6 +8,7 @@ date: 2025-01-13
     - [[Acute Coronary Syndromes]]
     - [[Acute Pulmonary Oedema]]
     - [[Alcohol Withdrawal]]
+    - [[Atrial Flutter]]
     - [[Hyperemesis Gravidarum]]
     - [[Hyperglycaemia]]
     - [[Hypertension]]

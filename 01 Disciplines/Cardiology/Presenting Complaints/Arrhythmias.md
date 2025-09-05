@@ -78,6 +78,11 @@ Patients who are normotensive with a tachycardia or arrhythmia may look deceptiv
 - Respiratory rate
 	- Consider if the patient has APO
 ## Immediate Management
+![[Scanned_20250905-2236.jpg]]
+- Narrow complex tachycardia without a pulse
+	- If the patient is pulseless with a rapid narrow complex tachycardia they have PEA and you should start CPR
+	- ==Arrange immediate syncrhonised cardioversion at 200J as soon as possible==
+	- If synchronised is not possible deliver DC shock as in [[Advanced Life Support|ALS]]
 - Tachycardia in a haemodynamically unstable patient with hypotension, chest pain, SOB and/or altered mental status:
 	- Call for senior help
 	- Apply high-flow oxygen by mask, and gain IV access
@@ -136,6 +141,16 @@ Patients who are normotensive with a tachycardia or arrhythmia may look deceptiv
 | Resp        | Tachypnoea, cyanosis, wheezing, pleural effusion ⇒ LV failure, PE         |
 | MSS         | Swelling, thigh or leg tenderness or oedema ⇒ DVT                         |
 |             | Tremor, brisk deep tendon reflexes ⇒ hyperthyroidism                      |
+## Treatment of Regular Narrow-Complex Tachyarrhythmia
+- With a pulse:
+	1. Start with vagal manoeuvres
+		- Record an ECG (preferably 12-lead during each manoeuvre). If the rhythm is [[Atrial Flutter]] with 2:1 conduction, transient slowing of the ventricular response will often occur and reveal flutter waves
+	2. If the arrhythmia persists and is not atrial flutter, give adenosine 6mg as a very rapid IV bolus followed by a flush => use a relatively large cannula and a large vein
+		- Use a three way tap with pressure bag infusion with one port for the adenosine and the other for the flush
+		- Warn the patient that they will feel unwell, chest discomfort or near blackout like feeling for a few seconds
+		- Record a 12-lead ECG during the injection and observe if the ventricular rate slows transiently, but then speeds up again, look for atrial activity, such as atrial flutter or other atrial tachycardia and treat accordingly
+		- If no response (i.e. no transient slowing or termination of the tachyarrhythmia) give a 12mg bolus. If there is no response give one further 12mg bolus. Also consider if the bolus is given too slowly or into a peripheral vein
+	3. If adenosine is contraindicated consider given verapamil 2.5-5mg (avoid in patients with cardiac failure, hypotension, concomitant ß-blocker therapy or WPW) or metaraminol 1mg[^1]
 ## Specific Management
 - [[Atrial Fibrillation#Acute Management of Rapid Ventricular Response|Atrial fibrillation]] (management is also similar for atrial flutter)
 - [[Supraventricular Tachycardia#Management|SVT]]
@@ -239,3 +254,5 @@ Patients who are normotensive with a tachycardia or arrhythmia may look deceptiv
 	- If the patient is on medication that depresses conduction, withhold the next dose until the HR is >60 beats/min
 - [[Atrial Fibrillation#Acute Management of Slow Ventricular Response|Atrial Fibrillation]]
 - AV block 2nd and third degree will need temporary pacing while addressing reversible causes or permanent pacemaker
+
+[^1]: Have personally seen this, in a patient who did not want adenosine, although as with everything on this website not formal medical advice. Also see: https://litfl.com/im-so-old-that/

@@ -7,7 +7,7 @@ Rotations:
 aliases:
   - ALS
   - Cardiac Arrest
-date: 2025-08-31
+date: 2025-09-05
 Down:
   - "[[Drugs in Cardiac Arrest]]"
   - "[[Acute Airway Failure]]"
@@ -103,7 +103,7 @@ Related:
 # Non-Shockable Rhythms
 - Non shockable rhythms is basically anything not shockable:
 	- Asystole
-	- Pulseless electrical activity
+	- Pulseless electrical activity[^4]
 - Dump the charge
 - Check patient for ROSC
 - Asystole: Check that the leads are connected, the monitor gain is turned up and/or try a different lead
@@ -267,3 +267,4 @@ Related:
 [^1]: Asystole only when fine VF cannot confidently be excluded. Immediate high quality CPR may increase the amplitude and frequency of the VF making the diagnosis clear and increasing the probability of successful defibrillation
 [^2]: This is because even if the defibrillation attempt is successful in restoring a perfusing rhythm, it is very rare for a pulse to be palpable immediately after defibrillation. The time until ROSC can be longer than two minutes in as many as 25% of successful shocks. The delay in trying to palpate a pulse will further compromise the myocardium if a perfusing rhythm has not been restored. Even if a perfusing rhythm has been restored has been restored, giving chest compressions does not increase the chance of VF recurring
 [^3]: VF may be confused for supraventricular tachycardia with aberrancy. In the case where it leads to clinical cardiac arrest, the correct treatment is immediate defibrillation so misinterpretation as VF (or even VT) would not lead to inappropriate treatment
+[^4]: Pulseless narrow complex tachycardia is considered PEA, but immediate management is CPR and synchronised cardioversion at 200J as soon as possible
