@@ -20,7 +20,7 @@ Down:
 > 	- Heart failure - pulmonary oedema and/or raised jugular venous pressure
 > 	- Myocardial ischaemia - typical ischaemic chest pain and/or other evidence of myocardial ischaemia on a 12-lead ECG
 > - Heart rate
-
+ ^assessment-priorities
 # Tachyarrhythmias
 ## Phone Call/Presentation Questions
 - Heart rate?
@@ -210,6 +210,7 @@ Patients who are normotensive with a tachycardia or arrhythmia may look deceptiv
 	- Cardiac disease: Acute MI (esp. inferior wall) sick sinus syndrome
 	- Other: Vasovagal attack, healthy young athletes, hypothermia, hypothyroidsim, increased ICP in association with hypertension (Cushing's reflex)
 ## Assessment
+ ![[Arrhythmias#^assessment-priorities]]
 ### End of Bed
 - If concerned tell the nurse to bring the cardiac arrest trolley to the bedside and attach an ECG monitor to the patient; consider MET call
 ### A → E Assessment
@@ -225,6 +226,10 @@ Patients who are normotensive with a tachycardia or arrhythmia may look deceptiv
 - Temperature?
 	- Hypothermia may be associated with bradyarrhythmia
 ## Immediate Management
+- If adverse features:
+	- Give atropine 500mcg IV rapid bolus and if necessary repeat every 3-5 minutes to a total of 3mg *(doses of atropine given slowly or of <500mcg can cause paradoxical slowing of the heart rate*
+		- Use atropine cautiously in the presence of acute myocardial ischaemia or myocardial infarction
+	- If bradycardia with adverse signs persists: consider cardiac pacing, otherwise consider second line drugs
 - HR<40 beats/min and SBP <90mmHg or features of circulatory compromise
 	- Call senior for help
 	- Apply high-flow oxygen by mask and gain IV access
