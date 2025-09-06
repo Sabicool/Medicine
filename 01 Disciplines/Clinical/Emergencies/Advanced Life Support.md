@@ -22,10 +22,38 @@ Related:
 
 > [!NOTE] 
 > The highest priorities in resuscitation is:
-> - Good quality CPR
+> - Good quality CPR (place hard board underneath)
 > - Ensuring help is on the way
 > - Reducing time to defibrillation
 > Once defibrillator pads are attached, do a rhythm assessment as soon as possible. Chest compressions and ventilation must be undertaken immediately but should not delay attempts to deliver the first shock to defibrillate those patients in VF/pVT
+
+> [!NOTE] 5 Phase Approach to the Cardiac Arrest
+> 1. Identify the arrest ([[Basic Life Support|DRSABCD]], call for help)
+> 2. CPR cycles (Allocate roles (see below), CPR, defibrillation, drugs)
+> 3. Safe defibrillation
+> 4. Reversible causes
+> 5. Post resus care
+
+> [!NOTE] Roles to Allocate
+> 1. Chest compressions (2 people, swap every 2 minutes)
+> 2. Defibrillation (1 person on opposite side of chest compressions)
+> 3. Airway management (1 person)
+> 4. IV access and drugs (1 person)
+> 5. Team leader (1 person)
+> 6. Scribe (1 person)
+> 7. Optional: Runner, telephone, documentation
+
+> [!WARNING] Bag Valve Mask Usage
+> - High flow 15L/min or higher
+> - Make sure it stays connected
+> - Use a guedel/NPA
+> - 2 hands + jaw thrust
+> - Continuously evaluate for:
+> 	- Fogging, rise and fall of chest
+> 	- End tidal $\ce{CO2}$
+> - Close the blow off valve to achieve higher ventilation pressures:
+> 	- ![[Pasted image 20250906233422.png]]
+> - LMA or intubate once anaesthetist arrives (continuous CPR and 8 breaths per minute)
 
 - Defibrillator attachment and usage
 	- Right of the sternum below the clavicle and mid-axillary line at 5th or 6th intercostal space
