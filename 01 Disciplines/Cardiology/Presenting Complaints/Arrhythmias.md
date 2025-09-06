@@ -226,19 +226,32 @@ Patients who are normotensive with a tachycardia or arrhythmia may look deceptiv
 - Temperature?
 	- Hypothermia may be associated with bradyarrhythmia
 ## Immediate Management
+![[Scanned_20250906-2121.jpg]]
 - If adverse features:
-	- Give atropine 500mcg IV rapid bolus and if necessary repeat every 3-5 minutes to a total of 3mg *(doses of atropine given slowly or of <500mcg can cause paradoxical slowing of the heart rate*
-		- Use atropine cautiously in the presence of acute myocardial ischaemia or myocardial infarction
-	- If bradycardia with adverse signs persists: consider cardiac pacing, otherwise consider second line drugs
-- HR<40 beats/min and SBP <90mmHg or features of circulatory compromise
 	- Call senior for help
 	- Apply high-flow oxygen by mask and gain IV access
 	- Attach an ECG monitor/defibrillator to the patient and confirm rhythm
 	- Elevate patient's legs temporarily in the Trendelenburg position
-	- Give ==atropine 0.5-0.6 mg IV==
-		- If no response after couple of minutes give an additional dose about every 3 minutes up to a total dose of 0.04 mg/kg (3mg for 75kg adult)
-		- Organise transthoracic pacing if still no improvement and the patient is symptomatic (requires small amounts of midazolam 1.25-2.5mg or diazepam 2.5mg IV as the procedure is uncomfortable)
-	- Other options include isoprenaline or adrenaline
+	- Give atropine 500mcg IV rapid bolus and if necessary repeat every 3-5 minutes to a total of 3mg *(doses of atropine given slowly or of <500mcg can cause paradoxical slowing of the heart rate*
+		- Use atropine cautiously in the presence of acute myocardial ischaemia or myocardial infarction
+		- Do not give atropine to patients with cardiac transplants
+	- If bradycardia with adverse signs persists: consider cardiac pacing, otherwise consider second line drugs
+	- Transcutaneous pacing:
+		- Organise transthoracic pacing if still no improvement and the patient is symptomatic (requires small amounts of midazolam 1.25-2.5mg or diazepam 2.5mg IV as the procedure is uncomfortable); consider second line as well as analgesia (e.g. fentanyl)
+		- While organising pacing, use percussion pacing as an interim measure: repeated rhythmic thumps with the side of a closed fist over the left lower edge of the sternum at a rate of 50-70 beats/min
+		- Remember to attach limb leads to the pacing defibrillator
+		- Turn on asyncronous pacing using the buttons on the bottom of the defibrillator (bottom right)
+		- Set rate using the rate dial (70 bpm)
+		- Set the power output using mA dial (patients usually require 60-70 mA)
+		- Obtain capture: (downward pacing spike followed by a QRS complex and T wave)
+		- Set power output to 10% above the threshold
+		- Check mechanical capture by checking pulse and blood pressure
+
+> [!NOTE] When to Give other Drugs instead of Atropine
+> - Glucagon if a beta block or calcium channel blocker is likely cause of bradycardia
+> 	- High dose insulin therapy along with glucose supplementation can also work
+> - Digoxin-specific antibody fragments for bradycardia caused by digoxin toxicity
+> - Aminophylline (100-200 mg) by slow IV injection for bradycardia complicating acute inferior wall myocardial infarction, spinal cord injury or cardiac transplantation
 ## Selective History and Chart Review
 - Previous episodes of bradycardia or heart block?
 - Cardiac risk factors (e.g. smoking, hypertension, hypercholesterolaemia, diabetes, renal impairment)
