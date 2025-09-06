@@ -1,5 +1,5 @@
 ---
-date: 2025-01-09
+date: 2025-09-06
 ---
 # Management
 ## Acute Management of Rapid Ventricular Response
