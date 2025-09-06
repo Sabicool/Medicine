@@ -150,6 +150,15 @@ Patients who are normotensive with a tachycardia or arrhythmia may look deceptiv
 	- Record a 12-lead ECG during the injection and observe if the ventricular rate slows transiently, but then speeds up again, look for atrial activity, such as atrial flutter or other atrial tachycardia and treat accordingly
 	- If no response (i.e. no transient slowing or termination of the tachyarrhythmia) give a 12mg bolus. If there is no response give one further 12mg bolus. Also consider if the bolus is given too slowly or into a peripheral vein
 3. If adenosine is contraindicated consider given verapamil 2.5-5mg (avoid in patients with cardiac failure, hypotension, concomitant ß-blocker therapy or WPW) or metaraminol 1mg[^1]
+## Treatment of Irregular Narrow-Complex Tachyarrhthmia
+- Most likely [[Atrial Fibrillation|AF]] with rapid ventricular response
+- If presence of adverse features, perform synchronised cardioversion, otherwise start anticoagulation prior to cardioversion initially with LMWH or UFH at the earliest opportunity
+- Treatment options include:
+	- Rate control by drug therapy: metoprolol, particularly for IV use (1mg IV aliquots up to 5mg to response) or diltiazem in patients in whom beta-blockade is contraindicated or not tolerated. Digoxin my be used in patients with heart failure (but not if already on amiodarone)
+	- Rhythm control using drugs to achieve chemical cardioversion
+	- Rhythm control by synchronised cardioversion
+	- Treatment to prevent complications
+- In general, patients in AF>48h should not be treated by cardioversion until they have been fully anticoagulated, and/or unless TOE has detected no evidence of atrial thrombus
 ## Specific Management
 - [[Atrial Fibrillation#Acute Management of Rapid Ventricular Response|Atrial fibrillation]] (management is also similar for atrial flutter)
 - [[Supraventricular Tachycardia#Management|SVT]]

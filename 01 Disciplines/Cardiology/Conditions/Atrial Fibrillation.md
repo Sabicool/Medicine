@@ -1,5 +1,7 @@
 ---
 date: 2025-09-06
+aliases:
+  - AF
 ---
 # Management
 ## Acute Management of Rapid Ventricular Response
