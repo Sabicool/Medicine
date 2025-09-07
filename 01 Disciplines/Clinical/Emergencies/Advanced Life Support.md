@@ -280,7 +280,7 @@ Related:
 	- Treat and prevent cardiac arrhythmias
 - Treat and prevent cardiac arrhythmias
 	- Infusions of amiodarone may be used as prophylactic therapy for suspected recurrent VT
-- Repeat investigations: including a 12-lead ECG, blood glucose, ABG or VBG and electrolytes
+- Repeat investigations: including a 12-lead ECG, blood glucose, ABG or VBG and electrolytes, CXR
 - Avoid hypo-/hyperglycaemia or acidosis and control seizures
 	- Hyperglycaemia is associated with poor neurological outcome; treat BGL >10mmol/L with insulin
 - Commence targeted temperature management
@@ -291,6 +291,11 @@ Related:
 - Consider seizure prophylaxis
 - Consider immediate coronary angiography and PCI especially for patients following chest pain or with ST elevation
 - Transfer to ICU, cardiac catheter lab or CCU
+# Paediatrics
+- Similar, but key differences:
+	- Compression:ventilation ratio 15:2
+	- Defibrillation at 4 J/kg
+	- Adrenaline 10mcg/kg, Amiodarone 5mg/kg
 
 [^1]: Asystole only when fine VF cannot confidently be excluded. Immediate high quality CPR may increase the amplitude and frequency of the VF making the diagnosis clear and increasing the probability of successful defibrillation
 [^2]: This is because even if the defibrillation attempt is successful in restoring a perfusing rhythm, it is very rare for a pulse to be palpable immediately after defibrillation. The time until ROSC can be longer than two minutes in as many as 25% of successful shocks. The delay in trying to palpate a pulse will further compromise the myocardium if a perfusing rhythm has not been restored. Even if a perfusing rhythm has been restored has been restored, giving chest compressions does not increase the chance of VF recurring
