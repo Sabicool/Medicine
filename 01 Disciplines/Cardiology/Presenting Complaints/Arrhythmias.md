@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Cardiology|Cardiology]]"
-date: 2025-09-06
+date: 2025-09-07
 Down:
   - "[[Ventricular Tachycardia]]"
   - "[[Supraventricular Tachycardia]]"
