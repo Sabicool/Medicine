@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
   - "[[Intensive Care Unit]]"
   - "[[Emergency Medicine]]"
-date: 2025-09-08
+date: 2025-09-10
 ---
 - Definition (as from ALS 2 Manual): >5.5 mmol/L
 	- Severe hyperkalaemia: >6.5 mmol/L
