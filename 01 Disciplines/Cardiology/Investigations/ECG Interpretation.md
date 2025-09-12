@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[02 Rotations/Cardiology|Cardiology]]"
-date: 2025-09-10
+date: 2025-09-12
 ---
 
 > [!NOTE] Assessing a Rhythm Strip in an Unstable/Critical Patient
