@@ -95,4 +95,5 @@ date: 2025-09-14
 	- Sustained tachypnoea is associated with sepsis, metabolic acidosis, anaemia, pneumonia and CCF
 - Temperature?
 	- Fever consider infection or inflammation
-## Initial Examination
+# Selective History and Chart Review
+
