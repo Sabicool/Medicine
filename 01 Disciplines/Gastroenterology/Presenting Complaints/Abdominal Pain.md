@@ -100,4 +100,41 @@ date: 2025-09-14
 	- Sudden onset => Perforation of a viscus, ruptured ectopic pregnancy, torsion of an ovarian cyst or a leaking AAA
 	- Severe pain in waves that develops over minutes to hours => colic (renal, biliary or intestinal)
 - Character?
+	- Burning => peptic ulcer
+	- Sharp and constricting ('takes one's breath away') => Biliary colic
+	- Deep and agonising, eased by sitting forwards => Acute pancreatitis
+	- Gripping with intermittent exacerbations => Bowel obstruction
+	- Relentness and worsened on coughing or moving; the patient prefers to lie still => Peritonitis
+	- Patient rolls around trying to get comfy => Ureteric colic
+- Location?
+	- May need to find localisation by examination
+- Does the pain radiate
+	![[Pasted image 20250914185830.png]]
+- Has the pain changed since onset?
+	- A ruptured viscus is initially associated with localised pain that subsequently shifts or becomes generalised
+- Aggravating or relieving factors?
+	-  Duodenal ulcer pain is often relieved by the ingestion of food.
+	- Pancreatitis pain is worsened after eating and may be relieved by sitting up or leaning forwards
+	- Pain that increases with inspiration suggests biliary origin, peritonitis or pleurisy
+	- Pain associated with frequency and dysuria aggravated by micturition suggests a urological cause
+	- Pain worse with movement such as coughing is usually secondary to localised or generalised peritonitis (e.g. appendicitis)
+	- Pain relieved by movement or that makes the patient restless is more often colicky in nature (e.g. ureteric colic)
+- Other associated symptoms?
+	- Nausea or vomiting?
+		- Pain prior to nausea and vomiting => surgical acute abdomen
+		- Pain following nausea and vomiting => gastritis or gastroenteritis
+		- Vomiting that occurs at the onset of pain => peritoneal irritation, perforation of a viscus, acute pancreatitis or a high intestinal obstruction
+		- Vomting many hours after the onset of abdominal pain may be caused by lower intestinal obstruction or ileus
+		- Vomiting after fasting => gastric stasis or gastric outlet obstruction
+	- Contents of vomiting?
+		- Clear fluids => obstruction proximal to sphincter of Oddi in the second part of the duodenum
+		- Faeculent vomit => distal intestinal obstruction or a gastrocolic fistula
+		- Blood => see [[Haematemesis]]
+	- Frequency and character of stool?
+		- Bloody diarrhoea with abdominal pain => invasive enteritis (e.g. Shigella and Salmonella), ischaemic colitis and inflammatory bowel disease
+		- Diarrhoea alternating with constipation => diverticular disease, colonic neoplasm
+		- Absolute constipation with lack of flatus => low large bowel obstruction or ileus
+	- Fever or chills?
+		- Check temperature record since admission and check medication sheet for antipyretic or steroid use which may mask a fever
+- Documentation review
 	- 
