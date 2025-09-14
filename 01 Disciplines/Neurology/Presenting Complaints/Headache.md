@@ -140,7 +140,6 @@ date: 2025-09-14
 
 > [!NOTE]
 >  Relief of pain with analgesia does not aid diagnosis. Do not discount the seriousness of a headache just because it has responded to analgesia, as it can still be a SAH
-
 # Examination
 
 | Examination | Notes                                                                                                                                                                                                                                                |

@@ -137,4 +137,32 @@ date: 2025-09-14
 	- Fever or chills?
 		- Check temperature record since admission and check medication sheet for antipyretic or steroid use which may mask a fever
 - Documentation review
+	- Is there a history of abdominal pain?
+		- Consider: Gastritis or oesophageal reflux, peptic ulcer disease, alcoholic pancreatitis, cholelithiasis, uretoerolithiasis
+	- Is there a history of previous abdominal surgery? => adhesions
+	- Recent history of blunt trauma to the abdomen
+		- Contained subcapsular haematoma of the spleen may rupture several days later
+		- Abnormal spleen in infectious mononucleosis, malaria or a lymphoproliferative disorder can rupture with minimal or even no obvious trauma
+	- Is there a history of chronic liver disease from alcohol, viral hepatitis or non-alcoholic steatohepatitis (NASH)
+		- Always consider spontaneous bacterial peritonitis in a patient with chronic liver disease, ascites and fever
+	- Is there a history of coronary or peripheral vascular disease?
+		- Abdominal pain from an inferior MI, leaking AAA, mesenteric infarction or descending aortic dissection (with hypertension)
+	- Could the patient be pregnant?
+	- What medication is the patient currently prescribed?
+		- Anticoagulants, NSAIDs and steroids?
+# Examination
+
+| Examination | Notes                                                                                                              |
+| ----------- | ------------------------------------------------------------------------------------------------------------------ |
+| HEENT       | Jaundiced sclerae => hepatitis, cholangitis, cholelithiasis                                                        |
+|             | Spider naevi => chronic liver disease                                                                              |
+| CVS         | Flat neck veins and JVP => volume depletion                                                                        |
+|             | New onset of arrhythmia or mitral incompetence murmur => myocardial infarction                                     |
+| Respiratory | Shallow respirations with restricted abdominal wall movement => localised or generalised peritoneal inflammation   |
+|             | Stony dullness to percussion, decreased breath sounds, decreased tactile vocal fremitus => basal pleural effusions |
+|             | Dullness to percussion, crackles and diminished or bronchial breath sounds => basal pneumonia consolidation        |
+| SKin        | Jaundice, spider naevi, palmar erythema, gynaecomastia, bruising => liver failure                                  |
+|             | Caput medusa => portal hypertension with varices                                                                   |
+## Abdominal Examination
+- Inspection
 	- 
