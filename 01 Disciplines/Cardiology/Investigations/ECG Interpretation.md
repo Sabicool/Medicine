@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[02 Rotations/Cardiology|Cardiology]]"
-date: 2025-09-12
+date: 2025-09-14
 ---
 
 > [!NOTE] Assessing a Rhythm Strip in an Unstable/Critical Patient
@@ -184,4 +184,9 @@ https://www.youtube.com/watch?v=H6yTQm2h8dc
 %%[[Sick Sinus Syndrome ECG Example.excalidraw.md|🖋 Edit in Excalidraw]]%%
 
 # Tachyarrhythmias
+# Hypertrophy
+- Broadly speaking, the changes in hypertrophy are:
+	- Chamber can take longer to depolarise => ECG wave increases in duration
+	- Chamber can generate more current and larger voltage => ECG wave increases in amplitude
+	- A larger percentage of the total electrical current can move through the expanded temperature resulting in a shift of the axis
 # Other Cardiac Conditions
