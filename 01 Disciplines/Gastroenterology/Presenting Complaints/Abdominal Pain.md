@@ -96,4 +96,8 @@ date: 2025-09-14
 - Temperature?
 	- Fever consider infection or inflammation
 # Selective History and Chart Review
-
+- Onset gradual or sudden?
+	- Sudden onset => Perforation of a viscus, ruptured ectopic pregnancy, torsion of an ovarian cyst or a leaking AAA
+	- Severe pain in waves that develops over minutes to hours => colic (renal, biliary or intestinal)
+- Character?
+	- 
