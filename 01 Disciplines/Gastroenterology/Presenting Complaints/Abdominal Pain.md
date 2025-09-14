@@ -68,3 +68,31 @@ date: 2025-09-14
 > - Musculoskeletal
 > 	- Rectus muscle haematoma or tear
 
+> [!Warning] Major Threat to Life
+> - Exansanguinating haemorrhage with hypovolaemic shock
+> 	- Leaking AAA, ruptured ectopic pregnancy or splenic rupture
+> 	- Consider iatrogenic causes (e.g. liver or renal biopsy, thoracocentesis)
+> - Perforated viscus
+> 	- Rigid abdomen with severe pain
+> - Necrosis of viscus
+> 	- Severe pancreatitis, intussusception, volvulus, strangulated hernia or ischaemic colitis can rapidly cause hypovolaemic or septic shock and electrolyte and acid-base disturbances
+> - Intraperitoneal septic focus
+> 	- Infection from a localised site such as ascending cholangitis or an infected obstructed kidney may progress to generalised septic shock within hours
+> - Extra-abdominal causes
+> 	- Patients with AMI, thoracic aortic dissection and/or DKA may present with acute abdominal pain
+# Assessment
+## End of Bed
+- Patients with severe colic are often restless and writhing in discomfort
+- Patients with peritonitis lie still avoiding any movement
+## A to E Assessment
+- Heart rate and blood pressure?
+	- Tachycardia (HR >120) + Hypovolaemia (SBP <90mmHg) is associated with shock
+	- Sudden abdominal pain associated with hypotension consider: inferior MI (do ECG), pancreatitis (measure lipase), ruptured AAA or ectopic pregnanct (urgent USS/FAST) and mesenteric infarction (bloody diarrhoea with a metabolic acidosis and raised lactate)
+	- Gradual onset abdomen with hypotension consider: peritonitis, perforation or urosepsis
+	- Recheck the BP and HR with the patient standing if the supine BP is normal => A ↓ BP with ↑ HR (>20 beats/min) => underlying hypovolaemia
+- Respiratory rate?
+	- Shallow, rapid breathing consider generalised abdominal pain, peritonitis or subdiaphragmatic irritation
+	- Sustained tachypnoea is associated with sepsis, metabolic acidosis, anaemia, pneumonia and CCF
+- Temperature?
+	- Fever consider infection or inflammation
+## Initial Examination

@@ -1,5 +1,5 @@
 ---
-date: 2025-01-08
+date: 2025-09-14
 ---
 # Phone Call/Presentation Questions
 - Was the onset sudden or gradual? Sudden onset of a severe headache is a SAH until proven otherwise?
@@ -171,6 +171,7 @@ date: 2025-01-08
 - If CT scan inconclusive and suspected cerebral venous sinus thrombosis, vasculitis or vertebral or carotid artery dissection → MRI/MRA
 # Specific Management
 ## Meningoencephalitis
+- See [[Meningitis]]
 - **Presentation:** Generalised headache, fever and vomiting with altered mental status, irritability and drowsiness progressing to coma, neck stiffness and photophobia
 - Most often viral but if bacterial: Neisseria meningitidis, Streptococcus pneumoniae, Haemophilus influenzae (non-vaccinated) and Listeria monocytogenes
 	- Viral infection usually causes less severe headache, and may have a typical prodrome, but always do an LP if in any doubt.
