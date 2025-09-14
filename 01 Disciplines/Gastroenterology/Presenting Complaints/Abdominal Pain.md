@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[Gastroenterology]]"
-date: 2025-08-16
+date: 2025-09-14
 ---
 # Phone Call/Presentation Questions
 - SOCRATES of the pain
@@ -60,4 +60,11 @@ date: 2025-08-16
 > 	- Testicles: torsion, epididymitis, cancer
 > - Vascular:
 > 	- AAA
+> - Gynaecological:
+> 	- Uterine: bleed into fibroid, pregnancy-related
+> 	- Ovarian: torsion, ruptured cyst, haemorrhage, cancer
+> 	- Fallopian tube: Ectopic pregnancy, pelvic inflammatory disease
+> 	- Mittelschmerz, endometriosis
+> - Musculoskeletal
+> 	- Rectus muscle haematoma or tear
 
