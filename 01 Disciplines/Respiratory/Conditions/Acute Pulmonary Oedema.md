@@ -5,7 +5,7 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
 aliases:
   - APO
-date: 2025-02-22
+date: 2025-09-19
 ---
 # Presentation
 - Develops over minutes with severe breathlnessness, coughing frothy pink sputum, orthopnoea and PND
