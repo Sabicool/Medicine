@@ -121,11 +121,30 @@ date: 2025-09-20
 > [!WARNING] Dabigatran
 > Dabigatran requires at least 5 days of parenteral anticoagulant to be given first. Dose is 150mg PO 12-hourly. Dose modification is required based of renal function
 ## Fibrinolytic Therapy
+![[Pasted image 20250920182356.png]]
 - Consider when the probability of PE is high (or confirmed) and:
 	- The patient is hypotensive despite fluid resuscitation and/or
 	- Has evidence of acute RV failure and/or
 	- Is peri-arrest
+- High risk (previously massive) PE:
+	- Acute PE (confirmed on VQ, CTPA or bedside echocardiogram) accompanied by any of:
+		- Sustained hypotension (systolic BP <90 mmHg for at least 15 min or requiring ionotropic support not due to a cause other than PE)
+		- Pulselessness
+		- Persistent profound bradycardia (heart rate <40 bpm with symptoms or signs of shock)
+- Intermediate high risk (previously sub-massive) PE:
+	- Acute PE without systemic hypotension (systolic BP >90 mmHg) but with either right ventricular dysfunction and/or myocardial necrosis:
+		- RV dysfunction defined as at least one of:
+			- RV dilation (apical 4-chamber RV diameter divided by LV diameter ≥0.9) or RV systolic dysfunction on echocardiography
+			- RV dilation (4 chamber RV diameter divided by LV diameter ≥0.9) on CT
+			- Elevation of BNP (>90 pg/mL) or pro BNP (>500 pg/mL)
+			- ECG changes indicating RV dysfunction (new RBBB, anteroseptal ST elevation or depression or T wave inversion)
+		- Myocardial necrosis defined by:
+			- Elevation of troponin T >50ng/L
 - Call immediate senior help and [[MET Activation Criteria]]
 - Give tPA 10mg IV over 1-2 minutes then 90 mg IV over 2 hours together with heparinisation
 	- Can consider streptokinase and urokinase
 - Stat fibrinolytic doses can be given in cases of cardiac arrest considered related to a massive PE
+- Catheter directed thrombolysis indicated for patients with acute PE associated with hypotension who have:
+	- High bleeding risk
+	- Failed systemic thrombolysis
+	- Shock that is likely to cause death before systemic thrombolysis can take effect (e.g. within hours)
