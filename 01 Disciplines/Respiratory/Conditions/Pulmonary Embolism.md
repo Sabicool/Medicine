@@ -36,8 +36,7 @@ date: 2025-09-20
 > [!NOTE] 
 >  Patients with high pre-test probability should be commenced on treatment if there are no contra-indications. Treatment can commence prior to definitive imaging. Consideration should be given to treating low and moderate risk patients with positive D-Dimer and no contra-indications.
 
-
-![[Pasted image 20241220001259.png]]
+ ![[Pasted image 20241220001259.png]]
 ![[Pasted image 20250415182950.png]]
 - PERC needs to be 0 to rule out PE
 - If PERC positive -> YEARS score + D-dimer
@@ -46,7 +45,11 @@ date: 2025-09-20
 	- Those with a positive D-dimer
 ### CTPA
 - CTPA has >95% sensitivity for segmental or larger PEs and ~75% for subsegmental
-- More useful if the CXR is abnormal (V/Q scan is difficult to interpret)
+- CTPA is the preferred first line imaging except for patients <40 years with a normal XR chest where V/Q scan is available within hours
+- Contrast-induced risks in patients with renal insufficiency can be mitigated with:
+	- IV pre-hydration and adequate hydration afterwards
+	- Witholding metformin, NSAIDs, ACE-i
+- More useful if the CXR is abnormal (V/Q scan is difficult to interpret in these cases and indertiminate result more likely)
 - Arrange sequential V/Q scan ±lower limb Doppler u/s or CT venogram if doubt remains
 ### V/Q Scan
 - V/Q scan preferred over CTPA if:
@@ -67,7 +70,17 @@ date: 2025-09-20
 
 ^cxr
 
+### Pregnancy 
+- D-dimer cannot be used for risk stratification in pregnant patients
+- Lower limb ultrasound remains the first test of choice
+- In suspected PE in pregnancy, if compression ultrasonography of the legs is normal and a XR chest has not further aided the diagnostic process, the decision then needed is whether to investigate further with CTPA or V/Q or treat empirically
+
+> [!NOTE] Risks
+> - The average human receives about 3mSv of “background” radiation per year. In general, the comparative radiation dose to a patient with CTPA is 12 mSv whilst it is 2.3mSv with V/Q scan.
+> - The natural background dose for a foetus during pregnancy is 1.1-2.5mGy. The foetal dose of radiation from CTPA is 0.37mGy, whilst it is 0.4mGy from a V/Q scan in early pregnancy and 0.75mGy at 6 months. The risk of childhood cancer in exposed offspring is slightly higher with V/Q scan than with CTPA (1 in 280,000 for V/Q and %3C1 in 1,000,000 for CTPA)
+
 # Management
+![[Pasted image 20250920175714.png]]
 - Give high-dose oxygen via mask, aiming for oxygen saturation >95%
 - Give IV normal saline to support BP if necessary
 	- Avoid excessive fluid ∵ worsens RV dilation → septal shift → worsens LV function 
