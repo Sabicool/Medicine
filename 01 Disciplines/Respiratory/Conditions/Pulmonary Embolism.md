@@ -79,14 +79,21 @@ date: 2025-09-20
 > - The average human receives about 3mSv of “background” radiation per year. In general, the comparative radiation dose to a patient with CTPA is 12 mSv whilst it is 2.3mSv with V/Q scan.
 > - The natural background dose for a foetus during pregnancy is 1.1-2.5mGy. The foetal dose of radiation from CTPA is 0.37mGy, whilst it is 0.4mGy from a V/Q scan in early pregnancy and 0.75mGy at 6 months. The risk of childhood cancer in exposed offspring is slightly higher with V/Q scan than with CTPA (1 in 280,000 for V/Q and %3C1 in 1,000,000 for CTPA)
 
+![[Pasted image 20250920180349.png]]
+- CUS = Lower limb ultrasound
 # Management
 ![[Pasted image 20250920175714.png]]
+## General measures
 - Give high-dose oxygen via mask, aiming for oxygen saturation >95%
+- Baseline tests before anticoagulant therapy:
+	- Coagulation profile, FBC, EUC, LFT
+	- Women of childbearing age: beta-HCG
 - Give IV normal saline to support BP if necessary
 	- Avoid excessive fluid ∵ worsens RV dilation → septal shift → worsens LV function 
 - Vasopressors: Norad first line, dobutamine
 - Relieve pain with titrated morphine 2.5 mg IV boluses
 - Can use PESI score or simplified PESI score to determine risk of 30 day mortality
+- Measure weight and creatinine clearance before selecting anticoaglant
 ## Anticoagulation
 - Commence anticoagulation when:
 	- The diagnosis is confirmed or
