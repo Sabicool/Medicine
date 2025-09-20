@@ -1,7 +1,7 @@
 ---
 aliases:
   - PE
-date: 2025-05-23
+date: 2025-09-20
 ---
 # Presentation
 - See: [[Shortness of Breath, Cough and Haemopytsis|Dyspnoea]]
@@ -32,6 +32,10 @@ date: 2025-05-23
 > - Patients ≥50 years with a low pre-test probability or
 > - In any patient <50 with a low pre-test probability but who fails to fulfil one or more PERC criteria
 > 	- If all PERC criteria are fulfilled, the patients does not have a PE and does not need a D-dimer test sent
+
+> [!NOTE] 
+>  Patients with high pre-test probability should be commenced on treatment if there are no contra-indications. Treatment can commence prior to definitive imaging. Consideration should be given to treating low and moderate risk patients with positive D-Dimer and no contra-indications.
+
 
 ![[Pasted image 20241220001259.png]]
 ![[Pasted image 20250415182950.png]]
