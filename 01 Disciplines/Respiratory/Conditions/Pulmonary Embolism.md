@@ -1,7 +1,7 @@
 ---
 aliases:
   - PE
-date: 2025-09-23
+date: 2025-09-27
 ---
 # Presentation
 - See: [[Shortness of Breath, Cough and Haemopytsis|Dyspnoea]]
@@ -11,7 +11,7 @@ date: 2025-09-23
 ## Bedside
 ### Bloods
 - Consider performing an ABG
-	- Do not routinely unless pulse oximetry is reliable or demonstrates unexplained hypoxia on room air
+	- Do not routinely unless pulse oximetry is unreliable or demonstrates unexplained hypoxia on room air
 	- Low Pa$\ce{O2}$, Low $\ce{CO2}$, High pH
 	- Characteristic findings include acute respiratory alkalosis, or hypoxia and a raised A-a gradient
 - D-dimer
