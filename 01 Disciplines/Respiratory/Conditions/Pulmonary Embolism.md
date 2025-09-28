@@ -3,6 +3,17 @@ aliases:
   - PE
 date: 2025-09-28
 ---
+
+> [!NOTE] Massive PE Resuscitation
+> - Oxygen via:
+> 	- Nonrebreather @ 15L/min + nasal cannula @ 15L/min
+> 	- High flow nasal prongs
+> - Thrombolysis
+> - Vasopressors
+> 	- First choice: **Norepinephrine** 
+> 	- Adjuncts: Vasopressin (for pressure support), dobutamine (for RV inotropy) 
+> 	- Consider: Epinephrine if severe refractory RV failure
+
 # Presentation
 - See: [[Shortness of Breath, Cough and Haemopytsis|Dyspnoea]]
 - A small PE causes sudden dyspnoea, pleuritic pain and possibly haemoptysis, with few physical signs. Look for a low-grade pyrexia (>38°C), tachypnoea (>20/min), tachycardia and a pleural rub
