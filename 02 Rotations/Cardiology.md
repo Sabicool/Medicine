@@ -1,5 +1,7 @@
 ---
-date: 2025-09-05
+date: 2025-09-28
+banner: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F006%2F878%2F392%2Fnon_2x%2Fcardiology-concept-banner-wireframe-low-poly-style-red-heart-abstract-modern-3d-illustration-on-dark-blue-background-vector.jpg&f=1&nofb=1&ipt=55dbb8d7ed4f7e12c1f49386905c4c7af2ff4502eafcbb62fab9d848f4343fdc
+banner_y: 0.46572
 ---
 # Common Conditions and Presentations
 <!-- QueryToSerialize: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) sort file.name asc group by reverse(split(file.folder, "/"))[0] -->
