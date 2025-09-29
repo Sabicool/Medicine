@@ -1,7 +1,7 @@
 ---
 aliases:
   - PE
-date: 2025-09-28
+date: 2025-09-29
 ---
 
 > [!NOTE] Massive PE Resuscitation
