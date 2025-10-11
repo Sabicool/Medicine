@@ -46,6 +46,7 @@ Can remember as LMNOP (backwards)
 	- Obtain IV access
 	- Telemetry and other monitoring (blood pressure and pulse oximetry)
 	- Consider inserting a catheter to monitor urine output
+- Also consider:
 ## Determine precipitating cause for the acute episode
 - Six major aetiologies:
 	- Ischaemic heart disease
