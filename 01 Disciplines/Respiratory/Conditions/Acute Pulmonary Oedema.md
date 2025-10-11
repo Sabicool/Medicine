@@ -3,9 +3,11 @@ Rotations:
   - "[[02 Rotations/Respiratory|Respiratory]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
+  - "[[02 Rotations/Cardiology|Cardiology]]"
+  - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
 aliases:
   - APO
-date: 2025-09-20
+date: 2025-10-11
 ---
 # Presentation
 - Develops over minutes with severe breathlnessness, coughing frothy pink sputum, orthopnoea and PND
@@ -39,14 +41,19 @@ Can remember as LMNOP (backwards)
 	- A trained nurse must remain in attendance at all times as some patients will not tolerate the mask
 	- Once the patient improves wean the inspired oxygen concentration and PEEP until the patient is comfortable with a normal oxygen mask
 	- If the patient is hypotensive with poor peripheral perfusion, call senior and intensive care ([[MET Activation Criteria]]) and treat as for cardiogenic [[Shock]]; ET intubation usually required
+- Other measures to remember:
+	- Continue oxygen therapy
+	- Obtain IV access
+	- Telemetry and other monitoring (blood pressure and pulse oximetry)
+	- Consider inserting a catheter to monitor urine output
 ## Determine precipitating cause for the acute episode
 - Six major aetiologies:
 	- Ischaemic heart disease
 	- Hypertension
 	- Valvular disease (mitral incompetence, aortic stenosis)
-	- Cardiomyopathy (dilated, restrictive, hypertrophic)
+	- Cardiomyopathy (dilated, restrictive, hypertrophic) including congenital heart disease
 	- Pericardial disease
-	- Congenital heart disease
+	- [[Pulmonary Embolism|PE]]
 - The most common precipitating factors include:
 	- [[Acute Coronary Syndromes]]
 	- Arrhythmia

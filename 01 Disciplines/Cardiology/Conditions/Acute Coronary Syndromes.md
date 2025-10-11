@@ -4,7 +4,7 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
 aliases:
   - ACS
-date: 2025-08-18
+date: 2025-10-11
 ---
 # Risk factors
 - Increased risk of ACS with central obesity, autoimmune conditions, chronic renal disease, diabetes and HIV
