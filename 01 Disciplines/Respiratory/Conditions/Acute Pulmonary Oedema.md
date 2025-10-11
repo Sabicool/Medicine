@@ -47,6 +47,11 @@ Can remember as LMNOP (backwards)
 	- Telemetry and other monitoring (blood pressure and pulse oximetry)
 	- Consider inserting a catheter to monitor urine output
 - Also consider:
+	- Glyceryl trinitrate infusion 10mcg/min; increase by doubling the infusion rate every 5 minutes according to clinical response and maintaining systolic blood pressure at more than 90 mmHg
+	- Non-invasive ventilation with 100% oxygen: CPAP, starting with 10cm of water pressure
+		- If difficulty tolerating non-invasive ventilation can consider morphine 1 to 2.5mg intravenously
+	- If atrial fibrillation with rapid ventricular rate is contributing to poor cardiac output use: amiodarone 300mg by intravenous infusion over 30-60 minutes
+	- If pulmonary oedema is not responding to the above measures (especially if hypotensive or poorly perfused) consider adding dobutamine 2.5 to 15 mcg/kg/minute by intravenous infusion
 ## Determine precipitating cause for the acute episode
 - Six major aetiologies:
 	- Ischaemic heart disease
