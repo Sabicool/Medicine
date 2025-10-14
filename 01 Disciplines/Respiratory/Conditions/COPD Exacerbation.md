@@ -1,5 +1,5 @@
 ---
-date: 2025-10-12
+date: 2025-10-14
 ---
 # Aetiologies
 - Bronchospasm, sputum plugging, pneumothorax, viral illness, pneumonia
