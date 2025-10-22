@@ -1,17 +1,24 @@
 ---
-date: 2025-04-26
+date: 2025-10-21
 ---
-- Ceftriaxone
 - Metronidazole
 - Gentamicin
 - Azithromycin
 - Augmentin
 - Benzylpenicillin
-- Cefalexin
+- Cephalosporins
+	- ![[Pasted image 20251021193335.png]]
+	- Cefalexin 1st gen
+	- Ceftriaxone 3rd gen
+	- Cefopime, Cefotaxime 4th gen
 - Trimethoprim
 - Amoxicillin
+	- ![[Pasted image 20251021193229.png]]
 - Doxycycline
 - Vancomycin
-- Tazocin
+- Tazocin (pip+taz)
+	- ![[Pasted image 20251021193443.png]]
 - Flucloxacillin
+- Carbapenems
+	- ![[Pasted image 20251021193603.png]]
 ![[Pasted image 20250426141210.png]]
