@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[02 Rotations/Cardiology|Cardiology]]"
-date: 2025-09-15
+date: 2025-10-23
 ---
 
 > [!NOTE] Assessing a Rhythm Strip in an Unstable/Critical Patient
@@ -83,8 +83,8 @@ $$
 QTc=\frac{QT}{\sqrt{RR\;\rm{interval}\;(seconds)}}
 $$
 - Prolonged if:
-	- QTc >440 msec in men
-	- QTC >460 msec in women
+	- QTc >440 msec in men (440-450 msec considered borderline)
+	- QTC >460 msec in women (440-460 msec considerred borderline)
 - A QTc >500 msec is associated with an increased risk of Torsades de Pointes VT
 
 > [!NOTE] Rule of thumb for QT Intervals
