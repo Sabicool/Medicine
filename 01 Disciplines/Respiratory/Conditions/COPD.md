@@ -1,5 +1,5 @@
 ---
-date: 2025-10-24
+date: 2025-10-25
 ---
 # Presentation
 - Patients have breathlessness, cough, sputum production and wheeze, and are susceptible to infections. Most patients have a smoking history. 
@@ -7,6 +7,20 @@ date: 2025-10-24
 - Chronic bronchitis, emphysema and asthma overlap, as some reversibility is present with COPD and some patients with asthma will develop irreversible components of the disease
 - Typically older than 35 who are smokers or ex smokers with breathlessness, cough, recurrent respiratory tract infection, sputum production
 - Suspect alpha-1-antitrypsin deficiency in patients in whom COPD develops at a young age (<40 years), particularly if they have a family history of COPD
+## Differences with [[Asthma]]
+- COPD features:
+	- Onset after age 40
+	- Persistent airflow limitation
+	- Lack of response to asthma therapy (e.g. symptoms persisting despite ICS treatment)
+	- Heavy tobacco smoke exposure
+- Asthma features:
+	- Onset before age 20
+	- Significant day-to-day variability in airflow limitation and symptoms
+	- normal lung function between symptoms
+	- Symptoms worse at night or in the early morning
+	- Family history of asthma or atopy
+	- Seasonal variability in symptoms
+	- Spontaneous improvement in symptoms
 # Investigations
 ## Lung Function Testing
 - A postbronchodilator FEV1/FVC ratio less than 0.7 is diagnostic of COPD.
@@ -49,6 +63,11 @@ date: 2025-10-24
 	- Oral mucolytics (bromhexine)
 	- Long term macrolide antibiotics
 ![[Pasted image 20251024221856.png]]
+## Other Notes on Management
+- Beta blockers should not be stopped in patients with COPD and [[Heart Failure|HFrEF]] or a [[Acute Coronary Syndromes|Myocardial Infarction]] within the last 3 years
+- Patients with COPD are at an increased risk of bone fractures; identify patients with [[Osteoporosis]]
+- Limit the use of oral corticosteroids in patients with COPD and diabetes
+- Mild to moderate [[Pulmonary Hypertension]] is common in patients with COPD
 # Sources
 - eTG
 - https://lungfoundation.com.au/wp-content/uploads/2025/06/COPD_Stepwise_Digital.pdf
