@@ -40,7 +40,14 @@ date: 2025-10-24
 				- LABA: indacaterol
 		- LABA + LAMA
 		- LABA + LAMA + ICS
-	- Other treatments include mucolytics, antibiotics, theophylline, oxygen
+			- Indicated if both:
+				- Patient has severe exacerbations (requiring hospitalisation) or at least two moderate exacerbations in previous 12 months and
+				- Patient has significant symptoms despite dual therapy with LAMA + LABA
+	- Assess 3-6 months after starting treatment and in those who remain symptomatic or have continued exacerbations, check inhaler technique and adherence before stepping up therapy
+- Additional therapy
+	- Home oxygen
+	- Oral mucolytics (bromhexine)
+	- Long term macrolide antibiotics
 ![[Pasted image 20251024221856.png]]
 # Sources
 - eTG
