@@ -32,8 +32,12 @@ date: 2025-10-24
 	- Good nutrition
 - Pharmacological
 	- Usually progresses int he following order
-		- SABA
-		- LABA
+		- SABA (salbutamol 100-200 mcg PRN or terbutaline 500 mcg PRN)
+		- LABA or LAMA monotherapy
+			- Indicated when SABA and non-pharm measures not adequate
+			- Options include:
+				- LAMA: aclidinium, glycopyrronium, tiotropium, umeclidinium
+				- LABA: indacaterol
 		- LABA + LAMA
 		- LABA + LAMA + ICS
 	- Other treatments include mucolytics, antibiotics, theophylline, oxygen
