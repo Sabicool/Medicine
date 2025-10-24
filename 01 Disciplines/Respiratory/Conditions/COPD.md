@@ -30,3 +30,14 @@ date: 2025-10-24
 	- Pulmonary rehabilitation
 	- Maintenance of up-to-date vaccination
 	- Good nutrition
+- Pharmacological
+	- Usually progresses int he following order
+		- SABA
+		- LABA
+		- LABA + LAMA
+		- LABA + LAMA + ICS
+	- Other treatments include mucolytics, antibiotics, theophylline, oxygen
+![[Pasted image 20251024221856.png]]
+# Sources
+- eTG
+- https://lungfoundation.com.au/wp-content/uploads/2025/06/COPD_Stepwise_Digital.pdf
