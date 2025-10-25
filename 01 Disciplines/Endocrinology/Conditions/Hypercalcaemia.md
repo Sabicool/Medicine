@@ -88,6 +88,11 @@ date: 2025-10-25
 - Vitamin A level
 - Calcium urine for familial hypocalciuric hypercalcaemia
 # Management
+- Rehydration therapy with sodium chloride 0.9% 4-6 L by IV infusion over 24 hours
+	- IV furosemide can be used to treat fluid overload following rehydration
+- If persisting severe hypercalcaemia after rehydration consider biphosphonate infusion
+	- In acute life-threatening hypercalcaemia consider parenteral calcitonin salmon (salcatonin) in addition to biphosphonates to achieve a rapid effect
+- Hypercalcaemia caused by vitamin D toxicity, sarcoidosis or other granulomatous disease consider oral prednisolone
 
 # Sources
 - Derranged physiology

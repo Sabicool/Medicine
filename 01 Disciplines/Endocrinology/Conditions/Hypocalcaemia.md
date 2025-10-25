@@ -3,6 +3,7 @@ date: 2025-10-25
 ---
 # Aetiologies
 - Increased binding of calcium to protein
+- Magnesium is required for the release of PTH => hypomagnesaemia can precipitate hypocalcaemia
 
 | Factor           | Effect on Ionised Calcium                                     |
 | ---------------- | ------------------------------------------------------------- |
