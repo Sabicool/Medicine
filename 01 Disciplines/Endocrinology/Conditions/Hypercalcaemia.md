@@ -36,7 +36,6 @@ date: 2025-10-25
 > - VIT: Vitamin A or D toxicity, thyrotoxicosis
 # Physiology of Calcium Homeostasis
 ![[Pasted image 20251025122654.png]]
-## Regulatino of Calcium 
 ## Parathyroid Hormone
 - Secreted by chief cells of the parathyroid glands
 - Most regulatory influences on PTH are inhibitory influences (inorganic phosphate is the only proper stimulatory release factor)
@@ -75,7 +74,7 @@ date: 2025-10-25
 - < 3.0 mmol/L
 - 3.0 - 3.5 mmol/L
 - > 3.5 mmol/L
-# Clinical Features
+# Presentation
 - Shortened QT interval on ECG
 - Hypertension
 # Investigations
