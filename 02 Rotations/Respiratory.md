@@ -8,6 +8,7 @@ date: 2025-01-13
     - [[Acute Pulmonary Oedema]]
     - [[Asthma]]
     - [[COPD]]
+    - [[COPD Exacerbation]]
     - [[Pneumonia]]
     - [[Pneumothorax]]
     - [[Pulmonary Embolism]]

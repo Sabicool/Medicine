@@ -18,6 +18,7 @@ date: 2025-10-25
 	- Acromegaly
 	- Thyrotoxicosis
 	- Milk-alkali syndrome
+		- Typically occurs in patients with chronic kidney disease who are on calcium supplementation and vitamin D supplementation for treatment of osteoporosis
 	- Drugs
 		- Thiazides
 		- Calcium-containing antacids
@@ -123,6 +124,8 @@ $$
 - eTG articles: Calcium and phosphate imbalance -> Hyperlcalcaemia
 - LITFL 
 	- Hypercalcaemia: https://litfl.com/hypercalcaemia/
+	- Hypercalcaemia DDx: https://litfl.com/hypercalcaemia-ddx/
+	- Hypercalcaemia ECG changes: https://litfl.com/hypercalcaemia-ecg-library/
 - IBCC Textbook: https://emcrit.org/ibcc/hypercalcemia/
 
 [^1]: Their motility is affected within one minute, which is followed by a more gradual retraction

@@ -9,6 +9,7 @@ date: 2025-01-13
     - [[Acute Pulmonary Oedema]]
     - [[Alcohol Withdrawal]]
     - [[Atrial Flutter]]
+    - [[Hypercalcaemia]]
     - [[Hyperemesis Gravidarum]]
     - [[Hyperglycaemia]]
     - [[Hyperkalaemia]]

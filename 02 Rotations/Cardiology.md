@@ -6,6 +6,7 @@ date: 2025-09-28
 <!-- SerializedQuery: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) sort file.name asc group by reverse(split(file.folder, "/"))[0] -->
 - Conditions: 
     - [[Acute Coronary Syndromes]]
+    - [[Acute Pulmonary Oedema]]
     - [[Aortic Dissection]]
     - [[Atrial Fibrillation]]
     - [[Atrial Flutter]]
@@ -13,6 +14,7 @@ date: 2025-09-28
     - [[AV Re-entry Tachycardia]]
     - [[Essential Hypertension]]
     - [[Heart Failure]]
+    - [[Hypercalcaemia]]
     - [[Hyperkalaemia]]
     - [[Hypertension]]
     - [[Hypotension]]
@@ -41,10 +43,15 @@ date: 2025-09-28
 - Procedures: 
     - [[Transcutaneous Pacing]]
 
+- Topics: 
+    - [[Phases of Depolarisation]]
+
 <!-- SerializedQuery END -->
 # Medications
  <!-- QueryToSerialize: list from "03 Medications" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) sort file.name asc -->
 <!-- SerializedQuery: list from "03 Medications" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) sort file.name asc -->
 - [[Antiarrhythmics]]
+- [[Anticoagulants]]
 - [[Drugs in Cardiac Arrest]]
+- [[Lipid Lowering Therapy]]
 <!-- SerializedQuery END -->
