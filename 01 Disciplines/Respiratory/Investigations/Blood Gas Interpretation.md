@@ -2,7 +2,7 @@
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-date: 2025-10-21
+date: 2025-10-25
 aliases:
   - ABG Interpretation
 ---
@@ -48,9 +48,18 @@ $$
 - The normal value varies between machine and technique used (4-12 if measured by ion selective electrode or 8-16 if measured by flame photometry)
 - If AG >30 mmol/L then metabolic acidosis is invariably present
 - Importantly albumin is the major unmeasured anion and contributes most to the anion gap value, so in hypoalbuminaemia patients may appear as a normal anion gap acidosis but actually have a high anion gap acidosis
+	- 
 - High anion gap metabolic acidosis :: Accumulation of organic acids or impaired $\ce{H+}$ excretion
 - Normal anion gap metabolic acidosis :: Loss of $\ce{HCO3-}$ from ECF
 See: https://litfl.com/anion-gap/
+# Corrected Values
+- $\ce{Na+}$ for glucose 
+$$
+\rm{Corrected}\;\ce{Na+}=\ce{Na+}+\frac{\rm{glcuose}-5}{3}
+$$
+- $\ce{K+}$ for pH
+	- For each 0.1 pH drop below 7.4, $\ce{K+}$ rises by 0.5 mmol/L
+	- e.g. For a patient with a $\ce{K+}$ of 4 mmol/L at pH 7.2, the corrected $\ce{K+}$ is 3, hence the patient is hypokalaemic and $\ce{K+}$ should be monitored and replaced as pH is corrected
 # Sources
 - https://litfl.com/acid-base-disorders/
 # Useful resources
