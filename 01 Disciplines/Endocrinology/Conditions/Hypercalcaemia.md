@@ -75,8 +75,11 @@ date: 2025-10-25
 - 3.0 - 3.5 mmol/L
 - > 3.5 mmol/L
 # Presentation
+- Stones, bones, groans and psychic moans
+- GI symptoms of smooth muscle relaxation: constipation, anorexia, nausea and vomiting
+- Neuro: Lethargy, hypotonia, confusion, coma
+- Renal: Polyuria, dehydration, stones
 - Shortened QT interval on ECG
-- Hypertension
 # Investigations
 - Parathyroid hormone
 - Review FBC and film for bone marrow malignancies and metastases
