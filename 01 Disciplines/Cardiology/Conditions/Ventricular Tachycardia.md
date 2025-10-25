@@ -4,7 +4,7 @@ aliases:
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-date: 2025-08-31
+date: 2025-10-25
 Related:
   - "[[Advanced Life Support|ALS]]"
 ---
@@ -12,6 +12,13 @@ Related:
 - A broad-complex SVT with aberrancy from ventricular pre-excitation (WPW) is treated the same as VT => **Regard al broad complex tachycardia as VT until, or unless, proved otherwise**
 - The identification of P waves dissociated from QRS complexes during broad complex tachycardia confirms VT
 - Accelerated idioventricular rhythm (idioventricular rhythm with a heart rate of 50-110 beats/min) is not categorised at VT and commonly occurs after successful thrombolysis or PCI (see [[Acute Coronary Syndromes|ACS]])
+
+> [!NOTE] Differential Diagnosis of Wide Complex Tachycardias
+> 1. Ventricular tachycardia
+> 2. A supraventricular tachycardia with aberrant conduction (eg, supraventricular tachycardia with underlying bundle-branch block); often rate-related, appearing only with fast heart rates
+> 3. AV reciprocating tachycardia (antidromic tachycardia) in a patient with preexcitation (eg, WPW)
+> 4. Paced rhythms
+
 # Management
 - Unstable VT
 	- No recordable BP and no palpable pulse (pVT)
