@@ -7,8 +7,8 @@ date: 2025-10-25
 ---
 # Aetiology
 - Most common causes:
-	- Primary hyperparathyroidism
-	- Malignancy
+	- Primary hyperparathyroidism => rarely causes severe hypercalcaemia
+	- Malignancy => more common cause of severe hypercalcaemia
 		- PTHrP e.g. in squamous cell lung cancer
 		- Bone metastases
 		- Myeloma
@@ -36,6 +36,7 @@ date: 2025-10-25
 > - VIT: Vitamin A or D toxicity, thyrotoxicosis
 # Physiology of Calcium Homeostasis
 ![[Pasted image 20251025122654.png]]
+![[Pasted image 20251025140622.png]]
 ## Parathyroid Hormone
 - Secreted by chief cells of the parathyroid glands
 - Most regulatory influences on PTH are inhibitory influences (inorganic phosphate is the only proper stimulatory release factor)
@@ -80,26 +81,48 @@ date: 2025-10-25
 - Neuro: Lethargy, hypotonia, confusion, coma
 - Renal: Polyuria, dehydration, stones
 - Shortened QT interval on ECG
+	- ![[Pasted image 20251025140406.png]]
 # Investigations
 - Parathyroid hormone
 - Review FBC and film for bone marrow malignancies and metastases
-- Parathyroid hormone related protein
+- TSH
 - Vitamin D (25-hydroxy) level
 - Vitamin A level
+- Malignancy related tests
+	- Parathyroid hormone related protein
+	- Serum protein electrophoresis
+	- Prostate specific antigen
+	- Skeletal survey
+	- Alkaline phosphoatase
 - Calcium urine for familial hypocalciuric hypercalcaemia
+- Correcting $\ce{Ca+}$ for albumin, however evidence demonstrates that formulas actually perform worse than uncorrected calcium levels
+$$
+\rm{Corrected\;Calcium}=0.8\times(40-\rm{Albumin})+\ce{Ca^{2+}}
+$$
+
 # Management
 - Rehydration therapy with sodium chloride 0.9% 4-6 L by IV infusion over 24 hours
-	- IV furosemide can be used to treat fluid overload following rehydration
+	- IV furosemide can be used to treat fluid overload following rehydration but routine use has not been proved as beneficial
+	- Avoid hartmann's solution, thiazide diuretics
+	- Plasmalyte is often preferred to sodium chloride 0.9% because it causes acidosis and patients with hypercalcaemia often have pre-existing acidosis
+	- Aim for urine output of 150-200 mL/hour, but importantly the ongoing infusion of fluid must be balanced to the urine output
+- In acute life-threatening hypercalcaemia consider parenteral calcitonin salmon (salcatonin) in addition to biphosphonates to achieve a rapid effect
+	- Note that calcitonin causes a temporary reduction in calcium (effect does not work after ~2 days)
 - If persisting severe hypercalcaemia after rehydration consider biphosphonate infusion
-	- In acute life-threatening hypercalcaemia consider parenteral calcitonin salmon (salcatonin) in addition to biphosphonates to achieve a rapid effect
+	- Do not give in milk-alkali syndrome (should resolve without biphosphonate therapy) and pre-menopausal women
+	- Zoledronic acid is usually preferred dose-reduced in renal failure
+	- Takes time to take effect, hence calcitonin and biphosphonates are oten started simultaneously
 - Hypercalcaemia caused by vitamin D toxicity, sarcoidosis or other granulomatous disease consider oral prednisolone
+- Galium nitrate can also be considered but requires expert opinion
 
 # Sources
 - Derranged physiology
 	- https://derangedphysiology.com/main/cicm-primary-exam/endocrine-system/Chapter-119/control-plasma-calcium
 	- https://derangedphysiology.com/main/cicm-primary-exam/body-fluids-and-electrolytes/Chapter-1218/distribution-and-regulation-calcium-body-fluids
-- Passmedicine high yield textbook
+- Passmedicine high yield textbook: Hypercalcaemia pages
 - eTG articles: Calcium and phosphate imbalance -> Hyperlcalcaemia
-- 
+- LITFL 
+	- Hypercalcaemia: https://litfl.com/hypercalcaemia/
+- IBCC Textbook: https://emcrit.org/ibcc/hypercalcemia/
 
 [^1]: Their motility is affected within one minute, which is followed by a more gradual retraction

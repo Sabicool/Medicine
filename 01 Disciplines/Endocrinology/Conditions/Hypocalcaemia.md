@@ -17,3 +17,8 @@ date: 2025-10-25
 | Free fatty acids | Increase in free fatty acids = decreased ionised calcium      |
 
 ![[Hypercalcaemia#Physiology of Calcium Homeostasis]]
+# Investigations
+- Correcting $\ce{Ca+}$ for albumin, however evidence demonstrates that formulas actually perform worse than uncorrected calcium levels
+$$
+\rm{Corrected\;Calcium}=0.8\times(40-\rm{Albumin})+\ce{Ca^{2+}}
+$$
