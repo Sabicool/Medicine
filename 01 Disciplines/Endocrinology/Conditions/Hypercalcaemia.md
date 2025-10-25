@@ -87,6 +87,8 @@ date: 2025-10-25
 - Vitamin D (25-hydroxy) level
 - Vitamin A level
 - Calcium urine for familial hypocalciuric hypercalcaemia
+# Management
+
 # Sources
 - Derranged physiology
 	- https://derangedphysiology.com/main/cicm-primary-exam/endocrine-system/Chapter-119/control-plasma-calcium
