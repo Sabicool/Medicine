@@ -72,17 +72,16 @@ date: 2025-10-25
 		- Mainly seen in high doses
 		- A totally physicochemical effect: they bind to the calcium of calcium phosphate
 		- The result is inhibition of formation and aggregation of calcium phosphate crystals and inhibition of the transformation of amorphous calcium phosphate into hydroxyapatite.
-# Categorisation
-- < 3.0 mmol/L
-- 3.0 - 3.5 mmol/L
-- > 3.5 mmol/L
 # Presentation
 - Stones, bones, groans and psychic moans
 - GI symptoms of smooth muscle relaxation: constipation, anorexia, nausea and vomiting
 - Neuro: Lethargy, hypotonia, confusion, coma
 - Renal: Polyuria, dehydration, stones
-- Shortened QT interval on ECG
-	- ![[Pasted image 20251025140406.png]]
+- ECG Changes
+	- Shortened QT interval 
+		- ![[Pasted image 20251025171922.png]]
+	- Osborne J waves
+		- ![[Pasted image 20251025140406.png]]
 # Investigations
 - Parathyroid hormone
 - Review FBC and film for bone marrow malignancies and metastases
