@@ -4,7 +4,7 @@ date: 2025-10-26
 # Thiazide Diuretics
 - Mechanism of action
 	- Inhibit sodium reabsorption at the beginning of the DCT by blocking thiazide sensitive $\ce{Na+}-\ce{Cl-}$ symporter
-	- Increased sodium reabsorption in exchange for potassium and hydrogen ions
+	- Increased sodium delivery to the DCT promotes excretion of potassium
 	- When used in lower doses for hypertension, thiazides lower BP mostly by a vasodilator effect
 - Indications
 	- Hypertension
