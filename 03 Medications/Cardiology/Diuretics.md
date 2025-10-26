@@ -24,3 +24,4 @@ date: 2025-10-26
 	- Pregnancy
 # Sources
 - Passmedicine: Thiazide and thiazide like diuretics
+- AMH Online: Thiazide and related diuretics
