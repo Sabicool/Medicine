@@ -13,6 +13,8 @@ date: 2025-10-28
 - Develops over minutes with severe breathlnessness, coughing frothy pink sputum, orthopnoea and PND
 - Patient is typically distressed, unable to lie flat and usually peripherally shut down and clammy
 - Examination findings include tachypnoea, tachycardia, hypertension with widespread basal crackles and possibly expiratory wheeze ('cardiac asthma')
+# Assessment
+
 # Investigations
 ## Chest-Xray
 - Alveolar oedema ('batwing' appearance)
@@ -23,6 +25,12 @@ date: 2025-10-28
 - Additionally to ABCDE features above; it may show a precipitating cause such as a pneumonia
 
 ^cxr-findings
+
+- Progression
+	- Interstitial pulmonary oedema develops first
+	- Peribronchial cuffing
+	- Thickening of interlobar fissures
+	- Bat wing oedema is alveolar oedema in a non-gravity-dependent distribution; usually seen in hyper-acute heart failure (e.g. acute mitral incompetence due to papillary muscle rupture)
 
 ![[Pasted image 20241219222130.png]]
 ## Point of Care Ultrasound[^1]
@@ -79,9 +87,11 @@ Can remember as LMNOP (backwards)
 	- Renal disease
 	- Anaemia
 	- Non-compliance with diet or medication (e.g. dialysis patient)
+- See [derranged physiology section on causes of pulmonary oedema](https://derangedphysiology.com/main/required-reading/cardiovascular-intensive-care/Chapter-230/pulmonary-oedema) for extended list
 # Sources
 - https://coreem.net/core/ape/
 - https://derangedphysiology.com/main/required-reading/cardiovascular-intensive-care/Chapter-230/pulmonary-oedema
+- 
 
 [^1]: Apparently RCTs have shown that US is better for diagnosing pulmonary oedema in patients with undifferentiate respiratory distress
 [^2]: Retrospective studies have shown that morphine has resulted in increased mortality and ICU admission rate
