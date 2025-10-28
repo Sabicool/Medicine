@@ -7,7 +7,7 @@ Rotations:
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
 aliases:
   - APO
-date: 2025-10-11
+date: 2025-10-28
 ---
 # Presentation
 - Develops over minutes with severe breathlnessness, coughing frothy pink sputum, orthopnoea and PND
@@ -25,16 +25,24 @@ date: 2025-10-11
 ^cxr-findings
 
 ![[Pasted image 20241219222130.png]]
+## Point of Care Ultrasound[^1]
+![[Pasted image 20251028203758.png]]
+- B lines seen on lung ultrasound
+	- The presence of ≥3 B-lines per rib space suggests the presence of interstitial pulmonary fluid
+- Consider POCUS in patients with undifferentiated respiratory distress
+- POCUS may identify a ruptured valve causing acute pulmonary oedema and escalate the need for cardiothoracic intervention
 # Management
 Can remember as LMNOP (backwards)
 - **P**osition the patient upright
 - Give high-flow **o**xygen via a reservoir mask aiming for oxygen saturation >95%
+	- There is limited evidence that demonstrates BPAP as advantagous over CPAP
 - **N**itrates for patients acutely hypertensive:
 	- ==Give GTN 0.3-0.6 mg SL or GTN 0.4mg spray. Repeat after 5 minutes if SBP remains >100 mmHg. Remove the tablet if excessive hypotension occurs (hence tablet preferred)==
-	- Commence a GTN infusion IV as per hospital guidelines once the patient is fully monitored preferably in an ICU area; infuse initially at 1mL/h maintaining SBP >100mmHg, quincly increase by doubling the infusion rate every 5 minutes to 20 mL/h or more, titrated to SBP
-- **M**orphine or opioid potentially
+	- Commence a GTN infusion IV as per hospital guidelines once the patient is fully monitored preferably in an ICU area; infuse initially at 1mL/h maintaining SBP >100mmHg, quickly increase by doubling the infusion rate every 5 minutes to 20 mL/h or more, titrated to SBP
+- **M**orphine or opioid potentially[^2]
 	- Titrate IV morphine in small boluses 1.25-2.5mg for chest pain and anxiety but take care not to depress respirations
 - In patients with evidence of systemic fluid overload, give frusemide (**L**asix) 40mg IV or twice the usual daily dose IV (if already on frusemide)
+	- Many patients with APO have volume redistribution as opposed to fluid overload
 - If unresponsive to above measures
 	- Commence mask CPAP ventilation if the patient does not respond quickly to above measures, remains distressed or is persistently hypoxic despite maximal oxygen delivery
 	- Use a dedicated, high-flow oxygen circuit and a tight-fitting mask with initial PEEP reisistance of 5-10cm $\ce{H2O}$
@@ -71,3 +79,9 @@ Can remember as LMNOP (backwards)
 	- Renal disease
 	- Anaemia
 	- Non-compliance with diet or medication (e.g. dialysis patient)
+# Sources
+- https://coreem.net/core/ape/
+- https://derangedphysiology.com/main/required-reading/cardiovascular-intensive-care/Chapter-230/pulmonary-oedema
+
+[^1]: Apparently RCTs have shown that US is better for diagnosing pulmonary oedema in patients with undifferentiate respiratory distress
+[^2]: Retrospective studies have shown that morphine has resulted in increased mortality and ICU admission rate
