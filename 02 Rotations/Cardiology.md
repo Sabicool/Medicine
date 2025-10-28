@@ -41,6 +41,7 @@ date: 2025-09-28
     - [[Shortness of Breath, Cough and Haemopytsis]]
 
 - Procedures: 
+    - [[Angiography]]
     - [[Transcutaneous Pacing]]
 
 - Topics: 
@@ -52,6 +53,7 @@ date: 2025-09-28
 <!-- SerializedQuery: list from "03 Medications" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) sort file.name asc -->
 - [[Antiarrhythmics]]
 - [[Anticoagulants]]
+- [[Diuretics]]
 - [[Drugs in Cardiac Arrest]]
 - [[Lipid Lowering Therapy]]
 <!-- SerializedQuery END -->

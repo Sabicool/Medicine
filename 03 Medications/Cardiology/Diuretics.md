@@ -1,5 +1,5 @@
 ---
-date: 2025-10-26
+date: 2025-10-28
 ---
 # Thiazide Diuretics
 - Mechanism of action
