@@ -1,5 +1,5 @@
 ---
-date: 2025-10-28
+date: 2025-10-29
 ---
 ![[Pasted image 20251028191824.png]]
 # Angiogram Views
