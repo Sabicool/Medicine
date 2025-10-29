@@ -40,10 +40,13 @@ date: 2025-10-29
 - Consider POCUS in patients with undifferentiated respiratory distress
 - POCUS may identify a ruptured valve causing acute pulmonary oedema and escalate the need for cardiothoracic intervention
 # Management
-Can remember as LMNOP (backwards)
+Can remember as LMNOP (backwards) at a junior level but better to approach from n ABC perspective when critically unwell.
+
+## Treat Ventilation and Lungs
+- Patients in respiratory distress due to heart failure often res
+
 - **P**osition the patient upright
 - Give high-flow **o**xygen via a reservoir mask aiming for oxygen saturation >95%
-	- There is limited evidence that demonstrates BPAP as advantagous over CPAP
 - **N**itrates for patients acutely hypertensive:
 	- ==Give GTN 0.3-0.6 mg SL or GTN 0.4mg spray. Repeat after 5 minutes if SBP remains >100 mmHg. Remove the tablet if excessive hypotension occurs (hence tablet preferred)==
 	- Commence a GTN infusion IV as per hospital guidelines once the patient is fully monitored preferably in an ICU area; infuse initially at 1mL/h maintaining SBP >100mmHg, quickly increase by doubling the infusion rate every 5 minutes to 20 mL/h or more, titrated to SBP
