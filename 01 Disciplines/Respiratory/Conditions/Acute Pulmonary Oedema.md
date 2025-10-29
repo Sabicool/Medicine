@@ -43,10 +43,17 @@ date: 2025-10-29
 Can remember as LMNOP (backwards) at a junior level but better to approach from n ABC perspective when critically unwell.
 
 ## Treat Ventilation and Lungs
-- Patients in respiratory distress due to heart failure often res
-
 - **P**osition the patient upright
 - Give high-flow **o**xygen via a reservoir mask aiming for oxygen saturation >95%
+- If unresponsive to above measures
+	- Commence mask CPAP ventilation if the patient does not respond quickly to above measures, remains distressed or is persistently hypoxic despite maximal oxygen delivery
+	- Use a dedicated, high-flow oxygen circuit and a tight-fitting mask with initial PEEP reisistance of 5-10cm $\ce{H2O}$
+	- A trained nurse must remain in attendance at all times as some patients will not tolerate the mask
+	- Once the patient improves wean the inspired oxygen concentration and PEEP until the patient is comfortable with a normal oxygen mask
+	- If the patient is hypotensive with poor peripheral perfusion, call senior and intensive care ([[MET Activation Criteria]]) and treat as for cardiogenic [[Shock]]; ET intubation usually required
+		- When in doubt about need for intubation: start BiPAP and optimise other factors as rapidly as possible and re-evaluate trajectory and need for BiPAP
+- Consider therapeutic drainage of a large pleural effusion; doesn't fix the heart failure but temporally stabilises respiratory function
+## Optimise MAP
 - **N**itrates for patients acutely hypertensive:
 	- ==Give GTN 0.3-0.6 mg SL or GTN 0.4mg spray. Repeat after 5 minutes if SBP remains >100 mmHg. Remove the tablet if excessive hypotension occurs (hence tablet preferred)==
 	- Commence a GTN infusion IV as per hospital guidelines once the patient is fully monitored preferably in an ICU area; infuse initially at 1mL/h maintaining SBP >100mmHg, quickly increase by doubling the infusion rate every 5 minutes to 20 mL/h or more, titrated to SBP
@@ -54,12 +61,6 @@ Can remember as LMNOP (backwards) at a junior level but better to approach from 
 	- Titrate IV morphine in small boluses 1.25-2.5mg for chest pain and anxiety but take care not to depress respirations
 - In patients with evidence of systemic fluid overload, give frusemide (**L**asix) 40mg IV or twice the usual daily dose IV (if already on frusemide)
 	- Many patients with APO have volume redistribution as opposed to fluid overload
-- If unresponsive to above measures
-	- Commence mask CPAP ventilation if the patient does not respond quickly to above measures, remains distressed or is persistently hypoxic despite maximal oxygen delivery
-	- Use a dedicated, high-flow oxygen circuit and a tight-fitting mask with initial PEEP reisistance of 5-10cm $\ce{H2O}$
-	- A trained nurse must remain in attendance at all times as some patients will not tolerate the mask
-	- Once the patient improves wean the inspired oxygen concentration and PEEP until the patient is comfortable with a normal oxygen mask
-	- If the patient is hypotensive with poor peripheral perfusion, call senior and intensive care ([[MET Activation Criteria]]) and treat as for cardiogenic [[Shock]]; ET intubation usually required
 - Other measures to remember:
 	- Continue oxygen therapy
 	- Obtain IV access
