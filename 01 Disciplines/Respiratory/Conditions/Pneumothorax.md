@@ -25,6 +25,11 @@ date: 2025-11-05
 		- Large = visible air rim ≥2cm around all the lung edge
 - CT scanning is recommend for uncertain or complex cases
 # Management
+1. Determine degree of breathlessness
+2. Determine size of pneumothorax
+	- British thoracic guidelines: large = >2cm between lung margin and chest wall at level of hilum
+	- Americal college of chest physicians = >3cm between lung apex and cupola
+	![[Pasted image 20251105204913.png]]
 ![[Pasted image 20241221183438.png]]
 # Tension Pneumothorax
 - Treat immediately with needle decompression of haemithorax:
