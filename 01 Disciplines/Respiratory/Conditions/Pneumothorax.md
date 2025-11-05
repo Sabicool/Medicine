@@ -31,6 +31,14 @@ date: 2025-11-05
 	- Americal college of chest physicians = >3cm between lung apex and cupola
 	![[Pasted image 20251105204913.png]]
 ![[Pasted image 20241221183438.png]]
+# Disposition and Follow Up
+- Patients should receive verbal and written advice to return immediately to ED if they develop further breathlessness
+- All patients should have follow up ideally by a respiratory physician to ensure resolution of pneumothorax and institute optimal care
+- Those managed by Observation or needle aspiration should return for a follow up CXR after 2-4 weeks to monitor resolution
+- Normal physical activities can be resumed once all symptoms have resolved but avoid extreme exertion until full resolution
+- Patients should be advised to stop smoking as it is an associated factor in recurrence
+- Air travel should be avoided until at least 1 week after the CXR shows full resolution
+- SCUBA diving should be discouraged permanently
 # Tension Pneumothorax
 - Treat immediately with needle decompression of haemithorax:
 	- Prepare the skin with antiseptic and infiltrate local anaesthetic to the skin adjacent to periosteum and pleura (if time allows)
