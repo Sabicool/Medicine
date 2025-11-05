@@ -18,7 +18,7 @@ date: 2025-11-05
 ## Imaging
 - Bedside ultrasound[^1]
 	- Demonstrates the absence of lung sliding (barcode sign)
-- **Inspiratory** erect CXR (standard CXR) but can request expiratory CXR if in doubt
+- **Inspiratory** erect CXR (standard CXR)[^2]but can request expiratory CXR if in doubt
 	- Shows collapsed lung with visible pleural edge and air in the pleural cavity
 	- Assess size:
 		- Small = visible air rim <2cm
@@ -39,7 +39,7 @@ date: 2025-11-05
 - Patients should be advised to stop smoking as it is an associated factor in recurrence
 - Air travel should be avoided until at least 1 week after the CXR shows full resolution
 - SCUBA diving should be discouraged permanently
-# Tension Pneumothorax
+# Decompensated (Tension) Pneumothorax
 - Treat immediately with needle decompression of haemithorax:
 	- Prepare the skin with antiseptic and infiltrate local anaesthetic to the skin adjacent to periosteum and pleura (if time allows)
 	- Insert a 14G IV cannula over the 3rd rib into the 2nd intercostal space in the midclavicular line on the affected side
@@ -50,6 +50,7 @@ date: 2025-11-05
 	- https://aci.health.nsw.gov.au/networks/eci/clinical/tools/respiratory/spontaneous-pneumothorax
 	- https://aci.health.nsw.gov.au/networks/eci/clinical/tools/respiratory/spontaneous-pneumothorax/spontaneous-pneumothorax-management-options
 	- https://aci.health.nsw.gov.au/networks/eci/clinical/tools/respiratory/spontaneous-pneumothorax/spontaneous-pneumothorax-treatment-options
-
+- eTG Pleural Disease | Pneumothorax
 
 [^1]: More sensitive than CXR
+[^2]: Some sources say can request an expiratory CXR if in doubt, but eTG says it is not recommended because it may exaggerate the size of the pneumothorax
