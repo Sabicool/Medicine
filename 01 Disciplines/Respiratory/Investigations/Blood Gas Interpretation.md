@@ -2,7 +2,7 @@
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-date: 2025-10-25
+date: 2025-11-05
 aliases:
   - ABG Interpretation
 ---
