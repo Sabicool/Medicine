@@ -17,12 +17,13 @@ date: 2025-11-05
 # Investigations
 ## Imaging
 - Bedside ultrasound[^1]
-	- 
-- **Inspiratory** CXR (standard CXR) but can request expiratory CXR if in doubt
+	- Demonstrates the absence of lung sliding (barcode sign)
+- **Inspiratory** erect CXR (standard CXR) but can request expiratory CXR if in doubt
 	- Shows collapsed lung with visible pleural edge and air in the pleural cavity
 	- Assess size:
 		- Small = visible air rim <2cm
 		- Large = visible air rim ≥2cm around all the lung edge
+- CT scanning is recommend for uncertain or complex cases
 # Management
 ![[Pasted image 20241221183438.png]]
 # Tension Pneumothorax
@@ -30,5 +31,12 @@ date: 2025-11-05
 	- Prepare the skin with antiseptic and infiltrate local anaesthetic to the skin adjacent to periosteum and pleura (if time allows)
 	- Insert a 14G IV cannula over the 3rd rib into the 2nd intercostal space in the midclavicular line on the affected side
 ![[Pasted image 20241221202046.png]]
+
+# Sources
+- Agency for Clinical Innovation
+	- https://aci.health.nsw.gov.au/networks/eci/clinical/tools/respiratory/spontaneous-pneumothorax
+	- https://aci.health.nsw.gov.au/networks/eci/clinical/tools/respiratory/spontaneous-pneumothorax/spontaneous-pneumothorax-management-options
+	- https://aci.health.nsw.gov.au/networks/eci/clinical/tools/respiratory/spontaneous-pneumothorax/spontaneous-pneumothorax-treatment-options
+
 
 [^1]: More sensitive than CXR
