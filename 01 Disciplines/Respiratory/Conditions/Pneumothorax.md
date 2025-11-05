@@ -1,12 +1,23 @@
 ---
-date: 2025-01-01
+date: 2025-11-05
 ---
+# Definitions
+- Primary spontaneous pneumothorax is pneumothorax occurring when there is no known underlying pathology, and no precipitant such as trauma or surgery
+- Secondary spontaneous pneumothorax is pneumothorax occurring as a complication of underlying lung disease
 # History
-- Chest pain is sudden and pleuritic
+- Chest pain is sudden, described as stabbing, radiating to ipsilateral shoulder and pleuritic
+- Sudden onset shortness of breath
+- Anxiety, cough and vague chest symptoms
 # Examination
-- Involved haemothorax is hyperexpanded, hyperresonant and has ↓ breath sounds and air entry
+- Involved hemithorax is hyperexpanded, hyperresonant and has ↓ breath sounds and air entry
+- The affected side may have
+	- Decreased lung expansion
+	- Decreased or absent breath sounds
+	- Hyper-resonance on percussion
 # Investigations
 ## Imaging
+- Bedside ultrasound[^1]
+	- 
 - **Inspiratory** CXR (standard CXR) but can request expiratory CXR if in doubt
 	- Shows collapsed lung with visible pleural edge and air in the pleural cavity
 	- Assess size:
@@ -19,3 +30,5 @@ date: 2025-01-01
 	- Prepare the skin with antiseptic and infiltrate local anaesthetic to the skin adjacent to periosteum and pleura (if time allows)
 	- Insert a 14G IV cannula over the 3rd rib into the 2nd intercostal space in the midclavicular line on the affected side
 ![[Pasted image 20241221202046.png]]
+
+[^1]: More sensitive than CXR
