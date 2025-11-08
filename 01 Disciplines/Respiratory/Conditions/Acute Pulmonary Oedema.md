@@ -7,7 +7,7 @@ Rotations:
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
 aliases:
   - APO
-date: 2025-11-03
+date: 2025-11-08
 ---
 # Presentation
 - Develops over minutes with severe breathlnessness, coughing frothy pink sputum, orthopnoea and PND
@@ -56,6 +56,7 @@ Can remember as LMNOP (backwards) at a junior level but better to approach from 
 ## Optimise MAP
 - **N**itrates for patients acutely hypertensive:
 	- ==Give GTN 0.3-0.6 mg SL or GTN 0.4mg spray. Repeat after 5 minutes if SBP remains >100 mmHg. Remove the tablet if excessive hypotension occurs (hence tablet preferred)==
+	- increase cycling of NIBP
 	- Commence a GTN infusion IV as per hospital guidelines once the patient is fully monitored preferably in an ICU area; infuse initially at 1mL/h maintaining SBP >100mmHg, quickly increase by doubling the infusion rate every 5 minutes to 20 mL/h or more, titrated to SBP
 - **M**orphine or opioid potentially[^2]
 	- Titrate IV morphine in small boluses 1.25-2.5mg for chest pain and anxiety but take care not to depress respirations
