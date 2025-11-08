@@ -1,5 +1,5 @@
 ---
-date: 2025-11-05
+date: 2025-11-08
 ---
 # Definitions
 - Primary spontaneous pneumothorax is pneumothorax occurring when there is no known underlying pathology, and no precipitant such as trauma or surgery
@@ -50,6 +50,8 @@ date: 2025-11-05
 	- https://aci.health.nsw.gov.au/networks/eci/clinical/tools/respiratory/spontaneous-pneumothorax
 	- https://aci.health.nsw.gov.au/networks/eci/clinical/tools/respiratory/spontaneous-pneumothorax/spontaneous-pneumothorax-management-options
 	- https://aci.health.nsw.gov.au/networks/eci/clinical/tools/respiratory/spontaneous-pneumothorax/spontaneous-pneumothorax-treatment-options
+- Derranged physiology
+	- https://www.derangedphysiology.com/files/Traumatic%20Pneumothorax.pdf
 - eTG Pleural Disease | Pneumothorax
 
 [^1]: More sensitive than CXR
