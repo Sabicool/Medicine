@@ -14,6 +14,15 @@ date: 2025-11-09
 - Patient is typically distressed, unable to lie flat and usually peripherally shut down and clammy
 - Examination findings include tachypnoea, tachycardia with widespread basal crackles and possibly expiratory wheeze ('cardiac asthma')
 # Assessment
+# Aetiologies
+
+| Cardiogenic                                                                                                     | Non-Cardiogenic                                                                                                |
+| --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| Excessive LV afterload (i.e. SCAPE)<br>(e.g. severe hypertension, aortic stenosis, HOCM)                        | Increased capillary permeability (e.g. ARDS, reperfusion following relief of embolic occlusion, near drowning) |
+| Excessive LV preload (e.g. fluid overload, rapid fluid bolus)                                                   | Neurogenic pulmonary oedema                                                                                    |
+| Excessive left atrial afterload (e.g. mitral stenosis, mitral thrombosis, mitral valve prolapse, atrial myxoma) | Drug-induced pulmonary oedema (e.g. opiate induced, salicylate overdose)                                       |
+| Poor contractility (e.g. cardiomyopathy, drug effect (e.g. beta-blockers), metabolic disease, myocarditis)      | Raised pulmonary arterial pressure (e.g. massive PE, pulmonary veno-occlusive disease, air embolism)           |
+| Ineffective contractility (e.g. mitral regurgitation, Takotsubo cardiomyopathy)                                 | Negative pressure pulmonary oedema (e.g. airway obstruction, after drainage of a large pleural effusion)       |
 
 # Investigations
 ## Chest-Xray
@@ -99,8 +108,8 @@ date: 2025-11-09
 - See [derranged physiology section on causes of pulmonary oedema](https://derangedphysiology.com/main/required-reading/cardiovascular-intensive-care/Chapter-230/pulmonary-oedema) for extended list
 # Sources
 - https://coreem.net/core/ape/
-- https://derangedphysiology.com/main/required-reading/cardiovascular-intensive-care/Chapter-230/pulmonary-oedema
-- 
+- Derranged Physiology
+	- https://derangedphysiology.com/main/required-reading/cardiovascular-intensive-care/Chapter-230/pulmonary-oedema
 
 [^1]: Apparently RCTs have shown that US is better for diagnosing pulmonary oedema in patients with undifferentiate respiratory distress
 [^2]: Retrospective studies have shown that morphine has resulted in increased mortality and ICU admission rate
