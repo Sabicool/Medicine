@@ -12,7 +12,7 @@ date: 2025-11-09
 # Presentation
 - Develops over minutes with severe breathlnessness, coughing frothy pink sputum, orthopnoea and PND
 - Patient is typically distressed, unable to lie flat and usually peripherally shut down and clammy
-- Examination findings include tachypnoea, tachycardia, hypertension with widespread basal crackles and possibly expiratory wheeze ('cardiac asthma')
+- Examination findings include tachypnoea, tachycardia with widespread basal crackles and possibly expiratory wheeze ('cardiac asthma')
 # Assessment
 
 # Investigations
@@ -37,11 +37,15 @@ date: 2025-11-09
 ![[Pasted image 20251028203758.png|300]]![[Pasted image 20251109172142.png|300]]
 - B lines seen on lung ultrasound
 	- The presence of ≥3 B-lines per rib space suggests the presence of interstitial pulmonary fluid
+	- Cardiogenic pulmonary oedema generates a pattern of diffuse B-lines throughout the chest with thin pleural interfaces
+	- Non-cardiogenic pulmonary oedema shows a patchy distribution of B-lines anda. thickened pleural interface
 - Consider POCUS in patients with undifferentiated respiratory distress
 - POCUS may identify a ruptured valve causing acute pulmonary oedema and escalate the need for cardiothoracic intervention
+- Cardiac ultrasonagraphy should generally reveal some evidence of heart failure for example:
+	- Systolic heart failure with reduced left ventricular ejection fraction
+	- Diastolic heart failure may be suggested by left ventricular hypertrophy and a dilated left atrium
 # Management
-Can remember as LMNOP (backwards) at a junior level but better to approach from n ABC perspective when critically unwell.
-
+- Can remember as LMNOP (backwards) at a junior level but better to approach from n ABC perspective when critically unwell.
 ## Treat Ventilation and Lungs
 - **P**osition the patient upright
 - Give high-flow **o**xygen via a reservoir mask aiming for oxygen saturation >95%
