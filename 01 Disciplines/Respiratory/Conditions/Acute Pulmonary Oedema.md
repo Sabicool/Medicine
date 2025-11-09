@@ -7,7 +7,7 @@ Rotations:
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
 aliases:
   - APO
-date: 2025-11-08
+date: 2025-11-09
 ---
 # Presentation
 - Develops over minutes with severe breathlnessness, coughing frothy pink sputum, orthopnoea and PND
@@ -34,7 +34,7 @@ date: 2025-11-08
 
 ![[Pasted image 20241219222130.png]]
 ## Point of Care Ultrasound[^1]
-![[Pasted image 20251028203758.png]]
+![[Pasted image 20251028203758.png|300]]![[Pasted image 20251109172142.png|300]]
 - B lines seen on lung ultrasound
 	- The presence of ≥3 B-lines per rib space suggests the presence of interstitial pulmonary fluid
 - Consider POCUS in patients with undifferentiated respiratory distress

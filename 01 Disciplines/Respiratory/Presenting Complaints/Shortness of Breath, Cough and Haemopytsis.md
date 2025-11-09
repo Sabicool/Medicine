@@ -9,7 +9,7 @@ Rotations:
   - "[[02 Rotations/Respiratory|Respiratory]]"
   - "[[02 Rotations/Cardiology|Cardiology]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
-date: 2025-10-11
+date: 2025-11-09
 ---
 # Phone Call/Presentation Questions
 - Reason for admission
@@ -210,6 +210,7 @@ date: 2025-10-11
 		- Pulmonary embolism![[Pulmonary Embolism#^ecg]]
 	- Peak exiratory flow rate to quantify bronchospasm and improvement after bronchodilator therapy
 	- VBG or ABG
+	- [[Lung POCUS]]
 - Bloods:
 	- FBC, UEC, cardiac enzymes and LFTs
 		- Cardiac markers only if suspicious of ACS or worsened CCF

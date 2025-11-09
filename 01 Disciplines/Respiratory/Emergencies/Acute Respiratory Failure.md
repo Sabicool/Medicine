@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Respiratory|Respiratory]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[Intensive Care Unit]]"
-date: 2025-08-31
+date: 2025-11-09
 Next:
   - "[[Shock]]"
 ---
@@ -75,6 +75,7 @@ Next:
 - Investigations to consider
 	- ECG
 	- ABG/VBG
+	- [[Lung POCUS]]
 	- CXR
 	- TTE
 	- CTPA

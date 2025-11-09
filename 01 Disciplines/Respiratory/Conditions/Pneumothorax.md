@@ -1,5 +1,5 @@
 ---
-date: 2025-11-08
+date: 2025-11-09
 ---
 # Definitions
 - Primary spontaneous pneumothorax is pneumothorax occurring when there is no known underlying pathology, and no precipitant such as trauma or surgery
