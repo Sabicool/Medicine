@@ -57,12 +57,23 @@ date: 2025-11-09
 - Can remember as LMNOP (backwards) at a junior level but better to approach from n ABC perspective when critically unwell.
 ## Treat Ventilation and Lungs
 - **P**osition the patient upright
+- **O**xygen via NIV
+	- HFNP does not improve clinical outcomes significantly
+	- CPAP or BiPAP[^3] often starting at 10cm $\ce{H2O}$
+	- Uptitrate CPAP and BiPAP settings accordingly
+	- A trained nurse must remain in attendance at all times as some patients will not tolerate the mask
+	- Once the patient improves wean the inspired oxygen concentration and PEEP until the patient is comfortable with a normal oxygen mask
+	- Indicators for intubation:
+		- Hypercapnia
+		- pH <7.25 (even in normocapneic patients)
+		- Severe hypoxia (P/F ratio <190)
+		- Acute myocardial infarction
+		- LV ejection fraction below 30%
+		- Systolic blood pressure <140 mmHg
 - Give high-flow **o**xygen via a reservoir mask aiming for oxygen saturation >95%
 - If unresponsive to above measures
 	- Commence mask CPAP ventilation if the patient does not respond quickly to above measures, remains distressed or is persistently hypoxic despite maximal oxygen delivery
 	- Use a dedicated, high-flow oxygen circuit and a tight-fitting mask with initial PEEP reisistance of 5-10cm $\ce{H2O}$
-	- A trained nurse must remain in attendance at all times as some patients will not tolerate the mask
-	- Once the patient improves wean the inspired oxygen concentration and PEEP until the patient is comfortable with a normal oxygen mask
 	- If the patient is hypotensive with poor peripheral perfusion, call senior and intensive care ([[MET Activation Criteria]]) and treat as for cardiogenic [[Shock]]; ET intubation usually required
 		- When in doubt about need for intubation: start BiPAP and optimise other factors as rapidly as possible and re-evaluate trajectory and need for BiPAP
 - Consider therapeutic drainage of a large pleural effusion; doesn't fix the heart failure but temporally stabilises respiratory function
@@ -110,6 +121,9 @@ date: 2025-11-09
 - https://coreem.net/core/ape/
 - Derranged Physiology
 	- https://derangedphysiology.com/main/required-reading/cardiovascular-intensive-care/Chapter-230/pulmonary-oedema
+	- https://derangedphysiology.com/main/required-reading/respiratory-intensive-care/Chapter-993/mechanical-ventilation-pulmonary-oedema
+	- https://derangedphysiology.com/main/scenarios-blood-gas-interpretation/myocardial-infarction-acute-pulmonary-oedema
 
 [^1]: Apparently RCTs have shown that US is better for diagnosing pulmonary oedema in patients with undifferentiate respiratory distress
 [^2]: Retrospective studies have shown that morphine has resulted in increased mortality and ICU admission rate
+[^3]: Doesn't matter which one, they are both good. This is because it is the PEEP that matters and they both provide PEEP.
