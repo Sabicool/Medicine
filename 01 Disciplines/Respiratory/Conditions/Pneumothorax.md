@@ -1,5 +1,5 @@
 ---
-date: 2025-11-09
+date: 2025-11-10
 ---
 # Definitions
 - Primary spontaneous pneumothorax is pneumothorax occurring when there is no known underlying pathology, and no precipitant such as trauma or surgery
@@ -45,6 +45,19 @@ date: 2025-11-09
 	- Insert a 14G IV cannula over the 3rd rib into the 2nd intercostal space in the midclavicular line on the affected side
 ![[Pasted image 20241221202046.png]]
 
+# Traumatic Pneumothorax
+## Differential Diagnosis
+- **C-spine injury** - always assumed in MVA trauma
+- Head injury
+- Haemothorax
+- Blunt cardiac injury
+- Cardiac tamponade
+- Ruptured diaphragm
+- Ruptured oesophagus
+- Ruptured tracheobronchial tree
+- Faciomaxillary injury
+- Neck/larynx/chest trauma
+- Foreign body obstruction
 # Sources
 - Agency for Clinical Innovation
 	- https://aci.health.nsw.gov.au/networks/eci/clinical/tools/respiratory/spontaneous-pneumothorax
