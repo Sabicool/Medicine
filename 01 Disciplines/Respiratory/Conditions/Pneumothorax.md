@@ -1,5 +1,5 @@
 ---
-date: 2025-11-10
+date: 2025-11-14
 ---
 
 > [!NOTE] Indications for Chest Drain
@@ -49,6 +49,12 @@ date: 2025-11-10
 - Ventilator mode also affects how rapidly the pneumothorax evolves
 	- Volume-cycled modes of ventilation continue to force same volume into pneumothorax which may cause aggressive increase in pneumothorax
 	- Pressure-cycled modes of ventilation provide smaller tidal volumes as the pneumothorax grows and since airway pressure is fixed, the pneumothorax may reach equilibrium with the ventilator causing the pneumothorax to present in a more gradual fashion
+## Other Considerations
+- Differential diagnosis of spontaneous pneumothorax in women of childbearing age
+	 - Primary spontaneous pneumothorax.
+	- LAM (Lymphangioleiomyomatosis).
+	- Pneumocystis.
+	- Catamenial pneumothorax (accounts for ~25%)
 # Investigations
 ## Imaging
 - Bedside ultrasound[^1]
@@ -76,8 +82,14 @@ date: 2025-11-10
 ## Decompensated (Tension) Pneumothorax
 - Treat immediately with needle decompression of haemithorax:
 	- Prepare the skin with antiseptic and infiltrate local anaesthetic to the skin adjacent to periosteum and pleura (if time allows)
-	- Insert a 14G IV cannula over the 3rd rib into the 2nd intercostal space in the midclavicular line on the affected side
+	- Insert a 14G IV cannula over the 3rd rib into the 2nd intercostal space in the midclavicular line on the affected side but noting that:
+		- In larger patients, it may be difficult to penetrate into the pleura
+		- The clavicle extends to the shoulder, so midclavicular  should be towards the lateral edge of the theorax; if the needle is inserted too medially it may lacerate the internal mammary artery
 ![[Pasted image 20241221202046.png]]
+- Issues with emergent needle decompression:
+	- If there isn't a large pneumothorax, the needle will lacerate the lung tissue
+	- If there is a sizable bronchopleural fistula (e.g. mechanically ventilated patients), a small bore needle may nto be sufficient to drain air from the pneumothorax
+	- Drainage of the pneumothorax may actually make it harder and more dangerous to insert a chest tube
 ## Spontaneous Pneumothorax
 1. Determine degree of breathlessness
 2. Determine size of pneumothorax
