@@ -103,6 +103,7 @@ date: 2025-11-10
 	- https://www.derangedphysiology.com/files/Traumatic%20Pneumothorax.pdf
 	- https://derangedphysiology.com/main/required-reading/radiology-intensive-care/Chapter-204/ultrasonographic-features-pneumothorax
 - eTG Pleural Disease | Pneumothorax
+- IBCC: https://emcrit.org/ibcc/pneumothorax/
 
 [^1]: More sensitive than CXR
 [^2]: Some sources say can request an expiratory CXR if in doubt, but eTG says it is not recommended because it may exaggerate the size of the pneumothorax
