@@ -1,6 +1,6 @@
 ---
 title: Home
-date: 2025-02-27
+date: 2025-11-15
 ---
 # About this Website
 This is the note database of a junior doctor in Australia. The information contained in these notes is for educational purposes only and should not be construed as medical advice. While I strive for accuracy, I make no guarantees regarding the completeness or reliability of the content provided. Additionally, I do not claim copyright for any images included herein unless explicitly stated. If you wish to request a correction, removal, or alteration of any content, please feel free to contact me or submit an issue via the associated [github repository](https://github.com/Sabicool/Medicine). The colour theme for this website is based off [catppuccin](https://github.com/catppuccin/catppuccin).
@@ -45,9 +45,9 @@ If you'd rather just find notes on medicine relevant to the particular rotation 
 - [[Respiratory]]
 <!-- SerializedQuery END -->
 
-Otherwise have a look through the "01 Disciplines" on the left panel.
+Otherwise have a look through the "01 Disciplines" on the left panel (on desktop).
 ## Medications
-Non-exhaustive list of medications that are commonly prescribed. Consider navigating for more medications using the file browser on the left.
+Non-exhaustive list of medications that are commonly prescribed. Consider navigating for more medications using the file browser on the left (on desktop).
 ![[03 Medications/index#^handy-medications|index]]
 # How I Studied in Medical School
 This is a non-exhaustive guide to studying in medical school. I do plan on making a more complete guide one day but until then here's some words of wisdom.
