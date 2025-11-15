@@ -8,6 +8,16 @@ date: 2025-11-15
 - First attack can mimic septic arthritis
 	- Fever, malaise, leucocytosis and elevated inflammatory markers
 - In females, the first attack may be polyarticular, typically in the hands with gouty tophi
+- Clinical features:
+	- Monoarticular involvement of the foot or ankle (especially the first metatarsophalangeal MTP joint)
+	- Previous similar acute arthritis episodes
+	- Rapid onset of severe pain and swelling (reaching a peak in the intensity of pain and swelling within 24 hours)
+	- Erythema
+	- Tophi
+	- Strong family history of gout
+	- Cardiovascular disease and hyperuricaemia in males or postmenopausal females.
 # Diagnosis/Investigations
 - Aspiration of an affected joint or bursa is the gold standard for confirming a diagnosis of gout
 # Management
+# Sources
+- eTG: Gout
