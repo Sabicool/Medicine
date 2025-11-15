@@ -19,5 +19,11 @@ date: 2025-11-15
 # Diagnosis/Investigations
 - Aspiration of an affected joint or bursa is the gold standard for confirming a diagnosis of gout
 # Management
+- Ideally diagnosis by aspiration should be made prior to starting urate lowering therapy
+	- Improvement with colchicine can also happen in pseudogout
+- Overview of management
+	- Analgesia for acute gout
+	- Discuss lifelong urate-lowering therapy and start using a treat-to-target approach
+	- Modify existing medications thought to be contributing
 # Sources
 - eTG: Gout
