@@ -25,5 +25,7 @@ date: 2025-11-15
 	- Analgesia for acute gout
 	- Discuss lifelong urate-lowering therapy and start using a treat-to-target approach
 	- Modify existing medications thought to be contributing
+## Acute Gout
+
 # Sources
 - eTG: Gout
