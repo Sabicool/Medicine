@@ -18,31 +18,31 @@ Mainly for the admin side of things as a junior doctor
 Some other administrative notes:
 <!-- QueryToSerialize: List from "00 Reference/Administrative" sort file.name asc -->
 <!-- SerializedQuery: List from "00 Reference/Administrative" sort file.name asc -->
-- [[Administrative Notes on Radiology]]
-- [[Consults and Referrals]]
-- [[End-of-life orders]]
-- [[Finding Notes and Documents]]
-- [[Home Screen]]
-- [[Ordering Investigations]]
-- [[Patient Lists]]
-- [[Useful Numbers to Save on Your Phone]]
-- [[Viewing Investigations]]
-- [[Writing Discharge Summaries]]
+- [[00 Reference/Administrative/Administrative Notes on Radiology.md|Administrative Notes on Radiology]]
+- [[00 Reference/Administrative/Consults and Referrals.md|Consults and Referrals]]
+- [[00 Reference/Administrative/End-of-life orders.md|End-of-life orders]]
+- [[00 Reference/Administrative/Finding Notes and Documents.md|Finding Notes and Documents]]
+- [[00 Reference/Administrative/Home Screen.md|Home Screen]]
+- [[00 Reference/Administrative/Ordering Investigations.md|Ordering Investigations]]
+- [[00 Reference/Administrative/Patient Lists.md|Patient Lists]]
+- [[00 Reference/Administrative/Useful Numbers to Save on Your Phone.md|Useful Numbers to Save on Your Phone]]
+- [[00 Reference/Administrative/Viewing Investigations.md|Viewing Investigations]]
+- [[00 Reference/Administrative/Writing Discharge Summaries.md|Writing Discharge Summaries]]
 <!-- SerializedQuery END -->
 ## Rotations
 If you'd rather just find notes on medicine relevant to the particular rotation you are on look below:
 <!-- QueryToSerialize: LIST FROM "02 Rotations" sort file.name asc -->
 <!-- SerializedQuery: LIST FROM "02 Rotations" sort file.name asc -->
-- [[Cardiology]]
-- [[Common Ward Calls]]
-- [[Emergency Medicine]]
-- [[Gastroenterology]]
-- [[Intensive Care Unit]]
-- [[Nephrology]]
-- [[Neurology]]
-- [[Paediatrics]]
-- [[Psychiatry]]
-- [[Respiratory]]
+- [[02 Rotations/Cardiology.md|Cardiology]]
+- [[02 Rotations/Common Ward Calls.md|Common Ward Calls]]
+- [[02 Rotations/Emergency Medicine.md|Emergency Medicine]]
+- [[02 Rotations/Gastroenterology.md|Gastroenterology]]
+- [[02 Rotations/Intensive Care Unit.md|Intensive Care Unit]]
+- [[02 Rotations/Nephrology.md|Nephrology]]
+- [[02 Rotations/Neurology.md|Neurology]]
+- [[02 Rotations/Paediatrics.md|Paediatrics]]
+- [[02 Rotations/Psychiatry.md|Psychiatry]]
+- [[02 Rotations/Respiratory.md|Respiratory]]
 <!-- SerializedQuery END -->
 
 Otherwise have a look through the "01 Disciplines" on the left panel (on desktop).

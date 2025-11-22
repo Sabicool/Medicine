@@ -4,7 +4,8 @@ aliases:
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-date: 2025-10-28
+  - "[[02 Rotations/Cardiology|Cardiology]]"
+date: 2025-11-15
 Related:
   - "[[Advanced Life Support|ALS]]"
 ---
