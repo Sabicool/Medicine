@@ -35,6 +35,7 @@ date: 2025-11-22
 ## ABG results
 - Initially in APO patients are sympathetically driven and hyperventilating resulting in a picture of respiratory alkalosis (↑ pH ↓ $p\ce{CO2}$)
 - As pulmonary oedema worsens, alveolar flooding and fatigue causes hypoventilation causing respiratory acidosis (↓ pH ↑ $p\ce{CO2}$)
+- Occassionally mixed picture acidosis (metabolic + respiratory acidosis) can arise (e.g. acute pulmonary oedema after an acute myocardial infarct), caused by poor cardiac circulation (causing a lactic acidosis – metabolic acidosis) with concurrent poor alveolar ventilation (due to pulmonary oedema) – causing CO2retention and a concomitant respiratory acidosis
 ## Chest-Xray
 - Alveolar oedema ('batwing' appearance)
 - Kerly B lines (1-2cm horizontal, peripheral engorged subpleural lymphatics) and septal lines
@@ -143,6 +144,7 @@ date: 2025-11-22
 	- https://derangedphysiology.com/main/scenarios-blood-gas-interpretation/myocardial-infarction-acute-pulmonary-oedema
 - eTG: Acute cardiogenic pulmonary oedema
 - https://emcrit.org/ibcc/scape/
+- [The interpretation of arterial blood gases - Australian Prescriber](https://australianprescriber.tg.org.au/articles/the-interpretation-of-arterial-blood-gases.html)
 
 [^1]: Apparently RCTs have shown that US is better for diagnosing pulmonary oedema in patients with undifferentiate respiratory distress
 [^2]: Historically in the LMNOP mnemonic, M refers to morphine however retrospective studies have shown that morphine has resulted in increased mortality and ICU admission rate.
