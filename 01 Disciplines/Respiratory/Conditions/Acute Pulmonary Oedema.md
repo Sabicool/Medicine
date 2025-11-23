@@ -7,7 +7,7 @@ Rotations:
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
 aliases:
   - APO
-date: 2025-11-22
+date: 2025-11-24
 ---
 # Presentation
 - Develops over minutes with severe breathlnessness, coughing frothy pink sputum, orthopnoea and PND
