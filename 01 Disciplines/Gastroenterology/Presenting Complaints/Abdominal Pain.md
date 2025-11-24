@@ -191,4 +191,9 @@ date: 2025-11-24
 	- Blood glucose and ketones
 	- Beta-hCG
 	- ECG (especially in older patients)
+- Bloods
+	- FBC (elevated WBC count supports an infectious or inflammatory aetiology, but may still be normal with acute appendicitis).
+	- U&E (renal function, hydration status, acidosis—low bicarbonate).
+	- LFTs (raised in hepatitis and biliary tract disease; may show hypercalcaemia)
+	- Lipase (or amylase) for pancreatitis. May not be raised in chronic pancreatitis
 - 
