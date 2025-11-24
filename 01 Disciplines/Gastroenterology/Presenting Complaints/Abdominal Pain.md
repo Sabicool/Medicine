@@ -170,4 +170,25 @@ date: 2025-11-24
 	- Ascites
 	- Bruising to flanks or umbilicus (e.g. Grey-Turner''s sign or Cullen's sign)
 - Palpation
-	- Palp
+	- Palpate quadrants away from point of maximal pain 
+	- Check for guarding
+	- Check for rebound tenderness
+	- Combination of a rigid abdomen, guarding and percussion tenderness => peritonitis
+	- Test for shifting dullness
+	- Check all hernial orifices
+- Percussion
+	- Tympanic => bowel obstruction
+- Auscultation
+	- Tinkling bowel sounds => mechanical bowel obstruction
+	- Absent bowel sounds => Paralytic ileus or generalised peritonitis
+- DRE with chaperone if indicated
+- Pelvic exam if indicated
+- Special signs:
+	- Murphy's sign, psoas sign, obturator sign, rosving's sign
+# Investigations
+- Bedside
+	- Urinalysis and urine dipstick
+	- Blood glucose and ketones
+	- Beta-hCG
+	- ECG (especially in older patients)
+- 
