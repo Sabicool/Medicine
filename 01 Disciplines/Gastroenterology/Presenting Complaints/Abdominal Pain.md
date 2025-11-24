@@ -238,4 +238,14 @@ date: 2025-11-24
 	- Gain IV access, commence IV fluids and give gentamicin 5 mg/kg IV with ampicillin 2 g IV QDS
 	- Give analgesia such as morphine 0.1 mg/kg IV, with an antiemetic such as metoclopramide 10–20 mg IV if the patient is nauseated or vomiting
 	- Confirm with an upper abdominal USS
-- 
+- Pancreatitis
+	- Keep the patient NBM, commence IV fluid resuscitation with normal saline and titrate a narcotic analgesic agent such boluses of morphine 0.1 mg/kg IV with an antiemetic such as metoclopramide 10–20 mg IV for nausea or vomiting.
+	- Arrange an abdominal CT scan if the patient develops fever or shock. A CT scan is diagnostic, prognostic and shows most complications.
+	- Refer patient to the ICU if severe pancreatitis with sepsis, abscess formation or generalised peritonitis with multiorgan failure.
+- Renal calculus
+	- Request an urgent non-contrast abdominal CT scan of the renal tract in a patient with acute flank pain to confirm the diagnosis and rule out alternative retroperitoneal pathology.
+	- Or organise USS if the diagnosis is already known and pain recurs.
+	- Request a plain AXR (KUB) to later track the course of the calculus.
+	- Commence IV fluids and give morphine 0.1 mg/kg IV if the pain is intense and incapacitating, adding an antiemetic such as metoclopramide 10–20 mg IV if the patient is nauseated or vomiting. Follow up with indomethacin 100 mg PR BD, which provides excellent longer-lasting analgesia.
+	- Refer any patient with resistant pain, a stone >6 mm in diameter (unlikely to pass spontaneously), a stone in a unilateral kidney or a patient with any evidence of urosepsis (fever, tachycardia, hypotension and leucocytes/bacteria on urinalysis) to the urology team.
+	- Suspected urosepsis is a surgical emergency requiring immediate percutaneous drainage
