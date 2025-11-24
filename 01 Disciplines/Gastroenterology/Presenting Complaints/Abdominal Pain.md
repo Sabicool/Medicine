@@ -96,6 +96,9 @@ date: 2025-11-24
 - Temperature?
 	- Fever consider infection or inflammation
 # Selective History and Chart Review
+- Ruptured AAA
+	- Patients are usually elderly and complain of sudden, severe low abdominal, back, flank or groin pain, sometimes associated with syncope
+	- The pain may mimic ureteric colic
 - Onset gradual or sudden?
 	- Sudden onset => Perforation of a viscus, ruptured ectopic pregnancy, torsion of an ovarian cyst or a leaking AAA
 	- Severe pain in waves that develops over minutes to hours => colic (renal, biliary or intestinal)
@@ -214,4 +217,7 @@ date: 2025-11-24
 - Keep NBM if acute surgical abdomen
 - IV broad spectrum antibiotics (e.g. ampicillin 2g, gentamicin 5mg/kg and metronidazole 500mg) for patients with suspected infection, perforation or necrosis
 ## Specific Management
+- Bowel Obstruction
+	- Keep the patient NBM; insert an NGT if persistent vomiting, commence IV fluid resuscitation and give adequate narcotic analgesia
+	- Organise surgical review and abdominal imaging
 - 
