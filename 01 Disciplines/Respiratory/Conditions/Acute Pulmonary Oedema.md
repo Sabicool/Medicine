@@ -145,6 +145,7 @@ date: 2025-11-24
 - eTG: Acute cardiogenic pulmonary oedema
 - https://emcrit.org/ibcc/scape/
 - [The interpretation of arterial blood gases - Australian Prescriber](https://australianprescriber.tg.org.au/articles/the-interpretation-of-arterial-blood-gases.html)
+- https://www.pocus101.com/lung-ultrasound-made-easy-step-by-step-guide/
 
 [^1]: Apparently RCTs have shown that US is better for diagnosing pulmonary oedema in patients with undifferentiate respiratory distress
 [^2]: Historically in the LMNOP mnemonic, M refers to morphine however retrospective studies have shown that morphine has resulted in increased mortality and ICU admission rate.
