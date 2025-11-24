@@ -127,7 +127,7 @@ date: 2025-11-24
 		- Pain prior to nausea and vomiting => surgical acute abdomen
 		- Pain following nausea and vomiting => gastritis or gastroenteritis
 		- Vomiting that occurs at the onset of pain => peritoneal irritation, perforation of a viscus, acute pancreatitis or a high intestinal obstruction
-		- Vomting many hours after the onset of abdominal pain may be caused by lower intestinal obstruction or ileus
+		- Vomiting many hours after the onset of abdominal pain may be caused by lower intestinal obstruction or ileus
 		- Vomiting after fasting => gastric stasis or gastric outlet obstruction
 	- Contents of vomiting?
 		- Clear fluids => obstruction proximal to sphincter of Oddi in the second part of the duodenum
