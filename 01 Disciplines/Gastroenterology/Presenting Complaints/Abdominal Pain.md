@@ -191,9 +191,27 @@ date: 2025-11-24
 	- Blood glucose and ketones
 	- Beta-hCG
 	- ECG (especially in older patients)
+	- [[eFAST]]
 - Bloods
 	- FBC (elevated WBC count supports an infectious or inflammatory aetiology, but may still be normal with acute appendicitis).
 	- U&E (renal function, hydration status, acidosis—low bicarbonate).
 	- LFTs (raised in hepatitis and biliary tract disease; may show hypercalcaemia)
 	- Lipase (or amylase) for pancreatitis. May not be raised in chronic pancreatitis
+- Imaging
+	- AXR only to look for:
+		- Free air under diaphragm
+		- Dilated loops of bowel
+		- Calcification of gallstones or renal tract stones or pancreatic calcificiation
+	- Ultrasound
+	- CT
+		- Should no delay referral to surgical team especially in surgical acute abdominal pain
+# Management
+## Immediate Management
+- IV fluids
+- Analgesia
+- Discussed with senior 
+- Requested surgical/gynae/urology/vascular review especially in hypotensive patients
+- Keep NBM if acute surgical abdomen
+- IV broad spectrum antibiotics (e.g. ampicillin 2g, gentamicin 5mg/kg and metronidazole 500mg) for patients with suspected infection, perforation or necrosis
+## Specific Management
 - 
