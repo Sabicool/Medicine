@@ -220,4 +220,10 @@ date: 2025-11-24
 - Bowel Obstruction
 	- Keep the patient NBM; insert an NGT if persistent vomiting, commence IV fluid resuscitation and give adequate narcotic analgesia
 	- Organise surgical review and abdominal imaging
-- 
+- Ruptured AAA
+	- Commence fluid resuscitation with small amounts of normal saline or Hartmann's solution (compound sodium lactate), aiming for a SBP of no more than 90–100 mmHg.
+	- Avoid the temptation to give massive fluid replacement, as this leads to coagulopathy, hypothermia, increased bleeding and a higher mortality.
+	- Contact your senior and the vascular surgeon on call urgently.
+	- Request a rapid bedside USS (if the patient is haemodynamically unstable) to confirm the presence of an abdominal aneurysm, or proceed directly to theatre (if the patient is moribund).
+	- Ensure that the patient has two large-bore IV cannulae and that blood has been sent for cross-match of 4–6 units of packed RBCs.
+	- Arrange a CT scan with IV contrast only if the patient's vital signs are stable.
