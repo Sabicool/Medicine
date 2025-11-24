@@ -226,4 +226,16 @@ date: 2025-11-24
 	- Contact your senior and the vascular surgeon on call urgently.
 	- Request a rapid bedside USS (if the patient is haemodynamically unstable) to confirm the presence of an abdominal aneurysm, or proceed directly to theatre (if the patient is moribund).
 	- Ensure that the patient has two large-bore IV cannulae and that blood has been sent for cross-match of 4–6 units of packed RBCs.
-	- Arrange a CT scan with IV contrast only if the patient's vital signs are stable.
+	- Arrange a CT scan with IV contrast only if the patient's vital signs are stable
+- Perforated viscus
+	- Organise an immediate surgical consultation and keep the patient NBM. Arrange a CT scan to differentiate the underlying cause
+- Biliary colic
+	- Lipase as well to assess for gallstone pancreatitis
+	- Upper abdominal USS
+	- IV fluids and IV analgesia (e.g. morphine 0.1mg/kg IV) with an antiemetic (e.g. metoclopramide 10-20mg IV)
+	- Low fat diet and surgical referral
+- Acute cholecystitis/Ascending cholangitis
+	- Gain IV access, commence IV fluids and give gentamicin 5 mg/kg IV with ampicillin 2 g IV QDS
+	- Give analgesia such as morphine 0.1 mg/kg IV, with an antiemetic such as metoclopramide 10–20 mg IV if the patient is nauseated or vomiting
+	- Confirm with an upper abdominal USS
+- 
