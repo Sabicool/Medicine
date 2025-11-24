@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[Gastroenterology]]"
-date: 2025-09-14
+date: 2025-11-24
 ---
 # Phone Call/Presentation Questions
 - SOCRATES of the pain
@@ -165,4 +165,9 @@ date: 2025-09-14
 |             | Caput medusa => portal hypertension with varices                                                                   |
 ## Abdominal Examination
 - Inspection
-	- 
+	- Scars
+	- Abdominal distension
+	- Ascites
+	- Bruising to flanks or umbilicus (e.g. Grey-Turner''s sign or Cullen's sign)
+- Palpation
+	- Palp
