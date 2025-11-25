@@ -135,3 +135,4 @@ Rotations:
 	- A combination of BiPAP and anxiolytics may be very helpful in breaking patients out of a Flash AECOPD
 # Sources
 - IBCC book: https://emcrit.org/ibcc/AECOPD/#top
+- Wyatt JP, Taylor RG, Wit K de, Hotton EJ. Oxford Handbook of Emergency Medicine. Oxford: OUP Oxford; 2020. 795 p. 112
