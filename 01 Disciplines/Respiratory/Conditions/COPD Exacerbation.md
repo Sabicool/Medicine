@@ -79,10 +79,18 @@ Rotations:
 ## CXR
 - May show features suggestive of COPD as well as complications (e.g. atelactasis, consolidation, pneumothorax, pulmonary oedema or malignancy)
 # Management
+- Cardiac monitoring and pulse oximeter
 - Oxygen therapy:
 	- If evidence of $\ce{CO2}$ retention (raised $\ce{HCO3-}$ or $P\ce{\rm{}aCO2}$) → Controlled oxygen therapy initially at 28% via a Venturi mask
 	- Otherwise → higher dose oxygen (40-60%) mask
-- Cardiac monitoring and pulse oximeter
+	- Consider NIV (preferably BiPAP):
+		- BiPAP:
+			- Start at 10cm $\ce{H2O}$ IPAP/ 5cm $\ce{H2O}$ EPAP and titrate upwards:
+				- To treat persistent hypercapnia, ↑ IPAP by 2cm $\ce{H2O}$ at a time
+				- To treat persistent hypoxia, ↑ IPAP and EPAP by 2cm $\ce{H2O}$ at a time.
+				- The maximum IPAP/EPAP is 25/15cm $\ce{H2O}$
+		- CPAP:
+			- Commence treatment at 5-8cm $\ce{H2O}$
 - Bronchodilator therapy:
 	- Hold all home bronchodilators
 	- pMDI with spacer option (for patients with FEV1 >30% of predicted)
@@ -114,7 +122,8 @@ Rotations:
 		- For patients with severe COPD who have a COPD exacerbation that does not resposne to initial antibiotic therapy after 48-72 hours and if bacterial infection remains the likely cause consider ==amoxicillin + clavulanate 875+125 mg PO, 12-hourly for 5 days==
 		- If *P. aeruginosa* is identified in sputum (current isolation or known colonisation in past 3 months) consider ==ciprofloxacin 750 mg PO 12-hourly for 5 days==
 	- ![[Pasted image 20251012183012.png]]
-- If RV [[Heart Failure]] with fluid overload → ==Frusemide 40mg IV or PO==
+- If RV [[Heart Failure]] with fluid overload → ==Furosemide 40mg IV or PO==
+- Consider naloxone if the patient is on opioid analgesics that may cause respiratory depression
 - If no response to above and ongoing hypoxial ($\rm{}\ce{SpO2}$<85%), extreme respiratory distress, ↑ $P\rm{}a\ce{CO2}$, patient is exhausted or acidaemia is worsening then commence non-invasive BiPAP ventilation
 
 > [!NOTE] Approaching COPD and possible pneumonia
