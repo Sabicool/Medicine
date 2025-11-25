@@ -2,11 +2,12 @@
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-date: 2025-11-15
+date: 2025-11-25
 aliases:
   - ABG Interpretation
 ---
 ![Blood Gas Interpretation Acid Base LITFL Rogers 2024](https://litfl.com/wp-content/uploads/2019/01/Blood-Gas-Interpretation-Acid-Base-LITFL-Rogers-2024-1024x709.png)
+![[Pasted image 20251125193546.png]]
 # Useful information
 - With respiratory problems, PCO2 and pH change in different directions
 - With metabolic problems, PCO2 and pH change in the same direction

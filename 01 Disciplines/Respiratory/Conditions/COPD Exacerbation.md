@@ -1,5 +1,5 @@
 ---
-date: 2025-10-14
+date: 2025-11-25
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
@@ -16,15 +16,20 @@ Rotations:
 - Environment allergens, weather change
 # History
 - Objective: gain an idea of baseline capacity and elicit cause of exacerbation:
-	- Usual and current daily exercise capacity and level of dependence
-	- Home oxygen use
-	- Smoking or dust exposure
-	- New features of cardiac or respiratory disease
-	- Episodes of ischaemic or pleuritic chest pain
-	- Worsening peripheral oedema or orthopnoea
-	- Non-compliance with medication, including steroids or diuretics
-	- Excess sedatives or opioids
-	- Known cardiac disease
+	- Current treatment
+		- Inhalers, steroids, antibiotics, theophylines, nebulisers
+		- Home oxygen use
+	- Past history: previous admissions, comorbidity and previous ICU assessments/admissions
+	- Usual and current daily exercise capacity and level of dependence (e.g. How far can they walk without stopping? How many stairs can they climb? Do they get out of the house?)
+	- Elicit cause of exacerbation:
+		- Smoking or dust exposure
+		- New features of cardiac or respiratory disease
+		- Episodes of ischaemic or pleuritic chest pain
+		- Worsening peripheral oedema or orthopnoea
+		- Non-compliance with medication, including steroids or diuretics
+		- Excess sedatives or opioids
+		- Known cardiac disease
+	- Ask sputum volume and colour
 - Indications for hospital admission for a COPD exacerbation (COPD exacerbations can often be managed in the community without referral or admission to hospital as from [eTG](https://app-tg-org.au.eu1.proxy.openathens.net/viewTopic?etgAccess=true&guidelinePage=Respiratory&topicfile=chronic-obstructive-pulmonary-disease-exacerbations&guidelinename=Respiratory&sectionId=toc_d1e88#toc_d1e88))
 	- inadequate response to ambulatory management
 	- inability to walk between rooms (in patients who are usually mobile)
@@ -40,17 +45,13 @@ Rotations:
 	- acute respiratory failure
 	- onset of new physical signs (eg peripheral oedema).
 # Examination
-- Hyperexpanded, barrel-shaped chest, ↑WOB
+- Hyperexpanded, barrel-shaped chest, ↑WOB (tachypnoea, accessory muscle use and lip pursing)
 - Fever, wheeze, sputum production
 - Cor pulmonale - right [[Heart Failure]] 2° to [[Pulmonary Hypertension]]
+- Signs of hypercarbia: tremor, bounding pulses, peripheral vasodilation, drowsiness or confusion
+- Check for other causes of acute [[Shortness of Breath, Cough and Haemopytsis|Dyspnoea]] (e.g. [[Asthma]], [[Acute Pulmonary Oedema]], [[Pneumothorax]], [[Pulmonary Embolism|PE]])
 # Investigations
 ## Bedside
-- ABG (or VBG + pulse oximetry)
-	- Perform an ABG only if:
-		- Severe episode
-		- No response to treatment
-		- Any suggestion of acute or worsening $\ce{CO2}$ retention with altered mental status
-	- Chronic $\ce{CO2}$ retention is indicated by a raised $\ce{HCO3-}$ from metabolic compensation; a pH <7.3 suggests acute respiratory acidosis
 - Spirometry and PEFR
 	- Spirometry during an acute episode is inaccurate and may distress the patient
 - ECG looking for:
@@ -67,6 +68,14 @@ Rotations:
 		- Supplemental home oxygen therapy
 ## Bloods
 - CRP can help to determine the presence of bacterial infection in COPD exacerbations and subsequently the potential benefit of antibiotic therapy
+- FBC, UEC, Glucose
+- ABG (or VBG + pulse oximetry)
+	- Perform an ABG only if:
+		- Severe episode
+		- No response to treatment
+		- Any suggestion of acute or worsening $\ce{CO2}$ retention with altered mental status
+	- Chronic $\ce{CO2}$ retention is indicated by a raised $\ce{HCO3-}$ from metabolic compensation; a pH <7.3 suggests acute respiratory acidosis (see [[Blood Gas Interpretation|ABG Interpretation]])
+- If pneumonia suspected and/or pyrexial: blood cultures and pneumococcal antigens
 ## CXR
 - May show features suggestive of COPD as well as complications (e.g. atelactasis, consolidation, pneumothorax, pulmonary oedema or malignancy)
 # Management
