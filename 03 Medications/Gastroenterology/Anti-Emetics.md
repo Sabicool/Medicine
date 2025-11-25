@@ -1,5 +1,5 @@
 ---
-date: 2025-08-14
+date: 2025-11-25
 Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
   - "[[Gastroenterology]]"
@@ -10,53 +10,53 @@ Rotations:
 - As from https://emcrit.org/ibcc/antiemetic
 # Before Starting Treatment
 - Identify, treat or remove cause if possible
-  - Gastrointestinal
-    - Obstruction (e.g. intestinal obstruction, gastric outlet obstruction)
-    - Hypomotility (e.g. gastroparesis, ileus)
-    - Acute gastroenteritis
-    - Pancreatitis
-    - Mesenteric ischemia
-    - Appendicitis, cholecystitis
-    - Constipation
-  - Central Nervous System
-    - Ear and labyrinthine disorders (often associated with vertigo)
-        - Vestibular neuronitis
-        - Meniere's disease
-        - Otitis media
-    - Intracranial pressure elevation
-    - Migraine
-    - Cyclic vomiting syndrome, cannabinoid hyperemesis syndrome
-  - Medications which may cause nausea
-    - Chemotherapy
-    - Analgesics
-        - Aspirin
-       - NSAIDs
-       - Opioids
-    - Anesthetic agents
-    - Antibiotics
-        - Erythromycin
-        - Sulfonamides 
-        - Acyclovir 
-    - Cardiovascular
-        - Antiarrhythmics 
-        - Antihypertensives (beta-blockers, calcium channel blockers) 
-        - Digoxin 
-        - Diuretics 
-    - Endocrine
-        - Oral contraception 
-        - Oral antidiabetic agents 
-    - Neurology
-        - Anticonvulsants 
-        - Parkinson's disease medications (dopaminergic)
-    - Other/Metabolic
-        - Pregnancy (hyperemesis gravidarum; generally within the first nine weeks of pregnancy)
-        - Uremia
-        - Fulminant hepatic failure
-        - Ketoacidosis (e.g., diabetic ketoacidosis)
-        - Hypercalcemia
-        - Hyperthyroidism
-        - Addison's disease
-        - Myocardial ischemia (anginal equivalent)
+- Gastrointestinal
+	- Obstruction (e.g. intestinal obstruction, gastric outlet obstruction)
+	- Hypomotility (e.g. gastroparesis, ileus)
+	- Acute gastroenteritis
+	- Pancreatitis
+	- Mesenteric ischemia
+	- Appendicitis, cholecystitis
+	- Constipation
+- Central Nervous System
+- Ear and labyrinthine disorders (often associated with vertigo)
+	- Vestibular neuronitis
+	- Meniere's disease
+	- Otitis media
+- Intracranial pressure elevation
+- Migraine
+- Cyclic vomiting syndrome, cannabinoid hyperemesis syndrome
+- Medications which may cause nausea
+	- Chemotherapy
+	- Analgesics
+		- Aspirin
+		- NSAIDs
+		- Opioids
+	- Anesthetic agents
+	- Antibiotics
+		- Erythromycin
+		- Sulfonamides 
+		- Acyclovir 
+- Cardiovascular
+    - Antiarrhythmics 
+    - Antihypertensives (beta-blockers, calcium channel blockers) 
+    - Digoxin 
+    - Diuretics 
+- Endocrine
+    - Oral contraception 
+    - Oral antidiabetic agents 
+- Neurology
+    - Anticonvulsants 
+    - Parkinson's disease medications (dopaminergic)
+- Other/Metabolic
+    - Pregnancy (hyperemesis gravidarum; generally within the first nine weeks of pregnancy)
+    - Uremia
+    - Fulminant hepatic failure
+    - Ketoacidosis (e.g., diabetic ketoacidosis)
+    - Hypercalcemia
+    - Hyperthyroidism
+    - Addison's disease
+    - Myocardial ischemia (anginal equivalent)
 - Ensure adequate hydration
 # Dopamine Antagonists
 - EPSE (acute dystonic reactions) are more common in the elderly and people <20 years
