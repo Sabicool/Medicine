@@ -11,16 +11,16 @@ date: 2025-02-19
 # Administrative Tasks
 <!-- QueryToSerialize: List from "00 Reference/Administrative" sort file.name asc -->
 <!-- SerializedQuery: List from "00 Reference/Administrative" sort file.name asc -->
-- [[00 Reference/Administrative/Administrative Notes on Radiology.md|Administrative Notes on Radiology]]
-- [[00 Reference/Administrative/Consults and Referrals.md|Consults and Referrals]]
-- [[00 Reference/Administrative/End-of-life orders.md|End-of-life orders]]
-- [[00 Reference/Administrative/Finding Notes and Documents.md|Finding Notes and Documents]]
-- [[00 Reference/Administrative/Home Screen.md|Home Screen]]
-- [[00 Reference/Administrative/Ordering Investigations.md|Ordering Investigations]]
-- [[00 Reference/Administrative/Patient Lists.md|Patient Lists]]
-- [[00 Reference/Administrative/Useful Numbers to Save on Your Phone.md|Useful Numbers to Save on Your Phone]]
-- [[00 Reference/Administrative/Viewing Investigations.md|Viewing Investigations]]
-- [[00 Reference/Administrative/Writing Discharge Summaries.md|Writing Discharge Summaries]]
+- [[Administrative Notes on Radiology]]
+- [[Consults and Referrals]]
+- [[End-of-life orders]]
+- [[Finding Notes and Documents]]
+- [[Home Screen]]
+- [[Ordering Investigations]]
+- [[Patient Lists]]
+- [[Useful Numbers to Save on Your Phone]]
+- [[Viewing Investigations]]
+- [[Writing Discharge Summaries]]
 <!-- SerializedQuery END -->
 # Clinical Tasks
 - See: [Common Ward Calls](02%20Rotations/Common%20Ward%20Calls.md) 

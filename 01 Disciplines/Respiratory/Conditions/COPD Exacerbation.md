@@ -1,5 +1,10 @@
 ---
 date: 2025-10-14
+Rotations:
+  - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
+  - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
+  - "[[Intensive Care Unit]]"
+  - "[[02 Rotations/Respiratory|Respiratory]]"
 ---
 # Aetiologies
 - Bronchospasm, sputum plugging, pneumothorax, viral illness, pneumonia

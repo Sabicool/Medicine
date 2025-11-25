@@ -9,45 +9,46 @@ date: 2025-08-14
 <!-- QueryToSerialize: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) sort file.name asc group by reverse(split(file.folder, "/"))[0] -->
 <!-- SerializedQuery: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) sort file.name asc group by reverse(split(file.folder, "/"))[0] -->
 - Conditions: 
-    - [[01 Disciplines/Respiratory/Conditions/Acute Pulmonary Oedema.md|Acute Pulmonary Oedema]]
-    - [[01 Disciplines/Neurology/Conditions/Alcohol Withdrawal.md|Alcohol Withdrawal]]
-    - [[01 Disciplines/Rheumatology/Conditions/Gout.md|Gout]]
-    - [[01 Disciplines/Endocrinology/Conditions/Hyperglycaemia.md|Hyperglycaemia]]
-    - [[01 Disciplines/Cardiology/Conditions/Hypertension.md|Hypertension]]
-    - [[01 Disciplines/Cardiology/Conditions/Hypotension.md|Hypotension]]
+    - [[Acute Pulmonary Oedema]]
+    - [[Alcohol Withdrawal]]
+    - [[COPD Exacerbation]]
+    - [[Gout]]
+    - [[Hyperglycaemia]]
+    - [[Hypertension]]
+    - [[Hypotension]]
 
 - Emergencies: 
-    - [[01 Disciplines/Clinical/Emergencies/Advanced Life Support.md|Advanced Life Support]]
-    - [[01 Disciplines/Clinical/Emergencies/Basic Life Support.md|Basic Life Support]]
+    - [[Advanced Life Support]]
+    - [[Basic Life Support]]
 
 - Presenting Complaints: 
-    - [[01 Disciplines/Gastroenterology/Presenting Complaints/Abdominal Pain.md|Abdominal Pain]]
-    - [[01 Disciplines/Neurology/Presenting Complaints/Altered Mental Status.md|Altered Mental Status]]
-    - [[01 Disciplines/Cardiology/Presenting Complaints/Arrhythmias.md|Arrhythmias]]
-    - [[01 Disciplines/Cardiology/Presenting Complaints/Chest Pain.md|Chest Pain]]
-    - [[01 Disciplines/Neurology/Presenting Complaints/Collapse, Syncope, Mechanical Falls.md|Collapse, Syncope, Mechanical Falls]]
-    - [[01 Disciplines/Nephrology/Presenting Complaints/Decreased Urine Output.md|Decreased Urine Output]]
-    - [[01 Disciplines/Infectious Disease/Presenting Complaints/Febrile Patient.md|Febrile Patient]]
-    - [[01 Disciplines/Nephrology/Presenting Complaints/Haematuria.md|Haematuria]]
-    - [[01 Disciplines/Gastroenterology/Presenting Complaints/Nausea and Vomiting.md|Nausea and Vomiting]]
-    - [[01 Disciplines/Respiratory/Presenting Complaints/Shortness of Breath, Cough and Haemopytsis.md|Shortness of Breath, Cough and Haemopytsis]]
-    - [[01 Disciplines/Nephrology/Presenting Complaints/Urinary Frequency and Polyuria.md|Urinary Frequency and Polyuria]]
+    - [[Abdominal Pain]]
+    - [[Altered Mental Status]]
+    - [[Arrhythmias]]
+    - [[Chest Pain]]
+    - [[Collapse, Syncope, Mechanical Falls]]
+    - [[Decreased Urine Output]]
+    - [[Febrile Patient]]
+    - [[Haematuria]]
+    - [[Nausea and Vomiting]]
+    - [[Shortness of Breath, Cough and Haemopytsis]]
+    - [[Urinary Frequency and Polyuria]]
 
 - Procedures: 
-    - [[01 Disciplines/Clinical/Procedures/IV Cannulation.md|IV Cannulation]]
+    - [[IV Cannulation]]
 
 - Topics: 
-    - [[01 Disciplines/Paediatrics/Topics/Paediatric Pain Management.md|Paediatric Pain Management]]
-    - [[01 Disciplines/Clinical/Topics/Pain Management.md|Pain Management]]
-    - [[01 Disciplines/Clinical/Topics/Preparing Patients for Transfer.md|Preparing Patients for Transfer]]
+    - [[Paediatric Pain Management]]
+    - [[Pain Management]]
+    - [[Preparing Patients for Transfer]]
 
 <!-- SerializedQuery END -->
 
 # Medications to Know
  <!-- QueryToSerialize: list from "03 Medications" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) sort file.name asc -->
 <!-- SerializedQuery: list from "03 Medications" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) sort file.name asc -->
-- [[03 Medications/Analgesics.md|Analgesics]]
-- [[03 Medications/Gastroenterology/Anti-Emetics.md|Anti-Emetics]]
+- [[Analgesics]]
+- [[Anti-Emetics]]
 <!-- SerializedQuery END -->
 
 # Documenting on call visits
