@@ -4,6 +4,8 @@ Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
   - "[[Gastroenterology]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
+tags:
+  - studying
 ---
 ![[Pasted image 20250730192411.png]]
 

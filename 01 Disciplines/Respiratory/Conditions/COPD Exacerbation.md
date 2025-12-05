@@ -1,5 +1,5 @@
 ---
-date: 2025-11-25
+date: 2025-12-05
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
