@@ -2,12 +2,13 @@
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
-date: 2025-11-15
+date: 2025-12-05
 ---
 # Presentation
 - First attack can mimic septic arthritis
 	- Fever, malaise, leucocytosis and elevated inflammatory markers
 - In females, the first attack may be polyarticular, typically in the hands with gouty tophi
+- Incidence of gout increases with age, in females rarely occurs before menopause
 - Clinical features:
 	- Monoarticular involvement of the foot or ankle (especially the first metatarsophalangeal MTP joint)
 	- Previous similar acute arthritis episodes
@@ -18,6 +19,7 @@ date: 2025-11-15
 	- Cardiovascular disease and hyperuricaemia in males or postmenopausal females.
 # Diagnosis/Investigations
 - Aspiration of an affected joint or bursa is the gold standard for confirming a diagnosis of gout
+- Typically occurs when serum uric acid > 0.42 mmol/L (7 mg/dL)
 # Management
 - Ideally diagnosis by aspiration should be made prior to starting urate lowering therapy
 	- Improvement with colchicine can also happen in pseudogout
