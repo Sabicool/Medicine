@@ -47,7 +47,7 @@ date: 2025-10-23
 > [!NOTE] 
 >  Patients with high pre-test probability should be commenced on treatment if there are no contra-indications. Treatment can commence prior to definitive imaging. Consideration should be given to treating low and moderate risk patients with positive D-Dimer and no contra-indications.
 
- ![[Pasted image 20241220001259.png]]
+![[Pasted image 20241220001259.png]]
 ![[Pasted image 20250415182950.png]]
 - PERC needs to be 0 to rule out PE
 - If PERC positive -> YEARS score + D-dimer
