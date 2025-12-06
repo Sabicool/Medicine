@@ -133,8 +133,9 @@ tags:
 ![[Pasted image 20250920175714.png]]
 ## General measures
 - Give high-dose oxygen via mask, aiming for oxygen saturation >95%
-- Give IV normal saline to support BP if necessary
+- Give IV normal saline to support BP if necessary (can trial 250mL normal saline bolus)
 	- **Avoid excessive fluid ∵ worsens RV dilation → septal shift → worsens LV function **
+	- Patients who are really unwell from massive PE have elevated filling pressures, the potential risk of fluid generally outweighs the potential benefit in these patients
 - Vasopressors: Norad first line, dobutamine
 - Relieve pain with titrated morphine 2.5 mg IV boluses
 - Can use PESI score or simplified PESI score to determine risk of 30 day mortality (see [here](https://www.mdcalc.com/pulmonary-embolism-severity-index-pesi))
@@ -192,9 +193,22 @@ tags:
 	- High bleeding risk
 	- Failed systemic thrombolysis
 	- Shock that is likely to cause death before systemic thrombolysis can take effect (e.g. within hours)
-## Other Management
-- Avoid intubation as it often precipitates cardiac arrest because:
-	- 
+### Other Management in Massive PE
+#### Avoid Intubation
+- Avoid intubation unless the patient has lost mental status or has developed respiratory exhaustion as it often precipitates cardiac arrest because:
+	- Sedatives drop blood pressure
+	- Positive pressure reduces preload
+	- Over-distention of the lungs may compress pulmonary capillaries, increasing the pulmonary vascular resistance
+- Avoid intubation by:
+	- High flow nasal cannulas combined with pulmonary vasodilators
+	- Give thrombolysis first (if indicated) then intubate later
+- Optimising for intubation:
+	- Increase SBP to 130-140 with adrenaline/noradrenaline infusion
+	- Use sedatives that are haemodynamically stable (e.g. ketamine)
+	- Following intubation, don't over-distend the lungs (i.e. avoid over-vigorous bag ventilation)
+#### Avoid Administration of Fluids
+#### Ionotropes and Vasopressors
+#### Inhaled Pulmonary Vasodilators
 # Sources
 - On Call: Principles and Protocols
 - Derranged physiology: https://derangedphysiology.com/main/required-reading/respiratory-intensive-care/Chapter-161/pulmonary-embolism

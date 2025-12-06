@@ -7,7 +7,7 @@ Rotations:
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
 aliases:
   - APO
-date: 2025-11-25
+date: 2025-12-06
 ---
 # Presentation
 - Develops over minutes with severe breathlnessness, coughing frothy pink sputum, orthopnoea and PND
@@ -35,7 +35,7 @@ date: 2025-11-25
 ## ABG results
 - Initially in APO patients are sympathetically driven and hyperventilating resulting in a picture of respiratory alkalosis (↑ pH ↓ $p\ce{CO2}$)
 - As pulmonary oedema worsens, alveolar flooding and fatigue causes hypoventilation causing respiratory acidosis (↓ pH ↑ $p\ce{CO2}$)
-- Occassionally mixed picture acidosis (metabolic + respiratory acidosis) can arise (e.g. acute pulmonary oedema after an acute myocardial infarct), caused by poor cardiac circulation (causing a lactic acidosis – metabolic acidosis) with concurrent poor alveolar ventilation (due to pulmonary oedema) – causing CO2retention and a concomitant respiratory acidosis
+- Occassionally mixed picture acidosis (metabolic + respiratory acidosis) can arise (e.g. acute pulmonary oedema after an acute myocardial infarct), caused by poor cardiac circulation (causing a lactic acidosis – metabolic acidosis) with concurrent poor alveolar ventilation (due to pulmonary oedema) – causing $\ce{CO2}$ retention and a concomitant respiratory acidosis
 ## Chest-Xray
 - Alveolar oedema ('batwing' appearance)
 - Kerly B lines (1-2cm horizontal, peripheral engorged subpleural lymphatics) and septal lines
