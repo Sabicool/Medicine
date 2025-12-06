@@ -29,6 +29,7 @@ tags:
 - A major PE causes dyspnoea, chest pain and light-headedness or collapse, followed by recovery. Look for cyanosis, tachycardia, hypotension, a parasternal heave, raised JVP and a loud delayed pulmonary second sound
 # Investigations
 ## Bedside
+- Weight
 ### Bloods
 - Consider performing an ABG
 	- Do not routinely unless pulse oximetry is unreliable or demonstrates unexplained hypoxia on room air
@@ -36,7 +37,8 @@ tags:
 	- Characteristic findings include acute respiratory alkalosis, or hypoxia and a raised A-a gradient
 - D-dimer
 	- Age adjusted cutoff 0.01 x age if >50 y/o
-- Coags
+- Coags, FBC, EUC, LFT
+- beta-HCG in women of child bearing age
 - Troponin (if chest pain or otherwise indicated)
 ### ECG
 - Significant PE may cause right axis deviation and right BBB but most common sign is sinus tachycardia (S1Q3T3 is neither specific nor sensitive for PE)
@@ -108,11 +110,8 @@ tags:
 ![[Pasted image 20250920175714.png]]
 ## General measures
 - Give high-dose oxygen via mask, aiming for oxygen saturation >95%
-- Baseline tests before anticoagulant therapy:
-	- Coagulation profile, FBC, EUC, LFT
-	- Women of childbearing age: beta-HCG
 - Give IV normal saline to support BP if necessary
-	- Avoid excessive fluid ∵ worsens RV dilation → septal shift → worsens LV function 
+	- **Avoid excessive fluid ∵ worsens RV dilation → septal shift → worsens LV function **
 - Vasopressors: Norad first line, dobutamine
 - Relieve pain with titrated morphine 2.5 mg IV boluses
 - Can use PESI score or simplified PESI score to determine risk of 30 day mortality
