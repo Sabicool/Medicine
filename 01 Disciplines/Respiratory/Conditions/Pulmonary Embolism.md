@@ -11,10 +11,17 @@ tags:
 > 	- Nonrebreather @ 15L/min + nasal cannula @ 15L/min
 > 	- High flow nasal prongs
 > - Thrombolysis
+> 	- Standard dose: 100 mg alteplase (10-20 mg bolus, then remainder over 2 hours).
+> 	- Cardiac arrest: 50 mg bolus.
 > - Vasopressors
 > 	- First choice: **Norepinephrine** 
 > 	- Adjuncts: Vasopressin (for pressure support), dobutamine (for RV inotropy) 
 > 	- Consider: Epinephrine if severe refractory RV failure
+> - Inhaled pulmonary vasodilators
+> 	- Nitroglycerine 
+> 	- Milrinone
+> 	- Nitric oxide
+> - Fluid-conservative therapy
 
 # Presentation
 - See: [[Shortness of Breath, Cough and Haemopytsis|Dyspnoea]]
