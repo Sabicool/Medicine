@@ -5,7 +5,7 @@ Rotations:
   - "[[Gastroenterology]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
 tags:
-  - studying
+  - notes
 ---
 ![[Pasted image 20250730192411.png]]
 

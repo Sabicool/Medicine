@@ -4,7 +4,7 @@ Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
 date: 2025-12-06
 tags:
-  - studying
+  - cards
 ---
 # Presentation
 - First attack can mimic septic arthritis
@@ -65,7 +65,13 @@ tags:
 - Target serum uric acid concentrations
 	- Nontophaceous gout: <0.36 mmol/L (6 mg/dL)
 	- Tophaceous gout, chronic arthroplasty or frequent attacks: <0.30 mmol/L (5mg/dL) initially until total crystal dissolution and resolution of gout then <0.36 mmol/L (6 mg/dL)
-- Avoid combination of allopurinol with either azathioprine or mercaptopurine
-- 
+- Allopurinol 500 mg orally daily then increase the dose by 50 mg every 2 weeks or by 100 mg every 4 weeks up to a maximum daily dose of 900 mg to achieve the target serum uric acid concentration (above)
+	- Avoid combination of allopurinol with either azathioprine or mercaptopurine
+	- Skin rash is the most common side effect of allopurinol
+- Starting or increasing urate-lowering therapy is associated with a high risk of gout flare, so flare prophylaxis is recommended with colchicine 500 mcg daily for at least 6 months; reduce dosage in kidney impairment or in people who experience diarrhoea
+- Consider adding if not reaching target serum uric acid concentration despite allopurinol adherence:
+	- Probenecid 250 mg orally twice daily for 1 week then increasing to 500 mg twice daily; then increase the daily dose by 500 mg every 4 weeks to achieve the target serum uric acid concentration (maximum 2 g daily in divided doses)
+- If allopurinol not tolerated use:
+	- Febuxostat 40 mg orally daily for 2 to 4 weeks; then increase the daily dose by 40 mg every 2 to 4 weeks to achieve the target sesrum uric acid concentration. Maximum daily dose 120 mg
 # Sources
 - eTG: Gout
