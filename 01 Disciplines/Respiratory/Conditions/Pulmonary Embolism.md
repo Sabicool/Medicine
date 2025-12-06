@@ -14,7 +14,7 @@ tags:
 > 	- Standard dose: 100 mg alteplase (10-20 mg bolus, then remainder over 2 hours).
 > 	- Cardiac arrest: 50 mg bolus.
 > - Vasopressors
-> 	- First choice: **Norepinephrine** 
+> 	- First choice: **Adrenaline** 
 > 	- Adjuncts: Vasopressin (for pressure support), dobutamine (for RV inotropy) 
 > 	- Consider: Epinephrine if severe refractory RV failure
 > - Inhaled pulmonary vasodilators
@@ -48,6 +48,7 @@ tags:
 ![[Pasted image 20241220000712.png]]
 - Can use D-dimer to exclude PE in low probability pre-test patients
 - Can use ELISA D-dimer to exclude PE in moderate probability pre-test patients
+- If >6 proceed directly to definitive diagnostic imaging
 
 > [!NOTE] 
 > Only send a D-dimer test in 
@@ -170,3 +171,9 @@ tags:
 	- High bleeding risk
 	- Failed systemic thrombolysis
 	- Shock that is likely to cause death before systemic thrombolysis can take effect (e.g. within hours)
+# Sources
+- On Call: Principles and Protocols
+- Derranged physiology: https://derangedphysiology.com/main/required-reading/respiratory-intensive-care/Chapter-161/pulmonary-embolism
+- IBCC: Submassive & Massive PE https://emcrit.org/ibcc/pe/
+- Local hospital guidelines (NSW)
+- ACI guidelines: https://aci.health.nsw.gov.au/networks/eci/clinical/tools/respiratory/pe
