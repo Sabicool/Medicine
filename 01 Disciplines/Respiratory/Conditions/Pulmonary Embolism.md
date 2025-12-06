@@ -1,7 +1,7 @@
 ---
 aliases:
   - PE
-date: 2025-12-06
+date: 2025-12-07
 tags:
   - notes
 ---
@@ -206,7 +206,7 @@ tags:
 	- Increase SBP to 130-140 with adrenaline/noradrenaline infusion
 	- Use sedatives that are haemodynamically stable (e.g. ketamine)
 	- Following intubation, don't over-distend the lungs (i.e. avoid over-vigorous bag ventilation)
-#### Avoid Administration of Fluids
+#### Careful Administration of Fluids
 #### Ionotropes and Vasopressors
 #### Inhaled Pulmonary Vasodilators
 # Sources
