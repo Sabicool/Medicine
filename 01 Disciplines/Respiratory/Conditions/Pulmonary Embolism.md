@@ -28,6 +28,21 @@ tags:
 - A small PE causes sudden dyspnoea, pleuritic pain and possibly haemoptysis, with few physical signs. Look for a low-grade pyrexia (>38°C), tachypnoea (>20/min), tachycardia and a pleural rub
 - A major PE causes dyspnoea, chest pain and light-headedness or collapse, followed by recovery. Look for cyanosis, tachycardia, hypotension, a parasternal heave, raised JVP and a loud delayed pulmonary second sound
 - Clinical signs of a DVT may be present
+
+> [!WARNING] Red Flags
+> - On Examination
+> 	- Diaphoresis
+> 	- Signs of hypoperfusion: mottling, cool extremities, confusion, agitation
+> - Vital signs
+> 	- **Bradycardia** => may indicate impending brady-asystolic arrest
+> 	- Shock index (HR/SBP) > 1
+> 	- Hypotension
+> 	- Hypertension (some patients with PE have excess adrenaline production), often indicated by elevated lactate
+> 	- Tachypnoea > 30
+> - Labs
+> 	- Elevated troponin
+> 	- Elevated lactate
+
 # Investigations
 ## Bedside
 - Weight
