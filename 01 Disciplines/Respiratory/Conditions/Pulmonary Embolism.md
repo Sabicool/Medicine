@@ -208,7 +208,7 @@ tags:
 	- Following intubation, don't over-distend the lungs (i.e. avoid over-vigorous bag ventilation)
 #### Avoid Administration of Fluids
 #### Ionotropes and Vasopressors
-#### Inhaled Pulmonary Vasodilators 
+#### Inhaled Pulmonary Vasodilators
 # Sources
 - On Call: Principles and Protocols
 - Derranged physiology: https://derangedphysiology.com/main/required-reading/respiratory-intensive-care/Chapter-161/pulmonary-embolism
