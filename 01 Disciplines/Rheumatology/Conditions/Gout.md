@@ -2,7 +2,7 @@
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
-date: 2025-12-05
+date: 2025-12-06
 tags:
   - studying
 ---
@@ -30,7 +30,17 @@ tags:
 - Obesity, hypertension, chronic kidney disease, dyslipiedaemia, type-2 diabetes
 # Diagnosis/Investigations
 - Aspiration of an affected joint or bursa is the gold standard for confirming a diagnosis of gout
-- Typically occurs when serum uric acid > 0.42 mmol/L (7 mg/dL)
+- Measure serum uric acid concentration
+	- Typically occurs when serum uric acid > 0.42 mmol/L (7 mg/dL)
+- Measure kidney function
+- Clinical diagnosis is supported by:
+	- Monoarticular involvement of the foot or ankle or MTP joint
+	- Previous similar acute arthritis episodes
+	- Rapid onset of severe pain and swelling (reaching a peak in the intensity of pain and swelling within 24 hours)
+	- Erythema, tophi
+	- Strong family history of gout
+	- Cardiovascular disease and hyperuricaemia in males or postmenopausal females
+- A plain X-ray of the joint is useful to identify joint damage due to gout and its presence is an indication for urate-lowering therapy
 # Management
 - Ideally diagnosis by aspiration should be made prior to starting urate lowering therapy
 	- Improvement with colchicine can also happen in pseudogout
