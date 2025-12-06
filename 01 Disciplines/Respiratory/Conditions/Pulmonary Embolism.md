@@ -36,6 +36,8 @@ tags:
 	- Characteristic findings include acute respiratory alkalosis, or hypoxia and a raised A-a gradient
 - D-dimer
 	- Age adjusted cutoff 0.01 x age if >50 y/o
+- Coags
+- Troponin (if chest pain or otherwise indicated)
 ### ECG
 - Significant PE may cause right axis deviation and right BBB but most common sign is sinus tachycardia (S1Q3T3 is neither specific nor sensitive for PE)
 
