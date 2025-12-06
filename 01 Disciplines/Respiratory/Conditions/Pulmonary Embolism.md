@@ -1,7 +1,9 @@
 ---
 aliases:
   - PE
-date: 2025-10-23
+date: 2025-12-06
+tags:
+  - studying
 ---
 
 > [!NOTE] Massive PE Resuscitation
