@@ -58,6 +58,7 @@ tags:
 - Troponin (if chest pain or otherwise indicated)
 ### ECG
 - Significant PE may cause right axis deviation and right BBB but most common sign is sinus tachycardia (S1Q3T3 is neither specific nor sensitive for PE)
+- Other ECG findings: Qr in V1, STE in V1, Complete RBBB, S1Q3T3, R axis deviation, STE in III, STD in V4-6, AF, TWI in precordial/inferior leads
 
 ^ecg
 
@@ -138,6 +139,7 @@ tags:
 - Relieve pain with titrated morphine 2.5 mg IV boluses
 - Can use PESI score or simplified PESI score to determine risk of 30 day mortality (see [here](https://www.mdcalc.com/pulmonary-embolism-severity-index-pesi))
 - Measure weight and creatinine clearance before selecting anticoaglant
+- See contraindications to thrombolysis and anticoagulation [here](https://aci.health.nsw.gov.au/networks/eci/clinical/tools/respiratory/pe/pulmonary-thromboembolism-pe---risk-of-bleeding)
 ## Anticoagulation
 - Commence anticoagulation when:
 	- The diagnosis is confirmed or
@@ -185,13 +187,14 @@ tags:
 		- Myocardial necrosis defined by:
 			- Elevation of troponin T >50ng/L
 - Call immediate senior help and [[MET Activation Criteria]]
-- Give tPA 10mg IV over 1-2 minutes then 90 mg IV over 2 hours together with heparinisation
-	- Can consider streptokinase and urokinase
 - Stat fibrinolytic doses can be given in cases of cardiac arrest considered related to a massive PE
 - Catheter directed thrombolysis indicated for patients with acute PE associated with hypotension who have:
 	- High bleeding risk
 	- Failed systemic thrombolysis
 	- Shock that is likely to cause death before systemic thrombolysis can take effect (e.g. within hours)
+## Other Management
+- Avoid intubation as it often precipitates cardiac arrest because:
+	- 
 # Sources
 - On Call: Principles and Protocols
 - Derranged physiology: https://derangedphysiology.com/main/required-reading/respiratory-intensive-care/Chapter-161/pulmonary-embolism
