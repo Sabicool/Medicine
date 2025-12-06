@@ -4,7 +4,7 @@ Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
 date: 2025-12-06
 tags:
-  - cards
+  - complete
 ---
 # Presentation
 - First attack can mimic septic arthritis
@@ -27,7 +27,6 @@ tags:
 - Medications that inhibit renal excretion of uric acid (e.g. thiazide diuretics, loop diuretics (see [[Diuretics]]), ciclosporin)
 - Consumption of purine-rich foods, alcohol or fructose-sweetened drinks
 - Disorders involving high cell turnover (e.g. haematological malignancies, severe psoriasis)
-- Obesity, hypertension, chronic kidney disease, dyslipiedaemia, type-2 diabetes
 # Diagnosis/Investigations
 - Aspiration of an affected joint or bursa is the gold standard for confirming a diagnosis of gout
 - Measure serum uric acid concentration
