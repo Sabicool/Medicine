@@ -121,7 +121,7 @@ tags:
 	- **Avoid excessive fluid ∵ worsens RV dilation → septal shift → worsens LV function **
 - Vasopressors: Norad first line, dobutamine
 - Relieve pain with titrated morphine 2.5 mg IV boluses
-- Can use PESI score or simplified PESI score to determine risk of 30 day mortality
+- Can use PESI score or simplified PESI score to determine risk of 30 day mortality (see [here](https://www.mdcalc.com/pulmonary-embolism-severity-index-pesi))
 - Measure weight and creatinine clearance before selecting anticoaglant
 ## Anticoagulation
 - Commence anticoagulation when:
