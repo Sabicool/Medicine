@@ -61,5 +61,11 @@ tags:
 	- Colchicine 1mg orally initially, then 0.5 mg 1 hour later, as a single one-day course 
 	- Often used together with an NSAID (above) for symptom relief until the flare resolves
 	- Avoid in patients with kidney impairment
+## Chronic Gout
+- Target serum uric acid concentrations
+	- Nontophaceous gout: <0.36 mmol/L (6 mg/dL)
+	- Tophaceous gout, chronic arthroplasty or frequent attacks: <0.30 mmol/L (5mg/dL) initially until total crystal dissolution and resolution of gout then <0.36 mmol/L (6 mg/dL)
+- Avoid combination of allopurinol with either azathioprine or mercaptopurine
+- 
 # Sources
 - eTG: Gout
