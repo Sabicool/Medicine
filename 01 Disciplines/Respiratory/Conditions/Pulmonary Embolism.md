@@ -14,9 +14,9 @@ tags:
 > 	- Standard dose: 100 mg alteplase (10-20 mg bolus, then remainder over 2 hours).
 > 	- Cardiac arrest: 50 mg bolus.
 > - Vasopressors
-> 	- First choice: **Adrenaline** 
+> 	- First choice: **Adrenaline or noradrenaline infusion** 
 > 	- Adjuncts: Vasopressin (for pressure support), dobutamine (for RV inotropy) 
-> 	- Consider: Epinephrine if severe refractory RV failure
+> 	- Consider: adrenaline if severe refractory RV failure
 > - Inhaled pulmonary vasodilators
 > 	- Nitroglycerine 
 > 	- Milrinone
@@ -27,6 +27,7 @@ tags:
 - See: [[Shortness of Breath, Cough and Haemopytsis|Dyspnoea]]
 - A small PE causes sudden dyspnoea, pleuritic pain and possibly haemoptysis, with few physical signs. Look for a low-grade pyrexia (>38°C), tachypnoea (>20/min), tachycardia and a pleural rub
 - A major PE causes dyspnoea, chest pain and light-headedness or collapse, followed by recovery. Look for cyanosis, tachycardia, hypotension, a parasternal heave, raised JVP and a loud delayed pulmonary second sound
+- Clinical signs of a DVT may be present
 # Investigations
 ## Bedside
 - Weight
@@ -83,6 +84,12 @@ tags:
 	- When the CXR is normal
 	- Younger females
 - A normal V/Q scan rules out clinically important PE in patients with low-to-moderate pre-test probability
+- Interpretation of results
+	- Normal Scan = No PE. Consider alternate diagnosis
+	- Low Probability Scan + Low PTP = No PE. Consider alternate diagnosis
+	- Low Probability Scan + Intermediate or High PTP = Inconclusive result – Further testing (CTPA) required
+	- Intermediate Probability Scan = Inconclusive result – Further testing (CTPA) required
+	- High Probability Scan = PE. Commence treatment.
 
 ### Chest-Xray
 - Frequently normal; mainly to exclude other diagnoses such as pneumonia or pneumothorax
@@ -97,7 +104,7 @@ tags:
 
 ### Pregnancy 
 - D-dimer cannot be used for risk stratification in pregnant patients
-- Lower limb ultrasound remains the first test of choice
+- Bilateral lower limb ultrasound remains the first test of choice
 - In suspected PE in pregnancy, if compression ultrasonography of the legs is normal and a XR chest has not further aided the diagnostic process, the decision then needed is whether to investigate further with CTPA or V/Q or treat empirically
 
 > [!NOTE] Risks
@@ -121,7 +128,7 @@ tags:
 	- The diagnosis is confirmed or
 	- When there is an intermediate or high pre-test probability of PE but a delay to testing (in the absence of contraindications)
 - 2 anticoagulation options exist:
-	- Start heparin and warfarin and continue heparin until warfarinisation achieved (3-5 days)
+	- Heparin: UFH or LMWH
 	- NOAC
 - Duration
 	- Provoked: minimum 3 months
@@ -142,7 +149,7 @@ tags:
 - Cannot use in child-pugh class B or worse without specialist input
 > [!WARNING] Dabigatran
 > Dabigatran requires at least 5 days of parenteral anticoagulant to be given first. Dose is 150mg PO 12-hourly. Dose modification is required based of renal function
-## Fibrinolytic Therapy
+## Massive PE
 ![[Pasted image 20250920182356.png]]
 - Consider when the probability of PE is high (or confirmed) and:
 	- The patient is hypotensive despite fluid resuscitation and/or
