@@ -49,6 +49,17 @@ tags:
 	- Discuss lifelong urate-lowering therapy and start using a treat-to-target approach
 	- Modify existing medications thought to be contributing
 ## Acute Gout
-
+- It is safe to start or modify urate-lowering therapy during treatment of an acute attack
+- Corticosteroids local or oral have a lower incidence of adverse effects than oral NSAID therapy
+	- Prednisolone (or prednisone) 15-30 mg orally daily until symptoms subside typically 3-5 days
+- Oral NSAIDs
+	- Celecoxib 100-200 mg orally daily in 1 or 2 divided doses until symptoms subside
+	- Ibuprofen immediate-release 200 to 400 mg orally, 3 or 4 times daily until symptoms subside
+	- Naproxen immediate-release 250 to 500 mg orally, twice daily until symptoms subside
+	- Naproxen modified-release 750 to 1000 mg orally, daily until symptoms subside
+- Oral colchicine has a small therapeutic window with risk of toxicity and adverse effects at higher doses; unlikely to be effective if not started within 24 hours of an attack
+	- Colchicine 1mg orally initially, then 0.5 mg 1 hour later, as a single one-day course 
+	- Often used together with an NSAID (above) for symptom relief until the flare resolves
+	- Avoid in patients with kidney impairment
 # Sources
 - eTG: Gout
