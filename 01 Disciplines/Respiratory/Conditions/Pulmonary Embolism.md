@@ -213,7 +213,8 @@ tags:
 - If IVC dilated do not give fluid
 - If already received fluid consider diuresis
 #### Inotropes and Vasopressors
-- 
+- Noradrenaline
+- Establishing an adequate mean arterial pressure (e.g. >65 mm) will help ensure adequate perfusion of the right coronary artery and thereby support right ventricular function
 #### Inhaled Pulmonary Vasodilators
 # Sources
 - On Call: Principles and Protocols
