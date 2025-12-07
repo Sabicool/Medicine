@@ -207,7 +207,13 @@ tags:
 	- Use sedatives that are haemodynamically stable (e.g. ketamine)
 	- Following intubation, don't over-distend the lungs (i.e. avoid over-vigorous bag ventilation)
 #### Careful Administration of Fluids
-#### Ionotropes and Vasopressors
+- Evaluate with ultrasound
+- If clear evidence of hypovolaemia (e.g. small IVC with variation with respiration), give fluid in small amounts
+	- Small IVC rarely occurs in massive PE; if seen should consider alternative diagnoses to massive PE
+- If IVC dilated do not give fluid
+- If already received fluid consider diuresis
+#### Inotropes and Vasopressors
+- 
 #### Inhaled Pulmonary Vasodilators
 # Sources
 - On Call: Principles and Protocols
