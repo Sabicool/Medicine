@@ -1,5 +1,5 @@
 ---
-date: 2025-10-23
+date: 2025-12-07
 ---
 # Myocyte
 ![[Pasted image 20251023210216.png]]
