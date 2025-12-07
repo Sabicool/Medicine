@@ -49,7 +49,7 @@ tags:
 ### Bloods
 - Consider performing an ABG
 	- Do not routinely unless pulse oximetry is unreliable or demonstrates unexplained hypoxia on room air
-	- Low Pa$\ce{O2}$, Low $\ce{CO2}$, High pH
+	- Low $Pa\ce{O2}$, Low $p\ce{CO2}$, High pH
 	- Characteristic findings include acute respiratory alkalosis, or hypoxia and a raised A-a gradient
 - D-dimer
 	- Age adjusted cutoff 0.01 x age if >50 y/o
@@ -132,7 +132,8 @@ tags:
 # Management
 ![[Pasted image 20250920175714.png]]
 ## General measures
-- Give high-dose oxygen via mask, aiming for oxygen saturation >95%
+- Give high-dose oxygen, aiming for oxygen saturation >95%
+- Lie patient flat to increase venous return
 - Give IV normal saline to support BP if necessary (can trial 250mL normal saline bolus)
 	- **Avoid excessive fluid ∵ worsens RV dilation → septal shift → worsens LV function **
 	- Patients who are really unwell from massive PE have elevated filling pressures, the potential risk of fluid generally outweighs the potential benefit in these patients
