@@ -215,6 +215,7 @@ tags:
 #### Inotropes and Vasopressors
 - Noradrenaline
 - Establishing an adequate mean arterial pressure (e.g. >65 mm) will help ensure adequate perfusion of the right coronary artery and thereby support right ventricular function
+- See [[Inotropes]]
 #### Inhaled Pulmonary Vasodilators
 # Sources
 - On Call: Principles and Protocols
