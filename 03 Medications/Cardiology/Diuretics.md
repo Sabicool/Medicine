@@ -1,5 +1,7 @@
 ---
-date: 2025-12-07
+date: 2025-12-08
+tags:
+  - notes
 ---
 # Thiazide Diuretics
 - Mechanism of action
