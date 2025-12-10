@@ -1,5 +1,5 @@
 ---
-date: 2025-12-08
+date: 2025-12-10
 Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
   - "[[Emergency Medicine]]"
@@ -7,7 +7,8 @@ Rotations:
 tags:
   - notes
 ---
-# While Standing
+# Assessment
+## While Standing
 - Inspect the spine for any developmental or traumatic deformities. 
 	- Assess the lumbar lordosis; loss of curvature may indicate ankylosing spondylitis. 
 	- Look for any muscle wasting (buttock, thigh, calf). 
@@ -15,7 +16,7 @@ tags:
 - Movement: 
 	- Ask the patient to extend the spine, flex forward and then flex laterally by sliding their palm down their outer thigh
 	- Most patients with non-specific back pain will be slightly stiff in extension, have pain on flexion, and asymmetric limitation and pain on lateral flexion.
-# While Lying Supine
+## While Lying Supine
 - Rule out other joint involvement: check the hip joints for range of movement and pain
 	- Perform stress test on sacro-iliac joints (e.g. FABER test), especially in young patients
 	- Flexion, Abduction, and External Rotation (FABER):
@@ -45,13 +46,13 @@ tags:
 	- Plantar reflex: observe for up-going plantars
 - Check for skin sensory loss
 	- ![[Pasted image 20251208212029.png]]
-# While Lying Prone
+## While Lying Prone
 - Femoral stretch test (nerve roots L2/3/4)
 	- With the patient lying prone, flex the knee towards ninety degrees
 	- Burning discomfort in the groin or anterior thigh will occur if there is femoral nerve involvement
 	- ![[Pasted image 20251208212117.png]]
 - Palpate the spine for tenderness and for muscle spasm
-# While on Side
+## While on Side
 - For patients who describe loss of sphincter control test for impaired sensation in the saddle area and assess anal sphincter tone with DRE
 # Source
 - https://bpac.org.nz/BPJ/2009/June/backexam.aspx
