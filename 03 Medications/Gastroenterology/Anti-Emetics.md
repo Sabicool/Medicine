@@ -73,7 +73,15 @@ tags:
 	- Can cause sedation and EPS; avoid in Parkinsons
 - Metoclopramide
 	- Particular use in migraine or acute gastroenteritis
-	- 
+	- Avoid use in patients younger than 20 years and older persons—acute dystonic reactions are more common in young adults and older persons
+	- Can cause extrapyramidal adverse effects—avoid in Parkinson disease
+	- Can cause irreversible tardive dyskinesia
+	- Do not use for longer than 5 days
+	- Avoid if stimulation of the gastrointestinal tract is dangerous (eg gastrointestinal obstruction or perforation) 
+- Prochlorperazide
+	- General use, particularly for nausea and vomiting associated with migraine, motion sickness or acute gastroenteritis
+	- Can cause sedation, prolongation of the QT interval and extrapyramidal adverse effects, including tardive dyskinesia and akathisia; avoid in Parkinson disease
+	- Can have anticholinergic effects
 # Sedating Antihistamines
 - Promethazine prevents motion sickness and for N&V associated with vestibular disorders
 - Cyclizine for motion sickness
