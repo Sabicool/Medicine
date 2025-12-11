@@ -1,5 +1,5 @@
 ---
-date: 2025-12-02
+date: 2025-12-11
 Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
   - "[[Gastroenterology]]"
@@ -60,11 +60,15 @@ tags:
     - Addison's disease
     - Myocardial ischemia (anginal equivalent)
 - Ensure adequate hydration
+# 5-$\ce{HT3}$ Receptor Antagonists
+- Indication: general use with particular use in acute gastroenteritis
+- Ondansetron 4-8mg IV/PO 8-12 hourly
 # Dopamine Antagonists
 - EPSE (acute dystonic reactions) are more common in the elderly and people <20 years
 - EPSE is rarer with domperidone
 - Domperidone and metoclopramide have prokinetic activity which may be useful in gastroparesis
 - Droperidol is often used for prevent [[Post-Operative Nausea and Vomiting|PONV]]
+	- Mostly limited use with particular use for opioid induced nausea and vomiting and anxious or agitated patients
 	- Has a long duration of action and counteracts adverse opioid effects
 # Sedating Antihistamines
 - Promethazine prevents motion sickness and for N&V associated with vestibular disorders
