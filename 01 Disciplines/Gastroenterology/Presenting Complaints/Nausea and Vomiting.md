@@ -2,7 +2,9 @@
 Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
   - "[[Gastroenterology]]"
-date: 2025-12-11
+date: 2025-12-12
+tags:
+  - notes
 ---
 - Also see [[Anti-Emetics]]
 - Always assess and manage patients for complications of nausea and vomiting (e.g. dehydration, electrolyte or acid-base disturbance)

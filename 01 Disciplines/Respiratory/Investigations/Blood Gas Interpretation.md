@@ -5,6 +5,8 @@ Rotations:
 date: 2025-12-11
 aliases:
   - ABG Interpretation
+tags:
+  - notes
 ---
 ![Blood Gas Interpretation Acid Base LITFL Rogers 2024](https://litfl.com/wp-content/uploads/2019/01/Blood-Gas-Interpretation-Acid-Base-LITFL-Rogers-2024-1024x709.png)
 ![[Pasted image 20251125193546.png]]
