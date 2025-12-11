@@ -70,6 +70,10 @@ tags:
 - Droperidol is often used for prevent [[Post-Operative Nausea and Vomiting|PONV]]
 	- Mostly limited use with particular use for opioid induced nausea and vomiting and anxious or agitated patients
 	- Has a long duration of action and counteracts adverse opioid effects
+	- Can cause sedation and EPS; avoid in Parkinsons
+- Metoclopramide
+	- Particular use in migraine or acute gastroenteritis
+	- 
 # Sedating Antihistamines
 - Promethazine prevents motion sickness and for N&V associated with vestibular disorders
 - Cyclizine for motion sickness
