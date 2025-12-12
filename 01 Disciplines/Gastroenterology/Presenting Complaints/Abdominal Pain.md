@@ -3,7 +3,9 @@ Rotations:
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[Gastroenterology]]"
-date: 2025-11-24
+date: 2025-12-12
+tags:
+  - complete
 ---
 # Phone Call/Presentation Questions
 - SOCRATES of the pain
