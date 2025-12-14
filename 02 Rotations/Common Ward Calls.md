@@ -11,6 +11,7 @@ date: 2025-08-14
 - Conditions: 
     - [[Acute Pulmonary Oedema]]
     - [[Alcohol Withdrawal]]
+    - [[Back Pain]]
     - [[COPD Exacerbation]]
     - [[Gout]]
     - [[Hyperglycaemia]]

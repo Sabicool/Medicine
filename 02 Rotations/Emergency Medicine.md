@@ -9,6 +9,7 @@ date: 2025-01-13
     - [[Acute Pulmonary Oedema]]
     - [[Alcohol Withdrawal]]
     - [[Atrial Flutter]]
+    - [[Back Pain]]
     - [[COPD Exacerbation]]
     - [[Gout]]
     - [[Hypercalcaemia]]
@@ -66,6 +67,7 @@ date: 2025-01-13
 - [[Analgesics]]
 - [[Anti-Emetics]]
 - [[Drugs in Cardiac Arrest]]
+- [[Inotropes]]
 <!-- SerializedQuery END -->
 # Useful Resources
 - Notes on training: [Emergency Medicine Training](00%20Reference/Training/Emergency%20Medicine%20Training.md)

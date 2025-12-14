@@ -36,5 +36,6 @@ date: 2025-10-25
 - Cardiology: 
     - [[Antiarrhythmics]]
     - [[Drugs in Cardiac Arrest]]
+    - [[Inotropes]]
 
 <!-- SerializedQuery END -->

@@ -34,6 +34,9 @@ date: 2025-09-28
     - [[ECG Interpretation]]
     - [[Echocardiogram]]
 
+- Physiology: 
+    - [[Phases of Depolarisation]]
+
 - Presenting Complaints: 
     - [[Arrhythmias]]
     - [[Chest Pain]]
@@ -45,9 +48,6 @@ date: 2025-09-28
     - [[Lung POCUS]]
     - [[Transcutaneous Pacing]]
 
-- Topics: 
-    - [[Phases of Depolarisation]]
-
 <!-- SerializedQuery END -->
 # Medications
  <!-- QueryToSerialize: list from "03 Medications" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) sort file.name asc -->
@@ -56,5 +56,6 @@ date: 2025-09-28
 - [[Anticoagulants]]
 - [[Diuretics]]
 - [[Drugs in Cardiac Arrest]]
+- [[Inotropes]]
 - [[Lipid Lowering Therapy]]
 <!-- SerializedQuery END -->
