@@ -1,5 +1,7 @@
 ---
-date: 2025-11-14
+date: 2025-12-14
+tags:
+  - cards
 ---
 
 > [!NOTE] Indications for Chest Drain
