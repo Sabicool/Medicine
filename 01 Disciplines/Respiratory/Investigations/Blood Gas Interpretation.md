@@ -19,29 +19,42 @@ tags:
 # Approach
 1. $P\rm{a}\ce{O2}$: Determine the adequacy of oxygenation (80-100 mmHg)
 2. Determine pH status (7.35-7.45)
-	- pH <7.35: Acidosis is an abnormal process that increases the serum hydrogen ion concentration, lowers the pH and results in acidaemia
-	 - pH >7.45: Alkalosis is an abnormal process that decreases the hydrogen ion concentration and results in alkalaemia
+	- pH <7.35: Acidosis: increase in the serum hydrogen ion concentration, lowers the pH and results in acidaemia
+	 - pH >7.45: Alkalosis: decreases the hydrogen ion concentration and results in alkalaemia
 3. Determine the primary disorder
 	- $P\rm{a}\ce{CO2}$: Determine the respiratory component (35-45 mmHg)
-		- $P\rm{a}\ce{CO2}$ <35 ⇒ ↑ respiratory rate
-				+ If pH >7.45: primary respiratory alkalosis (especially if $\ce{HCO3-}$ normal)
-				+ If pH <7.35 and ↓ $\ce{HCO3-}$: respiratory compensation for metabolic acidosis
-		- $P\rm{a}\ce{CO2}$ >45 ⇒ ↓ respiratory rate
-			     + If pH <7.35 and $\ce{HCO3-}$ normal: hypoventilation
-			     + If pH >7.45 and ↑ $\ce{HCO3-}$: respiratory compensation for metabolic alkalosis
+		- $P\rm{a}\ce{CO2}$ <35 ⇒ ↑ respiratory rate ⇒ alkalotic change
+			+ If pH >7.45: primary respiratory alkalosis (especially if $\ce{HCO3-}$ normal)
+			+ If pH <7.35 and ↓ $\ce{HCO3-}$: respiratory compensation for metabolic acidosis
+		- $P\rm{a}\ce{CO2}$ >45 ⇒ ↓ respiratory rate ⇒ acidotic change
+			 + If pH <7.35 and $\ce{HCO3-}$ normal: hypoventilation
+			 + If pH >7.45 and ↑ $\ce{HCO3-}$: respiratory compensation for metabolic alkalosis
 	- $\ce{HCO3-}$: Determine the metabolic component (22-26 mmol/L)
-		- $\ce{HCO3-}$<22
+		- $\ce{HCO3-}$<22 ⇒ acidotic change
 			- If pH <7.35: primary metabolic acidosis
-			- If pH >7.45: renal compensation for respiratory alkalosis
-		- $\ce{HCO3-}$ >26
+			- If pH >7.45: metabolic compensation for respiratory alkalosis
+		- $\ce{HCO3-}$ >26 ⇒ acidotic change
 			- If pH >7.45: primary metabolic alkalaosis
-			- If pH <7.35: renal compensation for respiratory acidosis
+			- If pH <7.35: metabolic compensation for respiratory acidosis
+	- If both $P\rm{a}\ce{CO2}$ and $\ce{HCO3}$ are moving int he same direction (i.e. both increased or decreased) there is co-existing primary respiratory and metabolic disorders
+		- There is limited utility in calculating expected compensation
 4. Is the compensation adequate
+	- Metabolic acidosis: $P\rm{a}\ce{CO2}=\ce{HCO3}+15$ or $P\rm{a}\ce{CO2}=1.5\times\ce{HCO3}+8\pm2$
+	- Metabolic alkalosis: $P\rm{a}\ce{CO2}=0.7\times\ce{HCO3}+20\pm5$
+	- Respiratory acidosis
+		- Acute: $\Delta\ce{HCO3}=0.1\times\Delta P\rm{a}\ce{CO2}$
+		- Chronic: $\Delta\ce{HCO3}=0.4\times\Delta P\rm{a}\ce{CO2}$
+	- Respiratory alkalosis
+		- Acute: $\Delta\ce{HCO3}=0.2\times\Delta P\rm{a}\ce{CO2}$
+		- Chronic: $\Delta\ce{HCO3}=0.5\times\Delta P\rm{a}\ce{CO2}$
 5. Calculate the anion gap
 6. Delta ratio
 
 ![[Pasted image 20250125184001.png]]
-- As an extra step you can determine the consistency of the values from the machine
+- As an extra step you can determine the consistency of the values from the machine and confirm that the derrived $[\ce{HCO3}]$ is correct using:
+$$
+p\ce{H}=-log_{10}\left(24\times\frac{Pa\ce{CO2}}{[\ce{HCO3}]}\times10^{-9}\right)
+$$
 # 12345 Rule
 - Respiratory acidosis :: For every 10 mmHg rise in PaCO2, there should be 1 increase in $\ce{HCO3-}$ for acute and 4 increase in chronic
 - Respiratory alkalosis :: For every 10mmHg rise in PaCO2, there should be 2 decrease in $\ce{HCO3-}$ for acute and 5 decrease in chronic
