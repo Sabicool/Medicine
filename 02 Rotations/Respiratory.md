@@ -12,7 +12,6 @@ date: 2025-01-13
     - [[Pneumonia]]
     - [[Pneumothorax]]
     - [[Pulmonary Embolism]]
-    - [[Pulmonary Embolism.sync-conflict-20251214-202403-OJTSAOO]]
     - [[Pulmonary Hypertension]]
 
 - Emergencies: 
