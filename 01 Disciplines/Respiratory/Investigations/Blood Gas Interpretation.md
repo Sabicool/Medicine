@@ -62,6 +62,8 @@ $$
 $$
 \rm{Delta\;Ratio}=\frac{AG-12}{24-\ce{HCO3}}=\frac{\Delta AG}{\Delta\ce{HCO3}}
 $$
+7. Apply corrections to certain measured values
+	1. 
 
 ![[Pasted image 20250125184001.png]]
 - As an extra step you can determine the consistency of the values from the machine and confirm that the derrived $[\ce{HCO3}]$ is correct using:
@@ -91,13 +93,19 @@ $$
 - Normal anion gap metabolic acidosis :: Loss of $\ce{HCO3-}$ from ECF
 See: https://litfl.com/anion-gap/
 # Corrected Values
-- $\ce{Na+}$ for glucose 
+- $\ce{Na+}$ for glucose
+	- In patients with marked hyperglycaemia, the elevated serum glucose raises the serum tonicity (as the glucose cannot enter cells) which pulls water out of cells and expands the extracellular water compartment – thereby lowering the concentration of sodium
+	- The corrected serum sodium can be calculated, which represents what the serum sodium concentration would be if the glucose level was reduced back to normal
+	- If the corrected sodium is in a normal range – the patient does not have a concurrent hypotonic hyponatraemia
 $$
-\rm{Corrected}\;\ce{Na+}=\ce{Na+}+\frac{\rm{glcuose}-5}{3}
+\rm{Corrected}\;\ce{Na+}=\ce{Na+}+1.5\times\frac{glucose-5.5}{5.5}\approx\ce{Na+}+\frac{\rm{glcuose}-5}{3}
 $$
 - $\ce{K+}$ for pH
-	- For each 0.1 pH drop below 7.4, $\ce{K+}$ rises by 0.5 mmol/L
-	- e.g. For a patient with a $\ce{K+}$ of 4 mmol/L at pH 7.2, the corrected $\ce{K+}$ is 3, hence the patient is hypokalaemic and $\ce{K+}$ should be monitored and replaced as pH is corrected
+	- For each 0.1 pH drop below 7.4, $\ce{K+}$ rises by 0.6 mmol/L
+	- e.g. For a patient with a $\ce{K+}$ of 4 mmol/L at pH 7.2, the corrected $\ce{K+}$ is 2.8, hence the patient is hypokalaemic and $\ce{K+}$ should be monitored and replaced as pH is corrected
+$$
+\rm{Corrected}\;\ce{K+}=\ce{K+}-0.6\times\frac{7.4-pH}{0.1}
+$$
 - Correcting $\ce{Ca+}$ for albumin, however evidence demonstrates that formulas actually perform worse than uncorrected calcium levels
 $$
 \rm{Corrected\;Calcium}=0.8\times(40-\rm{Albumin})+\ce{Ca^{2+}}
