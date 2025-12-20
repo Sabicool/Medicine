@@ -54,12 +54,19 @@ $$
 \rm{Anion\;Gap}=\ce{Na+}-\left(\ce{Cl-}+\ce{HCO3}\right)=12\pm4
 $$
 6. Delta ratio
-	- 
+	- Check delta ratio in the presence of a high anion gap metabolic acidosis to determine if it is a pure HAGMA or if there is co-existent normal anion gap metabolic acidosis or metabolic alkalosis
+	- <0.4 ⇒ normal anion gap metabolic acidosis
+	- 0.4-0.8 ⇒ combined HAGMA + NAGMA, but ratio is often <1 in acidosis associated with renal failure
+	- 1-2 ⇒ uncomplicated HAGMA
+	- ≥2 ⇒ pre-existing metabolic alkalosis or to compensation for a pre-existing respiratory acidosis (i.e. compensated chronic respiratory acidosis)
+$$
+\rm{Delta\;Ratio}=\frac{AG-12}{24-\ce{HCO3}}=\frac{\Delta AG}{\Delta\ce{HCO3}}
+$$
 
 ![[Pasted image 20250125184001.png]]
 - As an extra step you can determine the consistency of the values from the machine and confirm that the derrived $[\ce{HCO3}]$ is correct using:
 $$
-p\ce{H}=-log_{10}\left(24\times\frac{Pa\ce{CO2}}{[\ce{HCO3}]}\times10^{-9}\right)
+p\ce{H}=-\log_{10}\left(24\times\frac{Pa\ce{CO2}}{[\ce{HCO3}]}\times10^{-9}\right)
 $$
 # 12345 Rule
 - Respiratory acidosis :: For every 10 mmHg rise in PaCO2, there should be 1 increase in $\ce{HCO3-}$ for acute and 4 increase in chronic
