@@ -33,10 +33,10 @@ tags:
 		- $\ce{HCO3-}$<22 ⇒ acidotic change
 			- If pH <7.35: primary metabolic acidosis
 			- If pH >7.45: metabolic compensation for respiratory alkalosis
-		- $\ce{HCO3-}$ >26 ⇒ acidotic change
+		- $\ce{HCO3-}$ >26 ⇒ alkalotic change
 			- If pH >7.45: primary metabolic alkalaosis
 			- If pH <7.35: metabolic compensation for respiratory acidosis
-	- If both $P\rm{a}\ce{CO2}$ and $\ce{HCO3}$ are moving int he same direction (i.e. both increased or decreased) there is co-existing primary respiratory and metabolic disorders
+	- If both $P\rm{a}\ce{CO2}$ and $\ce{HCO3}$ are causing the same disturbance (i.e. both acidotic or alkalotic changes) there is co-existing primary respiratory and metabolic disorders
 		- There is limited utility in calculating expected compensation
 4. Is the compensation adequate
 	- Metabolic acidosis: $P\rm{a}\ce{CO2}=\ce{HCO3}+15$ or $P\rm{a}\ce{CO2}=1.5\times\ce{HCO3}+8\pm2$
