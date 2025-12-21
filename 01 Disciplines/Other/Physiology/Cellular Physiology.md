@@ -1,0 +1,12 @@
+---
+date: 2025-12-21
+---
+- Organelles
+	- Mitochondria
+		- Outer mitochondrial membrane
+		- Intermembrane space where $\ce{H+}$ ions are pumped into which is used to synthesise ATP
+		- Inner mitochondrial membrane where the electron transport chain occurs
+		- Inner mitochondrial matrix where other metabolic processes take place (e.g. citric acid cycle, fatty acid metabolism and the urea cycle)
+	- Endoplasmic reticulum
+		- Rough ER more prominent in protein producing cells (e.g. antibody-producing plasma cells)
+		- 
