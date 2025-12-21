@@ -1,5 +1,7 @@
 ---
 date: 2025-10-11
+tags:
+  - notes
 ---
 # Warfarin
 - INR Targets

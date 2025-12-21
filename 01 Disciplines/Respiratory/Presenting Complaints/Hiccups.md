@@ -2,6 +2,8 @@
 aliases:
   - Singultus
 date: 2025-01-01
+tags:
+  - notes
 ---
 # Aetiologies
 - Usually unknown (and benign relating to stress and anxiety)

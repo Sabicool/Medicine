@@ -5,6 +5,8 @@ Rotations:
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
 Related:
   - "[[Arrhythmias]]"
+tags:
+  - notes
 ---
 
 # Amiodarone

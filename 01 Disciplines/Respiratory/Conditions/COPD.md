@@ -1,5 +1,7 @@
 ---
 date: 2025-10-25
+tags:
+  - notes
 ---
 # Presentation
 - Patients have breathlessness, cough, sputum production and wheeze, and are susceptible to infections. Most patients have a smoking history. 

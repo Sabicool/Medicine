@@ -6,6 +6,8 @@ Rotations:
 date: 2025-11-14
 Next:
   - "[[Shock]]"
+tags:
+  - notes
 ---
 - Type 1: Hypoxaemia with normal (or low) Pa$\ce{CO2}$
 	- Primarily a failure of oxygenation

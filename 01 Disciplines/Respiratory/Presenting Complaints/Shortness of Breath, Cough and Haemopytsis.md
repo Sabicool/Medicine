@@ -10,6 +10,8 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
 date: 2025-11-09
+tags:
+  - cards
 ---
 # Phone Call/Presentation Questions
 - Reason for admission
