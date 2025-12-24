@@ -7,7 +7,7 @@ Rotations:
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
 aliases:
   - APO
-date: 2025-12-08
+date: 2025-12-24
 tags:
   - complete
 ---
