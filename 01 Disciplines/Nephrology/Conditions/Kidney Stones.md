@@ -5,6 +5,8 @@ aliases:
 date: 2025-12-24
 Rotations:
   - "[[Emergency Medicine]]"
+tags:
+  - notes
 ---
 # Pathophysiology
 - Calcium oxalate +/- calcium phosphate: ~75%

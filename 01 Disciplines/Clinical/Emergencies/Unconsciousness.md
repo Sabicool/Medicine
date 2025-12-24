@@ -2,10 +2,13 @@
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Neurology|Neurology]]"
+  - "[[Intensive Care Unit]]"
 aliases:
   - Acute neurological failure
   - Coma
-date: 2025-08-30
+date: 2025-12-24
+tags:
+  - cards
 ---
 - Comatose = requires painful stimulus to rouse or if GCS ≤8
 # Summary[^1]

@@ -7,7 +7,7 @@ Rotations:
 aliases:
   - ALS
   - Cardiac Arrest
-date: 2025-12-23
+date: 2025-12-24
 Down:
   - "[[Drugs in Cardiac Arrest]]"
   - "[[Acute Airway Failure]]"
@@ -16,6 +16,8 @@ Down:
   - "[[Unconsciousness]]"
 Related:
   - "[[Basic Life Support]]"
+tags:
+  - cards
 ---
 # ALS Algorithm
 ![[Pasted image 20250227130949.png]]
