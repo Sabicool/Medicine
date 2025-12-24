@@ -29,5 +29,7 @@ tags:
 - Strangury is also present occasionally
 - Some patients may have complications of obstructive pyelonephritis and therefore may have a septic clinical presentation
 - Children may describe vague abdominal pain
+# Radiographic Features
+
 # Sources
 - [Urolithiasis \| Radiology Reference Article \| Radiopaedia.org](https://radiopaedia.org/articles/urolithiasis?lang=gb) last revised 25 June 2025. Accessed 24 December 2025
