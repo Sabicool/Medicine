@@ -30,6 +30,20 @@ tags:
 - Some patients may have complications of obstructive pyelonephritis and therefore may have a septic clinical presentation
 - Children may describe vague abdominal pain
 # Radiographic Features
-
+# Management
+- Approximately 90% of stones <4 mm are likely to pass down the ureter and into the bladder, and thus often require no more than analgesia and hydration
+- Indications for surgical management include:
+	- Larger stones, typically those above 5 mm in size
+	- Extended duration of symptoms
+     - Location of the stone, with proximal calculi less likely to spontaneously pass
+	- Infection or septic features
+	- Certain professions (airline pilot, truck driver) due to the risk of renal colic during work
+	- Solitary kidney
+	- Failed conservative management
+- Surgical
+	- Typically retrograde ureteric stent with subsequent laser lithotripsy
+	- If acutely septic and not fir for anaesthetic percutaneous nephrostomy with an antegrade stent followed by laser lithotripsy is preferred
+	- Extracorporeal shock wave lithoripsy is preferred for large proximal calculi in patients unsuitable for invasive management
+	- Percutaneous nephrolithotomy for large calculi near the pelviureteric junction (especially staghorn calculi)
 # Sources
 - [Urolithiasis \| Radiology Reference Article \| Radiopaedia.org](https://radiopaedia.org/articles/urolithiasis?lang=gb) last revised 25 June 2025. Accessed 24 December 2025
