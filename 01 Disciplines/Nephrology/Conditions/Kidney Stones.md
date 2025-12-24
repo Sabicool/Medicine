@@ -10,7 +10,7 @@ tags:
 ---
 # Pathophysiology
 - Calcium oxalate +/- calcium phosphate: ~75%
-- Struvite (triple phosphate): 15%
+- Struvite (triple phosphate): 15% → mostly in the setting of infection with urease producing bacteria (e.g. Proteus, Klebsiella, Pseudomonas and Enterobacter)
 - Pure calcium phosphate: 5-7%
 - Uric acid: 5-8%
 - Cystine: 1%
