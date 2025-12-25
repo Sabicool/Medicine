@@ -1,5 +1,5 @@
 ---
-date: 2025-08-19
+date: 2025-12-25
 ---
 # Risk Factors
 - Hypertension especially in males >60 years
@@ -17,6 +17,15 @@ date: 2025-08-19
 # Assessment
 - Look for unequal or absent pulses (e.g. a difference of >20 mmHg BP between arms or other complications such as aortic regurgitation, pleural effusion or focal neurological defecit)
 - Use Aortic dissection detection risk score (ADD-RS) https://www.mdcalc.com/calc/4060/aortic-dissection-detection-risk-score-add-rs
+# Investigations
+![[Pasted image 20251225144814.png]]
+- Echocardiography
+    - Transthoracic
+        - 75% diagnostic Type A (ascending), 40% descending (Type B) can identify complications (e.g. aortic regurgitation, regional wall abnormalities in cardiac ischaemia, cardiac tamponade)
+    - Transoesophageal (TOE)
+        - Much higher sensitivity/specificity, though operator-dependent, need sedation, and is less available
+        - Useful in ICU / perioperative
+        - Upper ascending aorta and arch not well visualised
 # Management
 - Call senior doctor immediately if suspicion of aortic dissection
 - Give oxygen to maintain saturation >95%
@@ -43,6 +52,8 @@ date: 2025-08-19
 # Sources
 - FRCEM AFTBAFFF, FFSEM MCMMbcF, FACEM ACMMc. Marshall & Ruedy’s On Call: Principles & Protocols. 3rd edition. Elsevier; 2016. 648 Chapter 16: Chest Pain p. 117
 - Emergency Care Institute Aortic Dissection https://aci.health.nsw.gov.au/networks/eci/clinical/tools/cardiology/aortic-dissection
+- [Aortic dissection - EMCrit Project](https://emcrit.org/ibcc/aortic-dissection/#physical_examination_including_POCUS) Accessed 25/12/2025
+- [Acute Aortic Dissection • LITFL • CCC Cardiology](https://litfl.com/acute-aortic-dissection/) Accessed 25/12/2025
 
 [^1]: ECI suggests to refer to cardiothoracic only on strong suspicion
 [^2]: On call says to titrate until <60bpm
