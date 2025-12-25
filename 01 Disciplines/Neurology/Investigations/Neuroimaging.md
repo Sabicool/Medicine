@@ -16,3 +16,5 @@ date: 2025-12-25
 	- Breakdown of blood brain barrier
 	- Vascular imaging
 	- Perfusion
+# MRI
+![[snapshot.jpg]]
