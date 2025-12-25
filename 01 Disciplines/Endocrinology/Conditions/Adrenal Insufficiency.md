@@ -39,7 +39,10 @@ aliases:
 	- Recognise early features of adrenal crisis (eg nausea, vomiting, dehydration, hypotension)
 	- Carry injectable hydrocortisone when away from medical care
 	- Wear an alert bracelet or necklace
-	- Carry a wallet card with details about their condition and treatment.
+	- Carry a wallet card with details about their condition and treatment
+## Glucocorticoid Dosing During Illness and Surgery
+- The dose of glucocorticoid must be increased at the onset of a systemic illness or before a surgical procedure
+- 
 
 # Sources
 - eTG: Adrenal Insufficiency. Accessed 25/12/2025
