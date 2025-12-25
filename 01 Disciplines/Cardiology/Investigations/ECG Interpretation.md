@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[02 Rotations/Cardiology|Cardiology]]"
-date: 2025-10-24
+date: 2025-12-25
 ---
 
 > [!NOTE] Assessing a Rhythm Strip in an Unstable/Critical Patient
@@ -38,6 +38,13 @@ date: 2025-10-24
 	- Irregular rhythm with no P waves => atrial fibrillation or atrial flutter with variable AV conduction block
 - Axis
 	- Always compare to the TP line
+	- LA/RA reversal is defined by features:
+		- Lead I becomes inverted
+		- Leads II and III switch places
+		- Leads aVL and aVR switch places
+		- Lead aVF remains unchanged
+		- In comparison to dextrocardia, it has normal R-wave progression
+		![[Pasted image 20251225143355.png]]	
 ## P Wave
 - P wave configurations in lead II:![[Pasted image 20250125174339.png]]
 	- P mitrale => left atrial enlargement
