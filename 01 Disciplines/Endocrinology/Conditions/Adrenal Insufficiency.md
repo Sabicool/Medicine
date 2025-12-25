@@ -28,6 +28,8 @@ aliases:
 	- Positive short Synacthen test (i.e. an absent or severely blunted plasma cortisol response to tetracosactide 30 to 60 minutes after injection)
 	- Elevated ACTH
 	- Elevated plasma renin (measured by direct concentration or plasma renin activity)
+# Management
+
 
 # Sources
 - eTG: Adrenal Insufficiency. Accessed 25/12/2025
