@@ -39,6 +39,7 @@ date: 2025-12-24
     - [[Blood Gas Interpretation]]
     - [[Chest X-ray]]
     - [[ECG Interpretation]]
+    - [[Neuroimaging]]
 
 - Presenting Complaints: 
     - [[Abdominal Pain]]

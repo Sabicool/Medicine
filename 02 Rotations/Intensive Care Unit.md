@@ -22,6 +22,7 @@ date: 2025-12-24
 - Investigations: 
     - [[Blood Gas Interpretation]]
     - [[ECG Interpretation]]
+    - [[Neuroimaging]]
 
 - Presenting Complaints: 
     - [[Altered Mental Status]]
