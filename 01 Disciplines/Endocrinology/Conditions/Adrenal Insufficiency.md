@@ -29,7 +29,12 @@ aliases:
 	- Elevated ACTH
 	- Elevated plasma renin (measured by direct concentration or plasma renin activity)
 # Management
-
+- Primary adrenal insufficiency
+	- Replacement of glucocorticoid and mineralocorticoid
+	- Androgen replacement not often required
+- Secondary adrenal insufficiency
+	- Glucocorticoid replacement only as renal-angiotensin-aldosterone axis intact
+	- 
 
 # Sources
 - eTG: Adrenal Insufficiency. Accessed 25/12/2025
