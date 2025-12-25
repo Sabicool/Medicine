@@ -34,7 +34,12 @@ aliases:
 	- Androgen replacement not often required
 - Secondary adrenal insufficiency
 	- Glucocorticoid replacement only as renal-angiotensin-aldosterone axis intact
-	- 
+- A patient with adrenal insufficiency should:
+	- Increase glucocorticoid dose during intercurrent illness
+	- Recognise early features of adrenal crisis (eg nausea, vomiting, dehydration, hypotension)
+	- Carry injectable hydrocortisone when away from medical care
+	- Wear an alert bracelet or necklace
+	- Carry a wallet card with details about their condition and treatment.
 
 # Sources
 - eTG: Adrenal Insufficiency. Accessed 25/12/2025
