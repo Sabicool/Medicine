@@ -1,5 +1,9 @@
 ---
-date: 2025-01-17
+date: 2025-12-25
+tags:
+  - cards
+Rotations:
+  - "[[02 Rotations/Cardiology|Cardiology]]"
 ---
 # Definitions
 - Healthy weight: BMI 18.5 to 24.9

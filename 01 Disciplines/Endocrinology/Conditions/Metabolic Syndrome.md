@@ -1,5 +1,9 @@
 ---
-date: 2025-01-17
+date: 2025-12-25
+tags:
+  - notes
+Rotations:
+  - "[[02 Rotations/Cardiology|Cardiology]]"
 ---
 - Definition: a constellation of medical conditions that commonly manifest together and significantly increase the risk for cardiovascular disease and type 2 diabetes mellitus
 - Criteria for metabolic syndrome: ≥ 3 must be present (i.e., the patient is either diagnosed with or receiving treatment for the condition)

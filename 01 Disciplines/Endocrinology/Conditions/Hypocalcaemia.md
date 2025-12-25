@@ -1,5 +1,7 @@
 ---
-date: 2025-10-25
+date: 2025-12-25
+tags:
+  - notes
 ---
 # Aetiologies
 - Increased binding of calcium to protein

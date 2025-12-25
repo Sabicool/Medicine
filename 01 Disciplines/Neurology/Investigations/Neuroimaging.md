@@ -4,6 +4,8 @@ Rotations:
   - "[[Emergency Medicine]]"
   - "[[02 Rotations/Neurology|Neurology]]"
 date: 2025-12-25
+tags:
+  - notes
 ---
 1. Identify the imaging sequence
 2. Look for asymmetry

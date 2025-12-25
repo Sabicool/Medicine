@@ -2,7 +2,9 @@
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
-date: 2025-03-05
+date: 2025-12-25
+tags:
+  - notes
 ---
 # Phone Call/Presentation Questions
 - Type 1 or Type 2 diabetic?
