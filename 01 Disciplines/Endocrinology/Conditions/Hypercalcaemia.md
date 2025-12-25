@@ -25,7 +25,7 @@ tags:
 		- Thiazides
 		- Calcium-containing antacids
 	- Dehydration
-	- [[Addison's Disease]]
+	- [[Adrenal Insufficiency|Addison disease]]
 	- Paget's disease of the bone with prolonged immobolisation
 
 > [!NOTE] Mnemonic
