@@ -3,7 +3,7 @@ Rotations:
   - "[[Intensive Care Unit]]"
   - "[[02 Rotations/Cardiology|Cardiology]]"
   - "[[Emergency Medicine]]"
-date: 2025-12-25
+date: 2026-01-06
 tags:
   - cards
 ---
