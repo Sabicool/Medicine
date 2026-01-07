@@ -10,7 +10,7 @@ tags:
 # Aetiology
 - Most common causes:
 	- Primary hyperparathyroidism => rarely causes severe hypercalcaemia
-	- Malignancy => more common cause of severe hypercalcaemia
+	- Malignancy ⇒ more common cause of severe hypercalcaemia
 		- PTHrP e.g. in squamous cell lung cancer
 		- Bone metastases
 		- Myeloma
@@ -101,7 +101,6 @@ tags:
 $$
 \rm{Corrected\;Calcium}=0.8\times(40-\rm{Albumin})+\ce{Ca^{2+}}
 $$
-
 # Management
 - Rehydration therapy with sodium chloride 0.9% 4-6 L by IV infusion over 24 hours
 	- IV furosemide can be used to treat fluid overload following rehydration but routine use has not been proved as beneficial
