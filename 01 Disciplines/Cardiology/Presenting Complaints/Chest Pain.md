@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
-date: 2025-11-06
+date: 2026-01-07
 ---
 # Quick Links
 - External
@@ -252,3 +252,5 @@ As from: https://aci.health.nsw.gov.au/ecat/adult/chest-pain and [eTG: Acute Che
 	- Attempt to control the hyperventilation by reassurance
 	- Alternatively, ask the patient to re-breathe into a paper bag or mask to control the ventilatory loss of $\ce{CO2}$
 	- Give ==diazepam 2-5mg PO== or ==lorazepam 1-2mg SL== acutely if there is no response to the initial treatment or the attack recurs
+# Other Resources
+![[Pasted image 20260107213739.png]]
