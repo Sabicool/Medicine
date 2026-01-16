@@ -18,10 +18,26 @@ tags:
 - Have a good understanding of [[Acute Respiratory Failure]]
 # Approach
 1. $P\rm{a}\ce{O2}$: Determine the adequacy of oxygenation (80-100 mmHg)
-2. Determine pH status (7.35-7.45)
+2. Determine the adequacy of oxygenation 
+	- Refer to the $S_\text{p}\ce{O2}$ from the sats probe or $S_\text{a}\ce{O2}$ as calculated from the ABG to observe for hypoxaemia
+	- Calculate the A-a gradient
+		1. Calculate the $F_{I}\ce{O2}$ (see below for calculations and suggested values)
+		2. Calculate $P_\text{A}\ce{O2}$ using the alveolar gas equation which takes the following values for most patients at sea level
+$$
+\begin{align*}
+P_\text{A}\ce{O2}&=F_\text{I}\ce{O2}\times\left[P_\text{I}-P_\ce{H2O}\right]-\left(\frac{P_\text{a}\ce{CO2}}{\text{RQ}}\right)\\
+&\approx F_\text{I}\ce{O2}\times\left[760-47\right]-\left(\frac{P_\text{a}\ce{CO2}}{0.8}\right)
+\end{align*}
+$$
+		3. Estimate the adjusted normal A-a gradient
+$$
+\text{Normal A-a gradient}\approx\frac{\text{Age}}{4}+4+50\times\left(F_\text{I}\ce{O2}-0.21\right)
+$$
+		4. 
+3. Determine pH status (7.35-7.45)
 	- pH <7.35: Acidosis: increase in the serum hydrogen ion concentration, lowers the pH and results in acidaemia
 	 - pH >7.45: Alkalosis: decreases the hydrogen ion concentration and results in alkalaemia
-3. Determine the primary disorder
+4. Determine the primary disorder
 	- $P\rm{a}\ce{CO2}$: Determine the respiratory component (35-45 mmHg)
 		- $P\rm{a}\ce{CO2}$ <35 ⇒ ↑ respiratory rate ⇒ alkalotic change
 			+ If pH >7.45: primary respiratory alkalosis (especially if $\ce{HCO3-}$ normal)
@@ -38,7 +54,7 @@ tags:
 			- If pH <7.35: metabolic compensation for respiratory acidosis
 	- If both $P\rm{a}\ce{CO2}$ and $\ce{HCO3}$ are causing the same disturbance (i.e. both acidotic or alkalotic changes) there is co-existing primary respiratory and metabolic disorders
 		- There is limited utility in calculating expected compensation
-4. Is the compensation adequate
+5. Is the compensation adequate
 	- Metabolic acidosis: $P\rm{a}\ce{CO2}=\ce{HCO3}+15$ or $P\rm{a}\ce{CO2}=1.5\times\ce{HCO3}+8\pm2$
 	- Metabolic alkalosis: $P\rm{a}\ce{CO2}=0.7\times\ce{HCO3}+20\pm5$
 	- Respiratory acidosis
@@ -47,13 +63,13 @@ tags:
 	- Respiratory alkalosis
 		- Acute: $\Delta\ce{HCO3}=0.2\times\Delta P\rm{a}\ce{CO2}$
 		- Chronic: $\Delta\ce{HCO3}=0.5\times\Delta P\rm{a}\ce{CO2}$
-5. Calculate the anion gap
+6. Calculate the anion gap
 	- High anion gap acidosis ⇒ addition of anions (conjugate bases of acids added to serum e.g. ketones or lactate)
 	- Normal anion gap acidosis ⇒ loss of $\ce{HCO3}$ in urine or GI tract
 $$
 \rm{Anion\;Gap}=\ce{Na+}-\left(\ce{Cl-}+\ce{HCO3}\right)=12\pm4
 $$
-6. Delta ratio
+7. Delta ratio
 	- Check delta ratio in the presence of a high anion gap metabolic acidosis to determine if it is a pure HAGMA or if there is co-existent normal anion gap metabolic acidosis or metabolic alkalosis
 	- <0.4 ⇒ normal anion gap metabolic acidosis
 	- 0.4-0.8 ⇒ combined HAGMA + NAGMA, but ratio is often <1 in acidosis associated with renal failure
@@ -62,7 +78,7 @@ $$
 $$
 \rm{Delta\;Ratio}=\frac{AG-12}{24-\ce{HCO3}}=\frac{\Delta AG}{\Delta\ce{HCO3}}
 $$
-7. Apply corrections to certain measured values
+8. Apply corrections to certain measured values
 	1. 
 
 ![[Pasted image 20250125184001.png]]
@@ -70,7 +86,8 @@ $$
 $$
 p\ce{H}=-\log_{10}\left(24\times\frac{Pa\ce{CO2}}{[\ce{HCO3}]}\times10^{-9}\right)
 $$
-# A-a Gradient and Oxygenation
+# Additional Details
+## A-a Gradient and Oxygenation
 - Hypoxia = pathophysiological state of inadequate oxygenation for aerobic metabolism; aetiologies include hypoxaemia, anaemia, dyshaemoglobinaemia, histotoxic hypoxia (e.g. cyanide poisoning)
 - Hypoxaemia = ↓ concentration of oxygen in arterial blood
 - $P_\text{a}\ce{O2}$ is the amount of oxygen dissolved in the blood and is measured directly from the ABG (normal >85 mmHg for young adult, child and >75 mmHg for elderly)
@@ -94,7 +111,7 @@ $$ P_{\text{A}}\ce{O2} = \left( \underset{\substack{\text{Fractional concentrati
 - Variation of $F_\text{I}\ce{O2}$ with flow rate and respiratory rate for nasal prongs:
 	- ![[Pasted image 20260116205713.png]]
 	- Can be estimated with the following formula (use 0.03 for patients with increased respiratory rate and 0.05 for patients with normal respiratory rate):
-	- $$F_\text{I}\ce{CO2}\approx 0.21 + (0.03 \to 0.05) \times \underset{(\text{L}/\text{min})}{\text{Flow rate}}$$
+	- $$F_\text{I}\ce{O2}\approx 0.21 + (0.03 \to 0.05) \times \underset{(\text{L}/\text{min})}{\text{Flow rate}}$$
 - Variation of $F_\text{I}\ce{O2}$ with respiratory rate
 	- High flow systems are able to meet the patient’s full inspiratory flow requirement (i.e. $F_\text{I}\ce{O2}$ is independent of respiratory rate) (e.g. venturi mask, HFNP, mechanical ventilation)
 	- Low flow systems are not able to meet the full inspiratory flow requirement (i.e. $F_\text{I}\ce{O2}$ varies with respiratory rate) 
@@ -182,18 +199,18 @@ $$
 > - Patient appears to be due to intrapulmonary right to left shunting in a patient with septic shock (most likely severe sepsis and acute lung injury/ARDS secondary to endocarditis)
 
 ![[Pasted image 20260116235924.png]]
-## Other Measures of Oxygenation
+### Other Measures of Oxygenation
 - $P_\text{a}\ce{O2}/F_\text{I}\ce{O2}$ Ratio
 	- Used in ICU setting to measure severity of hypoxaemia
 	- Normal: $100\;\text{mm}\ce{Hg}/0.21=476\;\text{mm}\ce{Hg}$
 	- Abnormal:
 		- 200-300 mm$\ce{Hg}$ ⇒ gas exchange abnormal
 		- <200 mm$\ce{Hg}$ ⇒ severe abnormality (e.g. more suggestive of ARDS)
-# 12345 Rule
+## 12345 Rule
 - Respiratory acidosis :: For every 10 mmHg rise in PaCO2, there should be 1 increase in $\ce{HCO3-}$ for acute and 4 increase in chronic
 - Respiratory alkalosis :: For every 10mmHg rise in PaCO2, there should be 2 decrease in $\ce{HCO3-}$ for acute and 5 decrease in chronic
 ![[2024-04-24_09-21-18_screenshot.png]]
-# Anion Gap
+## Anion Gap
 - Given by the formula:
 $$
 \rm{Anion\; Gap}=\ce{Na+ - (Cl- + HCO3^-)}
@@ -211,7 +228,7 @@ $$
 - High anion gap metabolic acidosis :: Accumulation of organic acids or impaired $\ce{H+}$ excretion
 - Normal anion gap metabolic acidosis :: Loss of $\ce{HCO3-}$ from ECF
 See: https://litfl.com/anion-gap/
-# Corrected Values
+## Corrected Values
 - $\ce{Na+}$ for glucose
 	- In patients with marked hyperglycaemia, the elevated serum glucose raises the serum tonicity (as the glucose cannot enter cells) which pulls water out of cells and expands the extracellular water compartment – thereby lowering the concentration of sodium
 	- The corrected serum sodium can be calculated, which represents what the serum sodium concentration would be if the glucose level was reduced back to normal
