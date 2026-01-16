@@ -112,7 +112,8 @@ $$
 	- Low $P_{\text{I}}$ (e.g. extreme altitudes)
 - If the A-a gradient is elevated then the cause of the hypoxaemia must be either:
 	- V/Q mismatch
-	- Shunt
+	- Shunt (i.e. there exists perfused alveoli with zero ventilation e.g. cardiac shunts, lobar pneumonia ARDS)
+		- Importantly when $F_\text{I}\ce{O2}$ is increased, there is an increase in the A-a gradient as $P_\text{a}\ce{O2}$ can not be further increased
 	- Impaired diffusion
 
 > [!EXAMPLE] Simple Example
@@ -174,6 +175,11 @@ $$
 > $$
 > 3. Abrupt changes in A-a gradient without symptoms suggestive of hypertensive emergency or mucous plugging can be explained by pulmonary embolism or acute coronary syndrome with secondary pulmonary oedema
 
+
+> [!Example] Harder Example
+> ![[Pasted image 20260116233216.png]]
+> - Increase in A-a gradient with increase $F_\text{I}\ce{O2}$ suggests right to left shunting
+> - Patient appears to be due to intrapulmonary right to left shunting in a patient with septic shock (most likely severe sepsis and acute lung injury/ARDS secondary to endocarditis)
 ## Other Measures of Oxygenation
 - $P_\text{a}\ce{O2}/F_\text{I}\ce{O2}$ Ratio
 	- Used in ICU setting to measure severity of hypoxaemia
