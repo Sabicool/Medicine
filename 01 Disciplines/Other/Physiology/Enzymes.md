@@ -1,5 +1,7 @@
 ---
 date: 2026-01-12
+tags:
+  - cards
 ---
 - General principle is that they increase the rate of reactions by causing optimal conditions to occur (i.e. are catalysts; biological catalysts per se)
 - Main features of enzymes are: catalysis, specificity (complex three-dimensional structure resulting in highly specific binding site), regulation (the rate of a biochemical pathway is often controlled by regulating the activity of enzymes along the path)

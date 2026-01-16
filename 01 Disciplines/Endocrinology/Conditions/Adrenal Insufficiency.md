@@ -5,6 +5,8 @@ Rotations:
 date: 2025-12-25
 aliases:
   - Addison disease
+tags:
+  - notes
 ---
 - Adrenal gland hormones:
 	- Adrenal cortex

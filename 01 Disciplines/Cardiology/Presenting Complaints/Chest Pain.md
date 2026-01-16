@@ -4,6 +4,8 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
 date: 2026-01-11
+tags:
+  - cards
 ---
 # Quick Links
 - External

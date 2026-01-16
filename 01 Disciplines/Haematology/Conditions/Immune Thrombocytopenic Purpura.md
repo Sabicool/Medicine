@@ -2,6 +2,8 @@
 aliases:
   - ITP
 date: 2026-01-16
+tags:
+  - notes
 ---
 # Classification
 Can be classified by aetiology:

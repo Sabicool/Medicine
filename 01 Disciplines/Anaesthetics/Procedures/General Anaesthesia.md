@@ -4,6 +4,8 @@ Rotations:
   - "[[Intensive Care Unit]]"
   - "[[Emergency Medicine]]"
   - a
+tags:
+  - notes
 ---
 
 > [!NOTE] Checklist

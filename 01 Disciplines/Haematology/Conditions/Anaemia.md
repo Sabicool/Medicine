@@ -1,5 +1,7 @@
 ---
 date: 2026-01-13
+tags:
+  - notes
 ---
 ![[Pasted image 20250125183921.png]]
 # Iron Deficiency Anaemia

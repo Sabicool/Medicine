@@ -1,5 +1,7 @@
 ---
 date: 2026-01-16
+tags:
+  - cards
 ---
 
 > [!NOTE] Post-Induction Checklist (ABCDEF)
