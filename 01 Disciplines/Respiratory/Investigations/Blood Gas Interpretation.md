@@ -95,7 +95,6 @@ $$ P_{\text{A}}\ce{O2} = \left( \underset{\substack{\text{Fractional concentrati
 	- ![[Pasted image 20260116205713.png]]
 	- Can be estimated with the following formula (use 0.03 for patients with increased respiratory rate and 0.05 for patients with normal respiratory rate):
 	- $$F_\text{I}\ce{CO2}\approx 0.21 + (0.03 \to 0.05) \times \underset{(\text{L}/\text{min})}{\text{Flow rate}}$$
-
 - Variation of $F_\text{I}\ce{O2}$ with respiratory rate
 	- High flow systems are able to meet the patient’s full inspiratory flow requirement (i.e. $F_\text{I}\ce{O2}$ is independent of respiratory rate) (e.g. venturi mask, HFNP, mechanical ventilation)
 	- Low flow systems are not able to meet the full inspiratory flow requirement (i.e. $F_\text{I}\ce{O2}$ varies with respiratory rate) 
