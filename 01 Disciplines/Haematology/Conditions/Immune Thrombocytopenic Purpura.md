@@ -1,7 +1,7 @@
 ---
 aliases:
   - ITP
-date: 2025-10-26
+date: 2026-01-16
 ---
 # Classification
 Can be classified by aetiology:
