@@ -7,7 +7,7 @@ Rotations:
 aliases:
   - ALS
   - Cardiac Arrest
-date: 2025-12-24
+date: 2026-01-14
 Down:
   - "[[Drugs in Cardiac Arrest]]"
   - "[[Acute Airway Failure]]"
