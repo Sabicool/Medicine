@@ -81,7 +81,24 @@ $$
 $$\text{A-a gradient} = \underset{\substack{\text{Estimated from the}\\\text{alveolar gas equation}}} {P_{\text{A}}\ce{O2}} - \underset{\substack{\text{Measured directly}\\\text{via ABG}}} {P_{\text{a}}\ce{O2}}$$
 ![[Pasted image 20260116200257.png|400]]
 $$ P_{\text{A}}\ce{O2} = \left( \underset{\substack{\text{Fractional concentration}\\\text{of inspired } \ce{O2}}} {F_{\text{I}}\ce{O2}} \; \times \left( \underset{\substack{\text{Total pressure}\\\text{of inspired air}}} {P_{\text{I}}} - \underset{\substack{\text{Partial pressure}\\\text{of water vapour}}} {P_{\ce{H2O}}} \right) \right) - \left( \underset{\substack{\text{Arterial } \ce{CO2}\\\text{tension}}} {P_{\text{a}}\ce{CO2}} \Big/ \underset{\substack{\text{Respiratory}\\\text{Quotient}}} {\text{RQ}} \right) $$
-- At sea level $F_\text{i}\ce{O2}=21\%$, $P_\text{I}=760\;\text{mm}\ce{Hg}$, $P_\ce{H2O}=47\;\text{mm}\ce{Hg}$ and for most patients $\text{RQ}=0.8$[^1]so the above equation simplifies to: $P_{\text{A}}\ce{O2}=150-\frac{P_{\text{a}}\ce{CO2}}{0.8}$
+- At sea level $F_\text{i}\ce{O2}=21\%$ (when not on oxygen), $P_\text{I}=760\;\text{mm}\ce{Hg}$, $P_\ce{H2O}=47\;\text{mm}\ce{Hg}$ and for most patients $\text{RQ}=0.8$[^1]so the above equation simplifies to: $P_{\text{A}}\ce{O2}=150-\frac{P_{\text{a}}\ce{CO2}}{0.8}$
+
+| Oxygen Supply          | Approximate Maximum $F_\text{I}\ce{O2}$ |
+| ---------------------- | --------------------------------------- |
+| Room air               | 0.21                                    |
+| Nasal cannula          | 0.50                                    |
+| Venturi mask           | 0.50                                    |
+| Simple face mask       | 0.60                                    |
+| Non-rebreather         | 0.80-0.90                               |
+| Mechanical ventilation | >0.90                                   |
+- Variation of $F_\text{I}\ce{O2}$ with flow rate and respiratory rate for nasal prongs:
+	- ![[Pasted image 20260116205713.png]]
+	- Can be estimated with the following formula (use 0.03 for patients with increased respiratory rate and 0.05 for patients with normal respiratory rate):
+	- $$F_\text{I}\ce{CO2}\approx 0.21 + (0.03 \to 0.05) \times \underset{(\text{L}/\text{min})}{\text{Flow rate}}$$
+
+- Variation of $F_\text{I}\ce{O2}$ with respiratory rate
+	- High flow systems are able to meet the patient’s full inspiratory flow requirement (i.e. $F_\text{I}\ce{O2}$ is independent of respiratory rate) (e.g. venturi mask, HFNP, mechanical ventilation)
+	- Low flow systems are not able to meet the full inspiratory flow requirement (i.e. $F_\text{I}\ce{O2}$ varies with respiratory rate) 
 - The normal A-a gradient increases with age[^2] and can be calculated by:
 $$\text{Normal A-a gradient}=\left(\frac{\text{Age}}{4}\right)+4$$
 
