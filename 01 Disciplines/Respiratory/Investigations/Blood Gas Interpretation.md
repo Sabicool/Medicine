@@ -180,6 +180,8 @@ $$
 > ![[Pasted image 20260116233216.png]]
 > - Increase in A-a gradient with increase $F_\text{I}\ce{O2}$ suggests right to left shunting
 > - Patient appears to be due to intrapulmonary right to left shunting in a patient with septic shock (most likely severe sepsis and acute lung injury/ARDS secondary to endocarditis)
+
+![[Pasted image 20260116235924.png]]
 ## Other Measures of Oxygenation
 - $P_\text{a}\ce{O2}/F_\text{I}\ce{O2}$ Ratio
 	- Used in ICU setting to measure severity of hypoxaemia
