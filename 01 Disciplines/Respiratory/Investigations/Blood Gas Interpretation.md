@@ -2,7 +2,7 @@
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-date: 2026-01-14
+date: 2026-01-16
 aliases:
   - ABG Interpretation
 tags:
@@ -70,6 +70,55 @@ $$
 $$
 p\ce{H}=-\log_{10}\left(24\times\frac{Pa\ce{CO2}}{[\ce{HCO3}]}\times10^{-9}\right)
 $$
+# A-a Gradient and Oxygenation
+- Hypoxia = pathophysiological state of inadequate oxygenation for aerobic metabolism; aetiologies include hypoxaemia, anaemia, dyshaemoglobinaemia, histotoxic hypoxia (e.g. cyanide poisoning)
+- Hypoxaemia = ↓ concentration of oxygen in arterial blood
+- $P_\text{a}\ce{O2}$ is the amount of oxygen dissolved in the blood and is measured directly from the ABG (normal >85 mmHg for young adult, child and >75 mmHg for elderly)
+- $\ce{O2}$ sat commonly refers to the oxygen bound to haemoglobin:
+	- $S_{\text{p}}\ce{O2}$ is the amount of oxygen bound to haemoglobin as measured from pulse oximetry
+	- $S_\text{a}\ce{O2}$ is the amount of oxygen bound to haemoglobin as calculated from the ABG or measured by co-oximetry
+- $P_{\text{A}}\ce{O2}$ is the partial pressure of oxygen in the alveolar gas
+$$\text{A-a gradient} = \underset{\substack{\text{Estimated from the}\\\text{alveolar gas equation}}} {P_{\text{A}}\ce{O2}} - \underset{\substack{\text{Measured directly}\\\text{via ABG}}} {P_{\text{a}}\ce{O2}}$$
+![[Pasted image 20260116200257.png|400]]
+$$ P_{\text{A}}\ce{O2} = \left( \underset{\substack{\text{Fractional concentration}\\\text{of inspired } \ce{O2}}} {F_{\text{I}}\ce{O2}} \; \times \left( \underset{\substack{\text{Total pressure}\\\text{of inspired air}}} {P_{\text{I}}} - \underset{\substack{\text{Partial pressure}\\\text{of water vapour}}} {P_{\ce{H2O}}} \right) \right) - \left( \underset{\substack{\text{Arterial } \ce{CO2}\\\text{tension}}} {P_{\text{a}}\ce{CO2}} \Big/ \underset{\substack{\text{Respiratory}\\\text{Quotient}}} {\text{RQ}} \right) $$
+- At sea level $F_\text{i}\ce{O2}=21\%$, $P_\text{I}=760\;\text{mm}\ce{Hg}$, $P_\ce{H2O}=47\;\text{mm}\ce{Hg}$ and for most patients $\text{RQ}=0.8$[^1]so the above equation simplifies to: $P_{\text{A}}\ce{O2}=150-\frac{P_{\text{a}}\ce{CO2}}{0.8}$
+- The normal A-a gradient increases with age[^2] and can be calculated by:
+$$\text{Normal A-a gradient}=\left(\frac{\text{Age}}{4}\right)+4$$
+
+> [!NOTE] 
+> If a patient has both a low $P_\text{a}\ce{CO2}$ and a low $P_\text{a}\ce{O2}$, then the A-a gradient must be elevated
+
+- If the A-a gradient is normal then the cause of the hypoxaemia must be either:
+	- Hypoventilation (i.e. ↑ $P_\text{a}\ce{CO2}$)
+	- Low $P_{\text{I}}$ (e.g. extreme altitudes)
+- If the A-a gradient is elevated then the cause of the hypoxaemia must be either:
+	- V/Q mismatch
+	- Shunt
+	- Impaired diffusion
+
+> [!EXAMPLE] 
+> **Question:** A 56 year old man with a history of CAD, HTN, and 60 pack years of smoking, presents to the ER with a productive cough and dyspnea x 3 days. On exam, his RR=28 and 02 sat = 81% on room air. His breaths are shallow and with pursed lips.
+> ABG: pH: 7.31 / $P_\text{a}\ce{CO2}$ 60 / $P_\text{a}\ce{O2}$ 57
+> Likely diagnosis?
+> **Answer:**
+> 1. Check A-a gradient
+> $$
+> \begin{align*}
+> P_{\text{A}}\ce{O2} &= \left[ F_{\text{I}}\ce{O2} \left( P_{\text{I}} - P_{\ce{H2O}} \right) \right] - \left( \frac{P_{\text{a}}\ce{CO2}}{\text{RQ}} \right)\\
+> P_{\text{A}}\ce{O2} &= 150 - \left( \frac{60}{0.8} \right) = 75 \ \text{mmHg} \\
+> \text{A--a gradient} &= 75 - 57 = 18 \ \text{mmHg}\\
+\end{align*}
+> $$
+> 2. Estimate normal A-a gradient $(\text{Age}/4)+4=(56/4)+4=18 \ \text{mmHg}$
+> 3. Normal A-a gradient with high $P_\text{a}\ce{CO2}$ indicates a COPD exacerbation
+
+## Other Measures of Oxygenation
+- $P_\text{a}\ce{O2}/F_\text{I}\ce{O2}$ Ratio
+	- Used in ICU setting to measure severity of hypoxaemia
+	- Normal: $100\;\text{mm}\ce{Hg}/0.21=476\;\text{mm}\ce{Hg}$
+	- Abnormal:
+		- 200-300 mm$\ce{Hg}$ ⇒ gas exchange abnormal
+		- <200 mm$\ce{Hg}$ ⇒ severe abnormality (e.g. more suggestive of ARDS)
 # 12345 Rule
 - Respiratory acidosis :: For every 10 mmHg rise in PaCO2, there should be 1 increase in $\ce{HCO3-}$ for acute and 4 increase in chronic
 - Respiratory alkalosis :: For every 10mmHg rise in PaCO2, there should be 2 decrease in $\ce{HCO3-}$ for acute and 5 decrease in chronic
@@ -112,6 +161,10 @@ $$
 $$
 # Sources
 - https://litfl.com/acid-base-disorders/
+- [The A-a Gradient (ABG Interpretation - Lesson 16) - YouTube](https://www.youtube.com/watch?v=pEsOv_pdOUQ)
 # Useful resources
 - https://onepagericu.com/acid-base
 ![[2024-04-24_09-38-53_screenshot.png]]
+
+[^1]: With the exception being patients with extreme diets (e.g. severe anorexia)
+[^2]: The normal A-a gradient also increases with higher $F_\text{I}\ce{O2}$ and may be >100 mmHg in an elderly patient on 100% $\ce{O2}$
