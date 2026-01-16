@@ -98,9 +98,12 @@ $$ P_{\text{A}}\ce{O2} = \left( \underset{\substack{\text{Fractional concentrati
 - Variation of $F_\text{I}\ce{O2}$ with respiratory rate
 	- High flow systems are able to meet the patient’s full inspiratory flow requirement (i.e. $F_\text{I}\ce{O2}$ is independent of respiratory rate) (e.g. venturi mask, HFNP, mechanical ventilation)
 	- Low flow systems are not able to meet the full inspiratory flow requirement (i.e. $F_\text{I}\ce{O2}$ varies with respiratory rate) 
-- The normal A-a gradient increases with age[^2] and can be calculated by:
+- The normal A-a gradient increases with age[^2] and can be calculated by the following equation when there is no supplemental oxygen:
 $$\text{Normal A-a gradient}=\left(\frac{\text{Age}}{4}\right)+4$$
-
+- Due to physiological shunting caused by supplemental oxygen, the adjust A-a gradient can be approximated by:
+$$
+\text{Adjust Normal A-a gradient}\approx\left(\frac{Age}{4}+4\right)+50\times\left(F_\text{I}\ce{O2}-0.21\right)
+$$
 > [!NOTE] 
 > If a patient has both a low $P_\text{a}\ce{CO2}$ and a low $P_\text{a}\ce{O2}$, then the A-a gradient must be elevated
 
