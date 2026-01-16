@@ -115,9 +115,9 @@ $$
 	- Shunt
 	- Impaired diffusion
 
-> [!EXAMPLE] 
+> [!EXAMPLE] Simple Example
 > **Question:** A 56 year old man with a history of CAD, HTN, and 60 pack years of smoking, presents to the ER with a productive cough and dyspnea x 3 days. On exam, his RR=28 and 02 sat = 81% on room air. His breaths are shallow and with pursed lips.
-> ABG: pH: 7.31 / $P_\text{a}\ce{CO2}$ 60 / $P_\text{a}\ce{O2}$ 57
+> ABG: pH: 7.31 / $P_\text{a}\ce{CO2}$ 60 / $P_\text{a}\ce{O2}$ 57 on room air
 > Likely diagnosis?
 > **Answer:**
 > 1. Check A-a gradient
@@ -130,6 +130,49 @@ $$
 > $$
 > 2. Estimate normal A-a gradient $(\text{Age}/4)+4=(56/4)+4=18 \ \text{mmHg}$
 > 3. Normal A-a gradient with high $P_\text{a}\ce{CO2}$ indicates a COPD exacerbation
+
+ > [!Example] Harder Example
+> **Question:** An 80 y/o man with COPD, presents to the ER with progressive dyspnea and cough for 3 days. He appears acutely uncomfortable, and his sitting up, leaning forward with his hands on his knees. Vitals: T=36.9°C, HR=104, BP=135/80, RR=30, 02 saturation=95% on Venturi mask set at 30%.
+> ABG: pH: 7.28 / $P_\text{a}\ce{CO2}$ 80 / $P_\text{a}\ce{O2}$ 80 on 30% $F_\text{I}\ce{O2}$
+> **Answer:**
+> 1. Check A-a gradient
+> $$
+> \begin{align*}
+> P_{\text{A}}\ce{O2} &= \left[ F_{\text{I}}\ce{O2} \left( P_{\text{I}} - P_{\ce{H2O}} \right) \right] - \left( \frac{P_{\text{a}}\ce{CO2}}{\text{RQ}} \right)\\
+> &=\left[0.30\times(760-47)\right]-\frac{80}{0.8}=114\ \text{mmHg}\\
+> \text{A-a gradient}&=114-80=34\ \text{mmHg}
+> \end{align*}
+> $$
+> 2. Estimate adjusted normal A-a gradient
+> $$
+> \begin{align*}
+> \text{Normal A-a gradient}&\approx\left(\text(Age)/4\right)+4+50\left(F_\text{I}\ce{O2}-0.21\right)\\
+> &\approx\left(80/4\right)+4+50\times(0.30-0.21)\approx0.29\ \text{mmHg}
+> \end{align*}
+> $$
+> 3. Pretty much normal A-a gradient with high $P_\text{a}\ce{CO2}$ indicates an acute COPD exacerbation
+
+> [!Example] Harder Example
+> **Question:** A 64 y/o man with a history of CAD, presents to the ER with sudden onset of dyspnea 1 hour ago. He is in moderate respiratory distress, with rapid, shallow breaths. Current vitals: T=36.2 °C HR=115, BP=95/40, RR=30, O2 saturation=100% on 6L via nasal prongs.
+> ABG: pH 7.54 / $P_\text{a}\ce{CO2}$ 28 / $P_\text{a}\ce{O2}$ 143 on 6L $\ce{O2}$ via NP
+> **Answer:**
+> 1. Check the A-a gradient
+> $$
+> \begin{align*}
+> F_\text{I}\ce{O2}&\approx0.21+(0.03\times 6)=0.39\\
+> P_{\text{A}}\ce{O2} &= \left[ F_{\text{I}}\ce{O2} \left( P_{\text{I}} - P_{\ce{H2O}} \right) \right] - \left( \frac{P_{\text{a}}\ce{CO2}}{\text{RQ}} \right)\\
+> &=243\ mmHg\\
+> \text{A-a gradient}&=243-143=100\ \text{mmHg}
+> \end{align*}
+> $$
+> 2. Estimate adjusted normal A-a gradient
+> $$ 
+> \begin{align*}
+> \text{Normal A-a gradient}&\approx\left(\text(Age)/4\right)+4+50\left(F_\text{I}\ce{O2}-0.21\right)\\
+> &\approx 29\ \text{mmHg}
+> \end{align*}
+> $$
+> 3. Abrupt changes in A-a gradient without symptoms suggestive of hypertensive emergency or mucous plugging can be explained by pulmonary embolism or acute coronary syndrome with secondary pulmonary oedema
 
 ## Other Measures of Oxygenation
 - $P_\text{a}\ce{O2}/F_\text{I}\ce{O2}$ Ratio
