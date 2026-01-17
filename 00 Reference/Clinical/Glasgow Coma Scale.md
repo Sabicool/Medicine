@@ -1,7 +1,7 @@
 ---
 aliases:
   - GCS
-date: 2026-01-17
+date: 2026-01-18
 ---
 ![](Attachments/Pasted%20image%2020241212213422.png)
 - Assess orientation with:

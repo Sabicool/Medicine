@@ -2,7 +2,7 @@
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-date: 2026-01-17
+date: 2026-01-18
 aliases:
   - ABG Interpretation
 tags:
@@ -204,6 +204,8 @@ $$
 > - Patient appears to be due to intrapulmonary right to left shunting in a patient with septic shock (most likely severe sepsis and acute lung injury/ARDS secondary to endocarditis)
 
 ![[Pasted image 20260116235924.png]]
+![[Pasted image 20260118001321.png]]
+
 ### Other Measures of Oxygenation
 - $P_\text{a}\ce{O2}/F_\text{I}\ce{O2}$ Ratio
 	- Used in ICU setting to measure severity of hypoxaemia

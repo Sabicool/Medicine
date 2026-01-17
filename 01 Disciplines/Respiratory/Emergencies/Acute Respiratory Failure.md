@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Respiratory|Respiratory]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[Intensive Care Unit]]"
-date: 2025-11-14
+date: 2026-01-18
 Next:
   - "[[Shock]]"
 tags:

@@ -1,5 +1,5 @@
 ---
-date: 2025-12-25
+date: 2026-01-18
 ---
 # Risk Factors
 - Hypertension especially in males >60 years
