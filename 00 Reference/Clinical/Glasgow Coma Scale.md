@@ -22,4 +22,4 @@ date: 2026-01-17
 	- Supraorbital notch
 # Sources
 - [Glasgow Coma Scale made easy - YouTube](https://www.youtube.com/watch?v=h2SIN7Mn0YA&list=TLPQMTcwMTIwMjZwvplkCvEueg&index=4)
-- On call
+- FRCEM, A.F.T.B.A.F.F.F., FFSEM, M.C.M.Mbc.F., FACEM, A.C.M.Mc., 2016. Marshall & Ruedy’s On Call: Principles & Protocols, 3rd edition. ed. Elsevier.
