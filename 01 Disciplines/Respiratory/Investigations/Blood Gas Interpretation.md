@@ -17,9 +17,8 @@ tags:
 - Make sure you understand the difference between oxygenation and ventilation
 - Have a good understanding of [[Acute Respiratory Failure]]
 # Approach
-1. $P\rm{a}\ce{O2}$: Determine the adequacy of oxygenation (80-100 mmHg)
-2. Determine the adequacy of oxygenation 
-	- Refer to the $S_\text{p}\ce{O2}$ from the sats probe or $S_\text{a}\ce{O2}$ as calculated from the ABG to observe for hypoxaemia
+1. Determine the adequacy of oxygenation 
+	- Refer to the $S_\text{p}\ce{O2}$ from the sats probe or $S_\text{a}\ce{O2}$ as calculated from the ABG or measured from co-oximetry to observe for hypoxaemia
 	- Calculate the A-a gradient
 		1. Calculate the $F_{I}\ce{O2}$ (see below for calculations and suggested values)
 		2. Calculate $P_\text{A}\ce{O2}$ using the alveolar gas equation which takes the following values for most patients at sea level
@@ -34,11 +33,16 @@ $$
 $$
 \text{Normal A-a gradient}\approx\frac{\text{Age}}{4}+4+50\times\left(F_\text{I}\ce{O2}-0.21\right)
 $$
-		5. Compare the A-a gradient
-4. Determine pH status (7.35-7.45)
+		5. Compare the A-a gradient (<10 mmHg normal)
+			- If normal, either due to hypoventilation (observe $P_\text{a}\ce{CO2}$) or low atmospheric pressure
+			- If elevated, observe for correction of $\ce{O2}$ sats with 100% $F_\text{I}\ce{O2}$
+				- If corrects, suggestive of V/Q mismatch and/or diffusion impairment
+				- If doesn’t correct, suggestive of right to left shunt
+				- Correlate with history, exam and chest X-ray
+2. Determine pH status (7.35-7.45)
 	- pH <7.35: Acidosis: increase in the serum hydrogen ion concentration, lowers the pH and results in acidaemia
 	 - pH >7.45: Alkalosis: decreases the hydrogen ion concentration and results in alkalaemia
-5. Determine the primary disorder
+3. Determine the primary disorder
 	- $P\rm{a}\ce{CO2}$: Determine the respiratory component (35-45 mmHg)
 		- $P\rm{a}\ce{CO2}$ <35 ⇒ ↑ respiratory rate ⇒ alkalotic change
 			+ If pH >7.45: primary respiratory alkalosis (especially if $\ce{HCO3-}$ normal)
@@ -55,7 +59,7 @@ $$
 			- If pH <7.35: metabolic compensation for respiratory acidosis
 	- If both $P\rm{a}\ce{CO2}$ and $\ce{HCO3}$ are causing the same disturbance (i.e. both acidotic or alkalotic changes) there is co-existing primary respiratory and metabolic disorders
 		- There is limited utility in calculating expected compensation
-6. Is the compensation adequate
+4. Is the compensation adequate
 	- Metabolic acidosis: $P\rm{a}\ce{CO2}=\ce{HCO3}+15$ or $P\rm{a}\ce{CO2}=1.5\times\ce{HCO3}+8\pm2$
 	- Metabolic alkalosis: $P\rm{a}\ce{CO2}=0.7\times\ce{HCO3}+20\pm5$
 	- Respiratory acidosis
@@ -64,13 +68,13 @@ $$
 	- Respiratory alkalosis
 		- Acute: $\Delta\ce{HCO3}=0.2\times\Delta P\rm{a}\ce{CO2}$
 		- Chronic: $\Delta\ce{HCO3}=0.5\times\Delta P\rm{a}\ce{CO2}$
-7. Calculate the anion gap
+5. Calculate the anion gap
 	- High anion gap acidosis ⇒ addition of anions (conjugate bases of acids added to serum e.g. ketones or lactate)
 	- Normal anion gap acidosis ⇒ loss of $\ce{HCO3}$ in urine or GI tract
 $$
 \rm{Anion\;Gap}=\ce{Na+}-\left(\ce{Cl-}+\ce{HCO3}\right)=12\pm4
 $$
-8. Delta ratio
+6. Delta ratio
 	- Check delta ratio in the presence of a high anion gap metabolic acidosis to determine if it is a pure HAGMA or if there is co-existent normal anion gap metabolic acidosis or metabolic alkalosis
 	- <0.4 ⇒ normal anion gap metabolic acidosis
 	- 0.4-0.8 ⇒ combined HAGMA + NAGMA, but ratio is often <1 in acidosis associated with renal failure
@@ -79,8 +83,8 @@ $$
 $$
 \rm{Delta\;Ratio}=\frac{AG-12}{24-\ce{HCO3}}=\frac{\Delta AG}{\Delta\ce{HCO3}}
 $$
-9. Apply corrections to certain measured values
-	1. 
+7. Apply corrections to certain measured values
+	- 
 
 ![[Pasted image 20250125184001.png]]
 - As an extra step you can determine the consistency of the values from the machine and confirm that the derrived $[\ce{HCO3}]$ is correct using:
