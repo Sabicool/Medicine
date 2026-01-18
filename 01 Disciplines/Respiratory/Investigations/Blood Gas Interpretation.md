@@ -258,6 +258,11 @@ $$
 $$
 \rm{Corrected\;Calcium}=0.8\times(40-\rm{Albumin})+\ce{Ca^{2+}}
 $$
+## Easily Figuring Out Direction of Compensation
+- One must just look at the Henderson-Hasselbach equation to determine that for the pH to remain the same, the $\ce{HCO_3^-}$ must move in the same direction as $P_\text{a}\ce{CO2}$ and vice versa
+$$
+\ce{pH}=6.1+\log\left(\frac{\ce{[HCO_3^-]}}{0.03\times P_\text{a}\ce{CO2}}\right)
+$$
 # Sources
 - https://litfl.com/acid-base-disorders/
 - [The A-a Gradient (ABG Interpretation - Lesson 16) - YouTube](https://www.youtube.com/watch?v=pEsOv_pdOUQ)
