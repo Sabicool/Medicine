@@ -75,11 +75,11 @@ tags:
 		- [Pneumothorax](01%20Disciplines/Respiratory/Conditions/Pneumothorax.md)
 # Investigations
 - Investigations to consider
-	- ECG
-	- ABG/VBG
+	- [[ECG Interpretation|ECG]]
+	- [[Blood Gas Interpretation|ABG]]
 	- [[Lung POCUS]]
-	- CXR
-	- TTE
+	- [[Chest X-ray]]
+	- [[Echocardiogram]]
 	- CTPA
 # Management
 - Use supplemental oxygen in all hypoxic patients with high-flow oxygen at 15 L/min through a mask with a reservoir
