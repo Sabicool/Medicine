@@ -214,6 +214,10 @@ $$
 	- Abnormal:
 		- 200-300 mm$\ce{Hg}$ ⇒ gas exchange abnormal
 		- <200 mm$\ce{Hg}$ ⇒ severe abnormality (e.g. more suggestive of ARDS)
+### Effect of Altitude
+- Higher altitudes will only decrease $P_\text{I}$ in the alveolar gas equation (no effect on $F_\text{I}\ce{O2}$ or $P_\ce{H2O}$)
+- $P_\text{a}\ce{CO2}$ usually decreases at high altitudes due to hypoxia-driven hyperventilation
+![[Pasted image 20260118201043.png]]
 ## 12345 Rule
 - Respiratory acidosis :: For every 10 mmHg rise in PaCO2, there should be 1 increase in $\ce{HCO3-}$ for acute and 4 increase in chronic
 - Respiratory alkalosis :: For every 10mmHg rise in PaCO2, there should be 2 decrease in $\ce{HCO3-}$ for acute and 5 decrease in chronic
