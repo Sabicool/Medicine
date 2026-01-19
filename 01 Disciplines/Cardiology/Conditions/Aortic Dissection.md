@@ -1,5 +1,7 @@
 ---
 date: 2026-01-18
+tags:
+  - cards
 ---
 # Risk Factors
 - Hypertension especially in males >60 years
