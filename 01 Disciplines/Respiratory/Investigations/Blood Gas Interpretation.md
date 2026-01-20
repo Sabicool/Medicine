@@ -2,7 +2,7 @@
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-date: 2026-01-19
+date: 2026-01-20
 aliases:
   - ABG Interpretation
 tags:
@@ -185,14 +185,14 @@ $$
 > \begin{align*}
 > F_\text{I}\ce{O2}&\approx0.21+(0.03\times 6)=0.39\\
 > P_{\text{A}}\ce{O2} &= \left[ F_{\text{I}}\ce{O2} \left( P_{\text{I}} - P_{\ce{H2O}} \right) \right] - \left( \frac{P_{\text{a}}\ce{CO2}}{\text{RQ}} \right)\\
-> &=243\ mmHg\\
+> &=243\ \text{mmHg}\\
 > \text{A-a gradient}&=243-143=100\ \text{mmHg}
 > \end{align*}
 > $$
 > 2. Estimate adjusted normal A-a gradient
 > $$ 
 > \begin{align*}
-> \text{Normal A-a gradient}&\approx\left(\text(Age)/4\right)+4+50\left(F_\text{I}\ce{O2}-0.21\right)\\
+> \text{Normal A-a gradient}&\approx\left(\text{Age}/4\right)+4+50\left(F_\text{I}\ce{O2}-0.21\right)\\
 > &\approx 29\ \text{mmHg}
 > \end{align*}
 > $$
