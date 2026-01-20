@@ -76,9 +76,21 @@ $$
 			- Chronic: $\Delta\ce{HCO3}=0.5\times\Delta P\rm{a}\ce{CO2}$ or $\ce{[HCO_3^-]}=24-5\times\frac{4-P_\text{a}\ce{CO2}}{10}$
 5. Calculate the anion gap
 	- High anion gap acidosis ⇒ addition of anions (conjugate bases of acids added to serum e.g. ketones or lactate)
-	- Normal anion gap acidosis ⇒ loss of $\ce{HCO3}$ in urine or GI tract
+		- Severe renal failure can lead HAGMA to excrete phosphate and sulphate in the urine resulting in their accumulation
+		- Lactic acidosis, ketoacidosis (DKA, ETOH, starvation), methanol ingestion, ethylene glycol ingestion, toluene inhalation (glue sniffing)
+	- Normal anion gap acidosis ⇒ decreased renal $\ce{H+}$ excretion or loss of $\ce{HCO3}$ in urine or GI tract 
+		- Loss of $\ce{HCO3}$: diarrhoea/GI drainage, Type 2 [[Renal tubular acidosis]], [[Diuretics#Acetazolamide|Acetazolamide]]
+		- Decreased $\ce{H+}$ excretion: renal failure, Type 1 [[Renal tubular acidosis]], Type 4 [[Renal tubular acidosis]]/[[Conn syndrome]]
+		- Results in decrease in $\ce{HCO3}$ with an increase in $\ce{Cl-}$ a roughly 1:1 ratio (hence NAGMA sometimes called hyperchloraemic acidosis)
 $$
 \rm{Anion\;Gap}=\ce{Na+}-\left(\ce{Cl-}+\ce{HCO3}\right)=12\pm4
+$$
+	- Anion gap unrelated to metabolic acidosis:
+		- High anion gap can be due to metabolic alkalosis, hyperphosphataemia
+		- Low anion gap can be due to hypoalbuminaemia, ↑ $\ce{K+}$, ↑ $\ce{Ca^{2+}}$, ↑ $\ce{Mg^{2+}}$, Severe lithium toxicity, bromide ingestion (some machines mistake bromine for chlorine; [[Myaesthenia gravis]] medications can contain bromine)
+	- Adjust anion gap for hypoalbuminaemia:
+$$
+\text{AG}_\text{adjusted}=\text{AG}_\text{measured}+2.5\times(4-[\text{Alb}])
 $$
 6. Delta ratio
 	- Check delta ratio in the presence of a high anion gap metabolic acidosis to determine if it is a pure HAGMA or if there is co-existent normal anion gap metabolic acidosis or metabolic alkalosis

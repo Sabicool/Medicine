@@ -1,5 +1,5 @@
 ---
-date: 2025-12-08
+date: 2026-01-20
 tags:
   - notes
 ---
@@ -24,6 +24,7 @@ tags:
 		- Measure serum urate levels every 2-5 weeks and adjust dose of urate-lowering drugs if necessary
 	- Impaired glucose tolerance
 	- Pregnancy
+# Acetazolamide
 # Sources
 - Passmedicine: Thiazide and thiazide like diuretics
 - AMH Online: Thiazide and related diuretics
