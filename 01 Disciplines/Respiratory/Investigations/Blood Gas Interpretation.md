@@ -248,12 +248,14 @@ See: https://litfl.com/anion-gap/
 $$
 \rm{Corrected}\;\ce{Na+}=\ce{Na+}+1.5\times\frac{glucose-5.5}{5.5}\approx\ce{Na+}+\frac{\rm{glcuose}-5}{3}
 $$
-- $\ce{K+}$ for pH
+- $\ce{K+}$ for pH (acidaemia causes hyperkalaemia)
 	- For each 0.1 pH drop below 7.4, $\ce{K+}$ rises by 0.6 mmol/L
 	- e.g. For a patient with a $\ce{K+}$ of 4 mmol/L at pH 7.2, the corrected $\ce{K+}$ is 2.8, hence the patient is hypokalaemic and $\ce{K+}$ should be monitored and replaced as pH is corrected
 $$
 \rm{Corrected}\;\ce{K+}=\ce{K+}-0.6\times\frac{7.4-pH}{0.1}
 $$
+	- This occurs because of the exchange of $\ce{H+}$ ions for $\ce{K+}$ ions across the cell membrane which may cause the appearance of hyperkalaemia on serum potassium levels but the patient is actually net hypokalaemic
+	- Correcting for potassium in alkalaemia (i.e. alkalaemia causing hypokalaemia) is not often done as the change is quantitatively smaller
 - Correcting $\ce{Ca+}$ for albumin, however evidence demonstrates that formulas actually perform worse than uncorrected calcium levels
 $$
 \rm{Corrected\;Calcium}=0.8\times(40-\rm{Albumin})+\ce{Ca^{2+}}
