@@ -90,7 +90,7 @@ $$
 		- Low anion gap can be due to hypoalbuminaemia, ↑ $\ce{K+}$, ↑ $\ce{Ca^{2+}}$, ↑ $\ce{Mg^{2+}}$, Severe lithium toxicity, bromide ingestion (some machines mistake bromine for chlorine; [[Myaesthenia gravis]] medications can contain bromine)
 	- Adjust anion gap for hypoalbuminaemia:
 $$
-\text{AG}_\text{adjusted}=\text{AG}_\text{measured}+2.5\times(4-[\text{Alb}])
+\text{AG}_\text{adjusted}=\text{AG}_\text{measured}+0.25\times(40-[\text{Alb}])
 $$
 6. Delta ratio
 	- Check delta ratio in the presence of a high anion gap metabolic acidosis to determine if it is a pure HAGMA or if there is co-existent normal anion gap metabolic acidosis or metabolic alkalosis
@@ -103,9 +103,6 @@ $$
 $$
 7. Apply corrections to certain measured values
 	- 
-
-
-
 
 ![[Pasted image 20250125184001.png]]
 - As an extra step you can determine the consistency of the values from the machine and confirm that the derrived $[\ce{HCO3}]$ is correct using:
