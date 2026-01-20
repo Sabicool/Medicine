@@ -61,14 +61,19 @@ $$
 	- If both $P\rm{a}\ce{CO2}$ and $\ce{HCO3}$ are causing the same disturbance (i.e. both acidotic or alkalotic changes) there is co-existing primary respiratory and metabolic disorders
 		- There is limited utility in calculating expected compensation
 4. Is the compensation adequate
-	- Metabolic acidosis: $P\rm{a}\ce{CO2}=\ce{HCO3}+15$ or $P\rm{a}\ce{CO2}=1.5\times\ce{HCO3}+8\pm2$
-	- Metabolic alkalosis: $P\rm{a}\ce{CO2}=0.7\times\ce{HCO3}+20\pm5$
-	- Respiratory acidosis
-		- Acute: $\Delta\ce{HCO3}=0.1\times\Delta P\rm{a}\ce{CO2}$
-		- Chronic: $\Delta\ce{HCO3}=0.4\times\Delta P\rm{a}\ce{CO2}$
-	- Respiratory alkalosis
-		- Acute: $\Delta\ce{HCO3}=0.2\times\Delta P\rm{a}\ce{CO2}$
-		- Chronic: $\Delta\ce{HCO3}=0.5\times\Delta P\rm{a}\ce{CO2}$
+	- Metabolic compensation takes 12 hours - 5 days to take peak effect (generally $\pm5$ for metabolic compensation formulas)
+		- Metabolic acidosis:$P\rm{a}\ce{CO2}=1.5\times\ce{HCO3}+8\pm2$ (Winter’s formula) or $P\rm{a}\ce{CO2}=\ce{HCO3}+15$
+		- Metabolic alkalosis: $P\rm{a}\ce{CO2}=0.7\times\ce{HCO3}+20\pm5$ or $P_\text{a}\ce{CO2}=40+0.7\times\left(\ce{[HCO_3^-]}-24\right)$
+			- Compensation for a metabolic alkalosis is relatively poor because hypoventilation as a compensation mechanism results in hypoxaemia 
+		- Easier rule for compensation in metabolic disorders: $P_\text{a}\ce{CO2}$ is approximately the same as the first two digits of the pH after the decimal point
+			- e.g ABG: pH 7.27 / $P_\text{a}\ce{CO2}$ 25 / $\ce{HCO_3^-}$ 11 ⇒ decimals of pH is 27 and $P_\text{a}\ce{CO2}$ is 25 so approximately equal, hence physiologic compensation is adequate
+	- Respiratory compensation takes 1 - 24 hours to take peak effect (generally $\pm3$ for respiratory compensation formulas)
+		- Respiratory acidosis
+			- Acute: $\Delta\ce{HCO3}=0.1\times\Delta P\rm{a}\ce{CO2}$ or $\ce{[HCO_3^-]}=24+\frac{P_\text{a}\ce{CO2}-40}{10}$
+			- Chronic: $\Delta\ce{HCO3}=0.4\times\Delta P\rm{a}\ce{CO2}$ or $\ce{[HCO_3^-]}=24+4\times\frac{P_\text{a}\ce{CO2}-40}{10}$
+		- Respiratory alkalosis
+			- Acute: $\Delta\ce{HCO3}=0.2\times\Delta P\rm{a}\ce{CO2}$ or $\ce{[HCO_3^-]}=24-2\times\frac{4-P_\text{a}\ce{CO2}}{10}$
+			- Chronic: $\Delta\ce{HCO3}=0.5\times\Delta P\rm{a}\ce{CO2}$ or $\ce{[HCO_3^-]}=24-5\times\frac{4-P_\text{a}\ce{CO2}}{10}$
 5. Calculate the anion gap
 	- High anion gap acidosis ⇒ addition of anions (conjugate bases of acids added to serum e.g. ketones or lactate)
 	- Normal anion gap acidosis ⇒ loss of $\ce{HCO3}$ in urine or GI tract
@@ -86,6 +91,9 @@ $$
 $$
 7. Apply corrections to certain measured values
 	- 
+
+
+
 
 ![[Pasted image 20250125184001.png]]
 - As an extra step you can determine the consistency of the values from the machine and confirm that the derrived $[\ce{HCO3}]$ is correct using:
@@ -222,6 +230,12 @@ $$
 - Respiratory acidosis :: For every 10 mmHg rise in PaCO2, there should be 1 increase in $\ce{HCO3-}$ for acute and 4 increase in chronic
 - Respiratory alkalosis :: For every 10mmHg rise in PaCO2, there should be 2 decrease in $\ce{HCO3-}$ for acute and 5 decrease in chronic
 ![[2024-04-24_09-21-18_screenshot.png]]
+
+|                       | Acute                   | Chronic                 |
+| --------------------- | ----------------------- | ----------------------- |
+| Respiratory Acidosis  | ↑ $\ce{[HCO_3^-]}$      | ↑ by 4 $\ce{[HCO_3^-]}$ |
+| Respiratory Alkalosis | ↓ by 2 $\ce{[HCO_3^-]}$ | ↓ by 5 $\ce{[HCO_3^-]}$ |
+
 ## Anion Gap
 - Given by the formula:
 $$
