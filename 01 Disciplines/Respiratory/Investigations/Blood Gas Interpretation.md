@@ -61,7 +61,7 @@ $$
 	- If both $P\rm{a}\ce{CO2}$ and $\ce{HCO3}$ are causing the same disturbance (i.e. both acidotic or alkalotic changes) there is co-existing primary respiratory and metabolic disorders
 		- There is limited utility in calculating expected compensation
 4. Is the compensation adequate
-	- If the pH is normal, there is 
+	- If the pH is normal, there is another primary acid/base disorder as compensation will _never_ bring the pH back to adequacy (e.g. if there is respiratory acidosis and the pH is normal, there must also be a primary metabolic alkalosis)
 	- Metabolic compensation takes 12 hours - 5 days to take peak effect (generally $\pm5$ for metabolic compensation formulas)
 		- Metabolic acidosis:$P\rm{a}\ce{CO2}=1.5\times\ce{HCO3}+8\pm2$ (Winter’s formula) or $P\rm{a}\ce{CO2}=\ce{HCO3}+15$
 		- Metabolic alkalosis: $P\rm{a}\ce{CO2}=0.7\times\ce{HCO3}+20\pm5$ or $P_\text{a}\ce{CO2}=40+0.7\times\left(\ce{[HCO_3^-]}-24\right)$
@@ -105,6 +105,9 @@ $$
 		- Lower than the expected range, there is HAGMA and NAGMA
 		- Within expected range, there is HAGMA only (although there could be respiratory disorder)
 		- Higher than the expected range, there is a HAGMA and metabolic alkalosis
+	- A negative delta ratio is possible in the following contexts:
+		- High anion gap metabolic acidosis and metabolic alkalosis (can result in a normal or high pH)
+		- Mild high anion gap metabolic acidosis and severe chronic respiratory acidosis (usually results in a very low pH)
 	- Interpretation
 	- <0.4 ⇒ normal anion gap metabolic acidosis
 	- 0.4-0.8 ⇒ combined HAGMA + NAGMA, but ratio is often <1 in acidosis associated with renal failure
@@ -122,6 +125,11 @@ $$
 p\ce{H}=-\log_{10}\left(24\times\frac{Pa\ce{CO2}}{[\ce{HCO3}]}\times10^{-9}\right)
 $$
 # Additional Details
+## Drug Overdose Changes
+- Respiratory alkalosis in the setting of drug overdose can be due to:
+	- Aspiration on vomit causing hypoxia induced hyperventilation
+	- Aspirin ingestion causing hyperventilation
+- Most drug overdose causes respiratory acidosis
 ## A-a Gradient and Oxygenation
 - Hypoxia = pathophysiological state of inadequate oxygenation for aerobic metabolism; aetiologies include hypoxaemia, anaemia, dyshaemoglobinaemia, histotoxic hypoxia (e.g. cyanide poisoning)
 - Hypoxaemia = ↓ concentration of oxygen in arterial blood
