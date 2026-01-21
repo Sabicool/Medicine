@@ -41,8 +41,8 @@ $$
 				- Correlate with history, exam and chest X-ray
 		6. Check for dyshaemoglobinaemia from the co-oximetry
 2. Determine pH status (7.35-7.45)
-	- pH <7.35: Acidosis: increase in the serum hydrogen ion concentration, lowers the pH and results in acidaemia
-	 - pH >7.45: Alkalosis: decreases the hydrogen ion concentration and results in alkalaemia
+	- pH <7.35: acidaemia: increase in the serum hydrogen ion concentration, lowers the pH
+	 - pH >7.45: alkalaemia: decreases the hydrogen ion concentration, raises the pH
 3. Determine the primary disorder
 	- $P\rm{a}\ce{CO2}$: Determine the respiratory component (35-45 mmHg)
 		- $P\rm{a}\ce{CO2}$ <35 ⇒ ↑ respiratory rate ⇒ alkalotic change
@@ -274,6 +274,21 @@ $$
 - High anion gap metabolic acidosis :: Accumulation of organic acids or impaired $\ce{H+}$ excretion
 - Normal anion gap metabolic acidosis :: Loss of $\ce{HCO3-}$ from ECF
 See: https://litfl.com/anion-gap/
+
+
+> [!EXAMPLE]
+> **Question**
+> A 48 y/o alcoholic man is found unconscious in his apartment, soiled with vomit. He was last seen leaving a party 6 hrs prior.
+> ABG: pH 7.17 / $P_\text{a}\ce{CO2}$ 65 / $\ce{HCO_3^-}$ 22 / Na: 136 / Cl 98 / Albumin 16
+> What disorders are present?
+> **Solution**
+> 1. pH suggestive of acidaemia
+> 2. $P_\text{a}\ce{CO2}$ elevated suggestive of respiratory acidosis
+> 3. Check compensation. $\ce{HCO_3^-}$ should increase by 1 for every 10 $P_\text{a}\ce{CO2}\ 40\pm3$ ⇒ $24+2.5\pm3$ ⇒ lowest allowed value is 23.5, therefore additional metabolic acidosis present
+> 4. Calculate anion gap: $\text{AG} = 136 - (98+22)=16$. $\text{AG}_\text{adjusted}=\text{AG}_\text{measured}+0.25\times(40-16)=22$ ⇒ high anion gap metabolic acidosis
+> 5. Calculate delta ratio: $\Delta\text{AG}/\Delta\ce{HCO_3^-}=10/2=5$ which is higher than expected irrespective of the aetiology so there is also a metabolic alkalosis present
+> 6. Respiratory acidosis (from intoxication from central respiratory depression) + high anion gap metabolic acidosis (from alcoholic ketoacidosis) + metabolic alkalosis (from vomiting)
+ 
 ## Corrected Values
 - $\ce{Na+}$ for glucose
 	- In patients with marked hyperglycaemia, the elevated serum glucose raises the serum tonicity (as the glucose cannot enter cells) which pulls water out of cells and expands the extracellular water compartment – thereby lowering the concentration of sodium
