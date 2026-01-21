@@ -21,6 +21,7 @@ tags:
 	- Androgen production may also be decreased
 - Primary adrenal insufficiency = Addison disease; usually caused by autoimmune-related atrophy of the adrenal cortex although other causes include infection and metastatic cancer
 - Secondary adrenal insufficiency = Pituitary or hypothalamic disorder causes ↓ adrenocorticotropic hormone (ACTH)
+- Tertiary adrenal insufficiency = exogenous steroid use → ↓ CRH and ↓ ACTH → atrophy of hypothalamus/pituitary/adrenal axis so it is unable to respond to acute stress
 ![[Pasted image 20260121160305.png]]
 # Clinical Features
  - Fatigue
@@ -78,5 +79,6 @@ tags:
 	- In concurrent [[Heart Failure]], most heart failure therapy can be used except the aldosterone antagonist (spironolactone); instead fludrocortisone dose should be reduced or stopped
 # Sources
 - eTG: Adrenal Insufficiency. Accessed 25/12/2025
+- [Adrenal gland & steroid pharmacology - EMCrit Project](https://emcrit.org/ibcc/adrenal-crisis/)
 
 [^1]: Hyperpigmentation may be absent if adrenal insufficiency develops rapidly
