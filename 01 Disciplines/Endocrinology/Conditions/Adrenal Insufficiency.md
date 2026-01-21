@@ -72,6 +72,7 @@ tags:
 	- Hyperkalaemia
 - Replace with fludrocortisone: fludrocortisone 100 micrograms orally, daily. Adjust dose according to postural blood pressure, and serum potassium and plasma renin concentrations. Usual dose 50 to 300 micrograms daily
 - Monitor: BP, serum sodium and potassium concentrations, plasma renin concentration
+	- If a patient has a plasma renin concentration at the lower end 
 # Sources
 - eTG: Adrenal Insufficiency. Accessed 25/12/2025
 
