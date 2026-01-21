@@ -42,6 +42,11 @@ tags:
 	- Carry injectable hydrocortisone when away from medical care
 	- Wear an alert bracelet or necklace
 	- Carry a wallet card with details about their condition and treatment
+- Ongoing monitoring assess for symptoms of:
+	- Glucocorticoid excess: weight gain, facial puffiness, peripheral oedema, insomnia, low bone mineral density, elevated blood pressure, hyperglycaemia
+	- Glucocorticoid deficiency: weight loss, lack of appetite, progressive skin pigmentation, lethargy
+	- Mineralocorticoid excess: elevated blood pressure, peripheral oedema, hypokalaemia, low plasma renin concentration
+	- Mineralocorticoid deficiency: postural hypotension, tachycardia, hyperkalaemia
 ## Glucocorticoid Dosing During Illness
 - The dose of glucocorticoid must be increased at the onset of a systemic illness or before a surgical procedure
 	- The patient should increase their glucocorticoid dose promptly without regard for time of day or waiting for a doctor
@@ -51,7 +56,19 @@ tags:
 ## Glucocorticoid Dosing During Surgery
 - Minor procedure that does not require general anaesthetic, sedation or fasting ⇒ double dose of patient’s usual glucocorticoid on the morning of the procedure
 	- For root canals double the dose of usual glucocorticoid for a further 24 hours postoperatively
-- 
+	- For invasive dental procedures not requiring general anaesthetic use a double dose of usual glucocorticoid on the morning of the procedure and for a further 24-48 hours post-operatively
+	- For patients with postoperative complications or inability to take oral intake or vomiting, follow as per illness above and administer parenteral hydrocortisone
+- For procedures requiring general anaesthetic, sedation or fasting ⇒ start IV hydrocortisone at induction of anaesthesia and continue until oral intake can be tolerated following the procedure
+	- Hydrocortisone 100mg IV initially then 50 mg IV 6 hourly until oral therapy is tolerated
+## Mineralocorticoid Replacement
+- Symptoms of aldosterone deficiency:
+	- Postural vertigo/syncope
+	- Salt craving
+	- Fatigue and weakness
+	- Sometimes polyuria/noctuiria
+	- Hyperkalaemia
+- Replace with fludrocortisone: fludrocortisone 100 micrograms orally, daily. Adjust dose according to postural blood pressure, and serum potassium and plasma renin concentrations. Usual dose 50 to 300 micrograms daily
+- Monitor: BP, serum sodium and potassium concentrations, plasma renin concentration
 # Sources
 - eTG: Adrenal Insufficiency. Accessed 25/12/2025
 
