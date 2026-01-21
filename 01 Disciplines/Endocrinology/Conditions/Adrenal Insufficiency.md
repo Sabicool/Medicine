@@ -8,6 +8,8 @@ aliases:
 tags:
   - notes
 ---
+- Also see [[Adrenal Crisis]] 
+# Definitions
 - Adrenal gland hormones:
 	- Adrenal cortex
 	    - Glucocorticoids (eg cortisol)
@@ -38,15 +40,16 @@ tags:
 	- Glucocorticoid replacement only as renal-angiotensin-aldosterone axis intact
 - A patient with adrenal insufficiency should:
 	- Increase glucocorticoid dose during intercurrent illness
-	- Recognise early features of adrenal crisis (eg nausea, vomiting, dehydration, hypotension)
+	- Recognise early features of [[Adrenal Crisis|adrenal crisis]] (eg nausea, vomiting, dehydration, hypotension)
 	- Carry injectable hydrocortisone when away from medical care
 	- Wear an alert bracelet or necklace
 	- Carry a wallet card with details about their condition and treatment
 - Ongoing monitoring assess for symptoms of:
-	- Glucocorticoid excess: weight gain, facial puffiness, peripheral oedema, insomnia, low bone mineral density, elevated blood pressure, hyperglycaemia
+	- Glucocorticoid excess: weight gain, facial puffiness, peripheral oedema, insomnia, low bone mineral density (measure every 2 years), elevated blood pressure, hyperglycaemia
 	- Glucocorticoid deficiency: weight loss, lack of appetite, progressive skin pigmentation, lethargy
 	- Mineralocorticoid excess: elevated blood pressure, peripheral oedema, hypokalaemia, low plasma renin concentration
 	- Mineralocorticoid deficiency: postural hypotension, tachycardia, hyperkalaemia
+	- Patient with autoimmune adrenal insufficiency have increased risk of other autoimmune disorders (e.g. coeliac disease, autoimmune thyroid disease, type 1 diabetes, pernicious anaemia); monitor accordingly
 ## Glucocorticoid Dosing During Illness
 - The dose of glucocorticoid must be increased at the onset of a systemic illness or before a surgical procedure
 	- The patient should increase their glucocorticoid dose promptly without regard for time of day or waiting for a doctor
