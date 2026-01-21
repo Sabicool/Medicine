@@ -9,5 +9,11 @@ date: 2026-01-21
 ---
 # Clinical Features
 - Main symptoms are gastrointestinal symptoms and symptoms of [[shock]] (e.g. hypotension and confusion)
+- Lab findings:
+	- Hypoglycaemia
+	- Hyponatraemia
+	- Hyperkalaemia
+	- Hypercalcaemia
+	- Increased urea and creatinine concentrations
 # Sources
 - eTG: Adrenal Insufficiency. Accessed 25/12/2025
