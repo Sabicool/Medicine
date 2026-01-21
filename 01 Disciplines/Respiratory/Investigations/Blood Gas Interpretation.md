@@ -92,14 +92,25 @@ $$
 $$
 \text{AG}_\text{adjusted}=\text{AG}_\text{measured}+0.25\times(40-[\text{Alb}])
 $$
-6. Delta ratio
+6. Delta ratio in patients with HAGMA
+	- During a HAGMA there should be a 1:1 gap between the ↑ anion gap and ↓ $\ce{HCO3}$
 	- Check delta ratio in the presence of a high anion gap metabolic acidosis to determine if it is a pure HAGMA or if there is co-existent normal anion gap metabolic acidosis or metabolic alkalosis
+	- The expected delta radio differs by aetiology of HAGMA:
+		- Lactic acidosis: 1.6 (1.0 - 2.0) with it initially starting at 1.0 and increasing with time
+		- Ketoacidosis: 1.0 (0.8 - 1.2) unless ↓ GFR in which case the ratio may be higher
+		- Kidney disease: variable depending on the extent of tubular damage relative to ↓ GFR
+		- Methanol, ethylene glycol ingestion: Unknown, probably 1.0 - 2.0
+	- Based on the above, the interpretation is made such that if the measured delta ratio is:
+		- Lower than the expected range, there is HAGMA and NAGMA
+		- Within expected range, there is HAGMA only (although there could be respiratory disorder)
+		- Higher than the expected range, there is a HAGMA and metabolic alkalosis
+	- Interpretation
 	- <0.4 ⇒ normal anion gap metabolic acidosis
 	- 0.4-0.8 ⇒ combined HAGMA + NAGMA, but ratio is often <1 in acidosis associated with renal failure
 	- 1-2 ⇒ uncomplicated HAGMA
 	- ≥2 ⇒ pre-existing metabolic alkalosis or to compensation for a pre-existing respiratory acidosis (i.e. compensated chronic respiratory acidosis)
 $$
-\rm{Delta\;Ratio}=\frac{AG-12}{24-\ce{HCO3}}=\frac{\Delta AG}{\Delta\ce{HCO3}}
+\rm{Delta\;Ratio}=\frac{AG_\text{adjusted}-12}{24-\ce{HCO3}}=\frac{\Delta AG}{\Delta\ce{HCO3}}
 $$
 7. Apply corrections to certain measured values
 	- 
