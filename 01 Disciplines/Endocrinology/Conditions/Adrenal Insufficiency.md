@@ -2,7 +2,7 @@
 Rotations:
   - "[[Emergency Medicine]]"
   - "[[Intensive Care Unit]]"
-date: 2025-12-25
+date: 2026-01-21
 aliases:
   - Addison disease
 tags:
@@ -44,7 +44,8 @@ tags:
 	- Carry a wallet card with details about their condition and treatment
 ## Glucocorticoid Dosing During Illness and Surgery
 - The dose of glucocorticoid must be increased at the onset of a systemic illness or before a surgical procedure
-- 
+	- The patient should increase their glucocorticoid dose promptly without regard for time of day or waiting for a doctor
+	- Higher dose should be continued for 2-3 days and if the illness has not resolved after 3 days, then the patient should seek medical advice
 
 # Sources
 - eTG: Adrenal Insufficiency. Accessed 25/12/2025
