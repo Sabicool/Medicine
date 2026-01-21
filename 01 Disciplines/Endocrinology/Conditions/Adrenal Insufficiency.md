@@ -6,7 +6,7 @@ date: 2026-01-21
 aliases:
   - Addison disease
 tags:
-  - notes
+  - cards
 ---
 - Also see [[Adrenal Crisis]] 
 # Definitions

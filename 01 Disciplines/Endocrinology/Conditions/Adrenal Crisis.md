@@ -7,7 +7,7 @@ Rotations:
   - "[[Emergency Medicine]]"
 date: 2026-01-21
 tags:
-  - notes
+  - cards
 ---
 # Clinical Features
 - Main symptoms are gastrointestinal symptoms and symptoms of [[shock]] (e.g. hypotension and confusion)
@@ -27,6 +27,5 @@ tags:
 - Correct hypovolaemia as normal with normal saline
 - Correct hypoglycaemica 
 - Hyperkalaemia usually responds to IV fluids and hydrocortisone; insulin dextrose infusion not commonly used
-- 
 # Sources
 - eTG: Adrenal Insufficiency. Accessed 25/12/2025
