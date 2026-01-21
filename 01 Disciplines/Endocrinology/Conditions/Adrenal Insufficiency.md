@@ -21,6 +21,7 @@ tags:
 	- Androgen production may also be decreased
 - Primary adrenal insufficiency = Addison disease; usually caused by autoimmune-related atrophy of the adrenal cortex although other causes include infection and metastatic cancer
 - Secondary adrenal insufficiency = Pituitary or hypothalamic disorder causes ↓ adrenocorticotropic hormone (ACTH)
+![[Pasted image 20260121160305.png]]
 # Clinical Features
  - Fatigue
  - Anorexia
@@ -72,7 +73,9 @@ tags:
 	- Hyperkalaemia
 - Replace with fludrocortisone: fludrocortisone 100 micrograms orally, daily. Adjust dose according to postural blood pressure, and serum potassium and plasma renin concentrations. Usual dose 50 to 300 micrograms daily
 - Monitor: BP, serum sodium and potassium concentrations, plasma renin concentration
-	- If a patient has a plasma renin concentration at the lower end 
+	- If a patient has hypertension and a plasma renin concentration at the lower end of normal, reduce the fludrocortisone dose
+	- If a patient has hypertension and a plasma renin concentration at the higher end of normal or elevated and the patient does not have any other signs that suggest mineralocorticoid excess (e.g. oedema, hypokalaemia), start antihypertensive therapy (usually ACE-i, ARB or CCB)
+	- In concurrent [[Heart Failure]], most heart failure therapy can be used except the aldosterone antagonist (spironolactone); instead fludrocortisone dose should be reduced or stopped
 # Sources
 - eTG: Adrenal Insufficiency. Accessed 25/12/2025
 
