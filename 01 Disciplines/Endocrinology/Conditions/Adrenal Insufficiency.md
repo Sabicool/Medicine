@@ -42,11 +42,16 @@ tags:
 	- Carry injectable hydrocortisone when away from medical care
 	- Wear an alert bracelet or necklace
 	- Carry a wallet card with details about their condition and treatment
-## Glucocorticoid Dosing During Illness and Surgery
+## Glucocorticoid Dosing During Illness
 - The dose of glucocorticoid must be increased at the onset of a systemic illness or before a surgical procedure
 	- The patient should increase their glucocorticoid dose promptly without regard for time of day or waiting for a doctor
 	- Higher dose should be continued for 2-3 days and if the illness has not resolved after 3 days, then the patient should seek medical advice
-
+- Suggested doses for increasing glucocorticoid dose are on eTG and are based on adult/child and choice of glucocorticoid for maintenance therapy
+- If the patient has features of impending adrenal crisis (e.g. abdominal pain, dehydration, hypotension) give hydrocortisone 100mg intramuscularly (for adults)
+## Glucocorticoid Dosing During Surgery
+- Minor procedure that does not require general anaesthetic, sedation or fasting ⇒ double dose of patient’s usual glucocorticoid on the morning of the procedure
+	- For root canals double the dose of usual glucocorticoid for a further 24 hours postoperatively
+- 
 # Sources
 - eTG: Adrenal Insufficiency. Accessed 25/12/2025
 
