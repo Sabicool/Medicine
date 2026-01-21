@@ -61,6 +61,7 @@ $$
 	- If both $P\rm{a}\ce{CO2}$ and $\ce{HCO3}$ are causing the same disturbance (i.e. both acidotic or alkalotic changes) there is co-existing primary respiratory and metabolic disorders
 		- There is limited utility in calculating expected compensation
 4. Is the compensation adequate
+	- If the pH is normal, there is 
 	- Metabolic compensation takes 12 hours - 5 days to take peak effect (generally $\pm5$ for metabolic compensation formulas)
 		- Metabolic acidosis:$P\rm{a}\ce{CO2}=1.5\times\ce{HCO3}+8\pm2$ (Winter’s formula) or $P\rm{a}\ce{CO2}=\ce{HCO3}+15$
 		- Metabolic alkalosis: $P\rm{a}\ce{CO2}=0.7\times\ce{HCO3}+20\pm5$ or $P_\text{a}\ce{CO2}=40+0.7\times\left(\ce{[HCO_3^-]}-24\right)$
