@@ -22,17 +22,17 @@ tags:
 	- Calculate the A-a gradient
 		1. Calculate the $F_{I}\ce{O2}$ (see below for calculations and suggested values)
 		2. Calculate $P_\text{A}\ce{O2}$ using the alveolar gas equation which takes the following values for most patients at sea level
-$$
-\begin{align*}
-P_\text{A}\ce{O2}&=F_\text{I}\ce{O2}\times\left[P_\text{I}-P_\ce{H2O}\right]-\left(\frac{P_\text{a}\ce{CO2}}{\text{RQ}}\right)\\
-&\approx F_\text{I}\ce{O2}\times\left[760-47\right]-\left(\frac{P_\text{a}\ce{CO2}}{0.8}\right)
-\end{align*}
-$$
+			$$
+			\begin{align*}
+			P_\text{A}\ce{O2}&=F_\text{I}\ce{O2}\times\left[P_\text{I}-P_\ce{H2O}\right]-\left(\frac{P_\text{a}\ce{CO2}}{\text{RQ}}\right)\\
+			&\approx F_\text{I}\ce{O2}\times\left[760-47\right]-\left(\frac{P_\text{a}\ce{CO2}}{0.8}\right)
+			\end{align*}
+			$$
 		3. Calculate the A-a gradient
 		4. Estimate the adjusted normal A-a gradient
-$$
-\text{Normal A-a gradient}\approx\frac{\text{Age}}{4}+4+50\times\left(F_\text{I}\ce{O2}-0.21\right)
-$$
+			$$
+			\text{Normal A-a gradient}\approx\frac{\text{Age}}{4}+4+50\times\left(F_\text{I}\ce{O2}-0.21\right)
+			$$
 		5. Compare the A-a gradient (<10 mmHg normal)
 			- If normal, either due to hypoventilation (observe $P_\text{a}\ce{CO2}$) or low atmospheric pressure
 			- If elevated, observe for correction of $\ce{O2}$ sats with 100% $F_\text{I}\ce{O2}$
@@ -83,16 +83,16 @@ $$
 		- Loss of $\ce{HCO3}$: diarrhoea/GI drainage, Type 2 [[Renal tubular acidosis]], [[Diuretics#Acetazolamide|Acetazolamide]]
 		- Decreased $\ce{H+}$ excretion: renal failure, Type 1 [[Renal tubular acidosis]], Type 4 [[Renal tubular acidosis]]/[[Conn syndrome]]
 		- Results in decrease in $\ce{HCO3}$ with an increase in $\ce{Cl-}$ a roughly 1:1 ratio (hence NAGMA sometimes called hyperchloraemic acidosis)
-$$
-\rm{Anion\;Gap}=\ce{Na+}-\left(\ce{Cl-}+\ce{HCO3}\right)=12\pm4
-$$
+		$$
+		\rm{Anion\;Gap}=\ce{Na+}-\left(\ce{Cl-}+\ce{HCO3}\right)=12\pm4
+		$$
 	- Anion gap unrelated to metabolic acidosis:
 		- High anion gap can be due to metabolic alkalosis, hyperphosphataemia
 		- Low anion gap can be due to hypoalbuminaemia, ↑ $\ce{K+}$, ↑ $\ce{Ca^{2+}}$, ↑ $\ce{Mg^{2+}}$, Severe lithium toxicity, bromide ingestion (some machines mistake bromine for chlorine; [[Myaesthenia gravis]] medications can contain bromine)
 	- Adjust anion gap for hypoalbuminaemia:
-$$
-\text{AG}_\text{adjusted}=\text{AG}_\text{measured}+0.25\times(40-[\text{Alb}])
-$$
+		$$
+		\text{AG}_\text{adjusted}=\text{AG}_\text{measured}+0.25\times(40-[\text{Alb}])
+		$$
 6. Delta ratio in patients with HAGMA
 	- During a HAGMA there should be a 1:1 gap between the ↑ anion gap and ↓ $\ce{HCO3}$
 	- Check delta ratio in the presence of a high anion gap metabolic acidosis to determine if it is a pure HAGMA or if there is co-existent normal anion gap metabolic acidosis or metabolic alkalosis
@@ -113,11 +113,10 @@ $$
 	- 0.4-0.8 ⇒ combined HAGMA + NAGMA, but ratio is often <1 in acidosis associated with renal failure
 	- 1-2 ⇒ uncomplicated HAGMA
 	- ≥2 ⇒ pre-existing metabolic alkalosis or to compensation for a pre-existing respiratory acidosis (i.e. compensated chronic respiratory acidosis)
-$$
-\rm{Delta\;Ratio}=\frac{AG_\text{adjusted}-12}{24-\ce{HCO3}}=\frac{\Delta AG}{\Delta\ce{HCO3}}
-$$
+	$$
+	\rm{Delta\;Ratio}=\frac{AG_\text{adjusted}-12}{24-\ce{HCO3}}=\frac{\Delta AG}{\Delta\ce{HCO3}}
+	$$
 7. Apply corrections to certain measured values
-	- 
 
 ![[Pasted image 20250125184001.png]]
 - As an extra step you can determine the consistency of the values from the machine and confirm that the derrived $[\ce{HCO3}]$ is correct using:
