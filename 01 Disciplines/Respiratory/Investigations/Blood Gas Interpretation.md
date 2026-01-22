@@ -2,7 +2,7 @@
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-date: 2026-01-21
+date: 2026-01-22
 aliases:
   - ABG Interpretation
 tags:
@@ -124,6 +124,16 @@ $$
 p\ce{H}=-\log_{10}\left(24\times\frac{Pa\ce{CO2}}{[\ce{HCO3}]}\times10^{-9}\right)
 $$
 # Additional Details
+## Differentials
+### High Anion Gap Metabolic Acidosis
+- Methanol
+- Uraemia
+- Diabetic ketaocidosis
+- Paraldehyde
+- INH, iron, intoxication, infection
+- Lactic acidosis
+- Ethylene glycol, ethanol
+- Salicylic acid
 ## Drug Overdose Changes
 - Respiratory alkalosis in the setting of drug overdose can be due to:
 	- Aspiration on vomit causing hypoxia induced hyperventilation
