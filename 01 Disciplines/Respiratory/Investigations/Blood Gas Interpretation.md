@@ -128,10 +128,20 @@ $$
 ### High Anion Gap Metabolic Acidosis
 - Methanol
 - Uraemia
-- Diabetic ketaocidosis
+- Ketaocidosis
+	- Diabetes
+	- Starvation
+	- Chronic alcoholism
 - Paraldehyde
 - INH, iron, intoxication, infection
 - Lactic acidosis
+	- Increased production of lactate:
+		- Problem with $\ce{O2}$ delivery (e.g. shock, bowel infarction, hypoxaemia)
+		- Problem with $\ce{O2}$ utilisation (e.g. genetic enzymatic defects, mitochondrial toxins, thiamine deficiency)
+		- Primary production from tumours
+		- Increased motor activity (e.g. seizures, vigorous exercise)
+	- Decreased clearance (e.g. liver failure or renal failure although noting that renal failure alone is unlikely to cause lactic acidosis)
+	- GI absorption of D-Lactate
 - Ethylene glycol, ethanol
 - Salicylic acid
 ## Drug Overdose Changes
