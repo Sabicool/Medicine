@@ -126,24 +126,46 @@ $$
 # Additional Details
 ## Differentials
 ### High Anion Gap Metabolic Acidosis
-- Methanol
-- Renal failure
-- Ketaocidosis
-	- Diabetes
-	- Starvation
-	- Chronic alcoholism
-- Paraldehyde
-- INH, iron, intoxication, infection
-- Lactic acidosis
-	- Increased production of lactate:
-		- Problem with $\ce{O2}$ delivery (e.g. shock, bowel infarction, hypoxaemia)
-		- Problem with $\ce{O2}$ utilisation (e.g. genetic enzymatic defects, mitochondrial toxins, thiamine deficiency)
-		- Primary production from tumours
-		- Increased motor activity (e.g. seizures, vigorous exercise)
-	- Decreased clearance (e.g. liver failure or renal failure although noting that renal failure alone is unlikely to cause lactic acidosis)
-	- GI absorption of D-Lactate
-- Ethylene glycol, ethanol
-- Salicylic acid
+- Mnemonic: KULT
+	- Ketoacidosis
+		- Diabetes
+		- Starvation
+		- Chronic alcoholism
+	- Uraemia
+	- Lactic acidosis
+		- Increased production of lactate:
+			- Problem with $\ce{O2}$ delivery (e.g. shock, bowel infarction, hypoxaemia)
+			- Problem with $\ce{O2}$ utilisation (e.g. genetic enzymatic defects, mitochondrial toxins, thiamine deficiency)
+			- Primary production from tumours
+			- Increased motor activity (e.g. seizures, vigorous exercise)
+		- Decreased clearance (e.g. liver failure or renal failure although noting that renal failure alone is unlikely to cause lactic acidosis)
+		- GI absorption of D-Lactate
+	- Toxins
+		- Methanol
+		- Ethylene glycol, ethanol
+		- Salicylic acid (aspirin)
+- Approach
+	- Check anion gap and adjust for hypoalbuminaemia
+	- Check ABG to ensure acidosis is present (i.e. low bicarb); if no acidosis review causes of ↑ AG w/o acidosis (e.g. hyperphosphataemia, anionic paraprotein)
+	- Check lactate and ketones
+		- If ↑ lactate, evaluate for hypoperfusion
+			- If systemic hypoperfusion it suggests [[Shock]]
+			- If regional hypoperfusion, probably related to that (e.g. bowel infarct)
+			- If nil hypoperfusion consider medical side effect, toxic ingestion or lactate producing malignancy
+				- Any altered mental status or Hx of toxic ingestion check: paracetamol level, osmolality + osmololal gap, urine toxicology screen, aspirin level
+					$$
+					\begin{align*}
+					\text{Calculated Osmolality}&=2\times\ce{[Na+]}+\ce{[Glucose]}+\ce{[Urea]}\\
+					\text{Osmolal Gap}&=\text{Measured Osmolality}-\text{Calcualted Osmolality}<10\;\text{mOsm/kg}
+					\end{align*}
+					$$
+				- Causes of increased osmolal gap include ethanol, methanol, ethylene glycol and isopropanol ingestion
+		- If ↑ ketones, check glucose and alcohol Hx
+			- Glucose ≥ 13.9 suggests [[Diabetic ketoacidosis]]
+			- If Hx of ETOH suggests alcoholic ketoacidosis
+	- Check renal function (if above normal)
+		- If GFR < 40 and AG ≤ 20 ⇒ renal failure alone is likely cause, otherwise check osmolal gap
+	- Check rare aetiologies such as D-lactic acidosis and late presentation of methanol toxicity
 ## Drug Overdose Changes
 - Respiratory alkalosis in the setting of drug overdose can be due to:
 	- Aspiration on vomit causing hypoxia induced hyperventilation
