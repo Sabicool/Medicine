@@ -127,7 +127,7 @@ $$
 ## Differentials
 ### High Anion Gap Metabolic Acidosis
 - Methanol
-- Uraemia
+- Renal failure
 - Ketaocidosis
 	- Diabetes
 	- Starvation
