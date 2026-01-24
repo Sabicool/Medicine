@@ -170,6 +170,13 @@ $$
 | Loss of $\ce{HCO_3^-}$                            | Diarrhoea<br>External pancreatic drainage<br>Ureteral diversion<br>Oral $\ce{CaCl2}$<br>Cholestyramine | Type 2 RTA                                          |
 - Other causes: Infusion of normal saline or $\ce{NH4Cl}$
 ![[Pasted image 20260124212356.png]]
+### Metabolic Alkalosis
+
+| Primary Issue          | GI Problem                                              | Renal Problem                                                                                             |
+| ---------------------- | ------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| Loss of $\ce{H+}$      | Vomiting<br>NG suction<br>Congenital chloride diarrhoea | Loop/Thiazide Diuretics<br>Minerlocorticoid Excess<br>Contraction Alkalosis<br>Bartter/Gitelman Syndromes |
+| Gain of $\ce{HCO_3^-}$ | Milk-alkali syndrome<br>Ingestion of $\ce{NaHCO3^-}$    | Contraction Alkalosis                                                                                     |
+
 ## Drug Overdose Changes
 - Respiratory alkalosis in the setting of drug overdose can be due to:
 	- Aspiration on vomit causing hypoxia induced hyperventilation
