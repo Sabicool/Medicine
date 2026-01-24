@@ -162,6 +162,14 @@ $$
 	- Check renal function (if above normal)
 		- If GFR < 40 and AG ≤ 20 ⇒ renal failure alone is likely cause, otherwise check osmolal gap
 	- Check rare aetiologies such as D-lactic acidosis and late presentation of methanol toxicity
+### Normal Anion Gap Metabolic Acidosis
+
+| Primary Issue                                     | GI Problem                                                                                             | Renal Problem                                       |
+| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------- |
+| Gain of $\ce{H+}$ or failure to excrete $\ce{H+}$ | Hyperalimentation (e.g. too fast TPN)                                                                  | Types 1 and 4 RTA<br>Renal failure<br>Hyperkalaemia |
+| Loss of $\ce{HCO_3^-}$                            | Diarrhoea<br>External pancreatic drainage<br>Ureteral diversion<br>Oral $\ce{CaCl2}$<br>Cholestyramine | Type 2 RTA                                          |
+| Other                                             | Infusion of normal saline or $\ce{NH4Cl}$                                                              |                                                     |
+
 ## Drug Overdose Changes
 - Respiratory alkalosis in the setting of drug overdose can be due to:
 	- Aspiration on vomit causing hypoxia induced hyperventilation
