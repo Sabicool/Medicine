@@ -108,11 +108,6 @@ tags:
 	- A negative delta ratio is possible in the following contexts:
 		- High anion gap metabolic acidosis and metabolic alkalosis (can result in a normal or high pH)
 		- Mild high anion gap metabolic acidosis and severe chronic respiratory acidosis (usually results in a very low pH)
-	- Interpretation
-	- <0.4 ⇒ normal anion gap metabolic acidosis
-	- 0.4-0.8 ⇒ combined HAGMA + NAGMA, but ratio is often <1 in acidosis associated with renal failure
-	- 1-2 ⇒ uncomplicated HAGMA
-	- ≥2 ⇒ pre-existing metabolic alkalosis or to compensation for a pre-existing respiratory acidosis (i.e. compensated chronic respiratory acidosis)
 	$$
 	\rm{Delta\;Ratio}=\frac{AG_\text{adjusted}-12}{24-\ce{HCO3}}=\frac{\Delta AG}{\Delta\ce{HCO3}}
 	$$
