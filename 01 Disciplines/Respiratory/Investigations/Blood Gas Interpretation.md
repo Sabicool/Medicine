@@ -168,8 +168,7 @@ $$
 | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------- |
 | Gain of $\ce{H+}$ or failure to excrete $\ce{H+}$ | Hyperalimentation (e.g. too fast TPN)                                                                  | Types 1 and 4 RTA<br>Renal failure<br>Hyperkalaemia |
 | Loss of $\ce{HCO_3^-}$                            | Diarrhoea<br>External pancreatic drainage<br>Ureteral diversion<br>Oral $\ce{CaCl2}$<br>Cholestyramine | Type 2 RTA                                          |
-| Other                                             | Infusion of normal saline or $\ce{NH4Cl}$                                                              |                                                     |
-
+- Other causes: Infusion of normal saline or $\ce{NH4Cl}$
 ## Drug Overdose Changes
 - Respiratory alkalosis in the setting of drug overdose can be due to:
 	- Aspiration on vomit causing hypoxia induced hyperventilation
