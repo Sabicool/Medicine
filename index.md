@@ -33,6 +33,7 @@ Some other administrative notes:
 If you'd rather just find notes on medicine relevant to the particular rotation you are on look below:
 <!-- QueryToSerialize: LIST FROM "02 Rotations" sort file.name asc -->
 <!-- SerializedQuery: LIST FROM "02 Rotations" sort file.name asc -->
+- [[Anaesthetics]]
 - [[Cardiology]]
 - [[Common Ward Calls]]
 - [[Emergency Medicine]]

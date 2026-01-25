@@ -28,6 +28,10 @@ date: 2025-01-13
 - Procedures: 
     - [[Lung POCUS]]
 
+- Topics: 
+    - [[Respiratory Anatomy]]
+    - [[Respiratory Physiology]]
+
 <!-- SerializedQuery END -->
 
 # Medications to Know

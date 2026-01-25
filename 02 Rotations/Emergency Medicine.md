@@ -7,6 +7,7 @@ date: 2025-12-25
 - Conditions: 
     - [[Acute Coronary Syndromes]]
     - [[Acute Pulmonary Oedema]]
+    - [[Adrenal Crisis]]
     - [[Adrenal Insufficiency]]
     - [[Alcohol Withdrawal]]
     - [[Atrial Flutter]]
@@ -20,6 +21,7 @@ date: 2025-12-25
     - [[Hypertension]]
     - [[Hypotension]]
     - [[Kidney Stones]]
+    - [[Necrotising Skin Infections]]
     - [[Otitis Media]]
     - [[Pancreatitis]]
     - [[Sepsis]]
@@ -53,6 +55,7 @@ date: 2025-12-25
     - [[Shortness of Breath, Cough and Haemopytsis]]
 
 - Procedures: 
+    - [[General Anaesthesia]]
     - [[Lumbar Puncture]]
     - [[Lung POCUS]]
 

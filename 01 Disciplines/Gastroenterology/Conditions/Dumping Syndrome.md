@@ -1,5 +1,5 @@
 ---
-date: 2025-01-17
+date: 2026-01-26
 ---
 # Definition
 - Dumping syndrome: rapid gastric emptying as a result of defective gastric reservoir function, impaired pyrloci emptying mechanism or anomalous postsurgery gastric motor function
@@ -24,4 +24,4 @@ date: 2025-01-17
 - Second-line: ocreotide
 - Third-line: surgery
 # Sources
-Amboss: [Gastric Cancer - Amboss Article][https://next.amboss.com/us/article/-g0DB2#Zde1937c1ec3116f80e7913e779046415]
+- Amboss: [Gastric Cancer - Amboss Article][https://next.amboss.com/us/article/-g0DB2#Zde1937c1ec3116f80e7913e779046415]

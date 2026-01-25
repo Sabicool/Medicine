@@ -1,6 +1,7 @@
 ---
 aliases:
   - Antidiabetics
-date: 2025-02-21
+date: 2026-01-26
+Rotations:
+  - "[[02 Rotations/Cardiology|Cardiology]]"
 ---
-![[2024-04-24_12-02-29_screenshot.png]]
