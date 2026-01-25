@@ -27,7 +27,7 @@ Rotations:
 	- Sensationalised in the media as flesh-eating disease
 	- Affects all age groups and healthy people are also prone to infection (almost half of cases)
 - Type 3: Gas gangrene
-	- Usually follows significant injury or surgery and results in gas under the skin
+	- Usually follows significant injury or surgery typically with associated vascular compromise and results in gas under the skin
 	- People who inject “black tar” heroin subcutaneously can also be infected with clostridia
 # Risk Factors
 - Streptococcal necrotising fasciitis can occur in young and previously health individuals
@@ -36,6 +36,7 @@ Rotations:
 	- Cervicofacial necrotising fasciitis can follow mandibular fracture or dental infection
 	- Direct contact with a person who is carrying the bacteria or the bacteria is already present elsewhere on the person
 	- In children, type II necrotising fasciitis may complicate chickenpox
+		- _S. pyogenes_ necrotising fasciitis typically involves the limb and is associated with nonpenetrating trauma or any injury that breaks the skin
 - Risk factors:
 	- NSAIDs
 	- Advanced age
@@ -48,6 +49,8 @@ Rotations:
 	- Malignancy
 # Clinical Features
 - Consider necrotising infection in patients who are critically ill with a skin and soft tissue infection
+- Most common site of infection is lower leg but may also affect upper limb, perineum, buttocks, trunk, head and neck
+- Symptoms appear usually within 24 hours of a minor injury
 - Diagnosis of necrotising skin and soft tissue infections is difficult but clinical features include:
 	- Constant severe pain, even if skin inflammation is initially limited
 	- Bullae
@@ -59,10 +62,13 @@ Rotations:
 	- Systemic features, including fever, leucocytosis, elevated C-reactive protein (CRP), delirium or acute kidney impairment
 	- Rapidly spreading infection
 - Penetrating and crush injuries often lead to necrotising skin and soft tissue infections
-- Life-threatening _S. pyogenes_ necrotising fasciitis can occur spontaneously or follow varicella infection (chickenpox)
-	- _S. pyogenes_ necrotising fasciitis typically involves the limb and is associated with nonpenetrating trauma or any injury that breaks the skin
-- Clostridal myonecrosis (gas gangene) occurs after a traumatic wound with associated vascular compromise
-- [[Diabetes]] is also a risk factor
+- Clostridial and streptococcal infections as a result of traumatic or surgical wound usually manifest quickly compared to necrotising fasciitis due to other organisms
+- Necrotic tissue/pus- oozes out of the fascial planes
+- Dishwater-coloured fluid seeps out of the skin
+- Typically, necrotising fasciitis does not bleed
+# Diagnosis
+- History and exam is important in the diagnosis
+- A positive finger test is highly pathognomic for necrotising fasciitis ⇒ A 2–cm vertical incision is made in the affected skin and an index finger is pushed into the tissue; the test is positive if the finger passes through the subcutaneous tissue without resistance
 # Management
 - Mainstay of management is surgical removal of devitalised tissue and urgent antibiotic therapy
 - Empirical therapy for necrotising skin and soft tissue infection **not associated with water exposure** use:

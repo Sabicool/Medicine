@@ -1,8 +1,9 @@
 ---
-date: 2026-01-20
+date: 2026-01-25
 tags:
   - notes
 ---
+![[Pasted image 20260125155014.png]]
 # Thiazide Diuretics
 - Mechanism of action
 	- Inhibit sodium reabsorption at the beginning of the DCT by blocking thiazide sensitive $\ce{Na+}-\ce{Cl-}$ symporter

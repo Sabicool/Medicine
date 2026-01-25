@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[Anaesthetics]]"
-date: 2026-01-25
+date: 2026-01-26
 aliases:
   - ABG Interpretation
 tags:
@@ -45,11 +45,11 @@ tags:
 	- pH <7.35: acidaemia: increase in the serum hydrogen ion concentration, lowers the pH
 	 - pH >7.45: alkalaemia: decreases the hydrogen ion concentration, raises the pH
 3. Determine the primary disorder
-	- $P\rm{a}\ce{CO2}$: Determine the respiratory component (35-45 mmHg)
-		- $P\rm{a}\ce{CO2}$ <35 ⇒ ↑ respiratory rate ⇒ alkalotic change
+	- $P_\text{a}\ce{CO2}$: Determine the respiratory component (35-45 mmHg)
+		- $P_\text{a}\ce{CO2}$ <35 ⇒ ↑ respiratory rate ⇒ alkalotic change
 			+ If pH >7.45: primary respiratory alkalosis (especially if $\ce{HCO3-}$ normal)
 			+ If pH <7.35 and ↓ $\ce{HCO3-}$: respiratory compensation for metabolic acidosis
-		- $P\rm{a}\ce{CO2}$ >45 ⇒ ↓ respiratory rate ⇒ acidotic change
+		- $P_\text{a}\ce{CO2}$ >45 ⇒ ↓ respiratory rate ⇒ acidotic change
 			 + If pH <7.35 and $\ce{HCO3-}$ normal: hypoventilation
 			 + If pH >7.45 and ↑ $\ce{HCO3-}$: respiratory compensation for metabolic alkalosis
 	- $\ce{HCO3-}$: Determine the metabolic component (22-26 mmol/L)
@@ -59,13 +59,13 @@ tags:
 		- $\ce{HCO3-}$ >26 ⇒ alkalotic change
 			- If pH >7.45: primary metabolic alkalaosis
 			- If pH <7.35: metabolic compensation for respiratory acidosis
-	- If both $P\rm{a}\ce{CO2}$ and $\ce{HCO3}$ are causing the same disturbance (i.e. both acidotic or alkalotic changes) there is co-existing primary respiratory and metabolic disorders
+	- If both $P_\text{a}\ce{CO2}$ and $\ce{HCO3}$ are causing the same disturbance (i.e. both acidotic or alkalotic changes) there is co-existing primary respiratory and metabolic disorders
 		- There is limited utility in calculating expected compensation
 4. Is the compensation adequate
 	- If the pH is normal, there is another primary acid/base disorder as compensation will _never_ bring the pH back to adequacy (e.g. if there is respiratory acidosis and the pH is normal, there must also be a primary metabolic alkalosis)
 	- Metabolic compensation takes 12 hours - 5 days to take peak effect (generally $\pm5$ for metabolic compensation formulas)
-		- Metabolic acidosis:$P\rm{a}\ce{CO2}=1.5\times\ce{HCO3}+8\pm2$ (Winter’s formula) or $P\rm{a}\ce{CO2}=\ce{HCO3}+15$
-		- Metabolic alkalosis: $P\rm{a}\ce{CO2}=0.7\times\ce{HCO3}+20\pm5$ or $P_\text{a}\ce{CO2}=40+0.7\times\left(\ce{[HCO_3^-]}-24\right)$
+		- Metabolic acidosis: $P_\text{a}\ce{CO2}=1.5\times\ce{HCO3}+8\pm2$ (Winter’s formula) or $P\rm{a}\ce{CO2}=\ce{HCO3}+15$
+		- Metabolic alkalosis: $P_\text{a}\ce{CO2}=0.7\times\ce{HCO3}+20\pm5$ or $P_\text{a}\ce{CO2}=40+0.7\times\left(\ce{[HCO_3^-]}-24\right)$
 			- Compensation for a metabolic alkalosis is relatively poor because hypoventilation as a compensation mechanism results in hypoxaemia 
 		- Easier rule for compensation in metabolic disorders: $P_\text{a}\ce{CO2}$ is approximately the same as the first two digits of the pH after the decimal point
 			- e.g ABG: pH 7.27 / $P_\text{a}\ce{CO2}$ 25 / $\ce{HCO_3^-}$ 11 ⇒ decimals of pH is 27 and $P_\text{a}\ce{CO2}$ is 25 so approximately equal, hence physiologic compensation is adequate
@@ -172,11 +172,33 @@ $$
 ![[Pasted image 20260124212356.png]]
 ### Metabolic Alkalosis
 
-| Primary Issue          | GI Problem                                              | Renal Problem                                                                                             |
-| ---------------------- | ------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| Loss of $\ce{H+}$      | Vomiting<br>NG suction<br>Congenital chloride diarrhoea | Loop/Thiazide Diuretics<br>Minerlocorticoid Excess<br>Contraction Alkalosis<br>Bartter/Gitelman Syndromes |
-| Gain of $\ce{HCO_3^-}$ | Milk-alkali syndrome<br>Ingestion of $\ce{NaHCO3^-}$    | Contraction Alkalosis                                                                                     |
-
+| Primary Issue          | GI Problem                                              | Renal Problem                                                                                                  |
+| ---------------------- | ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| Loss of $\ce{H+}$      | Vomiting<br>NG suction<br>Congenital chloride diarrhoea | Loop/Thiazide [[Diuretics]]<br>Mineralocorticoid Excess<br>Contraction Alkalosis<br>Bartter/Gitelman Syndromes |
+| Gain of $\ce{HCO_3^-}$ | Milk-alkali syndrome<br>Ingestion of $\ce{NaHCO3^-}$    | Contraction Alkalosis                                                                                          |
+- Contraction alkalosis
+	- When intravascular volume depletion occurs → low renal volume perfusion → ↑ aldosterone and angiotensin II → ↑ $\ce{Na}$ reabsorption ↑ $\ce{HCO3^-}$ reabsorption, ↑ $\ce{K+}$ excretion, ↑ $\ce{H+}$ excretion → metabolic alkalosis
+- Diuretics
+	- Can result in contraction alkalosis
+	- By inhibiting sodium reabsorption proximally in the nephron, more sodium reaches the collecting duct
+	- This results in increase in sodium reabsorption and $\ce{H+}$ excretion (see [[Diuretics]])
+- Vomiting/NG suction
+	- Volume depletion causing a secondary contraction alkalosis
+	- Direct loss of $\ce{H+}$ in gastric fluids
+- Mineralocorticoid excess (suggested by hypertension, hypokaelamia, metabolic alkalosis)
+	- Hyperaldosternism (e.g. from primary hyperaldoserism as in Conn’s syndrome or from secondary hyperaldosterism due to elevated from renin as in renal artery stenosis)
+	- Cushing’s syndrome (e.g. CRH producing tumour as in bronchial carcinoid tumours, elevated ACTH as in pituitary adenoma termed Cushing’s disease or elevated cortisol in an adrenal adenoma or exogenous use)
+- Hypokalaemia
+	- Leads to a shift of $\ce{K+}$ from intracellular to extracellular space in exchange for a shift of $\ce{H+}$ from extracellular to intracellular space
+	- Within the nephron, hypokalaemia stimulates $\ce{HCO3^-}$ reabsorption in the PCT and $\ce{H+}$ excretion in the CD
+- Milk-Alkali syndrome (characterised by hypercalcaemia, metabolic alkalosis and renal insufficiency)
+	- Occurs when large amount of calcium and absorbable alkali consumed
+	- Common in women taking calcium supplements
+- Bartter & Gitelman sydrome (shared features: metabolic alkalosis, hypokalaemia, high renin and aldosterone and lack of hypertension)
+	- ![[Pasted image 20260125160213.png]]
+![[Pasted image 20260125160357.png]]
+### Respiratory Acidosis
+### Respiratory Alkalosis
 ## Drug Overdose Changes
 - Respiratory alkalosis in the setting of drug overdose can be due to:
 	- Aspiration on vomit causing hypoxia induced hyperventilation
