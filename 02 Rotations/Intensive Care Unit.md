@@ -1,15 +1,19 @@
 ---
-date: 2025-12-25
+date: 2026-01-25
+aliases:
+  - ICU
 ---
 # Common Conditions and Presentations
 <!-- QueryToSerialize: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) sort file.name asc group by reverse(split(file.folder, "/"))[0] -->
 <!-- SerializedQuery: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) sort file.name asc group by reverse(split(file.folder, "/"))[0] -->
 - Conditions: 
     - [[Acute Pulmonary Oedema]]
+    - [[Adrenal Crisis]]
     - [[Adrenal Insufficiency]]
     - [[COPD Exacerbation]]
     - [[Hypercalcaemia]]
     - [[Hyperkalaemia]]
+    - [[Necrotising Skin Infections]]
     - [[Sepsis]]
     - [[Ventricular Tachycardia]]
 
@@ -29,6 +33,7 @@ date: 2025-12-25
     - [[Altered Mental Status]]
 
 - Procedures: 
+    - [[General Anaesthesia]]
     - [[Lung POCUS]]
 
 <!-- SerializedQuery END -->
