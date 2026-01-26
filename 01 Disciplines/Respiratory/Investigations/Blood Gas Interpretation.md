@@ -69,6 +69,7 @@ tags:
 			- Compensation for a metabolic alkalosis is relatively poor because hypoventilation as a compensation mechanism results in hypoxaemia 
 		- Easier rule for compensation in metabolic disorders: $P_\text{a}\ce{CO2}$ is approximately the same as the first two digits of the pH after the decimal point
 			- e.g ABG: pH 7.27 / $P_\text{a}\ce{CO2}$ 25 / $\ce{HCO_3^-}$ 11 ⇒ decimals of pH is 27 and $P_\text{a}\ce{CO2}$ is 25 so approximately equal, hence physiologic compensation is adequate
+			- If the $P_\text{a}\ce{CO2}$ is lower than expected then there is additional respiratory alkalosis and vice versa
 	- Respiratory compensation takes 1 - 24 hours to take peak effect (generally $\pm3$ for respiratory compensation formulas)
 		- Respiratory acidosis
 			- Acute: $\Delta\ce{HCO3}=0.1\times\Delta P\rm{a}\ce{CO2}$ or $\ce{[HCO_3^-]}=24+\frac{P_\text{a}\ce{CO2}-40}{10}$
