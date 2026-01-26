@@ -25,6 +25,25 @@ tags:
 > - Altered mental status with exhaustion or confusion
 > - $S\ce{\rm{a}O2}$ <92%; $P\ce{\rm{a}O2}$ <60mmHg or normal or raised $Pa\ce{CO2}$ >34-45 mmHg on ABG
 > If precipitate onset also consider [[Anaphylaxis]]; look for other features (e.g. urticaria, erythema, pruritis or angio-oedema) 
+
+- First line management
+	- Commence high-dose oxygen via a mask maintaining $S\rm{a}O2$ >95% and attach pulse oximetry monitoring
+	- Give ==salbutamol 5mg== via an oxygen-driven nebuliser, diluted with 3mL normal saline
+		- Add ==ipratropium 500mcg== to a second dose of ==salbutamol 5mg via the nebuliser== if there is no response or there is a severe attack
+		- Give ==prednisolone 50mg PO== or ==hydrocortisone 200mg IV== if unable to swallow
+	- Avoid all sedatives, anxiolytics, NSAIDs and histamine-releasers (morphine)
+- If patient's condition does not improve
+	- Give repeated ==salbutamol 5mg nebulisers (up to 3 doses in first hour)==
+	- Continue regular ==ipratropium 500mcg every 6 hours==
+- If patient's condition is deteriorating or life-threatening features
+	- Obtain IV access, ensure steroids have been given, perform a CXR and call for senior help
+	- Give continuous salbutamol nebulisers
+	- Obtain ABG to check $P\ce{\rm{a}CO2}$, pH and potassium which may be 2° low to beta-agonist therapy 
+		- Treat if <3.0 mmol/L
+	- Start bronchodilator infusion IV with ECG monitoring and arrange ICU bed
+	- Give ==magnesium sulfate 2.5g IV (10 mmol) over 20-30 minutes==
+	- Give ==salbutamol 250-500 mcg IV over 10 minutes==
+		- Follow with infusion of ==salbutamol 5mg in 5% dextrose running at 60mL/h (10mcg/min) initially and titrate up to 120-240mL/h (20-40mcg/min)==
 # Secondary Assessment
 - Secondary assessment to be completed when feasible after starting salbutamol and oxygen
 	- Physical examination including vital signs
@@ -57,28 +76,18 @@ tags:
 	- If dyspnoea/increased work of breathing is not relieved, or condition deteriorates, repeat bronchodilator dose and consider adding inhaled ipratropium bromide (if not part of initial treatment) or IV magnesium sulfate.
 		- **Inhaled ipratropium bromide:** Adults and adolescents: 8 actuations (21 microg/actuation) via pressurised metered-dose inhaler and spacer every 20 minutes for first hour. Repeat 4–6 hourly for 24 hours
 		- **Intravenous magnesium sulfate:** Adults and adolescents: 0.2 mmol/kg (maximum 10 mmol) diluted in a compatible solution as a single IV infusion over 20 minutes
-# Investigations
-## Bedside
--  Spirometry and peak expiratory flow rate
--  Arterial blood gases are rarely necessary; only get in severe attack that does not respond to treatment, is deteriorating or has life-threatening features
-# Management
-- First line management
-	- Commence high-dose oxygen via a mask maintaining $S\rm{a}O2$ >95% and attach pulse oximetry monitoring
-	- Give ==salbutamol 5mg== via an oxygen-driven nebuliser, diluted with 3mL normal saline
-		- Add ==ipratropium 500mcg== to a second dose of ==salbutamol 5mg via the nebuliser== if there is no response or there is a severe attack
-		- Give ==prednisolone 50mg PO== or ==hydrocortisone 200mg IV== if unable to swallow
-	- Avoid all sedatives, anxiolytics, NSAIDs and histamine-releasers (morphine)
-- If patient's condition does not improve
-	- Give repeated ==salbutamol 5mg nebulisers (up to 3 doses in first hour)==
-	- Continue regular ==ipratropium 500mcg every 6 hours==
-- If patient's condition is deteriorating or life-threatening features
-	- Obtain IV access, ensure steroids have been given, perform a CXR and call for senior help
-	- Give continuous salbutamol nebulisers
-	- Obtain ABG to check $P\ce{\rm{a}CO2}$, pH and potassium which may be 2° low to beta-agonist therapy 
-		- Treat if <3.0 mmol/L
-	- Start bronchodilator infusion IV with ECG monitoring and arrange ICU bed
-	- Give ==magnesium sulfate 2.5g IV (10 mmol) over 20-30 minutes==
-	- Give ==salbutamol 250-500 mcg IV over 10 minutes==
-		- Follow with infusion of ==salbutamol 5mg in 5% dextrose running at 60mL/h (10mcg/min) initially and titrate up to 120-240mL/h (20-40mcg/min)==
+# Discharge criteria
+- After respiratory distress or increased work of breathing has resolved and symptoms stabilised observe the patient for at least 4 hours
+- Repeat spirometry and peak expiratory flow before discharge
+- Ensure the patient has adequate maintenance doses of ICS and sufficient oral corticosteroid to complete the short course:
+	- ICS-formoterol (budesonide-formoterol or beclometasone-formoterol) to be taken as maintenance treatment and also as needed for relief of symptoms
+	- A combination of ICS and long-acting beta-2 agonist taken as maintenance treatment, with a short-acting beta-2 agonist (e.g. salbutamol) taken as needed for relief of symptoms
+- Patient to see GP within 3 days with comprehensive assessment in 2-4 weeks to reassess risk factors and review treatment regimen
 # Useful Links
 - [Australian Asthma Handbook \| Managing acute asthma in adults and adolescents](https://www.asthmahandbook.org.au/acute-asthma/adults-and-adolescents/managing-acute-asthma-in-adults-and-adolescents-in-the-ed)
+- [Australian Asthma Handbook \| Managing acute asthma in children 6–11 years](https://www.asthmahandbook.org.au/acute-asthma/children-6-11-years/managing-acute-asthma-in-children-6-11-years-in-ed)
+- [Australian Asthma Handbook \| Managing acute asthma in children 1–5 years](https://www.asthmahandbook.org.au/acute-asthma/children-1-5-years/managing-acute-asthma-in-children-1-5-years-in-the-ed)
+# Sources
+- On call handbook
+- Asthma handbook (links above)
+- [Acute Severe Asthma SID • LITFL • CCC Respiratory](https://litfl.com/acute-severe-asthma/)
