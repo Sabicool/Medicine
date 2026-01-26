@@ -89,6 +89,7 @@ tags:
 - Rapid sequence induction
 	- Induction agent: ketamine preferred because of bronchodilation, haemodynamic stability and preservation of respiratory drive
 	- ![[Pasted image 20260126205046.png]]
+	- ![[Pasted image 20260126212344.png]]
 # Differentials to Consider
 - LVF
 - Anaphylaxis
