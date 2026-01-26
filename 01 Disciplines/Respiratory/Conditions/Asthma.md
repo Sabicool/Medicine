@@ -3,14 +3,20 @@ date: 2026-01-26
 tags:
   - notes
 ---
+# Immediate Assessment and Management in ED
 
 |                     | Mild-moderate                                                                                                                     | Severe                                                                                                                                                                                                                                                                                             | Life threatening                                                                                                                                                                                                                                                               |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Assessment          | All of:<br>Can walk, speak whole sentences in one breath<br>$S_\text{p}\ce{O2}$ (room air) > 94%                                  | Any of:<br>Unable to complete sentences in one breath<br>Use of accessory muscles of neck or intercostal msucles/tracheal tug/subcostal recession during inspiration<br>Obvious respiratory distress<br>$S_\text{p}\ce{O2}$ (room air) ≤94%                                                        | Any of:<br>Reduced consciousness/collapse exhaustion/confused/agitated<br>Cyanosis<br>Poor respiratory effort<br>$S_\text{p}\ce{O2}$ (room air) <92%<br>Poor respiratory effort, soft/absent breath sounds                                                                     |
 | Immediate treatment | Give salbutamol 4-12 puffs via pMDI and spacer                                                                                    | Start bronchodilators:<br>Salbutamol 12 puffs via pMDI and spacer<br>If can’t use spacer give 5mg nebule via nebuliser<br>Ipratropium 8 puffs via pMDI and spacer every 20 minutes for first hour<br>Start $\ce{O2}$ supplementation if $S_\text{p}\ce{O2}$ <92% on room air and titrate to 92-96% | Arrange immediate transfer to higher-level care<br>Start bronchodilators<br>Salbutamol 2x5mg nebules via continuous nebulisation driven by oxygen<br>Ipratropium 500mcg added to nebulised solution every 20 minutes for the first hour<br>Maintain $S_\text{p}\ce{O2}$ 92-96% |
 | Continued treatment | Repeat salbutamol 4-12 puffs every 20 miutes for the first hour (or sooner if needed)<br>Then reduce to every 4-6 hours if needed | Repeat salbutamol 12 puffs every 20 minutes for the first hour (or sooner if needed)<br>Repeat bronchodilators every 4-6 hours for 24 hours<br>If salbutamol delivered via nebuliser, add 500mcg ipratropium to nebulised solution every 20 minutes for first hour<br>Repeat 4-6 hourly            | Repeat bronchodilators 4-6 hourly<br>When dyspnoea improves consider changing to salbutamol via pMDI plus spacer or intermittent nebuliser                                                                                                                                     |
-
 # Assessment
+- Secondary assessment to be completed when feasible after starting salbutamol and oxygen
+	- Physical examination including vital signs
+	- Chest auscultation assessing for signs of complications (e.g. [[Pneumothorax]], [[Pneumonia]])
+	- 
+
+
 - Establish current risk profile
 	- Peak flow measurements at home
 	- Use of beta-agonists and response to therapy
@@ -64,3 +70,5 @@ tags:
 	- Give ==magnesium sulfate 2.5g IV (10 mmol) over 20-30 minutes==
 	- Give ==salbutamol 250-500 mcg IV over 10 minutes==
 		- Follow with infusion of ==salbutamol 5mg in 5% dextrose running at 60mL/h (10mcg/min) initially and titrate up to 120-240mL/h (20-40mcg/min)==
+# Useful Links
+- [Australian Asthma Handbook \| Managing acute asthma in adults and adolescents](https://www.asthmahandbook.org.au/acute-asthma/adults-and-adolescents/managing-acute-asthma-in-adults-and-adolescents-in-the-ed)
