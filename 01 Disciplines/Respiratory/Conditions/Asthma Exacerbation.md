@@ -76,6 +76,26 @@ tags:
 	- If dyspnoea/increased work of breathing is not relieved, or condition deteriorates, repeat bronchodilator dose and consider adding inhaled ipratropium bromide (if not part of initial treatment) or IV magnesium sulfate.
 		- **Inhaled ipratropium bromide:** Adults and adolescents: 8 actuations (21 microg/actuation) via pressurised metered-dose inhaler and spacer every 20 minutes for first hour. Repeat 4–6 hourly for 24 hours
 		- **Intravenous magnesium sulfate:** Adults and adolescents: 0.2 mmol/kg (maximum 10 mmol) diluted in a compatible solution as a single IV infusion over 20 minutes
+- [[Blood Gas Interpretation|ABG]] is expected to be initially respiratory alkalosis but with tiring $P_\text{a}\ce{CO2}$ rises (respiratory acidosis) and metabolic lactic acidosis occurs
+- Remember to monitor $\ce{K+}$ with ongoing salbutamol use
+- Consider XR chest
+- Other non-established treatments:
+	- Adrenaline – nebulised 5mg, SC 0.5mg, IV – load with 1mg -> 1-20mcg/min
+	- Heliox – reduces turbulent air flow, 70:30 (He:O2)
+	- Ketamine – 0.5-2mg/kg/hr
+	- Inhalational agents – sevoflurane, anaesthetic machine or custom fitted ventilator required
+	- Leukotriene anatagonists – some benefit in chronic asthma
+	- BAL – can clear mucous plugging but transiently worsens bronchospasm
+# Differentials to Consider
+- LVF
+- Anaphylaxis
+- Aspiration
+- Upper airway obstruction (vocal cord dysfunction, tracheal stenosis)
+- Inhaled foreign body
+- PE
+- Hyperventilation syndrome
+- Pneumothorax
+- Parodoxical motion of the vocal cords
 # Discharge criteria
 - After respiratory distress or increased work of breathing has resolved and symptoms stabilised observe the patient for at least 4 hours
 - Repeat spirometry and peak expiratory flow before discharge
