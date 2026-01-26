@@ -21,7 +21,7 @@ tags:
 	- Associated symptoms: chest pain, cough, fever, stridor, wheeze and facial oedema?
 - Other observations
 	- Vital signs
-- Does the patient have a history of [Heart Failure](01%20Disciplines/Cardiology/Conditions/Heart%20Failure.md) or [Acute Pulmonary Oedema](01%20Disciplines/Respiratory/Conditions/Acute%20Pulmonary%20Oedema.md) or of [Asthma](01%20Disciplines/Respiratory/Conditions/Asthma.md) or [COPD](01%20Disciplines/Respiratory/Conditions/COPD.md)?
+- Does the patient have a history of [Heart Failure](01%20Disciplines/Cardiology/Conditions/Heart%20Failure.md) or [Acute Pulmonary Oedema](01%20Disciplines/Respiratory/Conditions/Acute%20Pulmonary%20Oedema.md) or of [Asthma Exacerbation](Asthma%20Exacerbation.md) or [COPD](01%20Disciplines/Respiratory/Conditions/COPD.md)?
 - Does the patient have massive haemoptysis ⇒immediate review
 ## Instructions over the phone
 - Ask for measurement of the oxygen saturation by non-invasive pulse oximetry
@@ -34,7 +34,7 @@ tags:
 ## Dyspnoea
 - Pulmonary causes
 	- [Pneumonia](01%20Disciplines/Respiratory/Conditions/Pneumonia.md)
-	- Bronchospasm with wheeze ([Asthma](01%20Disciplines/Respiratory/Conditions/Asthma.md), [COPD](01%20Disciplines/Respiratory/Conditions/COPD.md), [Anaphylaxis](01%20Disciplines/Immunology/Emergencies/Anaphylaxis.md))
+	- Bronchospasm with wheeze ([Asthma Exacerbation](Asthma%20Exacerbation.md), [COPD](01%20Disciplines/Respiratory/Conditions/COPD.md), [Anaphylaxis](01%20Disciplines/Immunology/Emergencies/Anaphylaxis.md))
 	- [Pneumothorax](01%20Disciplines/Respiratory/Conditions/Pneumothorax.md)
 	- Massive pleural effusion
 	- Aspiration of gastric contents or other foreign material
@@ -159,7 +159,7 @@ tags:
 	- History of malignancy, TB, pulmonary vasculitis or [Pulmonary Hypertension](01%20Disciplines/Cardiology/Conditions/Pulmonary%20Hypertension.md)
 	- Haemoptysis in PE is rare as most do not cause pulmonary infarction
 - Audible wheeze?
-	- Sign of reversible airway obstruction in patients with known history of [Asthma](01%20Disciplines/Respiratory/Conditions/Asthma.md) or [COPD](01%20Disciplines/Respiratory/Conditions/COPD.md)
+	- Sign of reversible airway obstruction in patients with known history of [Asthma Exacerbation](Asthma%20Exacerbation.md) or [COPD](01%20Disciplines/Respiratory/Conditions/COPD.md)
 	- Bronchospasm can also happen in other conditions
 - Fever? Chills?
 	- Check temperature chart since admission
@@ -194,7 +194,7 @@ tags:
 |             | S3 gallop ⇒ [LV Heart Failure](01%20Disciplines/Cardiology/Conditions/Heart%20Failure.md)                                                                                                                                                                                                                  |
 |             | Loud P2 ⇒ [COPD](01%20Disciplines/Respiratory/Conditions/COPD.md), [Pulmonary Hypertension](01%20Disciplines/Cardiology/Conditions/Pulmonary%20Hypertension.md))                                                                                                                                           |
 |             | Systolic murmur ⇒ [LV Heart Failure](01%20Disciplines/Cardiology/Conditions/Heart%20Failure.md)                                                                                                                                                                                                            |
-|             | Wheeze ([Asthma](01%20Disciplines/Respiratory/Conditions/Asthma.md), [COPD](01%20Disciplines/Respiratory/Conditions/COPD.md), foreign body aspiration)                                                                                                                                                     |
+|             | Wheeze ([Asthma Exacerbation](Asthma%20Exacerbation.md), [COPD](01%20Disciplines/Respiratory/Conditions/COPD.md), foreign body aspiration)                                                                                                                                                     |
 | Resp        | Stridor, hoarse voice, inability to speak (upper airway obstruction, [Anaphylaxis](01%20Disciplines/Immunology/Emergencies/Anaphylaxis.md))                                                                                                                                                                |
 |             | Limited inspiration and splinted chest wall 2° to pleuritic chest pain ⇒ [Pneumothorax](01%20Disciplines/Respiratory/Conditions/Pneumothorax.md), [Pulmonary Embolism](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md), [Pneumonia](01%20Disciplines/Respiratory/Conditions/Pneumonia.md) |
 |             | Basal crackles ⇒ LV [Heart Failure](01%20Disciplines/Cardiology/Conditions/Heart%20Failure.md)                                                                                                                                                                                                             |
@@ -225,7 +225,7 @@ tags:
 # Specific Management
 - See [[Pulmonary Embolism#Management|PE]]
 - See [[Pneumonia#Management|Pneumonia]]
-- See [[Asthma#Management|Asthma]]
+- See [[Asthma Exacerbation#Management|Asthma]]
 - See [[COPD#Management|COPD]]
 - See [[Pneumothorax#Management|Pneumothorax]]
 - See [[Hiccups#Management|Hiccups]]

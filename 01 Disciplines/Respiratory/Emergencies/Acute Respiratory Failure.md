@@ -19,7 +19,7 @@ tags:
 # Causes
 - [Acute obstruction](01%20Disciplines/Clinical/Emergencies/Acute%20Airway%20Failure.md)
 - Pulmonary
-	- Bronchosapsm with wheeze (e.g. [Asthma](01%20Disciplines/Respiratory/Conditions/Asthma.md), [COPD](01%20Disciplines/Respiratory/Conditions/COPD.md), [anaphylaxis](01%20Disciplines/Immunology/Emergencies/Anaphylaxis.md))
+	- Bronchosapsm with wheeze (e.g. [Asthma Exacerbation](Asthma%20Exacerbation.md), [COPD](01%20Disciplines/Respiratory/Conditions/COPD.md), [anaphylaxis](01%20Disciplines/Immunology/Emergencies/Anaphylaxis.md))
 	- [Pneumothorax](01%20Disciplines/Respiratory/Conditions/Pneumothorax.md)
 	- Massive pleural effusion
 	- Interstitial lung disease
@@ -70,7 +70,7 @@ tags:
 		- [Pneumonia](01%20Disciplines/Respiratory/Conditions/Pneumonia.md)
 		- [Exacerbation of COPD](01%20Disciplines/Respiratory/Conditions/COPD.md#Exacerbation-of-COPD)
 		- [Acute Pulmonary Oedema](01%20Disciplines/Respiratory/Conditions/Acute%20Pulmonary%20Oedema.md)
-		- [Asthma](01%20Disciplines/Respiratory/Conditions/Asthma.md) (Pa$\ce{CO2}$ rises very late)
+		- [Asthma Exacerbation](Asthma%20Exacerbation.md) (Pa$\ce{CO2}$ rises very late)
 		- [Pulmonary Embolism](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md)
 		- [Pneumothorax](01%20Disciplines/Respiratory/Conditions/Pneumothorax.md)
 # Investigations

@@ -51,7 +51,7 @@ tags:
 - Fever, wheeze, sputum production
 - Cor pulmonale - right [[Heart Failure]] 2° to [[Pulmonary Hypertension]]
 - Signs of hypercarbia: tremor, bounding pulses, peripheral vasodilation, drowsiness or confusion
-- Check for other causes of acute [[Shortness of Breath, Cough and Haemopytsis|Dyspnoea]] (e.g. [[Asthma]], [[Acute Pulmonary Oedema]], [[Pneumothorax]], [[Pulmonary Embolism|PE]])
+- Check for other causes of acute [[Shortness of Breath, Cough and Haemopytsis|Dyspnoea]] (e.g. [[Asthma Exacerbation]], [[Acute Pulmonary Oedema]], [[Pneumothorax]], [[Pulmonary Embolism|PE]])
 # Investigations
 ## Bedside
 - Spirometry and PEFR

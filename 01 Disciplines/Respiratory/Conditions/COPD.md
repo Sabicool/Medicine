@@ -9,7 +9,7 @@ tags:
 - Chronic bronchitis, emphysema and asthma overlap, as some reversibility is present with COPD and some patients with asthma will develop irreversible components of the disease
 - Typically older than 35 who are smokers or ex smokers with breathlessness, cough, recurrent respiratory tract infection, sputum production
 - Suspect alpha-1-antitrypsin deficiency in patients in whom COPD develops at a young age (<40 years), particularly if they have a family history of COPD
-## Differences with [[Asthma]]
+## Differences with [[Asthma Exacerbation]]
 - COPD features:
 	- Onset after age 40
 	- Persistent airflow limitation

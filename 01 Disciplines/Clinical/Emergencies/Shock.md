@@ -31,7 +31,7 @@ Next:
 	- Pulmonary embolism
 	- Tension pneumothorax
 	- Cardiac tamponade
-	- Dynamic hyperinflation: Excessive ventilation with severe bronchospasm ([Asthma](01%20Disciplines/Respiratory/Conditions/Asthma.md), [COPD](01%20Disciplines/Respiratory/Conditions/COPD.md))
+	- Dynamic hyperinflation: Excessive ventilation with severe bronchospasm ([Asthma Exacerbation](Asthma%20Exacerbation.md), [COPD](01%20Disciplines/Respiratory/Conditions/COPD.md))
 
 ![](Attachments/Pasted%20image%2020241216122047.png)
 # Assessment

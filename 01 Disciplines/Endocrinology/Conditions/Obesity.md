@@ -94,7 +94,7 @@ Other defintiions:
 - Respiratory
 	- Obstructive sleep apnoea
 	- Obesity hypoventilation syndrome
-	- [[Asthma]]
+	- [[Asthma Exacerbation]]
 - Other
 	- Nonalcoholic steatohepatitis
 	- Dementia
