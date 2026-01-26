@@ -86,6 +86,9 @@ tags:
 	- Inhalational agents – sevoflurane, anaesthetic machine or custom fitted ventilator required
 	- Leukotriene anatagonists – some benefit in chronic asthma
 	- BAL – can clear mucous plugging but transiently worsens bronchospasm
+- Rapid sequence induction
+	- Induction agent: ketamine preferred because of bronchodilation, haemodynamic stability and preservation of respiratory drive
+	- ![[Pasted image 20260126205046.png]]
 # Differentials to Consider
 - LVF
 - Anaphylaxis
@@ -111,3 +114,4 @@ tags:
 - On call handbook
 - Asthma handbook (links above)
 - [Acute Severe Asthma SID • LITFL • CCC Respiratory](https://litfl.com/acute-severe-asthma/)
+- [Critical asthma exacerbation - EMCrit Project](https://emcrit.org/ibcc/asthma/)
