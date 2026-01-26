@@ -14,19 +14,20 @@ tags:
 - Secondary assessment to be completed when feasible after starting salbutamol and oxygen
 	- Physical examination including vital signs
 	- Chest auscultation assessing for signs of complications (e.g. [[Pneumothorax]], [[Pneumonia]])
-	- 
-
-
-- Establish current risk profile
+	- Obtain an ABG if life-threatening acute asthma
+	- Obtain a chest radiograph to detect the presence of pneumothorax, consolidation or evidence of heart failure
+	- Obtain spirometry when patient able
+- Brief history including:
+	- Reliever taken for this episode before presentation (dose, number of doses, time of last dose)
+	- Whether oral corticosteroid has been started (e.g. from asthma action plan)
+	- Current asthma medications
+	- Whether the patient has been prescribed a preventer (inhaled corticosteroid or combination of inhaled corticosteroid and long acting beta-2 agonist taken as maintenance or budesonide-formoterol as needed)
+		- Ask about adherence
+	- What triggered this episode if known (e.g. allergies, medicines, respiratory infections)
+	- Presence of co-existing heart or lung disease, including [[COPD]]
+	- Smoking/vaping status and exposure to environmental smoke/vaping
 	- Peak flow measurements at home
-	- Use of beta-agonists and response to therapy
-	- Use of oral steroid or escalation of preventive inhaler use
 	- Previous admission(s) to hospital (esp. in last 4 weeks)
-- Precipitating factors
-	- Viral illness (common)
-	- Specific allergies
-	- Comorbidities (e.g. obesity, copd, heart failure)
-	- Recent beta-blocker or aspirin/NSAID administration
 - Socioeconomic challenges
 	- Homeless, unemployed, living alone
 	- Drug or alcohol use
