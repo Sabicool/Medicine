@@ -1,5 +1,7 @@
 ---
 date: 2026-01-21
+tags:
+  - notes
 ---
 # Upper Airways
 ## Pharynx

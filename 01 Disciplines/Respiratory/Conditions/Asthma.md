@@ -1,5 +1,7 @@
 ---
 date: 2025-01-04
+tags:
+  - notes
 ---
 # Assessment
 - Establish current risk profile

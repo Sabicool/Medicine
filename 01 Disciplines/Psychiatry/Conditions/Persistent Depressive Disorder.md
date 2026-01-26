@@ -1,5 +1,7 @@
 ---
-date: 2025-04-11
+date: 2026-01-26
+tags:
+  - complete
 ---
 # Diagnostic Criteria
 - Persistent depressive depressive disorder is defined by having major depressive disorder for at least 2 years

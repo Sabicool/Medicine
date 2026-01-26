@@ -1,8 +1,10 @@
 ---
-date: 2025-04-03
+date: 2026-01-26
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[Psychiatry]]"
+tags:
+  - complete
 ---
 - History
 	- Demographics

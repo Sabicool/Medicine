@@ -2,6 +2,8 @@
 aliases:
   - GCS
 date: 2026-01-18
+tags:
+  - cards
 ---
 ![](Attachments/Pasted%20image%2020241212213422.png)
 - Assess orientation with:

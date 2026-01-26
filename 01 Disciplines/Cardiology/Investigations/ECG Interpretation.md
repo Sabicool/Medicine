@@ -4,6 +4,8 @@ Rotations:
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[02 Rotations/Cardiology|Cardiology]]"
 date: 2025-12-25
+tags:
+  - notes
 ---
 
 > [!NOTE] Assessing a Rhythm Strip in an Unstable/Critical Patient

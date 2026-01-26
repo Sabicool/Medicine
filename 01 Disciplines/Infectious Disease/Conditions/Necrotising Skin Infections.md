@@ -3,10 +3,12 @@ aliases:
   - Necrotising Fasciitis
   - Myonecrosis
   - Gangrene
-date: 2026-01-25
+date: 2026-01-26
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
+tags:
+  - complete
 ---
 # Aetiology
 - Monomicrobial

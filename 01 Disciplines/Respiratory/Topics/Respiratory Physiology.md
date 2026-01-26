@@ -4,6 +4,8 @@ Rotations:
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[Anaesthetics]]"
 date: 2026-01-26
+tags:
+  - notes
 ---
 - Also see [[Blood Gas Interpretation|ABG Interpretation]]
 # Oxygen Transport
@@ -15,9 +17,9 @@ $$
 \end{align*}
 $$
 - Very little $\ce{O2}$ is stored in the body ⇒ apnoea rapidly leads to hypoxia
-# Red Blood Cells
+## Red Blood Cells
 - Do not contain a nucleus or mitochondria ⇒ entirely dependent on glucose and the glycolytic pathway for energy
-# Haemoglobin
+## Haemoglobin
 - HbA has two $\alpha$-chains and two $\beta$-chains each of which have an iron-containing porphyring ring with iron in the ferrous state ($\ce{Fe^2+}$)
 ![[Pasted image 20260125210015.png]]
 - Haemoglobin has a preference to be either fully saturated or desaturated due to cooperativity
@@ -30,7 +32,7 @@ $$
 	- Increased temperature
 	- The presence of sickle haemoglobin (HbS) in sickle cell disease
 ![[Pasted image 20260125210839.png]]
-## Types of Hb
+### Types of Hb
 - Physiological
 	- $\ce{HbA}$: normal most common form ($\ce{\alpha 2\beta 2}$)
 	- $\ce{HbA2}$: other adult form accounting for 2-3% ($\ce{\alpha 2\delta 2}$)
@@ -48,5 +50,7 @@ $$
 		- Manage with supplemental oxygen in mild cases and methylene blue in severe cases
 	- $\ce{COHb}$: Formed when $\ce{Hb}$ binds inhaled carbon monoxide molecules
 	- $\ce{CyanoHb}$: Cyanohaemoglobin is formed when $\ce{Hb}$ is exposed to cyanide ions
+# Carbon Dioxide Transport
+
 # Source
 Chambers, D., Huang, C., Matthews, G., 2019. Basic Physiology for Anaesthetists, 2nd ed. Cambridge University Press. [https://doi.org/10.1017/9781108565011](https://doi.org/10.1017/9781108565011)

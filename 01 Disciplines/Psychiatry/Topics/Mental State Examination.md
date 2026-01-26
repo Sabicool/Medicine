@@ -3,6 +3,8 @@ date: 2025-05-08
 Rotations:
   - "[[Psychiatry]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
+tags:
+  - cards
 ---
 # Appearance
 - Consider: age, gender, race/ethnicity, build, hair style & colour, grooming, posture, level of hygiene, mode of dress, apparent level of health, signs of AOD use

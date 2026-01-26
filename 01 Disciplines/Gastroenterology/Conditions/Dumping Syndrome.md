@@ -1,5 +1,7 @@
 ---
 date: 2026-01-26
+tags:
+  - notes
 ---
 # Definition
 - Dumping syndrome: rapid gastric emptying as a result of defective gastric reservoir function, impaired pyrloci emptying mechanism or anomalous postsurgery gastric motor function
