@@ -1,5 +1,5 @@
 ---
-date: 2026-01-26
+date: 2026-01-31
 tags:
   - notes
 ---
@@ -11,7 +11,7 @@ tags:
 | Immediate treatment | Give salbutamol 4-12 puffs via pMDI and spacer                                                                                    | Start bronchodilators:<br>Salbutamol 12 puffs via pMDI and spacer<br>If can’t use spacer give 5mg nebule via nebuliser<br>Ipratropium 8 puffs via pMDI and spacer every 20 minutes for first hour<br>Start $\ce{O2}$ supplementation if $S_\text{p}\ce{O2}$ <92% on room air and titrate to 92-96% | Arrange immediate transfer to higher-level care<br>Start bronchodilators<br>Salbutamol 2x5mg nebules via continuous nebulisation driven by oxygen<br>Ipratropium 500mcg added to nebulised solution every 20 minutes for the first hour<br>Maintain $S_\text{p}\ce{O2}$ 92-96% |
 | Continued treatment | Repeat salbutamol 4-12 puffs every 20 miutes for the first hour (or sooner if needed)<br>Then reduce to every 4-6 hours if needed | Repeat salbutamol 12 puffs every 20 minutes for the first hour (or sooner if needed)<br>Repeat bronchodilators every 4-6 hours for 24 hours<br>If salbutamol delivered via nebuliser, add 500mcg ipratropium to nebulised solution every 20 minutes for first hour<br>Repeat 4-6 hourly            | Repeat bronchodilators 4-6 hourly<br>When dyspnoea improves consider changing to salbutamol via pMDI plus spacer or intermittent nebuliser                                                                                                                                     |
 
-> [!WARNING] Severe attack
+> [!WARNING] Severe asthma attack
 > Indicated by any of the following:
 > - RR ≥25 breaths/min
 > - Tacycardia ≥110 beats/min
