@@ -1,7 +1,7 @@
 ---
 date: 2026-01-31
 tags:
-  - notes
+  - cards
 ---
 # Immediate Assessment and Management in ED
 
