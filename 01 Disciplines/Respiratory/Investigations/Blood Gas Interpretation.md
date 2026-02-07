@@ -44,6 +44,7 @@ tags:
 2. Determine pH status (7.35-7.45)
 	- pH <7.35: acidaemia: increase in the serum hydrogen ion concentration, lowers the pH
 	 - pH >7.45: alkalaemia: decreases the hydrogen ion concentration, raises the pH
+	 - If pH is normal and $\ce{HCO3}$ or $P_\text{a}\ce{CO2}$ is abnormal check the anion gap and the table on mixed disorders below
 3. Determine the primary disorder
 	- $P_\text{a}\ce{CO2}$: Determine the respiratory component (35-45 mmHg)
 		- $P_\text{a}\ce{CO2}$ <35 ⇒ ↑ respiratory rate ⇒ alkalotic change
@@ -95,7 +96,7 @@ tags:
 		$$
 		\text{AG}_\text{adjusted}=\text{AG}_\text{measured}+0.25\times(40-[\text{Alb}])
 		$$
-6. Delta ratio in patients with HAGMA
+6. Delta ratio which should be calculated whenever the anion gap is elevated
 	- During a HAGMA there should be a 1:1 gap between the ↑ anion gap and ↓ $\ce{HCO3}$
 	- Check delta ratio in the presence of a high anion gap metabolic acidosis to determine if it is a pure HAGMA or if there is co-existent normal anion gap metabolic acidosis or metabolic alkalosis
 	- The expected delta radio differs by aetiology of HAGMA:
@@ -218,6 +219,9 @@ $$
 ![[Pasted image 20260207200458.png]]
 ### Respiratory Alkalosis
 ![[Pasted image 20260207202443.png]]
+![[Pasted image 20260207211939.png]]
+## Patterns of Mixed Disorders with Normal pH
+![[Pasted image 20260207211732.png]]
 ## Drug Overdose Changes
 - Respiratory alkalosis in the setting of drug overdose can be due to:
 	- Aspiration on vomit causing hypoxia induced hyperventilation
