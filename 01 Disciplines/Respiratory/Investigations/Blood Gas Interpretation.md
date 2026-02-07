@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[Anaesthetics]]"
-date: 2026-01-26
+date: 2026-02-07
 aliases:
   - ABG Interpretation
 tags:
@@ -199,6 +199,22 @@ $$
 	- ![[Pasted image 20260125160213.png]]
 ![[Pasted image 20260125160357.png]]
 ### Respiratory Acidosis
+![[Pasted image 20260207195320.png]]
+- Alveolar ventilation equation:
+$$
+\begin{align*}
+P_\text{a}\ce{CO2}&=\frac{\dot{V}_\ce{CO2}\times P_\text{I}}{\dot{V}_\text{A}}\\
+&=\frac{\dot{V}_\ce{CO2}\times P_\text{I}}{\text{Respiratory Rate}\times(V_\text{T}-V_\text{D})}
+\end{align*}
+$$
+- Where:
+	- $\dot{V}_\ce{CO2}$ is the rate of $\ce{CO2}$ production
+	- $P_\text{I}$ is the total pressure of inspired air
+	- $\dot{V}_\text{A}$ is alveolar ventilation
+	- $V_\text{T}$ is the tidal volume
+	- $V_\text{D}$ is the dead space
+- It therefore follows that the causes of ↑ $P_\text{a}\ce{CO2}$ can be due to low respiratory rate, low tidal volume, high dead space or high rate of $\ce{CO2}$ production
+![[Pasted image 20260207200458.png]]
 ### Respiratory Alkalosis
 ## Drug Overdose Changes
 - Respiratory alkalosis in the setting of drug overdose can be due to:
