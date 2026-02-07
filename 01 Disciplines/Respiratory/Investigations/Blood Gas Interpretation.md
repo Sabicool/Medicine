@@ -352,6 +352,17 @@ $$
 - Higher altitudes will only decrease $P_\text{I}$ in the alveolar gas equation (no effect on $F_\text{I}\ce{O2}$ or $P_\ce{H2O}$)
 - $P_\text{a}\ce{CO2}$ usually decreases at high altitudes due to hypoxia-driven hyperventilation
 ![[Pasted image 20260118201043.png]]
+## VBG Vs ABG
+$$
+\begin{align*}
+\text{Arterial pH} &\approx\text{Venous pH} +0.03\\
+P_\text{a}\ce{CO2} &\approx P_\text{V}\ce{CO2}-4
+\end{align*}
+$$
+- While VBGs are not useful for oxygenation status, they can probably substitute for ABGs in most analyses of acid base
+	- Treger, R., Pirouz, S., Kamangar, N., Corry, D., 2010. Agreement between Central Venous and Arterial Blood Gas Measurements in the Intensive Care Unit. Clin J Am Soc Nephrol 5, 390–394. [https://doi.org/10.2215/CJN.00330109](https://doi.org/10.2215/CJN.00330109)
+## Effect of Temperature on ABG
+- Higher temperature → more gas dissolved in blood
 ## 12345 Rule
 - Respiratory acidosis :: For every 10 mmHg rise in PaCO2, there should be 1 increase in $\ce{HCO3-}$ for acute and 4 increase in chronic
 - Respiratory alkalosis :: For every 10mmHg rise in PaCO2, there should be 2 decrease in $\ce{HCO3-}$ for acute and 5 decrease in chronic
