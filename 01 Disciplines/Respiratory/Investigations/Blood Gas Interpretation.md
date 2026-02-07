@@ -142,6 +142,7 @@ $$
 		- Ethylene glycol, ethanol
 		- Salicylic acid (aspirin)
 - Approach
+	- ![[Pasted image 20260207202853.png]]
 	- Check anion gap and adjust for hypoalbuminaemia
 	- Check ABG to ensure acidosis is present (i.e. low bicarb); if no acidosis review causes of ↑ AG w/o acidosis (e.g. hyperphosphataemia, anionic paraprotein)
 	- Check lactate and ketones
@@ -216,6 +217,7 @@ $$
 - It therefore follows that the causes of ↑ $P_\text{a}\ce{CO2}$ can be due to low respiratory rate, low tidal volume, high dead space or high rate of $\ce{CO2}$ production
 ![[Pasted image 20260207200458.png]]
 ### Respiratory Alkalosis
+![[Pasted image 20260207202443.png]]
 ## Drug Overdose Changes
 - Respiratory alkalosis in the setting of drug overdose can be due to:
 	- Aspiration on vomit causing hypoxia induced hyperventilation
