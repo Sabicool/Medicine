@@ -315,7 +315,6 @@ $$
 > [!EXAMPLE] Simple Example
 > **Question:** A 56 year old man with a history of CAD, HTN, and 60 pack years of smoking, presents to the ER with a productive cough and dyspnea x 3 days. On exam, his RR=28 and 02 sat = 81% on room air. His breaths are shallow and with pursed lips.
 > ABG: pH: 7.31 / $P_\text{a}\ce{CO2}$ 60 / $P_\text{a}\ce{O2}$ 57 on room air
-> Likely diagnosis?
 > **Answer:**
 > 1. Check A-a gradient
 > $$
@@ -323,12 +322,12 @@ $$
 > P_{\text{A}}\ce{O2} &= \left[ F_{\text{I}}\ce{O2} \left( P_{\text{I}} - P_{\ce{H2O}} \right) \right] - \left( \frac{P_{\text{a}}\ce{CO2}}{\text{RQ}} \right)\\
 > P_{\text{A}}\ce{O2} &= 150 - \left( \frac{60}{0.8} \right) = 75 \ \text{mmHg} \\
 > \text{A--a gradient} &= 75 - 57 = 18 \ \text{mmHg}\\
-\end{align*}
+> \end{align*}
 > $$
 > 2. Estimate normal A-a gradient $(\text{Age}/4)+4=(56/4)+4=18 \ \text{mmHg}$
 > 3. Normal A-a gradient with high $P_\text{a}\ce{CO2}$ indicates a COPD exacerbation
 
- > [!Example] Harder Example
+> [!Example] Harder Example
 > **Question:** An 80 y/o man with COPD, presents to the ER with progressive dyspnea and cough for 3 days. He appears acutely uncomfortable, and his sitting up, leaning forward with his hands on his knees. Vitals: T=36.9°C, HR=104, BP=135/80, RR=30, 02 saturation=95% on Venturi mask set at 30%.
 > ABG: pH: 7.28 / $P_\text{a}\ce{CO2}$ 80 / $P_\text{a}\ce{O2}$ 80 on 30% $F_\text{I}\ce{O2}$
 > **Answer:**
@@ -456,11 +455,11 @@ $$
 - $\ce{K+}$ for pH (acidaemia causes hyperkalaemia)
 	- For each 0.1 pH drop below 7.4, $\ce{K+}$ rises by 0.6 mmol/L
 	- e.g. For a patient with a $\ce{K+}$ of 4 mmol/L at pH 7.2, the corrected $\ce{K+}$ is 2.8, hence the patient is hypokalaemic and $\ce{K+}$ should be monitored and replaced as pH is corrected
+	- This occurs because of the exchange of $\ce{H+}$ ions for $\ce{K+}$ ions across the cell membrane which may cause the appearance of hyperkalaemia on serum potassium levels but the patient is actually net hypokalaemic
+	- Correcting for potassium in alkalaemia (i.e. alkalaemia causing hypokalaemia) is not often done as the change is quantitatively smaller
 $$
 \rm{Corrected}\;\ce{K+}=\ce{K+}-0.6\times\frac{7.4-pH}{0.1}
 $$
-	- This occurs because of the exchange of $\ce{H+}$ ions for $\ce{K+}$ ions across the cell membrane which may cause the appearance of hyperkalaemia on serum potassium levels but the patient is actually net hypokalaemic
-	- Correcting for potassium in alkalaemia (i.e. alkalaemia causing hypokalaemia) is not often done as the change is quantitatively smaller
 - Correcting $\ce{Ca+}$ for albumin, however evidence demonstrates that formulas actually perform worse than uncorrected calcium levels
 $$
 \rm{Corrected\;Calcium}=0.8\times(40-\rm{Albumin})+\ce{Ca^{2+}}
