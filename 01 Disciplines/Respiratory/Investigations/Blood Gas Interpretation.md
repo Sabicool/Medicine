@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[Anaesthetics]]"
-date: 2026-02-08
+date: 2026-02-12
 aliases:
   - ABG Interpretation
 tags:
@@ -17,7 +17,7 @@ tags:
 # Introduction
 - Make sure you understand the difference between oxygenation and ventilation
 - Have a good understanding of [[Acute Respiratory Failure]]
-# Approach
+# Approach[^3]
 1. Determine the adequacy of oxygenation 
 	- Refer to the $S_\text{p}\ce{O2}$ from the sats probe or $S_\text{a}\ce{O2}$ as calculated from the ABG or measured from co-oximetry to observe for hypoxaemia
 	- Calculate the A-a gradient
@@ -440,3 +440,4 @@ $$
 
 [^1]: With the exception being patients with extreme diets (e.g. severe anorexia)
 [^2]: The normal A-a gradient also increases with higher $F_\text{I}\ce{O2}$ and may be >100 mmHg in an elderly patient on 100% $\ce{O2}$
+[^3]: This is the approach for the ‘Boston’ approach or standard approach
