@@ -134,10 +134,13 @@ $$
 		- Increased production of lactate:
 			- Problem with $\ce{O2}$ delivery (e.g. shock, bowel infarction, hypoxaemia)
 			- Problem with $\ce{O2}$ utilisation (e.g. genetic enzymatic defects, mitochondrial toxins, thiamine deficiency)
-			- Primary production from tumours
+			- Primary production from tumours (e.g. lymphone, leukaemia and multiple myeloma)
 			- Increased motor activity (e.g. seizures, vigorous exercise)
 		- Decreased clearance (e.g. liver failure or renal failure although noting that renal failure alone is unlikely to cause lactic acidosis)
 		- GI absorption of D-Lactate
+		- Medications (e.g. paracetamol, anti-retrovirals, beta agonists, 5-flurouracil, halothane, iron, isoniazid, linezolid, nitroprusside, propofol, salicylates, sorbitol, sulfasalazine, valproic acid)
+			- There remains disagreement about metformin causing lactic acidosis
+		- Toxins (e.g. carbon monoxide, cocaine, cyanide, diethyl ether, ethanol, toxic acidosis)
 	- Toxins
 		- Methanol
 		- Ethylene glycol, ethanol
