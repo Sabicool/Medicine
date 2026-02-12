@@ -124,12 +124,17 @@ $$
 # Additional Details
 ## Differentials
 ### High Anion Gap Metabolic Acidosis
-- Mnemonic: KULT
+ - Mnemonic: KULT
 	- Ketoacidosis
-		- Diabetes
+		- Diabetes (see: [[Diabetic ketoacidosis]])
 		- Starvation
 		- Chronic alcoholism
 	- Uraemia
+		- Renal failure
+			- Occurs for 2 reasons:
+				- Failure to excrete $\ce{H+}$ ions in the kidney due to ↓ excretion of $\ce{NH4+}$ and ↓ excretion of titratable acids (e.g. $\ce{H2PO4-}$)
+				- Accumulation of unmeasured anions (phosphate, sulphate, urate and hippurate)
+			- The anion gap from renal failure rarely exceeds 20 and often co-exists with normal anion gap acidosis
 	- Lactic acidosis
 		- Increased production of lactate:
 			- Problem with $\ce{O2}$ delivery (e.g. shock, bowel infarction, hypoxaemia)
@@ -137,14 +142,37 @@ $$
 			- Primary production from tumours (e.g. lymphone, leukaemia and multiple myeloma)
 			- Increased motor activity (e.g. seizures, vigorous exercise)
 		- Decreased clearance (e.g. liver failure or renal failure although noting that renal failure alone is unlikely to cause lactic acidosis)
-		- GI absorption of D-Lactate
+		- GI absorption of D-Lactate (usually in patients who have undergone either jejunoileal bypass or extensive resection of small bowel)
+			- Typically presents as elevated anion gap acidosis that appears after eating and resolves with fasting (clinical appearance of altered mental status)
+			- Measured lactate levels are normal unless specifically testing for D-lactate
 		- Medications (e.g. paracetamol, anti-retrovirals, beta agonists, 5-flurouracil, halothane, iron, isoniazid, linezolid, nitroprusside, propofol, salicylates, sorbitol, sulfasalazine, valproic acid)
 			- There remains disagreement about metformin causing lactic acidosis
 		- Toxins (e.g. carbon monoxide, cocaine, cyanide, diethyl ether, ethanol, toxic acidosis)
 	- Toxins
 		- Methanol
-		- Ethylene glycol, ethanol
+			- Found in windshield wiper fluid, antifreeze, paint remover
+			- Presents with vision loss, photophobia, abdominal pain, confusion and lethargy
+		- Ethylene glycol
+			- Found in antifreeze and liquid coolant
+			- Presents with
+				- Confusion at <12 hours 
+				- Heart failure, myocarditis and pulmonary oedema at 24 hours
+				- Acute kidney injury at 24-72 hours
+			- Also occurs lactic acidosis as glycolate impairs cellular respiration causing lactic acidosis
+			- Can be diagnosed via calcium oxalate crystals in the urine (can be quicker to obtain than ethylene glycol level)
+		- Ethanol
+		- Propylene glycol
+			- Used as a solvent for lorazepam, phenobarbital, diazepam, phenytoin
+			- Presents with renal failure and unexplained lactic acidosis in a patient who has been on IV infusion of lorazepam for several days
+			- Recommended limit of propylene glycol is 69g/day (equivalent to 7mg/hr of lorazepam infusion)
+		- Toluene
+			- Found in glues/adhesives and paint thinner
+			- Acutely presents with euphoria, loss of inhibition, amnesia, slurred speech and ataxia
+			- Chronically it can cause cerebellar dysfunction, dementia, rental tubular acidosis, hypokalaemia and renal failure
 		- Salicylic acid (aspirin)
+		- 5-oxoproline
+			- Associated with chronic paracetamol use with additional risk factors including advanced age, malnutrition, chronic illness and alcoholism
+			- Symptoms are non-specific
 - Approach
 	- ![[Pasted image 20260207202853.png]]
 	- Check anion gap and adjust for hypoalbuminaemia
@@ -168,6 +196,11 @@ $$
 	- Check renal function (if above normal)
 		- If GFR < 40 and AG ≤ 20 ⇒ renal failure alone is likely cause, otherwise check osmolal gap
 	- Check rare aetiologies such as D-lactic acidosis and late presentation of methanol toxicity
+- General indications for calculating the osmolal gap are:
+	- Suspected posining with unknown toxin
+	- Elevated anion gap in the presence of normal lactate, ketones and renal function
+	- Unexmplained altered mental status (particularly in an alcoholic or child)
+	- Periodic monitoring for patients on high doses of IV lorazepam
 ### Normal Anion Gap Metabolic Acidosis
 
 | Primary Issue                                     | GI Problem                                                                                             | Renal Problem                                       |
@@ -238,8 +271,11 @@ $$
 	- $S_{\text{p}}\ce{O2}$ is the amount of oxygen bound to haemoglobin as measured from pulse oximetry
 	- $S_\text{a}\ce{O2}$ is the amount of oxygen bound to haemoglobin as calculated from the ABG or measured by co-oximetry
 - $P_{\text{A}}\ce{O2}$ is the partial pressure of oxygen in the alveolar gas
+
 $$\text{A-a gradient} = \underset{\substack{\text{Estimated from the}\\\text{alveolar gas equation}}} {P_{\text{A}}\ce{O2}} - \underset{\substack{\text{Measured directly}\\\text{via ABG}}} {P_{\text{a}}\ce{O2}}$$
+
 ![[Pasted image 20260116200257.png|400]]
+
 $$ P_{\text{A}}\ce{O2} = \left( \underset{\substack{\text{Fractional concentration}\\\text{of inspired } \ce{O2}}} {F_{\text{I}}\ce{O2}} \; \times \left( \underset{\substack{\text{Total pressure}\\\text{of inspired air}}} {P_{\text{I}}} - \underset{\substack{\text{Partial pressure}\\\text{of water vapour}}} {P_{\ce{H2O}}} \right) \right) - \left( \underset{\substack{\text{Arterial } \ce{CO2}\\\text{tension}}} {P_{\text{a}}\ce{CO2}} \Big/ \underset{\substack{\text{Respiratory}\\\text{Quotient}}} {\text{RQ}} \right) $$
 - At sea level $F_\text{i}\ce{O2}=21\%$ (when not on oxygen), $P_\text{I}=760\;\text{mm}\ce{Hg}$, $P_\ce{H2O}=47\;\text{mm}\ce{Hg}$ and for most patients $\text{RQ}=0.8$[^1]so the above equation simplifies to: $P_{\text{A}}\ce{O2}=150-\frac{P_{\text{a}}\ce{CO2}}{0.8}$
 
