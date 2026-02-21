@@ -21,5 +21,8 @@ date: 2026-02-21
 ## Summary Tables
 ![[Pasted image 20260221132243.png]]
 ![[Pasted image 20260221132312.png]]
+# Summary Image
+![[Pasted image 20260221132840.png]]
+![[Pasted image 20260221133109.png]]
 # Sources
 - [Sodium and Potassium Metabolism (Renin, Angiotensin, Aldosterone, and ADH) - YouTube | Strong Medicine](https://www.youtube.com/watch?v=5HBdaE9IckI&list=PLYojB5NEEakXVIAapcSEleP4doUdHVtld) created September 22 2013

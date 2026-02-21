@@ -1,8 +1,9 @@
 ---
-date: 2026-01-25
+date: 2026-02-21
 tags:
   - notes
 ---
+![[Pasted image 20260221133251.png]]
 ![[Pasted image 20260125155014.png]]
 # Thiazide Diuretics
 - Mechanism of action
