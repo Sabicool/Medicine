@@ -3,6 +3,20 @@ Rotations:
   - "[[Intensive Care Unit]]"
 date: 2026-02-21
 ---
+# Pathophysiology
+- Hyponatraemia generally causes low extracellular osmolality causing fluid shift into the intracellular space
+- This can cause cerebral oedema, precipitating the clinical features
+# Clinical Features
+- Mostly neurological
+	- At sodium 125-130 when acute or sodium 120-125 when chronic:
+		- Fatigue
+		- Headache
+		- Nausea and vomiting
+	- At sodium 120-125 when acute or sodium 110-120 when chronic:
+		- Confusion
+		- Seizures
+		- Coma
+- Presence and severity of symptoms are related to severity of hyponatraemia and speed of derangement (as indicated above)
 # Workup
 - Determine serum osmolality
 - Hypotonic hyponatraemia

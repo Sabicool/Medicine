@@ -4,9 +4,15 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
   - "[[Anaesthetics]]"
 date: 2026-02-21
+aliases:
+  - RAA Axis
+  - RAAS
+  - ADH
+  - Renin
 ---
 # Overview
 ![[Pasted image 20260221130246.png]]
+![[Pasted image 20260221132840.png]]
 ## Renin-Angiotensin-Aldosterone Axis
 ![[Pasted image 20260221130533.png]]
 ![[Pasted image 20260221130921.png]]
@@ -18,11 +24,10 @@ date: 2026-02-21
 - ANP and BNP
 - Released in response to myocardial stretch/volume expansion
 - Actions include vasodilation and promoting sodium and water secretion (opposing the RAA axis)
-## Summary Tables
+## Summary Tables of Mediators
 ![[Pasted image 20260221132243.png]]
 ![[Pasted image 20260221132312.png]]
-# Summary Image
-![[Pasted image 20260221132840.png]]
+# Regulation of Blood Pressure and Intravascular Volume
 ![[Pasted image 20260221133109.png]]
 # Sources
 - [Sodium and Potassium Metabolism (Renin, Angiotensin, Aldosterone, and ADH) - YouTube | Strong Medicine](https://www.youtube.com/watch?v=5HBdaE9IckI&list=PLYojB5NEEakXVIAapcSEleP4doUdHVtld) created September 22 2013
