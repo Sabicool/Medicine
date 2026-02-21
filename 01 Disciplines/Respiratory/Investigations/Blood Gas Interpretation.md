@@ -40,7 +40,7 @@ tags:
 				- If corrects, suggestive of V/Q mismatch and/or diffusion impairment
 				- If doesn’t correct, suggestive of right to left shunt
 				- Correlate with history, exam and chest X-ray
-		6. Check for dyshaemoglobinaemia from the co-oximetry
+	- Check for dyshaemoglobinaemia from the co-oximetry
 2. Determine pH status (7.35-7.45)
 	- pH <7.35: acidaemia: increase in the serum hydrogen ion concentration, lowers the pH
 	 - pH >7.45: alkalaemia: decreases the hydrogen ion concentration, raises the pH
