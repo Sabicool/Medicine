@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Respiratory|Respiratory]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[Anaesthetics]]"
-date: 2026-01-26
+date: 2026-02-23
 tags:
   - notes
 ---
@@ -51,6 +51,43 @@ $$
 	- $\ce{COHb}$: Formed when $\ce{Hb}$ binds inhaled carbon monoxide molecules
 	- $\ce{CyanoHb}$: Cyanohaemoglobin is formed when $\ce{Hb}$ is exposed to cyanide ions
 # Carbon Dioxide Transport
+- A typical adult produces $\ce{CO2}$ at a basal rate of 200mL/min; during exercise it can increase as high as 4000 mL/min
+- $\ce{CO2}$ is transported in circulation in three forms
+	- Dissolved in plasma
+	- Bound to Hb and other proteins as carbamino compounds
+		- When $\ce{CO2}$ reacts with a terminal amine group within the Hb molecule forming carbaminohaemoglobin
+		- Deoxyhaemoglobin forms carbamino compounds more readily than oxyhaemoglobin
+	- Bicarbonate
+		- Carbonic anhydrase catalyses the reaction to form bicarbonic acid
+			- The cytoplasm of red blood cells contains carbonic anhydrase, but plasma does not contain carbonic anhydrase therefore it can only occur within the RBC
+			- Almost all $\ce{H2CO3}$ dissociates into $\ce{HCO3-}$ and $\ce{H+}$
+			- $\ce{CO2}$ and water can diffuse directly through the RBC membrane whilst $\ce{H+}$ and $\ce{HCO3-}$ cannot; forward direction of the reaction is maintained by preventing the build up $\ce{HCO3-}$ and $\ce{H+}$ via two processes:
+				- Chloride shift (Hamburger effect): $\ce{HCO3-}$ is transported across teh RBC membrane down its electrochemical gradient by the $\ce{Cl-}$/$\ce{HCO3-}$ exchanger
+				- Binding of $\ce{H+}$ to histidine side chains of the haemoglobin molecule reducing intracellular concentration of $\ce{H+}$
+$$
+\ce{CO2 + H2O <=>[CA] H2CO3 <=> H+ + HCO3-}
+$$
+![[Pasted image 20260223211504.png]]
+## Haldane Effect
+- Describes the observation that deoxyhaemoglobin is more effective net carrier of $\ce{CO2}$ than oxyhaemoglobin
+- This is because of two reasons:
+	- Deoxyhaemoglobin more readily forms carbamino compounds
+	- Deoxyhaemoglobin is a stronger base than oxyhaemoglobin and more readily accepts $\ce{H+}$ allowing rightward shift of the above equilibrium (increasing $\ce{HCO3-}$ formation)
+- Metabolically active tissues produce $\ce{H+}$ and $\ce{CO2}$. Through the Bohr effect and its effect on $P_{50}$, additional $\ce{O2}$ is offloaded to the most metabolically active tissues
+	- According to the Haldane effect, the newly formed deoxyhaemoglobin is better at binding $\ce{H+}$ and carrying $\ce{CO2}$ than is oxyhaemoglobin 
+	- The metabolic waste products are therefore efficiently transported away from the tissues to the lungs
+## Carbon Dioxide Dissociation Curve
+- Describes the relationship between partial pressure of $\ce{CO2}$ ($P\ce{CO2}$) and the blood $\ce{CO2}$ content
+- Typical $P_\text{a}\ce{CO2}$ is 5.3 kPa (~39.8 mmHg) and results in a $\ce{CO2}$ content of about 48 mL/100 mL
+- Typical $P_\text{v}\ce{CO2}$ is 6.1 kPa (~45.8 mmHg) and results in a $\ce{CO2}$ content of about 52 mL/100 mL
+- At physiological $P\ce{CO2}$, the $\ce{CO2}$ dissociation curve is essentially linear
+- Often drawn as two curves representing arterial and venous blood
+![[Pasted image 20260223212947.png]]
+
+
+> [!NOTE] Importance of Pre-Oxygenation During Intubation
+>  In total, the circulation and lungs contain approximately 2.5 L of immediately available $\ce{CO2}$ and 1550 mL of $\ce{O2}$. If a healthy patient stops breathing (e.g. on induction of general anaesthesia), basal processes will continue: 250 mL/min of $\ce{O2}$ will be consumed and 200 mL/min of $\ce{CO2}$ will be produced. Therefore:  $P\ce{CO2}$ will increase by 0.4–0.8 kPa/min. $P\ce{O2}$ will fall. The rate of fall is complicated, involving factors such as Hb concentration and total blood volume. Typically, $S_\text{a}\ce{O2}$ falls to 70% ($P\ce{O2}$ 5.0 kPa) after 2 min.  However, if the patient breathes $\ce{O2}$ for sufficient time to completely de-nitrogenate their functional residual capacity prior to the period of apnoea, the quantity of stored $\ce{O2}$ increases to over 3 L – even after 5 min of apnoea, $S_\text{a}\ce{O2}$ will remain at 100%. Basal metabolic processes will continue and after 5 min the $P_\text{a}\ce{CO2}$ will approach 10 kPa.
+
 
 # Source
 Chambers, D., Huang, C., Matthews, G., 2019. Basic Physiology for Anaesthetists, 2nd ed. Cambridge University Press. [https://doi.org/10.1017/9781108565011](https://doi.org/10.1017/9781108565011)
