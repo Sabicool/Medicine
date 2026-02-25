@@ -3,11 +3,11 @@ Rotations:
   - "[[02 Rotations/Respiratory|Respiratory]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[Intensive Care Unit]]"
-date: 2026-01-18
+date: 2026-02-23
 Next:
   - "[[Shock]]"
 tags:
-  - notes
+  - cards
 ---
 - Type 1: Hypoxaemia with normal (or low) Pa$\ce{CO2}$
 	- Primarily a failure of oxygenation
@@ -32,6 +32,20 @@ tags:
 	- Muscular weakness (Guillain-Barré syndrome, myaesthenia gravis, muscular dystrophy)
 	- Drug intoxication (opioid, sedative)
 	- Poisoning (carbon monoxide, opioid)
+![[Pasted image 20260223224158.png]]
+- Most common aetiologies for acute dyspnoea in hospitalised patients:
+	- Alveolar problem
+		- Flash [[Acute Pulmonary Oedema|Pulmonary oedema]] (e.g. due to tachyarrhythmia, ischaemica/ACS, hypertensive emergency, TACO)
+		- Aspiration pneumonitis
+		- TRALI
+	- Airway problem
+		- Anaphylaxis
+		- Angioedema
+		- Mucous plug
+		- Endotracheal tube dislodgement
+	- Pulmonary embolism
+	- Pneumothorax (post-procedure)
+	- Tamponade (post-procedure, post-MI)
 # Overview of Assessment and Management
 1. Always call for help
 2. Give oxygen
@@ -73,16 +87,36 @@ tags:
 		- [Asthma Exacerbation](Asthma%20Exacerbation.md) (Pa$\ce{CO2}$ rises very late)
 		- [Pulmonary Embolism](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md)
 		- [Pneumothorax](01%20Disciplines/Respiratory/Conditions/Pneumothorax.md)
+# Suggested Diagnosis
+## By History
+- Cardiovascular risk factors (e.g. HTN, DM, smoking, prior MI) ⇒ [[Acute Pulmonary Oedema|APO]]
+- Aspiration risk factors (e.g. post-stroke, sedating medications) ⇒ Aspiration
+- Intrathoracic pressure within the last 24 hours:
+	- Thoracocentesis, central line, PPM insertion ⇒ [[Pneumothorax]]
+	- Pericardiocentesis, PPM lead extraction ⇒ tamponade
+- New medication started recently
+	- Anphylaxis (<6 hrs)
+	- Angiodema (days)
+- Transfusion within last 6 hours ⇒ TACO, TRALI
+## By Exam Finding
+- Hypotension ⇒ [[Pulmonary Embolism|PE]], [[Acute Coronary Syndromes|ACS]], [[Pneumothorax]], tamponade, [[Anaphylaxis]]
+- Bilateral crackles ⇒ [[Acute Pulmonary Oedema|APO]], Aspiration
+- Wheezing ⇒ Non-specific
+- Asymmetric lung findings ⇒ Aspiration, [[Pneumothorax]], mucous plug, ET tube dislodgement
+- Signs of DVT ⇒ [[Pulmonary Embolism|PE]]
 # Investigations
-- Investigations to consider
-	- [[ECG Interpretation|ECG]]
-	- [[Blood Gas Interpretation|ABG]]
+- Investigations to consider and typical prioritisation in acute respiratory distress
 	- [[Lung POCUS]]
 	- [[Chest X-ray]]
+	- [[ECG Interpretation|ECG]]
+	- [[Blood Gas Interpretation|ABG]]
+	- Other labs including FBC, CMP, troponin, lactate, D-dimer
 	- [[Echocardiogram]]
 	- CTPA
 # Management
-- Use supplemental oxygen in all hypoxic patients with high-flow oxygen at 15 L/min through a mask with a reservoir
+- Sit patient upright
+- Do not neglect airway issues and place heavy importance of suctioning if relevant (e.g. aspiration, mucous plugging)
+- Use supplemental oxygen in all hypoxic patients with high-flow oxygen at 15 L/min through a mask with a reservoir, (target oxygen saturation > 90-92%)
 	- High inspired oxygen concentrations do not depress ventilation in patients who are in respiratory distress
 	- In patients with COPD who chronically retain $\ce{CO2}$ titrate use of a venturi mask
 		- Giving too much oxygen to patients who chronically retain $\ce{CO2}$ causes a rise in Pa$\ce{CO2}$ because:
@@ -90,15 +124,19 @@ tags:
 			- Haldane effect (haemoglobin molecules release $\ce{CO2}$ in the presence of oxygen)
 			- Blunting of the hypoxic drive; these patients depend on mild hypoxia to stimulate their respiratory centre
 		- If unsure if they are a chronic retainer, check any previous blood gas results
-		- Begin impirical $\ce{O2}$ treatment under pulse oximetry monitoring
+		- Begin empirical $\ce{O2}$ treatment under pulse oximetry monitoring
 		- Increase/decrease oxygen delivery until $\ce{O2}$ saturation is 88-92% by using different oxygen mixers in a venturi mask or changing the flow rate in a simple mask
 		- Recheck blood gases and watch for a change in $P\ce{CO2}$:
 			- Continue with current therapy if $\ce{CO2}$ is normalising
 			- Decrease oxygen deliver if $\ce{CO2}$ is increasing but maintain $\ce{O2}$ saturation of 88-92%
 				- If $\ce{CO2}$ is increasing and you are unable to maintain oxygen saturation >88%, the patient requires assisted ventilation (BiPAP) *see ventilation below*
 - Blood gases are necessary to determine the adequacy of ventilation (can use either venous or arterial as it will likely not influence immediate management)
-- Consider bronchodilators (see: [[COPD#Exacerbation of COPD|COPD Exacerbation]])
+- If wheezing, consider bronchodilators (see: [[COPD#Exacerbation of COPD|COPD Exacerbation]]) perhaps nebulised
+	- Rule out tachy-arrythmia or demand related ischaemia if you can prior
+- If signs of [[Acute Pulmonary Oedema|APO]] consider nitrates if BP tolerates
+	- Avoid jumping to diuretics in a euvolaemic patient with pulmonary oedema
 - Consider reversing opiates
+- Consider NIV
 ## Ventilation
 - Ensure the patient has not received respiratory depressants (e.g. opioids) in the past 24 hours (e.g. check pupils)
 	- Give ==naloxone 0.2mg up to 2mg IV, SC or IM every 5 minutes== repeated until alert
