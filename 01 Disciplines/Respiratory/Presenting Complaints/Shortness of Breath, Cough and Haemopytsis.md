@@ -9,10 +9,11 @@ Rotations:
   - "[[02 Rotations/Respiratory|Respiratory]]"
   - "[[02 Rotations/Cardiology|Cardiology]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
-date: 2025-11-09
+date: 2026-02-25
 tags:
   - cards
 ---
+- Also see [[Acute Respiratory Failure]]
 # Phone Call/Presentation Questions
 - Reason for admission
 - Is the patient symptomatic:

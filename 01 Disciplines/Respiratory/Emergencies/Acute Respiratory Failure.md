@@ -3,11 +3,13 @@ Rotations:
   - "[[02 Rotations/Respiratory|Respiratory]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[Intensive Care Unit]]"
-date: 2026-02-23
+date: 2026-02-25
 Next:
   - "[[Shock]]"
 tags:
   - cards
+aliases:
+  - Acute Respiratory Distress
 ---
 - Type 1: Hypoxaemia with normal (or low) Pa$\ce{CO2}$
 	- Primarily a failure of oxygenation
@@ -130,7 +132,7 @@ tags:
 			- Continue with current therapy if $\ce{CO2}$ is normalising
 			- Decrease oxygen deliver if $\ce{CO2}$ is increasing but maintain $\ce{O2}$ saturation of 88-92%
 				- If $\ce{CO2}$ is increasing and you are unable to maintain oxygen saturation >88%, the patient requires assisted ventilation (BiPAP) *see ventilation below*
-- Blood gases are necessary to determine the adequacy of ventilation (can use either venous or arterial as it will likely not influence immediate management)
+- Blood gases are necessary to determine the adequacy of ventilation (can use either venous or arterial as it will likely not influence immediate management) - see [[Blood Gas Interpretation|ABG Interpretation]]
 - If wheezing, consider bronchodilators (see: [[COPD#Exacerbation of COPD|COPD Exacerbation]]) perhaps nebulised
 	- Rule out tachy-arrythmia or demand related ischaemia if you can prior
 - If signs of [[Acute Pulmonary Oedema|APO]] consider nitrates if BP tolerates
