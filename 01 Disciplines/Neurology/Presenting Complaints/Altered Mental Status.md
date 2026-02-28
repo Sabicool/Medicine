@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-date: 2025-04-05
+date: 2026-02-28
 aliases:
   - Depressed Consciousness
   - Delirium
@@ -41,10 +41,11 @@ aliases:
 	- Head trauma: subdural or extradural haematoma
 	- Seizures: post-ictal, complex partial
 	- Cerebral vasculitis: SLE, polyarteritis nodosa
-- Drugs
+- Drugs (especially in the context of new meds, ↑ medication doses or AKI)
+	- Illicit drug substances
 	- Alcohol
 	- Narcotic and sedative drug excess or withdrawal
-	- Psychotropic medications (TCAs, lithium, phenothiazines, MAOIs, benzodiasepines, SSRIs)
+	- Psychotropic medications (TCAs, lithium, phenothiazines, MAOIs, benzodiasepines, SSRIs) (e.g. serotonin syndrome & NMS)
 	- Miscellaneous (steroids, antihistamines, anticholinergics, levodopa)
 - Metabolic
 	- Hyper/hypoglycaemia
@@ -169,6 +170,7 @@ aliases:
 	- Medication chart
 		- Look for newly prescribed medications and potential drug interactions
 		- Look at the list of medications normally taken at home; consider if an important medication has been omitted e.g. anti-hypertensive
+		- Look at hypoglycaemic medication
 		- Consider dose adjusting medications that might need renal or hepatic adjustment
 # Examination
 
