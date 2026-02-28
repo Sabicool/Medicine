@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Cardiology|Cardiology]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
-date: 2025-02-19
+date: 2026-02-28
 ---
 - Note that it is not the absolute BP level that dictates the need for intervention, but rather the threat to organ dysfunction
 
@@ -34,7 +34,8 @@ date: 2025-02-19
 - Hypertension associated with acute end-organ damage needs to be seen immediately (hypertensive emergency)
 - Hypertension in an asymptomatic patient does not need to be assessed immediately irrespective of how high the BP is; the BP can be safely brought under control over the following hours or days[^1]
 # Common Causes *(Corridor Thoughts)*
-- Essential hypertension
+- [[Essential Hypertension]]
+	- Especially outpatient anti-hypertensives being withheld
 - Secondary hypertension
 	- Obstructive uropathy, renal artery stenosis, chronic pyelonephritis
 	- Glomerulonephritis, diabetic renal disease, polycystic kidney disease
@@ -42,6 +43,8 @@ date: 2025-02-19
 	- Autoimmune disease such as SLE or scleroderma
 - Medications
 	- Corticosteroids, oral contraceptive pill, NSAIDs
+	- Serotonin syndrome
+	- Neuroleptic malignant syndrome
 - Catecholamine related
 	- Phaeochromacytoma
 	- Drug overdose (especially cocaine, amphetamines, ecstasy)
@@ -52,7 +55,8 @@ date: 2025-02-19
 - Neurogenic
 	- Anxiety (e.g. white coat hypertension, unexpected/distressing hospital admission)
 	- Raised intracranial pressure (e.g. Cushing's reflex of hypertension and bradycardia)
-	- Cerebral ischaemia (e.g stroke)
+	- Cerebral ischaemia (e.g [[Stroke]])
+	- Autonomic dysreflexia (e.g. following high spinal cord injury)
 - Other
 	- Preeclampsia
 	- Coarctation of the aorta
@@ -60,8 +64,13 @@ date: 2025-02-19
 	- Hypercalcaemia
 	- Hyperparathyroidism
 	- Sleep apnoea
+	- Hyperactive delirium
 - Other miscellaneous that cause transient ↑ BP: pain, bladder distension, alcohol or nicotine withdrawal, agitation and anxiety
 # Assessment
+> [!NOTE] 
+> It is important to distinguish hypertension as the complication of a suspected disease from the aetiologies of hypertension and importantly not mutually exclusive
+> ![[Pasted image 20260228221311.png]]
+
 ## End of Bed
 - The initial appearance often undermines the situation; even a patient with hypertensive encephalopathy may look deceptively well
 ## A → E Assessment
@@ -139,9 +148,11 @@ date: 2025-02-19
 		- Evidence of heart failure
 		- Widened mediastinum
 # Specific Management
+![[Pasted image 20260228222009.png]]
 
 > [!NOTE] 
 > - Overly aggressive treatment may cause syncope, cortical blindness with occipital stroke, myocardial ischaemia. Do not treat the BP reading, only treat the complication(s) associated with it
+> 	- Typically reduce by 10-20% within first hour and another 5-15% within the next day
 > - Severe hypertension (SBP>180 mmHg) is common in hospitalised patients and usually has no features of a hypertensive emergency and a high reading alone does not require urgent treatment
 - Isolated hypertension
 	- Exclude end-organ dysfunction: history, examination, urinalysis, ECG, renal function
@@ -184,6 +195,7 @@ date: 2025-02-19
 - Diuretics are avoided as the patient is already volume-depleted from an activated renin–angiotensin system, despite being hypertensive.
 # Sources
 1. FRCEM AFTBAFFF, FFSEM MCMMbcF, FACEM ACMMc. Marshall & Ruedy’s On Call: Principles & Protocols. 3rd edition. Elsevier; 2016. Chapter 19 Hypertension
+2. [Acute Hypertension - Strong Medicine | Youtube](https://www.youtube.com/watch?v=tmcb3IeCo7g&list=PLYojB5NEEakXRxT23Q19h5-irLOh4pB2e&index=5)
 # Footnotes
 
 [^1]: According to On Call
