@@ -5,8 +5,6 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
 date: 2026-02-28
-Next:
-  - "[[Unconsciousness]]"
 ---
 # Definition
 - Physiologic state characterised by a systemic impairment in oxygen delivery as a result of reduced tissue perfusion, almost universally mediated by low blood pressure
@@ -105,6 +103,9 @@ $$
 > - A JVP of 2-3 cm above the sternal angle is normal in adult patients; volume-overloaded patients have a JVP >3cm
 > - Pressing on the abdomen induces the hepatojugular reflux which increases the level of the JVP which may make it easier to identify
 > ![](Attachments/Pasted%20image%2020241216160849.png)
+## Distinguishing Shock Type
+![[Pasted image 20260228192323.png]]
+
 # Management
 - Give oxygen and rapid IV fluid replacement (provided no evidence of cardiac failure)
 	- Maintain SpO2>95%
