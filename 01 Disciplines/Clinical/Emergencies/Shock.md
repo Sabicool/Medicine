@@ -166,3 +166,23 @@ $$
 	- Albumin has a half-life in the intravascular space of around 17-20 hours
 	- They are more expensive and may cause allergic reactions
 - 5% dextrose equilibrates across the intravascular, interstitial and intracellular spaces and does not support the intravascular volume and therefore has *no role* in fluid resuscitation in shock
+## General Principles
+- The most critical aspect of treatment is the prompt restoration of normal haemodynamics therefore the priorities are[^1]:
+	1. Pulse, ventilation and oxygenation
+	2. Fluids (unless it is obvious that the patient has cardiogenic shock)
+	3. ‘Pressors’ (i.e. vasopressors and inotropes)
+	4. Everything else
+![[Pasted image 20260228203914.png]]
+### IV Fluid Resuscitation
+- Fluid responsiveness is present when stroke volume or cardiac output increases by ≥ 15% after receiving a 500mL bolus of IV fluid
+- IV fluid resuscitation should be used in patients who are fluid responders which can be tested in:
+	- Spontaneously breathing patients by:
+		- Change in pulse pressure ≥ 9% to passive leg raise
+		- Collapsibility of IVC with inspiration
+	- Fully sedated & mechanically ventilated patient by:
+		- A significant difference between the max stroke volume and/or pulse pressure (at end of inspiration) and minimum stroke volume and/or pulse pressure (at end of expiration)
+- Preferred fluid for resuscitation
+	- Colloids offer no benefit over crystalloids for resuscitation 
+
+
+[^1]: Except for in obstructive shock, where the obstructive cause must be dealt with first (e.g. tension pneumothorax)
