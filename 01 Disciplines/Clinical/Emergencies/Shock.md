@@ -105,7 +105,25 @@ $$
 > ![](Attachments/Pasted%20image%2020241216160849.png)
 ## Distinguishing Shock Type
 ![[Pasted image 20260228192323.png]]
-
+- Estimating CVP
+	- JVP is generally a good substitute for CVP
+		- The right atrium is assumed to lie 5cm closer to the ground than the sternal angle at all positions (supine, fully upright or 30-45 degrees)
+		- Therefore CVP in cm of water can be estimated by the following formula where normal is <8
+			- $\text{CVP} \approx \text{Height of JVP above sternal angle} + 5$
+	- Bedside ultrasound
+		- Place in subxiphoid/subcostal area and orient head to toe
+		- Measure the IVC diameter and collapsibility with sharp inspiration (ask the patient to ‘sniff’)
+		- ![[Pasted image 20260228201025.png]]
+		- ![[Pasted image 20260228201044.png]]
+- Estimating CO
+	- Using LV function on ultrasound as a substitute for CO
+	- Use the ultrasound in the parasternal long axis view
+- SVR
+	- Can be estimated by high SVR ⇒ cool extremities
+![[Pasted image 20260228202223.png]]
+- More than one type of shock may co-exist in the same patient for example:
+	- Sepsis + hypovolaemia
+	- Sepsis + sepsis induced cardiomyopathy
 # Management
 - Give oxygen and rapid IV fluid replacement (provided no evidence of cardiac failure)
 	- Maintain SpO2>95%
