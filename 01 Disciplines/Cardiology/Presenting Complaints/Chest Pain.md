@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
-date: 2026-01-11
+date: 2026-02-28
 tags:
   - cards
 ---
@@ -41,6 +41,8 @@ tags:
 	- [[Acute Coronary Syndromes|ACS]]
 	- Acute aortic dissection
 	- [[Pericarditis]]
+	- [[Arrhythmias]]
+	- [[Hypertension|Hypertensive emergency]]
 - Respiratory
 	- [[Pulmonary Embolism|PE]]
 	- [[Pneumonia]]
@@ -124,9 +126,10 @@ Prioritise assessing C in stable patients; see immediate management below
 			- If bases has signs of pulmonary oedema with an S3 gallop tachypnoea and basal crackles, treat as cardiogenic [[shock]]
 	- Establish IV access with two cannulae in peripheral veins if not done so already
 		- Draw and send bloods for: FBC, UEC, cardiac biomarkers (troponin I and T) and caogulation profile
-	- Examine for signs of shock: (tachcardia and CRT ≥3 seconds) and/or abnormal skin perfusion and/or hypotension
+	- Examine for signs of shock: (tachcardia and CRT ≥3 seconds) and/or abnormal skin perfusion and/or hypotension (see [[Shock]])
 		- If shock (as above) and/or SBP <90mmHg give 250mL of 0.9% saline bolus
 		- Monitor patients with CCF for signs of fluid overload
+	- Consider IV metoprolol if in sinus tachycardia and the patient is not hypotensive and demand ischaemia is the suspected cause of chest pain
 - D
 	- Measure GCS
 	- Manage pain (see [[Pain Management]]) if not done so already
@@ -227,6 +230,12 @@ As from: https://aci.health.nsw.gov.au/ecat/adult/chest-pain and [eTG: Acute Che
 
 # Investigations
 - Bedside:
+	- ECG
+	- POCUS
+		- Acutely ↓ contractility ⇒ [[Acute Coronary Syndromes|ACS]]
+		- Lack of lung sliding ⇒ [[Pneumothorax]]
+		- Dilated RV and flattening of LV septum ⇒ [[Pulmonary Embolism|PE]]
+		- Pericardial effusion ⇒ [[Pericarditis]]
 - Bloods:
 	- Take blood for FBC, coags, BSL, UEC, LFT, cardiac enzymes
 	- D-dimer if low pre-test probability for [[Pulmonary Embolism|PE]]
