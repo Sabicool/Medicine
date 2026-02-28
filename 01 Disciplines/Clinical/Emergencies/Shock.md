@@ -182,7 +182,21 @@ $$
 	- Fully sedated & mechanically ventilated patient by:
 		- A significant difference between the max stroke volume and/or pulse pressure (at end of inspiration) and minimum stroke volume and/or pulse pressure (at end of expiration)
 - Preferred fluid for resuscitation
-	- Colloids offer no benefit over crystalloids for resuscitation 
+	- Colloids offer no benefit over crystalloids for resuscitation
+	- Give 1-2 L at a time in patients without a history of CHF or ESRD
+		- 30mL/kg of crystalloid is recommended as an initial fluid challenge
+	- Give 500 - 1000 mL at a time in patients with mild-moderate CHF or ESRD
+	- Give 250 mL at a time in patients with severe CHF
+	- Patients should be reassessed after each IVF bolus until shock is resolved
+- Determining adequacy of resuscitation
+	- MAP ≥ 65 mmHg
+	- CVP = 8-12 mmHg[^2]
+	- Urine output ≥ 0.5 mL/kg/hr
+	- $S_\text{CV}\ce{O2}$ ≥ 70%
+	- Normalised lactate if initially abnormal
+	- Normalised mental status if initially abnormal
+	- Note that heart rate is not a reliable indicator of volume status
 
 
 [^1]: Except for in obstructive shock, where the obstructive cause must be dealt with first (e.g. tension pneumothorax)
+[^2]: CVP is a poor predictor of fluid responsiveness
