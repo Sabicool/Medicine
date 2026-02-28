@@ -11,6 +11,27 @@ Next:
 # Definition
 - Physiologic state characterised by a systemic impairment in oxygen delivery as a result of reduced tissue perfusion, almost universally mediated by low blood pressure
 # Causes
+## Physiology
+$$
+\underset{\text{Perfusion Pressure}}{\text{MAP} - \text{CVP}} = \text{CO} \times \text{SVR}
+$$
+- MAP = mean arterial pressure
+- CVP = central venous pressure (pressure in the vena cava)
+- CO = cardiac output
+	- $\text{CO}=\text{HR}\times \text{SV}$
+	- Stroke volume is dependent upon preload, contractility and afterload
+- SVR = systemic vascular resistance
+- Low perfusion pressure must therefore be due to:
+	- Low preload ⇒ 
+		- hypovolaemic (e.g. trauma, GI haemorrhage, severe diarrhoea)
+		- obstructive ∵ of obstruction to venous return to the LV (e.g. massive PE, pericardial tamponade, tension pneumothorax)
+		- tachycardic arrythmogenic shock because of short diastolic filling time
+	- Low contractility ⇒ cardiogenic (e.g. Acute MI, severe heart failure exacerbation, viral myocarditis)
+	- Low heart rate ⇒
+		- Bradycardic arrhythmogenic shock
+	- Low systemic vascular resistance ⇒ distributive (e.g. sepsis, anaphylaxis, spinal cord trauma)
+	- Other types:
+		- Toxin-mediated shock (e.g. cyanide and carbon monoxide)
 ## Classification
 - Hypovolaemic shock
 	- Haemorrhagic
@@ -36,6 +57,25 @@ Next:
 	- Dynamic hyperinflation: Excessive ventilation with severe bronchospasm ([Asthma Exacerbation](Asthma%20Exacerbation.md), [COPD](01%20Disciplines/Respiratory/Conditions/COPD.md))
 
 ![](Attachments/Pasted%20image%2020241216122047.png)
+# Features
+- Neurological
+	- Altered mental status (agitation → delirium → solmnolence)
+- Respiratory
+	- ↑ respiratory rate
+	- ↓ oxygen saturation
+- Cardiovascular
+	- ↑ heart rate
+	- ↑ troponin
+	- ↓ blood pressure
+- Hepatological
+	- ↑ bilirubin, AST, ALT
+- Nephrology
+	- ↓ Urine output
+	- ↑ Creatine
+- Haematological
+	- ↑/↓ platelets
+	- ↑ INR which can lead to DIC
+	- ↑ lactate and ↓ $\ce{HCO3-}$
 # Assessment
 - Identify the possible cause as above, assessing volume status and JVP and examining the ECG
 	- A low/non-visible JVP suggests hypovolaemic or distributive shock
