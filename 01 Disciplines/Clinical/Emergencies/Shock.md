@@ -217,7 +217,6 @@ $$
 	- Noradrenaline is associated with serious arrhythmias
 	- Cardiac output is known to be high
 	- Other approaches have failed
-- 
 # Appendix
 
 | Drug                      | Alpha-1 | Beta-1 | Beta-2 | Dopamine | Effect on SVR | Effect on HR | Effect on CO | Effect on BP |
@@ -234,6 +233,7 @@ $$
 | Isoprenaline)             | 0       | +++    | +++    | 0        | ↓             | ↑            | ↑↑           | ↓ / ↔ / ↑    |
 | Milrinone (PDE inhibitor) | 0       | 0      | 0      | 0        | ↓             | ↔            | ↑↑           | ↓ / ↔ / ↑    |
 # Sources
+- [Shock Playlist | Strong Medicine - Yotuube](https://www.youtube.com/playlist?list=PLYojB5NEEakXi2wW00LkbkcaESav1Quk9)
 
 [^1]: Except for in obstructive shock, where the obstructive cause must be dealt with first (e.g. tension pneumothorax)
 [^2]: CVP is a poor predictor of fluid responsiveness

@@ -50,6 +50,9 @@ date: 2025-12-25
     - [[Lung POCUS]]
     - [[Transcutaneous Pacing]]
 
+- Topics: 
+    - [[Sodium and Potassium Homeostasis]]
+
 <!-- SerializedQuery END -->
 # Medications
  <!-- QueryToSerialize: list from "03 Medications" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) sort file.name asc -->

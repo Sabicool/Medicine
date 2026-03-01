@@ -1,5 +1,5 @@
 ---
-date: 2026-01-25
+date: 2026-03-01
 aliases:
   - ICU
 ---
@@ -13,6 +13,7 @@ aliases:
     - [[COPD Exacerbation]]
     - [[Hypercalcaemia]]
     - [[Hyperkalaemia]]
+    - [[Hyponatraemia]]
     - [[Necrotising Skin Infections]]
     - [[Sepsis]]
     - [[Ventricular Tachycardia]]
@@ -38,6 +39,7 @@ aliases:
 
 - Topics: 
     - [[Respiratory Physiology]]
+    - [[Sodium and Potassium Homeostasis]]
 
 <!-- SerializedQuery END -->
 # Medications to Know
@@ -49,3 +51,28 @@ aliases:
     - [[Inotropes]]
 
 <!-- SerializedQuery END -->
+# Principles
+- DVT prophylaxis
+	- All ICU patients should receive DVT prophylaxis unless there is a contraindication (e.g., hemorrhage, platelet count <30-50, planned lumbar puncture)
+	- GFR >30 ml/min: Generally enoxaparin 40 mg daily
+		- Weight <50 kg: use enoxaparin 30 mg daily
+		- Weight >120 kg: consider ~0.25 mg/kg q12hr
+	- GFR <30 ml/min: Use heparin 5,000 IU TID
+- GI prophylaxis
+	- As a simple rule of thumb, use GI prophylaxis only for intubated patients.
+	- Preferred agent is pantoprazole 40 mg PO/IV daily.
+- Medications to avoid in ICU
+	- NSAIDs (renal failure, bleeding).
+	- ACEi/ARBs (avoid unless there is a specific strong indication for them, such as flash pulmonary edema or severe systolic heart failure).
+	- Fluoroquinolones[^1]
+	- Benzodiazepines, zolpidem, diphenhydramine (delirium). (However, for patients on these medications _chronically_ they often must be continued).
+- Anaemia
+	- Avoid transfusions if hemoglobin is >70
+	- Only transfuse one unit at a time (unless hemodynamically unstable, or severe anaemia)
+- Volume Status & Hypotension
+	- ICU patients usually retain fluid and develop volume overload.
+	- Avoid giving fluid boluses unless the patient is clearly volume depleted.
+	- Follow I/O balance daily and avoid progressive volume overload (e.g., with diuresis).
+
+
+[^1]: See here [PulmCrit - Six reasons to avoid fluoroquinolones in the critically ill](https://emcrit.org/pulmcrit/fluoroquinolone-critical-illness/)
