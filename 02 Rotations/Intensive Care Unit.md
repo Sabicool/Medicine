@@ -104,7 +104,16 @@ aliases:
 	- Screen for ischemia with a good history and careful evaluation of the ECG
 	- Don't measure troponin unless there is a legitimate concern for MI based on history and/or ECG and/or echocardiogram.
 	- Most critically ill patients will have elevated troponin levels. Checking troponin on every patient will generate false-positive results and lead to iatrogenic harm
-- 
+- Sedation
+	- Propofol
+		- Easily & rapidly titrated.
+		- May cause hypotension, but this can be counteracted with an infusion of low-dose norepinephrine (e.g. ~0-8 mcg/min).
+		- Use of high propofol doses for prolonged periods of time may cause hypertriglyceridemia and a risk of propofol infusion syndrome. Over extended periods of time, it's ideal to wean the dose down to <50 mcg/kg/min.
+	- Dexmedetomidine
+		 - The major advantage of dexmedetomidine is that it doesn't suppress respiration, making it safe to use in a non-intubated patient
+			 - Therefore, dexmedetomidine may be continued _throughout_ the weaning process (unlike propofol, which must be shut off prior to extubation)
+			 - This is an excellent option for patients who develop anxiety and tachypnea whenever sedation is lifted, making it difficult to extubate them
+		- Dexmedetomidine may cause hypotension due to bradycardia, but this can be counteracted with an infusion of low-dose epinephrine if the use of dexmedetomidine is critical.
 
 [^1]: See here [PulmCrit - Six reasons to avoid fluoroquinolones in the critically ill](https://emcrit.org/pulmcrit/fluoroquinolone-critical-illness/)
 [^2]: Patients with cirrhosis and elevated INR are generally not coagulopathic and generally do require DVT prophylaxis
