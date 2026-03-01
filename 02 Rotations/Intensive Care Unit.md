@@ -87,7 +87,10 @@ aliases:
 - Volume Status & Hypotension
 	- ICU patients usually retain fluid and develop volume overload.
 	- Avoid giving fluid boluses unless the patient is clearly volume depleted.
-	- Follow I/O balance daily and avoid progressive volume overload (e.g., with diuresis).
+	- Follow I/O balance daily and avoid progressive volume overload (e.g., with diuresis)
+	- LR is generally the fluid of choice in the ICU with the following two exceptions:
+		1.  Patients with elevated intracranial pressure (normal saline may be preferable).
+		2. Patients with metformin-induced lactic acidosis (optimal fluid in this situation is hotly debated, but it's not LR
 - [[Hyponatraemia]]
 	- Hypernatraemia should _not_ be tolerated, as it will make patients delirious and miserable (thirsty) (One exception = intracranial pressure elevation)
 	- Calculate the amount of free deficit (otherwise we tend to underestimate water requirements)
@@ -113,7 +116,15 @@ aliases:
 		 - The major advantage of dexmedetomidine is that it doesn't suppress respiration, making it safe to use in a non-intubated patient
 			 - Therefore, dexmedetomidine may be continued _throughout_ the weaning process (unlike propofol, which must be shut off prior to extubation)
 			 - This is an excellent option for patients who develop anxiety and tachypnea whenever sedation is lifted, making it difficult to extubate them
-		- Dexmedetomidine may cause hypotension due to bradycardia, but this can be counteracted with an infusion of low-dose epinephrine if the use of dexmedetomidine is critical.
+		- Dexmedetomidine may cause hypotension due to bradycardia, but this can be counteracted with an infusion of low-dose epinephrine if the use of dexmedetomidine is critical
+- NIV
+	- Titrating NIV settings
+		- **Cardiogenic pulmonary edema**
+		    - Key here is the _expiratory pressure_ (this increases the mean airway pressure and thereby decreases preload & afterload).
+		    - Ramp up expiratory pressure until the patient improves (e.g. 10/5 ==> 15/10 ==> 18/15), It’s also fine to simply use continuous positive airway pressure (CPAP). In that case, escalate CPAP pressure from 5 ==> 10 ==> 15 cm.
+		- **Hypercapnia (e.g., COPD or obesity hypoventilation syndrome)**
+		    - The key here is _driving pressure_ (inspiratory pressure _minus_ expiratory pressure), which supports the work of breathing.
+		    - Ramp up the driving pressure until the patient improves (e.g. 10/5 ==> 15/5 ==> 18/5).
 
 [^1]: See here [PulmCrit - Six reasons to avoid fluoroquinolones in the critically ill](https://emcrit.org/pulmcrit/fluoroquinolone-critical-illness/)
 [^2]: Patients with cirrhosis and elevated INR are generally not coagulopathic and generally do require DVT prophylaxis
