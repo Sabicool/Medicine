@@ -4,7 +4,7 @@ aliases:
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-date: 2026-02-28
+date: 2026-03-01
 ---
 # Definition
 - Physiologic state characterised by a systemic impairment in oxygen delivery as a result of reduced tissue perfusion, almost universally mediated by low blood pressure
@@ -104,7 +104,7 @@ $$
 > - Pressing on the abdomen induces the hepatojugular reflux which increases the level of the JVP which may make it easier to identify
 > ![](Attachments/Pasted%20image%2020241216160849.png)
 ## Distinguishing Shock Type
-![[Pasted image 20260228192323.png]]
+![[Pasted image 20260228192323.png|358]]
 - Estimating CVP
 	- JVP is generally a good substitute for CVP
 		- The right atrium is assumed to lie 5cm closer to the ground than the sternal angle at all positions (supine, fully upright or 30-45 degrees)
@@ -113,8 +113,8 @@ $$
 	- Bedside ultrasound
 		- Place in subxiphoid/subcostal area and orient head to toe
 		- Measure the IVC diameter and collapsibility with sharp inspiration (ask the patient to ‘sniff’)
-		- ![[Pasted image 20260228201025.png]]
-		- ![[Pasted image 20260228201044.png]]
+		- ![[Pasted image 20260228201025.png|304]]
+		- ![[Pasted image 20260228201044.png|320]]
 - Estimating CO
 	- Using LV function on ultrasound as a substitute for CO
 	- Use the ultrasound in the parasternal long axis view
@@ -172,7 +172,7 @@ $$
 	2. Fluids (unless it is obvious that the patient has cardiogenic shock)
 	3. ‘Pressors’ (i.e. vasopressors and inotropes)
 	4. Everything else
-![[Pasted image 20260228203914.png]]
+![[Pasted image 20260228203914.png|448]]
 ### IV Fluid Resuscitation
 - Fluid responsiveness is present when stroke volume or cardiac output increases by ≥ 15% after receiving a 500mL bolus of IV fluid
 - IV fluid resuscitation should be used in patients who are fluid responders which can be tested in:
@@ -196,7 +196,11 @@ $$
 	- Normalised lactate if initially abnormal
 	- Normalised mental status if initially abnormal
 	- Note that heart rate is not a reliable indicator of volume status
-
+### Pressors
+![[Pasted image 20260301143438.png]]
+- Adrenoceptors
+	- 
+# Sources
 
 [^1]: Except for in obstructive shock, where the obstructive cause must be dealt with first (e.g. tension pneumothorax)
 [^2]: CVP is a poor predictor of fluid responsiveness
