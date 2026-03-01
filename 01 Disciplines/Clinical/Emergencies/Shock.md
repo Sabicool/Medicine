@@ -199,7 +199,25 @@ $$
 ### Pressors
 ![[Pasted image 20260301143438.png]]
 - Adrenoceptors
-	- 
+	- $\alpha_1$ causes vasoconstriction ⇒ ↑ SVR
+	- $\beta_1$ causes inotropy and chronotropy ⇒ ↑ contractility and ↑ HR ⇒ ↑ CO
+	- $\beta_2$ causes vasodilation ⇒ ↓ SVR
+![[Pasted image 20260301145047.png]]
+# Appendix
+
+| Drug                      | Alpha-1 | Beta-1 | Beta-2 | Dopamine | Effect on SVR | Effect on HR | Effect on CO | Effect on BP |
+| ------------------------- | ------- | ------ | ------ | -------- | ------------- | ------------ | ------------ | ------------ |
+| Phenylephrine             | +++     | 0      | 0      | 0        | ↑↑            | ↔ / ↑        | ↓            | ↑↑           |
+| Vasopressin (V1 agonist)  | 0       | 0      | 0      | 0        | ↑↑            | ↔            | ↓            | ↑            |
+| Noradrenaline             | +++     | ++     | 0      | 0        | ↑↑            | ↑            | ↔ / ↑        | ↑↑           |
+| Adrenaline (Low dose)     | +       | +++    | ++     | 0        | ↓             | ↑            | ↑            | ↔ / ↑        |
+| Adrenaline (High dose)    | ++      | +++    | ++     | 0        | ↔ / ↑         | ↑            | ↑            | ↑↑           |
+| Dopamine (Low dose)       | 0       | +      | 0      | ++       | ↔             | ↑            | ↑            | ↑            |
+| Dopamine (Moderate dose)  | +       | ++     | 0      | ++       | ↑             | ↑            | ↑            | ↑↑           |
+| Dopamine (High dose)      | ++      | ++     | 0      | ++       | ↑↑            | ↔            | ↔ / ↑        | ↑↑           |
+| Dobutamine                | 0 / +   | +++    | ++     | 0        | ↓             | ↑            | ↑↑           | ↓ / ↔ / ↑    |
+| Isoprenaline)             | 0       | +++    | +++    | 0        | ↓             | ↑            | ↑↑           | ↓ / ↔ / ↑    |
+| Milrinone (PDE inhibitor) | 0       | 0      | 0      | 0        | ↓             | ↔            | ↑↑           | ↓ / ↔ / ↑    |
 # Sources
 
 [^1]: Except for in obstructive shock, where the obstructive cause must be dealt with first (e.g. tension pneumothorax)
