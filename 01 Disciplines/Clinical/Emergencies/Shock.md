@@ -203,6 +203,21 @@ $$
 	- $\beta_1$ causes inotropy and chronotropy ⇒ ↑ contractility and ↑ HR ⇒ ↑ CO
 	- $\beta_2$ causes vasodilation ⇒ ↓ SVR
 ![[Pasted image 20260301145047.png]]
+ 
+| Shock Type                                                                  | Strategy       | First Line Agents                       |
+| --------------------------------------------------------------------------- | -------------- | --------------------------------------- |
+| Septic shock                                                                | Pressor-first  | Noradrenaline or phenylephrine*         |
+| Refractory septic shock (refractory to phenylephrine and/or norepinephrine) | Add-on pressor | Vasopressin or adrenaline               |
+| Cardiogenic shock†                                                          | Inotrope-first | ? Dobutamine +/- dopamine               |
+|                                                                             |                | ? Dopamine                              |
+|                                                                             |                | ? Noradrenaline +/- dobutamine          |
+| Hypovolemic shock                                                           | Volume-first   | IV fluids only; no prolonged pressors   |
+| Mixed septic + cardiogenic shock or unknown etiology                        | Pressor-first  | Noradrenaline, ? adrenaline, ? dopamine |
+- Phenylephrine is not recommended in the treatment of septic shock except in the following circumstances:
+	- Noradrenaline is associated with serious arrhythmias
+	- Cardiac output is known to be high
+	- Other approaches have failed
+- 
 # Appendix
 
 | Drug                      | Alpha-1 | Beta-1 | Beta-2 | Dopamine | Effect on SVR | Effect on HR | Effect on CO | Effect on BP |
