@@ -4,7 +4,7 @@ Rotations:
 aliases:
   - Low urine output
   - Oliguria
-date: 2025-10-21
+date: 2026-03-02
 ---
 # Phone Call/Presentation Questions
 - What is the urine output? (How much urine has been passed in the past 24 hours)
@@ -156,13 +156,22 @@ date: 2025-10-21
 		- Pigmented granular casts are seen with ATN
 		- Oval fat bodies are suggestive of nephrotic syndrome
 # Immediate Management
-- Commence oxygen therapy to maintain saturation >94%
+> [!NOTE]
+> Every evaluation for ↓ urine output should begin with ruling out urinary retention
+- Nil IDC present:
+	- Check post void residual volume with a bladder scan and assess for urinary retention
+	- Insert an IDC to accurately monitor fluid balance
+		- Lower urinary tract obstruction by insertion of an IDC
+			- If there has been bladder outlet obstruction, the initial urine volume on catheterisation is usually >400 mL and the patient experiences immediate relief
+			- After catheterisation for urinary retention, watch for a post-obstructive diuresis by measuring urine volumes hourly
+- IDC present:
+	- Ensure IDC is not clogged or kinked
+		 - Flush a blocked IDC with 20-30mL sterile normal saline to resolve intraluminal blockage causing anuria
+- If obsstruction is ruled out:
+	- Assess volume status based on history, clinical situation, JVP and IVC ultrasound (do not give IV fluids to a patient in urinary retention)
+- Assess for kidney injury using bloods and urinalysis
+- Rule out emerging sepsis
 - Attach continuous non-invasive ECG, BP and pulse oximeter monitoring to the patient
-- Insert an IDC to accurately monitor fluid balance
-- Lower urinary tract obstruction by insertion of an IDC
-	- If there has been bladder outlet obstruction, the initial urine volume on catheterisation is usually >400 mL and the patient experiences immediate relief
-	- After catheterisation for urinary retention, watch for a post-obstructive diuresis by measuring urine volumes hourly
- - Flush a blocked IDC with 20-30mL sterile normal saline to resolve intraluminal blockage causing anuria
 ## Life Threatening Complications
 - Severe hyperkalaemia:
 	- Give 10% calcium chloride 10mL IV over 2-3 minutes to provide immediate cardioprotection to prevent cardiac arrest
