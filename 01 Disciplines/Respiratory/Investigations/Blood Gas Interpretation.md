@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[Anaesthetics]]"
-date: 2026-02-23
+date: 2026-03-03
 aliases:
   - ABG Interpretation
 tags:
@@ -92,7 +92,7 @@ tags:
 	- Anion gap unrelated to metabolic acidosis:
 		- High anion gap can be due to metabolic alkalosis, hyperphosphataemia
 		- Low anion gap can be due to hypoalbuminaemia, ↑ $\ce{K+}$, ↑ $\ce{Ca^{2+}}$, ↑ $\ce{Mg^{2+}}$, Severe lithium toxicity, bromide ingestion (some machines mistake bromine for chlorine; [[Myaesthenia gravis]] medications can contain bromine)
-	- Adjust anion gap for hypoalbuminaemia:
+	- Adjust anion gap for hypoalbuminaemia[^4]:
 		$$
 		\text{AG}_\text{adjusted}=\text{AG}_\text{measured}+0.25\times(40-[\text{Alb}])
 		$$
@@ -479,3 +479,4 @@ $$
 [^1]: With the exception being patients with extreme diets (e.g. severe anorexia)
 [^2]: The normal A-a gradient also increases with higher $F_\text{I}\ce{O2}$ and may be >100 mmHg in an elderly patient on 100% $\ce{O2}$
 [^3]: This is the approach for the ‘Boston’ approach or standard approach
+[^4]: Although apparently the evidence for this was from Figge in 1998 and is flawed (see: [Mythbusting: Correcting the anion gap for albumin is not helpful](https://emcrit.org/pulmcrit/mythbusting-correcting-the-anion-gap-for-albumin-is-not-helpful/))
