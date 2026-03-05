@@ -4,7 +4,7 @@ aliases:
 Rotations:
   - "[[Intensive Care Unit]]"
   - "[[Emergency Medicine]]"
-date: 2026-03-04
+date: 2026-03-05
 tags:
   - notes
 ---
