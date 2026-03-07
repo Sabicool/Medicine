@@ -7,7 +7,7 @@ Rotations:
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
 aliases:
   - APO
-date: 2026-02-16
+date: 2026-03-07
 tags:
   - complete
 ---
@@ -38,6 +38,8 @@ tags:
 - Initially in APO patients are sympathetically driven and hyperventilating resulting in a picture of respiratory alkalosis (↑ pH ↓ $p\ce{CO2}$)
 - As pulmonary oedema worsens, alveolar flooding and fatigue causes hypoventilation causing respiratory acidosis (↓ pH ↑ $p\ce{CO2}$)
 - Occassionally mixed picture acidosis (metabolic + respiratory acidosis) can arise (e.g. acute pulmonary oedema after an acute myocardial infarct), caused by poor cardiac circulation (causing a lactic acidosis – metabolic acidosis) with concurrent poor alveolar ventilation (due to pulmonary oedema) – causing $\ce{CO2}$ retention and a concomitant respiratory acidosis
+- See: [Myocardial infarction with acute pulmonary oedema](https://derangedphysiology.com/main/scenarios-blood-gas-interpretation/myocardial-infarction-acute-pulmonary-oedema) for an example
+	- Mixed picture respiratory alkalosis and metabolic alkalosis (from aggressive diuretic therapy) present
 ## Chest-Xray
 - Alveolar oedema ('batwing' appearance)
 - Kerly B lines (1-2cm horizontal, peripheral engorged subpleural lymphatics) and septal lines
