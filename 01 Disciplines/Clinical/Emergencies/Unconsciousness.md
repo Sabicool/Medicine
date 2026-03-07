@@ -6,7 +6,7 @@ Rotations:
 aliases:
   - Acute neurological failure
   - Coma
-date: 2025-12-24
+date: 2026-03-07
 tags:
   - cards
 ---
@@ -41,16 +41,26 @@ tags:
 5. Review the patient's notes and other charts
 6. Nurse unconscious patients in the lateral position if their airway is not preotected
 # Causes
-- Hypoglycaemia
-- Opioid/sedative toxicity
-- Hypoxia/respiratory failure
-- Hypoperfusion
-- Stroke such as intracerebral bleed or subarachnoid haemorrhage
-- CNS infection (e.g. meningitis)
-- CNS trauma (e.g. epidural or subdural haematoma)
-- Post-ictal state (⇒ ? underlinyg cause of seizure)
-- Hyperthermia (e.g. sepsis)
-- Hepatic, renal or endocrine failure
+- Metabolic
+	- Meds (e.g. opiods, benzos, gabapentin, muscle relaxants, antihistamines)
+	- Hypo/hyperglycaemia
+	- Hypercapnoea
+	- Stimulant withdrawal absuse
+	- Hypoxia/respiratory failure
+	- Opioid substance abuse
+- Neutrological
+	- Ischaemic stroke
+	- Intracranial harmorrhage
+	- Post-ictal state (⇒ ? underlinyg cause of seizure)
+	- Non-convulsive status epilepticus
+	- CNS infection (e.g. meningitis)
+	- CNS trauma (e.g. epidural or subdural haematoma)
+- Other
+	- Shock/sepsis
+	- Hypoperfusion
+	- Hypoactive delirium
+	- Hyperthermia (e.g. sepsis)
+	- Hepatic, renal or endocrine failure
 ## Other Notes
 - Most common causes
 	- Poisoning (including alcohol and carbon monoxide)
@@ -78,6 +88,28 @@ tags:
 		- Subtle facial or ocular twitching ⇒ ongoing seizure activity
 		- Evidence of head or spine trauma → palpate the skull and neck and look in ears for haemotympanum
 		- Lateralising signs including on fundoscopy
+- History
+	- Cardiovascular risk factors (e.g. HTN, DM, smoking, prior MI) ⇒ iscahemic stroke, intracranial haemorrhage
+	- New medication, recent ↑ medication dose or AKI (causing decreased renal clearance) ⇒ medication side effect
+	- Recent head trauma ⇒ intracranial haemorrhage
+	- Dementia ⇒ hypoactive delirium
+	- Active infection ⇒ sepsis, delirium
+	- Drug abuse history ⇒ drug intoxication/withdrawal
+	- Hx of COPD especially if newly on oxygen ⇒ hypercapnoea
+	- Hx of diabetes ⇒ hypo/hyperglycaemia
+- Exam
+	- Hypotension, tachycardia ⇒ sepsis, shock
+	- Focal neurological findings ⇒ ischaemic stroke, recurrence of prior stroke symptoms
+	- New onset urinary and/or faecal incontinence ⇒ post-ictal state
+- Diagnostic
+	- **Fingerprick glucose**
+	- Venous blood gas to rule out hypercapnoea
+	- Urine toxicology scan
+	- Neuroimaging if indicated:
+		- New focal neurological findings
+		- Recent head trauma or unwitnessed fall
+		- Anticoagulation
+		- Suspected seizure
 # Management
 - Call senior
 - Stabilise airway, breathing and circulation:
@@ -92,5 +124,7 @@ tags:
 - Antibiotics if fever and/or neck stiffness
 - Commence cooling or warming if temperature abnormal
 - Urgent CT scan in unresponsive patient with any evidence of head trauma, lateralising neurological signs or undiagnosed coma
+# Source
+- [Acute Somnolence (Rapid Response Calls) - Strong Medicine](https://www.youtube.com/watch?v=cc9lOf9kk9M&list=PLYojB5NEEakXRxT23Q19h5-irLOh4pB2e&index=9)
 
 [^1]: As from ALS2 booklet
