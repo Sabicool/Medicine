@@ -1,5 +1,5 @@
 ---
-date: 2025-01-12
+date: 2026-03-07
 ---
 # Blood Prodocuts
 - In stable non-bleeding adults, a general rule is that one unit of red cells will increase the haemoglobin by ≈10g/L[^1]
