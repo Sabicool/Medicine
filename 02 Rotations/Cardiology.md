@@ -37,7 +37,9 @@ date: 2025-12-25
     - [[Echocardiogram]]
 
 - Physiology: 
-    - [[Phases of Depolarisation]]
+    - [[Cardiac Action Potential]]
+    - [[Cardiac Anatomy]]
+    - [[Cardiac Cycle]]
 
 - Presenting Complaints: 
     - [[Arrhythmias]]
