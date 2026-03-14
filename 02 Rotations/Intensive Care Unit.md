@@ -1,5 +1,5 @@
 ---
-date: 2026-03-01
+date: 2026-03-14
 aliases:
   - ICU
 ---
@@ -7,10 +7,12 @@ aliases:
 <!-- QueryToSerialize: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) sort file.name asc group by reverse(split(file.folder, "/"))[0] -->
 <!-- SerializedQuery: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) sort file.name asc group by reverse(split(file.folder, "/"))[0] -->
 - Conditions: 
+    - [[Acute Kidney Injury]]
     - [[Acute Pulmonary Oedema]]
     - [[Adrenal Crisis]]
     - [[Adrenal Insufficiency]]
     - [[COPD Exacerbation]]
+    - [[Diabetic ketoacidosis]]
     - [[Hypercalcaemia]]
     - [[Hyperkalaemia]]
     - [[Hyponatraemia]]
@@ -41,16 +43,40 @@ aliases:
     - [[Respiratory Physiology]]
     - [[Sodium and Potassium Homeostasis]]
 
+
 <!-- SerializedQuery END -->
 # Medications to Know
 <!-- QueryToSerialize: list rows.file.link from "03 Medications" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) group by reverse(split(file.folder, "/"))[0] -->
 <!-- SerializedQuery: list rows.file.link from "03 Medications" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) group by reverse(split(file.folder, "/"))[0] -->
 - Cardiology: 
     - [[Antiarrhythmics]]
-    - [[Drugs in Cardiac Arrest]]
     - [[Inotropes]]
+    - [[Drugs in Cardiac Arrest]]
+
 
 <!-- SerializedQuery END -->
+# Approach to Ward Round
+- Team member capabilities
+	- ensure all team members know where emergency equipment is (e.g. airway and resus trolleys)
+	- explicitly discuss how the ward round will run
+	- determine the order of patients
+	    - e.g. unstable patients first, patients ready for discharge/ extubation, new admissions, the other patients
+	    - if possible coordinate with nursing staff breaks, etc
+	- identify team member capabilities and learning needs prior to the ward round to ensure appropriate tasks are allocated and that appropriate teaching opportunities are taken
+- For each patient
+	- ask the bedside nurse what issues they are concerned about or need to be addressed (check their ‘to do’ list)
+	- review the history (talk to patient and/or family if possible!)
+	- review the labs and imaging
+	- review documentation
+	    - ICU chart (observations, infusions, fluid balance, etc)
+	    - medication chart
+	    - clinical notes (including letters, notes by visiting teams, and notes by other ICU team members such as dieticians and physiotherapists)
+	- perform the physical examination
+	- review the checklist
+	    - e.g. Systems A to I: airway, breathing, circulation, disability, exposure (incl skin, sec survey if trauma, temp), fluid/ renal, GI, Haematology, Infection; lines, labs (and other investigations), meds, micro
+	- document a plan with appropriate targets (e.g. MAP, SpO2, etc), end-points for therapy, and explicit criteria for notification of the medical team
+	- highlight learning points / provide teaching to the team
+	- communicate the plan verbally and always ask “does anyone have any questions or concerns?” before leaving the patient’s bedside
 # Principles
 - DVT prophylaxis
 	- All ICU patients should receive DVT prophylaxis unless there is a contraindication[^2]
