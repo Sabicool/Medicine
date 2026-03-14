@@ -74,9 +74,90 @@ aliases:
 	- perform the physical examination
 	- review the checklist
 	    - e.g. Systems A to I: airway, breathing, circulation, disability, exposure (incl skin, sec survey if trauma, temp), fluid/ renal, GI, Haematology, Infection; lines, labs (and other investigations), meds, micro
+	    - [[Intensive Care Unit#FAST HUGS IN BED Please|FAST HUGS IN BED Please]]
 	- document a plan with appropriate targets (e.g. MAP, SpO2, etc), end-points for therapy, and explicit criteria for notification of the medical team
 	- highlight learning points / provide teaching to the team
 	- communicate the plan verbally and always ask “does anyone have any questions or concerns?” before leaving the patient’s bedside
+# FAST HUGS IN BED Please
+- Mnemonic to aid in recall the key issues to review when looking after a critically ill patient
+	- **F**luid therapy and feeding
+	- **A**nalgesia, **A**ntiemetics and **A**DT*
+	- **S**edation and **S**pontaneous breathing trial
+	- **T**hromboprophylaxis, **T**etanus prophylaxis
+	- **H**ead up position (30 degrees) if intubated
+	- **U**lcer prophylaxis
+	- **G**lucose control
+	- **S**kin/eye care and suctioning
+	- **I**ndwelling catheter
+	- **N**asogastric tube
+	- **B**owel care
+	- **E**nvironment (e.g. temperature control, appropriate surroundings in delirium)
+	- **D**e-escalation (e.g. end of life issues, treatments no longer needed)
+	- **P**sychosocial support (for patient, family and staff)
+# Documentation
+- Title & summary
+- Issues list
+- Progress
+	- Things that may have happened since the last time you or your day/night team documented a ward round note
+- Examination
+	- A/B:
+		- Ventilator modes, inhaled agents
+	- CVS:
+		- Also include any vasoactive agents and the rate they are running at 
+	- CNS
+		- Neurological examination relevant details
+		- Also any sedative agents/analgesia infusions or PCA running
+		- EVD height and outputs, colour
+	- GIT
+		- NG/PEGs as well as other drains, diet intake, bowel status
+	- GUT
+		- Renal stuff (including CRRT)
+	- Other
+		- Temperature, fevers
+	- Lines
+		- Current lines and where they are placed
+- Investigations
+- [[Intensive Care Unit#FAST HUGS IN BED Please|FAST HUGS IN BED Please]]
+- Plan
+	- Try and be systematic about the plan (e.g. A → E)
+
+> [!EXAMPLE]
+> **ICU AM WR – Nickson / Pearlman / Blogs** 
+> **_67M day 8 ICU with necrotising gallstone pancreatitis with multi-organ dysfunction._**
+> 
+> Issues
+> - Necrotising gallstone pancreatitis
+> - Type 1 respiratory failure 
+> - Septic shock 
+> - Renal failure on CRRT
+> 
+> Progress
+> Night team administered 2 units of red cells, 300mg loading of amiodarone administered for AF now rate controlled
+> 
+> Examination
+> A/B: ETT remains at 23cm at the teeth. SIMV-VC 500×12, FiO2 0.6, PEEP 10 / PS 10. Scant secretions. Good AE Throughout chest, no added sounds
+> CVS: noradrenaline stable at 12mL/h (of 4mg in 50mL) with BP meeting targets of >100 / MAP >65, AF rate controlled between 80-100, amiodarone infusion running. Peripherally warm and well perfused. Dependent peripheral oedema.
+> CNS: E4VTM6, RASS (Richmond Agitation and Sedation Score) 0, comfortable on Prop of 2mL/h, dexmedetomidine at 0.5microgs/kg/min and fentanyl of 10microgs/h. No new focal neurology. PEARL 3mm.
+> GIT: NG feeds Nutrison Protein Plus running at 60mL/h, minimal aspirates, bowels opening daily, abdomen soft and not tender
+> GUT: IDC, oliguria remains with concentrated / cola coloured output ~10-20mL/h. CRRT ongoing, no issues running on CiCa (Citrate-Calcium) circuit, fluid balance close to -ve 2 litres.
+> 
+> Investigations
+> 
+> Plan
+> - Wean ventilation across to PSV today if able / tolerates same  
+> - Send sputum sample  
+> - If noradrenaline >20mL/h and ongoing AF, commence vasopressin as secondary agent  
+> - If ongoing AF:  
+> 	1. Ensure K+ >4.0 / Mg2+ >1.0 (yes, I know that there is now [less evidence](https://www.thebottomline.org.uk/summaries/icm/tight-k/) for targeting higher potassium targets (extrapolated from cardiac surgery), alas… we persist)  
+> 	2. Further 150mg amiodarone over 30mins  
+> 	3. if ongoing, to commence amiodarone infusion 900mg/24 hours  
+> - Aim to wean and cease propofol, and continue dexmedetomidine as primary agent.  
+> - Aim fluid balance -ve 2500mL today  
+> - If CRRT circuit clots today, not to restart unless urgent indication  
+> - If Hb <75, please transfuse unit of red cells  
+> - Chase sensitivities from sputum and blood cultures, and adjust antibiotics if able  
+> - Family meeting tomorrow planned for 2pm, need to ensure surgical / medical team + family members + SW coming
+
 # Principles
 - DVT prophylaxis
 	- All ICU patients should receive DVT prophylaxis unless there is a contraindication[^2]
