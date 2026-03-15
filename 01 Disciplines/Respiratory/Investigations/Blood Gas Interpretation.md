@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[Anaesthetics]]"
-date: 2026-03-03
+date: 2026-03-15
 aliases:
   - ABG Interpretation
 tags:
@@ -26,7 +26,8 @@ tags:
 			$$
 			\begin{align*}
 			P_\text{A}\ce{O2}&=F_\text{I}\ce{O2}\times\left[P_\text{I}-P_\ce{H2O}\right]-\left(\frac{P_\text{a}\ce{CO2}}{\text{RQ}}\right)\\
-			&\approx F_\text{I}\ce{O2}\times\left[760-47\right]-\left(\frac{P_\text{a}\ce{CO2}}{0.8}\right)
+			&\approx F_\text{I}\ce{O2}\times\left[760-47\right]-\left(\frac{P_\text{a}\ce{CO2}}{0.8}\right)\\
+			&\approx F_\text{I}\ce{O2}\times713-P_\text{a}\ce{CO2}\times1.25
 			\end{align*}
 			$$
 		3. Calculate the A-a gradient
@@ -40,6 +41,10 @@ tags:
 				- If corrects, suggestive of V/Q mismatch and/or diffusion impairment
 				- If doesn’t correct, suggestive of right to left shunt
 				- Correlate with history, exam and chest X-ray
+	- Calculate the $P_\ce{a}\ce{O2}/F_\text{I}\ce{O2}$ ratio in ARDS patients where:
+		- 300-200 ⇒ mild ARDS with 27% mortality
+		- 200-100 ⇒ moderate ARDS with 32% mortality
+		- <100 ⇒ severe ARDS with 45% mortality
 	- Check for dyshaemoglobinaemia from the co-oximetry
 2. Determine pH status (7.35-7.45)
 	- pH <7.35: acidaemia: increase in the serum hydrogen ion concentration, lowers the pH
@@ -86,6 +91,7 @@ tags:
 		- Loss of $\ce{HCO3}$: diarrhoea/GI drainage, Type 2 [[Renal tubular acidosis]], [[Diuretics#Acetazolamide|Acetazolamide]]
 		- Decreased $\ce{H+}$ excretion: renal failure, Type 1 [[Renal tubular acidosis]], Type 4 [[Renal tubular acidosis]]/[[Conn syndrome]]
 		- Results in decrease in $\ce{HCO3}$ with an increase in $\ce{Cl-}$ a roughly 1:1 ratio (hence NAGMA sometimes called hyperchloraemic acidosis)
+		- Potassium is not included because it tends to influence the result little[^5] however if one insisted, the normal value would be around 16
 		$$
 		\rm{Anion\;Gap}=\ce{Na+}-\left(\ce{Cl-}+\ce{HCO3}\right)=12\pm4
 		$$
@@ -480,3 +486,4 @@ $$
 [^2]: The normal A-a gradient also increases with higher $F_\text{I}\ce{O2}$ and may be >100 mmHg in an elderly patient on 100% $\ce{O2}$
 [^3]: This is the approach for the ‘Boston’ approach or standard approach
 [^4]: Although apparently the evidence for this was from Figge in 1998 and is flawed (see: [Mythbusting: Correcting the anion gap for albumin is not helpful](https://emcrit.org/pulmcrit/mythbusting-correcting-the-anion-gap-for-albumin-is-not-helpful/))
+[^5]: In July 2019, Jeremy Cohen (the CICM Chair of the Second Part Exam) issued a decree via the official college newsletter, stating that _"unless otherwise specified in the question stem, anion gap calculations should be made without inclusion of potassium or correction to albumin._"
