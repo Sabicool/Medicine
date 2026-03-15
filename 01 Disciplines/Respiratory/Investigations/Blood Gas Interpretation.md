@@ -475,6 +475,8 @@ $$
 $$
 \ce{pH}=6.1+\log\left(\frac{\ce{[HCO_3^-]}}{0.03\times P_\text{a}\ce{CO2}}\right)
 $$
+## ABG Changes in Cardiac Arrest
+
 # Sources
 - https://litfl.com/acid-base-disorders/
 - [The A-a Gradient (ABG Interpretation - Lesson 16) - YouTube](https://www.youtube.com/watch?v=pEsOv_pdOUQ)
