@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[Anaesthetics]]"
-date: 2026-03-15
+date: 2026-03-16
 aliases:
   - ABG Interpretation
 tags:
@@ -18,6 +18,7 @@ tags:
 - Make sure you understand the difference between oxygenation and ventilation
 - Have a good understanding of [[Acute Respiratory Failure]]
 # Approach[^3]
+![[Pasted image 20260316142617.png]]
 1. Determine the adequacy of oxygenation 
 	- Refer to the $S_\text{p}\ce{O2}$ from the sats probe or $S_\text{a}\ce{O2}$ as calculated from the ABG or measured from co-oximetry to observe for hypoxaemia
 	- Calculate the A-a gradient
