@@ -27,6 +27,11 @@ tags:
 			- Towards the affected side: marked atelectasis, lobectomy/pneumonectomy, pleural fibrosis, pulmonary fibrosis (although rarely unilateral)
 		- Foreign objects
 - Bones and soft tissue
+	- Bones
+		- Rib fractures
+		- Lytic and sclerotic lesions
+		- Rib notching
+			- Superior surface: osteogenesis imperfecta, connective tissue disorders 
 - Cardiac silhouette and mediastinum
 	- ![[Pasted image 20260319202913.png]]
 - Diaphragm
