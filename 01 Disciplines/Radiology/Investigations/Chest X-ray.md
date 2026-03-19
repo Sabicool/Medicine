@@ -31,7 +31,10 @@ tags:
 		- Rib fractures
 		- Lytic and sclerotic lesions
 		- Rib notching
-			- Superior surface: osteogenesis imperfecta, connective tissue disorders 
+			- Superior surface: osteogenesis imperfecta, connective tissue disorders, hyperparathyroidism
+			- Inferior surface: coarctation of the aorta, subclavian or SVC obstruction
+	- Soft tissue
+		- Subcutaneous emphysema
 - Cardiac silhouette and mediastinum
 	- ![[Pasted image 20260319202913.png]]
 - Diaphragm
