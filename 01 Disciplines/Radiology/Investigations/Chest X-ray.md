@@ -37,6 +37,7 @@ tags:
 		- Subcutaneous emphysema
 - Cardiac silhouette and mediastinum
 	- ![[Pasted image 20260319202913.png]]
+	- 
 - Diaphragm
 - Effusions
 - Fields
