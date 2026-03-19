@@ -37,7 +37,12 @@ tags:
 		- Subcutaneous emphysema
 - Cardiac silhouette and mediastinum
 	- ![[Pasted image 20260319202913.png]]
-	- 
+	- Widened mediastinum defined as >8cm
+		- ![[Pasted image 20260319224750.png]]
+	- Hilar enlargement differentials
+		- Malignancy: primary lung cancer, lymphoma, metastatic disease
+		- Infection: tuberculosis, viruses (e.g EBV)
+		- Other: sarcoidosis, silicosis, pulmonary hypertension, pulmonary artery aneurysm, bronchogenic cyst
 - Diaphragm
 - Effusions
 - Fields
