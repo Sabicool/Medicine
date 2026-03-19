@@ -109,7 +109,7 @@ aliases:
 # Investigations
 - Investigations to consider and typical prioritisation in acute respiratory distress
 	- [[Lung POCUS]]
-	- [[Chest X-ray]]
+	- [[01 Disciplines/Radiology/Investigations/Chest X-ray]]
 	- [[ECG Interpretation|ECG]]
 	- [[Blood Gas Interpretation|ABG]]
 	- Other labs including FBC, CMP, troponin, lactate, D-dimer

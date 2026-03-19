@@ -13,6 +13,7 @@ date: 2025-12-25
     - [[Atrial Flutter]]
     - [[Back Pain]]
     - [[COPD Exacerbation]]
+    - [[Diabetic ketoacidosis]]
     - [[Gout]]
     - [[Hypercalcaemia]]
     - [[Hyperemesis Gravidarum]]
@@ -40,7 +41,7 @@ date: 2025-12-25
 
 - Investigations: 
     - [[Blood Gas Interpretation]]
-    - [[Chest X-ray]]
+    - [[01 Disciplines/Radiology/Investigations/Chest X-ray.md|Chest X-ray]]
     - [[ECG Interpretation]]
     - [[Neuroimaging]]
 
