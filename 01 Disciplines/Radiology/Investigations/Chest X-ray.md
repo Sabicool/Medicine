@@ -1,7 +1,7 @@
 ---
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
-date: 2026-03-19
+date: 2026-03-21
 tags:
   - notes
 ---
@@ -15,7 +15,7 @@ tags:
 			- ![[Pasted image 20260319203627.png]]
 	- Inspiration
 		- Normally 9-10 posterior ribs should be visible
-			- ![[Pasted image 20260319203718.png]]
+			- ![[Pasted image 20260319203718.png|273]]
 		- Normally 6-7 anterior ribs should be visible with the 7th rib intersecting the diaphragm
 	- Suboptimal penetration
 		- Considered good when the outlines of the vertebral vodies are visible behind the heart (focus on inter-vertebral spaces)
@@ -43,9 +43,69 @@ tags:
 		- Malignancy: primary lung cancer, lymphoma, metastatic disease
 		- Infection: tuberculosis, viruses (e.g EBV)
 		- Other: sarcoidosis, silicosis, pulmonary hypertension, pulmonary artery aneurysm, bronchogenic cyst
+	- Pneumomediastinum
+	- Pneumopericardium
 - Diaphragm
+	- Elevated hemidiaphragm
+		- Can be due to: Hepatomegaly or splenomegaly, diminished lung volume (e.g. atelectasis), phrenic never paralysis, eventration of the diaphragm or subphrenic abscess
+	- Pneumoperitoneum
+	- Hiatal hernia
 - Effusions
+	- Pneumothorax
+		- Can use an expiratory film to substantiate findings
+		- Deep sulcus sign in supine patients
+	- Pleural effusion
+		- Small effusions are often first visible on the lateral film before on the AP
+		- Subpulmonic effusion
+			- Fluid accumulation between the lung base and the diaphragm, not tracking up the pleura and therefore does not blunt the costophrenic angle
+			- Suggested by:
+				- Diaphragm appears to peak more laterally than normal
+				- Diaphragm appears more horizontal than normal
+				- On left: abnormally large distance between gastric bubble and lung base
+				- On right: abnormally high horizontal fissure
+	- Pleural plaques
+		- Typically bilateral, multifocal and relatively symmetric
+		- Usually indicative of prior asbestos exposure
+		- ![[Pasted image 20260320232004.png]]
 - Fields
+	- Diffuse lung volume processes
+		- Reduced lung volume (<9 posterior ribs) which can be due to: poor inspiratory effort, suboptimally timed exposure, restrictive lung disease, subpulmonic effusions
+			- ![[Pasted image 20260320232949.png|280]]
+		- Hyperinflation
+			- Subjective impression that the total lung capacity is likely increased based upon number of ribs seen, flattening of the diaphragms and diffusely increased lucency of the lugns
+			- Can be seen in: COPD and [[Asthma Exacerbation|Asthma only during exacerbations]]
+			- ![[Pasted image 20260320233112.png|281]]
+		- Alveolar (airspace) opacities
+			- Due to fluid accumulation within the alveoli and terminal bronchioles; fluid may be oedema, pus or blood
+			- Opacities are hazy with poorly defined margins but can respect lobar boundaries (unless diffuse)
+			- ![[Pasted image 20260320233748.png|317]]
+			- Differentials can be differentiated into cardiogenic pulmonary oedema and non-cardiogenic pulmonary oedema (see [[Acute Pulmonary Oedema]])
+				- Non-cardiogenic pulmonary oedema defines a spectrum between acute lung injury and acute respiratory distress syndrome
+			- Differentiation of cardiogenic and non-cardiogenic pulmonary oedema can be made by:
+				- ![[Pasted image 20260320235346.png]]
+				- Air bronchograms
+					- ![[Pasted image 20260320234126.png|247]]
+				- Peribronchial cuffing
+					- ![[Chest X-ray 2026-03-20 23.42.10.excalidraw.svg|272]]
+					%%[[Chest X-ray 2026-03-20 23.42.10.excalidraw.md|🖋 Edit in Excalidraw]]%%
+				- Kerley lines
+					- Kerley A lines are diagonal, unbranching lines 2-6cm long extending from the hilum and represent channels between peripheral and central lymphatics
+					- Kerley B lines are faint thin horizontal lines 1-2cm long at the lung periphery, usually at the bases representing interlobular septa
+				- Cephalisation (upper lung diversion)
+				- Bat’s wing pattern
+		- Interstitial opacities
+			- Further described based on pattern:
+				- ![[Pasted image 20260320235450.png]]
+				- ![[Pasted image 20260320235521.png]]
+			- Differentials 
+					- Predominantly reticular: idiopathic pulmonary fibrosis, connective tissue disorders (e.g. scleroderma, rheumatoid arthritis), atypical pneumonia, idiopathic interstitial pneumonia, asbestosis, crhonic aspiration, pulmonary drug toxicity (e.g. nitrofurantoin), sarcoidosis, chronic hypersensitivity pneumonitis
+					- Predominantly nodular:
+						- <2cm: miliary tuberculosis, fungal infection, silicosis, sarcoidosis
+						- >2cm: metastatic cancer, lymphoma, subacute hypersnensitivity pneumonitis, lymphoma, sarcoidosis, granulomatosis with polyangitis, rheumatoid nodules
+		- ![[Pasted image 20260320235911.png]]
+	- Focal lung volume processes
+		- ![[Pasted image 20260321000621.png|306]]
+		- 
 - Lines, Tubes, Devices, Surgeries
 # Sources
 - [Interpreting Chest X-Rays - YouTube](https://www.youtube.com/playlist?list=PLYojB5NEEakU6vTUAoUeVhgRzQgaoSnFi)
