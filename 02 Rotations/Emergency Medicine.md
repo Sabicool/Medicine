@@ -41,7 +41,7 @@ date: 2025-12-25
 
 - Investigations: 
     - [[Blood Gas Interpretation]]
-    - [[01 Disciplines/Radiology/Investigations/Chest X-ray.md|Chest X-ray]]
+    - [[Chest X-ray]]
     - [[ECG Interpretation]]
     - [[Neuroimaging]]
 

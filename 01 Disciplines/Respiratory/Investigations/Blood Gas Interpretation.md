@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[Anaesthetics]]"
-date: 2026-03-16
+date: 2026-03-21
 aliases:
   - ABG Interpretation
 tags:
@@ -46,6 +46,8 @@ tags:
 		- 300-200 ⇒ mild ARDS with 27% mortality
 		- 200-100 ⇒ moderate ARDS with 32% mortality
 		- <100 ⇒ severe ARDS with 45% mortality
+		- Note that it can be corrected for PEEP with the following formula: $P_\ce{a}\ce{O2}/\left(F_\text{I}\ce{O2}\times\text{PEEP}\right)$
+		- Note only use $P_\ce{a}\ce{O2}/F_\text{I}\ce{O2}$ when $P_\text{a}\ce{CO2}$ is normal and a shunt is not expected
 	- Check for dyshaemoglobinaemia from the co-oximetry
 2. Determine pH status (7.35-7.45)
 	- pH <7.35: acidaemia: increase in the serum hydrogen ion concentration, lowers the pH
@@ -121,6 +123,16 @@ tags:
 	$$
 	\rm{Delta\;Ratio}=\frac{AG_\text{adjusted}-12}{24-\ce{HCO3}}=\frac{\Delta AG}{\Delta\ce{HCO3}}
 	$$
+	- An alternative easier calculation is the delta gap, where the interpretation is as follows
+		- Less than -6 ⇒ mixed high and normal anion gap acidosis
+		- -6 to 6 ⇒ only high anion gap acidosis exists
+		- More than 6 ⇒ mixed high anion gap acidosis and metabolic alkalosis
+		$$
+		\begin{align*}
+		\text{Delta Gap}&=\Delta\text{Anion Gap}-\Delta\ce{HCO3-}\\
+		&=\ce{Na+}-\ce{Cl-}-36
+		\end{align*}
+		$$
 7. Apply corrections to certain measured values
 
 ![[Pasted image 20250125184001.png]]
@@ -155,6 +167,7 @@ $$
 		- Medications (e.g. paracetamol, anti-retrovirals, beta agonists, 5-flurouracil, halothane, iron, isoniazid, linezolid, nitroprusside, propofol, salicylates, sorbitol, sulfasalazine, valproic acid)
 			- There remains disagreement about metformin causing lactic acidosis
 		- Toxins (e.g. carbon monoxide, cocaine, cyanide, diethyl ether, ethanol, toxic acidosis)
+		- ![[Pasted image 20260321174441.png|597]]
 	- Toxins
 		- Methanol
 			- Found in windshield wiper fluid, antifreeze, paint remover
@@ -477,8 +490,14 @@ $$
 \ce{pH}=6.1+\log\left(\frac{\ce{[HCO_3^-]}}{0.03\times P_\text{a}\ce{CO2}}\right)
 $$
 # Sources
-- https://litfl.com/acid-base-disorders/
+- LITFL
+	- https://litfl.com/acid-base-disorders/
+	- [PaO2/FiO2 Ratio (P/F Ratio) • LITFL • CCC Ventilation](https://litfl.com/pao2-fio2-ratio/)
 - [The A-a Gradient (ABG Interpretation - Lesson 16) - YouTube](https://www.youtube.com/watch?v=pEsOv_pdOUQ)
+- Derranged physiology
+	- [Summary of equations used for blood gas interpretation](https://derangedphysiology.com/main/cicm-primary-exam/acid-base-physiology/Chapter-703/summary-equations-used-blood-gas-interpretation)
+	- [Delta gap and delta ratio](https://derangedphysiology.com/main/cicm-primary-exam/acid-base-physiology/Chapter-705/delta-gap-and-delta-ratio)
+- [Horowitz Index for Lung Function (P/F Ratio)](https://www.mdcalc.com/calc/4062/horowitz-index-lung-function-p-f-ratio#evidence)
 # Useful resources
 - https://onepagericu.com/acid-base
 ![[2024-04-24_09-38-53_screenshot.png]]

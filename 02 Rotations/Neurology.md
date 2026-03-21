@@ -20,7 +20,6 @@ date: 2025-01-13
 - Presenting Complaints: 
     - [[Altered Mental Status]]
     - [[Collapse, Syncope, Mechanical Falls]]
-    - [[Fluids]]
     - [[Headache]]
 
 - Procedures: 

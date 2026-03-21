@@ -19,6 +19,7 @@ date: 2025-01-13
 
 - Investigations: 
     - [[Blood Gas Interpretation]]
+    - [[Chest X-ray]]
     - [[Spirometry]]
 
 - Presenting Complaints: 
