@@ -104,8 +104,8 @@ tags:
 						- >2cm: metastatic cancer, lymphoma, subacute hypersnensitivity pneumonitis, lymphoma, sarcoidosis, granulomatosis with polyangitis, rheumatoid nodules
 		- ![[Pasted image 20260320235911.png]]
 	- Focal lung volume processes
-		- ![[Pasted image 20260321000621.png|306]]
-		- 
+		-  <figure> <img src="Pasted image 20260321000621.png" width="300"> <figcaption>Since focal lesions cannot be localised to a particular lobe when not given a lateral view, radiographic zones are used. Apical zone: calvicle or above. Upper zone: clavicle to superior aspect of hilum. Mid zone: At the level of the hilum. Lower zone: Below the hilum</figcaption> </figure>
+		- Silhouette sign: loss of the normally visible border of an intrathoracic structure caused by an adjacent pulmonary density
 - Lines, Tubes, Devices, Surgeries
 # Sources
 - [Interpreting Chest X-Rays - YouTube](https://www.youtube.com/playlist?list=PLYojB5NEEakU6vTUAoUeVhgRzQgaoSnFi)
