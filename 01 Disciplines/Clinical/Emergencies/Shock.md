@@ -203,40 +203,46 @@ $$
 	- $\alpha_1$ causes vasoconstriction ⇒ ↑ SVR
 	- $\beta_1$ causes inotropy and chronotropy ⇒ ↑ contractility and ↑ HR ⇒ ↑ CO
 	- $\beta_2$ causes vasodilation ⇒ ↓ SVR
+- Metaraminol
+    - Predominantly α₁ agonist with indirect β₁ effect (via noradrenaline release)
+    - ⇒ ↑ SVR, mild ↑ CO
+    - Less reflex bradycardia than Phenylephrine
 ![[Pasted image 20260301145047.png]]
- 
-| Shock Type                                                                  | Strategy       | First Line Agents                       |
-| --------------------------------------------------------------------------- | -------------- | --------------------------------------- |
-| Septic shock                                                                | Pressor-first  | Noradrenaline or phenylephrine*         |
-| Refractory septic shock (refractory to phenylephrine and/or norepinephrine) | Add-on pressor | Vasopressin or adrenaline               |
-| Cardiogenic shock†                                                          | Inotrope-first | ? Dobutamine +/- dopamine               |
-|                                                                             |                | ? Dopamine                              |
-|                                                                             |                | ? Noradrenaline +/- dobutamine          |
-| Hypovolemic shock                                                           | Volume-first   | IV fluids only; no prolonged pressors   |
-| Mixed septic + cardiogenic shock or unknown etiology                        | Pressor-first  | Noradrenaline, ? adrenaline, ? dopamine |
+
+| Shock Type                                                                  | Strategy       | First Line Agents                                         |
+| --------------------------------------------------------------------------- | -------------- | --------------------------------------------------------- |
+| Septic shock                                                                | Pressor-first  | Noradrenaline                                             |
+| Refractory septic shock                                                     | Add-on pressor | Vasopressin ± adrenaline                                  |
+| Cardiogenic shock†                                                          | Inotrope-first | Noradrenaline ± dobutamine                                |
+| Hypovolemic shock                                                           | Volume-first   | IV fluids; pressors only as a temporising measure         |
+| Perioperative / anaesthetic hypotension                                     | Pressor-first  | Metaraminol, phenylephrine, ephedrine (context dependent) |
+| Mixed / undifferentiated shock                                              | Pressor-first  | Noradrenaline ± dobutamine or adrenaline                  |
+
 - Phenylephrine is not recommended in the treatment of septic shock except in the following circumstances:
 	- Noradrenaline is associated with serious arrhythmias
 	- Cardiac output is known to be high
 	- Other approaches have failed
 ![[Pasted image 20260322110500.png]]
 # Appendix
-
 | Drug                      | Alpha-1 | Beta-1 | Beta-2 | Dopamine | Effect on SVR | Effect on HR | Effect on CO | Effect on BP |
 | ------------------------- | ------- | ------ | ------ | -------- | ------------- | ------------ | ------------ | ------------ |
-| Phenylephrine             | +++     | 0      | 0      | 0        | ↑↑            | ↔ / ↑        | ↓            | ↑↑           |
+| Phenylephrine             | +++     | 0      | 0      | 0        | ↑↑            | ↓ / ↔        | ↓            | ↑↑           |
+| Metaraminol               | +++     | + (indirect) | 0  | 0        | ↑↑            | ↔ / ↑        | ↔ / ↑        | ↑↑           |
 | Vasopressin (V1 agonist)  | 0       | 0      | 0      | 0        | ↑↑            | ↔            | ↓            | ↑            |
 | Noradrenaline             | +++     | ++     | 0      | 0        | ↑↑            | ↑            | ↔ / ↑        | ↑↑           |
 | Adrenaline (Low dose)     | +       | +++    | ++     | 0        | ↓             | ↑            | ↑            | ↔ / ↑        |
 | Adrenaline (High dose)    | ++      | +++    | ++     | 0        | ↔ / ↑         | ↑            | ↑            | ↑↑           |
-| Dopamine (Low dose)       | 0       | +      | 0      | ++       | ↔             | ↑            | ↑            | ↑            |
-| Dopamine (Moderate dose)  | +       | ++     | 0      | ++       | ↑             | ↑            | ↑            | ↑↑           |
-| Dopamine (High dose)      | ++      | ++     | 0      | ++       | ↑↑            | ↔            | ↔ / ↑        | ↑↑           |
+| Dopamine (Low dose)*      | 0       | +      | 0      | ++       | ↔             | ↑            | ↑            | ↑            |
+| Dopamine (Moderate dose)* | +       | ++     | 0      | ++       | ↑             | ↑            | ↑            | ↑↑           |
+| Dopamine (High dose)*     | ++      | ++     | 0      | ++       | ↑↑            | ↑            | ↔ / ↑        | ↑↑           |
 | Dobutamine                | 0 / +   | +++    | ++     | 0        | ↓             | ↑            | ↑↑           | ↓ / ↔ / ↑    |
-| Isoprenaline)             | 0       | +++    | +++    | 0        | ↓             | ↑            | ↑↑           | ↓ / ↔ / ↑    |
-| Milrinone (PDE inhibitor) | 0       | 0      | 0      | 0        | ↓             | ↔            | ↑↑           | ↓ / ↔ / ↑    |
+| Isoprenaline              | 0       | +++    | +++    | 0        | ↓             | ↑↑           | ↑↑           | ↓ / ↔        |
+| Milrinone (PDE inhibitor) | 0       | 0      | 0      | 0        | ↓             | ↔ / ↑        | ↑↑           | ↓ / ↔ / ↑    |
+
 # Sources
 - [Shock Playlist | Strong Medicine - Yotuube](https://www.youtube.com/playlist?list=PLYojB5NEEakXi2wW00LkbkcaESav1Quk9)
 - [Undifferentiated Shock — ICU One Pager](https://onepagericu.com/undifferentiated-shock)
+- [Vasopressors — ICU One Pager](https://onepagericu.com/vasopressors)
 
 [^1]: Except for in obstructive shock, where the obstructive cause must be dealt with first (e.g. tension pneumothorax)
 [^2]: CVP is a poor predictor of fluid responsiveness
