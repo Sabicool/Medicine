@@ -7,7 +7,7 @@ Rotations:
 aliases:
   - ALS
   - Cardiac Arrest
-date: 2026-03-16
+date: 2026-03-22
 Down:
   - "[[Drugs in Cardiac Arrest]]"
   - "[[Acute Airway Failure]]"
@@ -28,6 +28,8 @@ tags:
 > - Ensuring help is on the way
 > - Reducing time to defibrillation
 > Once defibrillator pads are attached, do a rhythm assessment as soon as possible. Chest compressions and ventilation must be undertaken immediately but should not delay attempts to deliver the first shock to defibrillate those patients in VF/pVT
+
+![[Pasted image 20260322105755.png]]
 
 > [!NOTE] 5 Phase Approach to the Cardiac Arrest
 > 1. Identify the arrest ([[Basic Life Support|DRSABCD]], call for help)

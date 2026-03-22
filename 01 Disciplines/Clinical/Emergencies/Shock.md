@@ -4,7 +4,7 @@ aliases:
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-date: 2026-03-14
+date: 2026-03-22
 ---
 # Definition
 - Physiologic state characterised by a systemic impairment in oxygen delivery as a result of reduced tissue perfusion, almost universally mediated by low blood pressure
@@ -31,6 +31,7 @@ $$
 	- Other types:
 		- Toxin-mediated shock (e.g. cyanide and carbon monoxide)
 ## Classification
+![[ICU_one_pager_undifferentiated_shock.png]]
 - Hypovolaemic shock
 	- Haemorrhagic
 		- Traumatic: external or internal (e.g. haemothorax, haemoperitoneum, retroperitoneal haemorrhage)
@@ -217,6 +218,7 @@ $$
 	- Noradrenaline is associated with serious arrhythmias
 	- Cardiac output is known to be high
 	- Other approaches have failed
+![[Pasted image 20260322110500.png]]
 # Appendix
 
 | Drug                      | Alpha-1 | Beta-1 | Beta-2 | Dopamine | Effect on SVR | Effect on HR | Effect on CO | Effect on BP |
@@ -234,6 +236,7 @@ $$
 | Milrinone (PDE inhibitor) | 0       | 0      | 0      | 0        | ↓             | ↔            | ↑↑           | ↓ / ↔ / ↑    |
 # Sources
 - [Shock Playlist | Strong Medicine - Yotuube](https://www.youtube.com/playlist?list=PLYojB5NEEakXi2wW00LkbkcaESav1Quk9)
+- [Undifferentiated Shock — ICU One Pager](https://onepagericu.com/undifferentiated-shock)
 
 [^1]: Except for in obstructive shock, where the obstructive cause must be dealt with first (e.g. tension pneumothorax)
 [^2]: CVP is a poor predictor of fluid responsiveness

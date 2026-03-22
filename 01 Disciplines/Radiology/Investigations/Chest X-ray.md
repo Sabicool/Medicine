@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[02 Rotations/Respiratory|Respiratory]]"
-date: 2026-03-21
+date: 2026-03-22
 tags:
   - notes
 figureCount: 49
@@ -249,6 +249,8 @@ Well circumscribed, generally round density smaller than 3 cm in diameter.
 		- Elevation of the ipsilateral hemidiaphragm
 		- Mediastinal shift towards the side of collapse
 		- Juxtaphrenic peak sign (particularly with upper lobe collapse)
+
+![[Pasted image 20260322110038.png]]
 
 <figure style="text-align: center;">
   <img src="Pasted image 20260321142224.png" width="75%">
