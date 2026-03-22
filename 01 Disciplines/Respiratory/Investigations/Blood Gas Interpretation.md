@@ -284,6 +284,7 @@ $$
 	- Aspirin ingestion causing hyperventilation
 - Most drug overdose causes respiratory acidosis
 ## A-a Gradient and Oxygenation
+![[ICU_One_pager_hypoxemia.png]]
 - Hypoxia = pathophysiological state of inadequate oxygenation for aerobic metabolism; aetiologies include hypoxaemia, anaemia, dyshaemoglobinaemia, histotoxic hypoxia (e.g. cyanide poisoning)
 - Hypoxaemia = ↓ concentration of oxygen in arterial blood
 - $P_\text{a}\ce{O2}$ is the amount of oxygen dissolved in the blood and is measured directly from the ABG (normal >85 mmHg for young adult, child and >75 mmHg for elderly)
@@ -498,6 +499,7 @@ $$
 	- [Summary of equations used for blood gas interpretation](https://derangedphysiology.com/main/cicm-primary-exam/acid-base-physiology/Chapter-703/summary-equations-used-blood-gas-interpretation)
 	- [Delta gap and delta ratio](https://derangedphysiology.com/main/cicm-primary-exam/acid-base-physiology/Chapter-705/delta-gap-and-delta-ratio)
 - [Horowitz Index for Lung Function (P/F Ratio)](https://www.mdcalc.com/calc/4062/horowitz-index-lung-function-p-f-ratio#evidence)
+- [Hypoxia & Hypoxemia — ICU One Pager](https://onepagericu.com/hypoxia)
 # Useful resources
 - https://onepagericu.com/acid-base
 ![[2024-04-24_09-38-53_screenshot.png]]
