@@ -21,7 +21,15 @@ $$Q=\frac{\Delta\ P}{R}$$
 	- $Q$ is airflow
 	- $\Delta\ P$ is pressure gradient
 	- $R$ is airway resistance
-## Monitoring
+$$\text{Ventilation Pressure}=\text{Resistive Pressure}+\text{Elastic Pressure}$$
+- Where
+	- Resistive pressure is the pressure required to push airflow through the airways
+	- Elastic pressure which is the pressure required to inflate lungs and chest wall
 
+## Monitoring
+$$P_\text{Peak}\propto\frac{\text{Airway Resistance}}{\text{Compliance}}$$
+$$P_\text{Plateau}\propto\frac{1}{\text{Compliance}}$$
+$$R_\text{insp}=\frac{P_\text{peak}-P_\text{plateau}}{Q_\text{end inspiratory}}$$
+- An increasing $P_\text{peak}$ in the abscence of an increasing $P_\text{pleateau}$ suggests airway resistance is increasing (e.g. bronchospasm, excessive scretions, mucous plug, foreign body aspiration, extrinsic airway compression)
 # Source
 - Strong Medicine Playlist: [Mechanical Ventilation - YouTube](https://www.youtube.com/playlist?list=PLBA5A30910F1FBF47)
