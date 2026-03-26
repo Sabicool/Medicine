@@ -3,10 +3,10 @@ Rotations:
   - "[[Intensive Care Unit]]"
   - "[[Anaesthetics]]"
   - "[[Emergency Medicine]]"
-date: 2026-03-25
+date: 2026-03-26
 ---
 # Indications
-- A – protection and patency  
+- A – protection and patency (e.g. against aspiration or relief of upper airway obstruction as in anaphylaxis or head and neck trauma)
 - B – respiratory failure (hypercapnic or hypoxic), increase FRC, decrease WOB, secretion management/ pulmonary toilet, to facilitate bronchoscopy  
 - C – minimise oxygen consumption and optimize oxygen delivery (e.g. sepsis)  
 - D – unresponsive to pain, terminate seizure, prevent secondary brain injury  
