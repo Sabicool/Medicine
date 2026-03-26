@@ -31,5 +31,15 @@ $$P_\text{Peak}\propto\frac{\text{Airway Resistance}}{\text{Compliance}}$$
 $$P_\text{Plateau}\propto\frac{1}{\text{Compliance}}$$
 $$R_\text{insp}=\frac{P_\text{peak}-P_\text{plateau}}{Q_\text{end inspiratory}}$$
 - An increasing $P_\text{peak}$ in the abscence of an increasing $P_\text{pleateau}$ suggests airway resistance is increasing (e.g. bronchospasm, excessive scretions, mucous plug, foreign body aspiration, extrinsic airway compression)
+$$\text{Compliance}=\frac{V_\text{T}}{P_\text{pleateau}-\text{PEEP}}$$
+- An increasing $P_\text{pleateau}$ suggests compliance is decreasing (e.g. pulmonary oedema, pleural effusion, pneumothorax, right mainstem bronchus intubation, ascites or other abdominal distension)
+
+
+| $P_\text{peak}$ | $P_\text{pleateau}$ | Likely problem              |
+| --------------- | ------------------- | --------------------------- |
+| Increased       | Normal              | Increased airway resistance |
+| Increased       | Increased           | Decreased lung compliance   |
+
+
 # Source
 - Strong Medicine Playlist: [Mechanical Ventilation - YouTube](https://www.youtube.com/playlist?list=PLBA5A30910F1FBF47)
