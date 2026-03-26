@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Respiratory|Respiratory]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[Anaesthetics]]"
-date: 2026-02-25
+date: 2026-03-26
 tags:
   - notes
 ---
@@ -89,5 +89,21 @@ $$
 >  In total, the circulation and lungs contain approximately 2.5 L of immediately available $\ce{CO2}$ and 1550 mL of $\ce{O2}$. If a healthy patient stops breathing (e.g. on induction of general anaesthesia), basal processes will continue: 250 mL/min of $\ce{O2}$ will be consumed and 200 mL/min of $\ce{CO2}$ will be produced. Therefore:  $P\ce{CO2}$ will increase by 0.4–0.8 kPa/min. $P\ce{O2}$ will fall. The rate of fall is complicated, involving factors such as Hb concentration and total blood volume. Typically, $S_\text{a}\ce{O2}$ falls to 70% ($P\ce{O2}$ 5.0 kPa) after 2 min.  However, if the patient breathes $\ce{O2}$ for sufficient time to completely de-nitrogenate their functional residual capacity prior to the period of apnoea, the quantity of stored $\ce{O2}$ increases to over 3 L – even after 5 min of apnoea, $S_\text{a}\ce{O2}$ will remain at 100%. Basal metabolic processes will continue and after 5 min the $P_\text{a}\ce{CO2}$ will approach 10 kPa.
 
 
+# Lung Mechanics
+## Definitions
+$$\dot{V}=V_\text{T}\times\text{Respiratory Rate}$$
+- Where:
+	- $\dot{V}$ is the minute ventilation
+	- $V_\text{T}$ is the tidal volume
+$$\dot{V}_\text{A}=\left(V_\text{T}-V_\text{D}\right)\times\text{Respiratory Rate}$$
+- Where:
+	- $\dot{V}_\text{A}$ is the alveolar ventilation
+	- $V_\text{D}$ is teh physiologic dead space
+$$\text{Compliance}=\frac{\Delta\ \text{Volume}}{\Delta\ \text{Pressure}}$$
+$$Q=\frac{\Delta\ P}{R}$$
+- Where
+	- $Q$ is airflow
+	- $\Delta\ P$ is pressure gradient
+	- $R$ is airway resistance
 # Source
 Chambers, D., Huang, C., Matthews, G., 2019. Basic Physiology for Anaesthetists, 2nd ed. Cambridge University Press. [https://doi.org/10.1017/9781108565011](https://doi.org/10.1017/9781108565011)

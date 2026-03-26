@@ -1,5 +1,5 @@
 ---
-date: 2026-01-21
+date: 2026-03-26
 tags:
   - notes
 ---
@@ -36,3 +36,12 @@ tags:
 - Synthesis of surfactant, nitric oxide and heparins
 - Synthesis, storage and release of pro-inflammatory mediators including histamine, eicasonoids, endothelin, platelet aggregating factor and adenosine
 - Some anaesthetic drugs undergo first pass metabolisation in the lungs (e.g. noradrenaline, lignocaine, fentanyl)
+# Lung Volumes
+- Dead space: volume in the airways and lungs which do not participate in gas exchange
+	- Anatomic dead space: volume of conducting airways not lined with a diffusing membrane
+	- Physiologic (total) dead space: anatomic dead space + volume of alveoli which are ventilated but not perfused and can be calculated using the Bohr equation:
+		$$V_\text{D}=V_\text{T}\times\frac{P_\text{a}\ce{CO2}-P_\text{E}\ce{CO2}}{P_\text{a}\ce{CO2}}$$
+		- $V_\text{D}$ is the physiologic dead space
+		- $V_\text{T}$ is the tidal volume
+		- $P_\text{a}\ce{CO2}$ is the partial pressure of $\ce{CO2}$ in the arteries
+		- $P_\text{E}\ce{CO2}$ is the partial pressure of $\ce{CO2}$ in the expired air
