@@ -39,8 +39,8 @@ $$\text{Compliance}=\frac{V_\text{T}}{P_\text{pleateau}-\text{PEEP}}$$
 | --------------- | ------------------- | --------------------------- |
 | Increased       | Normal              | Increased airway resistance |
 | Increased       | Increased           | Decreased lung compliance   |
-
-# Normal Gas Exchange
+# Gas Exchange
+## Normal Gas Exchange
 - Alveolar ventilation equation
 	$$
 P_\text{a}\ce{CO2}=\frac{\dot{V}\ce{CO2}\times P_{\text{I}}}{\dot{V}_{\text{A}}}
@@ -50,5 +50,21 @@ P_\text{a}\ce{CO2}=\frac{\dot{V}\ce{CO2}\times P_{\text{I}}}{\dot{V}_{\text{A}}}
 		- $\dot{V}\ce{CO2}$ is the rate of systemic $\ce{CO2}$ production
 		- $P_{\text{I}}$ is the pressure of inspired air
 		- $\dot{V}_{\text{A}}$ is the alveolar ventilation
+	- Importantly $P_\text{a}\ce{CO2}\propto \frac{1}{\dot{V}_{\text{A}}}$
+ 
+| Mechanism                                      | Examples                                    |
+| ---------------------------------------------- | ------------------------------------------- |
+| VQ mismatch                                    | Pneumonia, PE, pulmonary oedema, COPD       |
+| Shunt                                          | Congenital heart disease, pulmonary AVM     |
+| Thickening of the alveolar-capillary membrane  | Interstitial lung disease, pulmonary oedema |
+| Destruction of the alveolar capillary membrane | Emphysema                                   |
+## Monitoring
+- [[Blood Gas Interpretation|ABG Interpretation]]
+- Pulse oximetry
+- Capnography
+	- Note that $P_\text{a}\ce{CO2}\approx P_{\text{ET}}\ce{CO2}+3.5 \pm 1.5$
+		- However, the gap can be
+			- Increased to >5 mmHg in low cardiac output, COPD, PE, advanced age
+			- Decreased to <2 mmHg in high cardiac output states (e.g. septic shock)
 # Source
 - Strong Medicine Playlist: [Mechanical Ventilation - YouTube](https://www.youtube.com/playlist?list=PLBA5A30910F1FBF47)
