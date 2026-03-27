@@ -43,7 +43,7 @@ $$\text{Compliance}=\frac{V_\text{T}}{P_\text{pleateau}-\text{PEEP}}$$
 # Normal Gas Exchange
 - Alveolar ventilation equation
 	$$
-P_\text{a}\ce{CO2} 
+P_\text{a}\ce{CO2}=\frac{\dot{V}\ce{CO2}\times P_{\text{I}}}{\dot{V}_{\text{}}}
 	$$
 # Source
 - Strong Medicine Playlist: [Mechanical Ventilation - YouTube](https://www.youtube.com/playlist?list=PLBA5A30910F1FBF47)
