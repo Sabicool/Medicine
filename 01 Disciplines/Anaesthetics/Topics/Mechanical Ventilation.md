@@ -1,5 +1,5 @@
 ---
-date: 2026-03-26
+date: 2026-03-27
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
@@ -40,6 +40,8 @@ $$\text{Compliance}=\frac{V_\text{T}}{P_\text{pleateau}-\text{PEEP}}$$
 | Increased       | Normal              | Increased airway resistance |
 | Increased       | Increased           | Decreased lung compliance   |
 
-
+# Normal Gas Exchange
+- Alveolar ventilation equation
+	
 # Source
 - Strong Medicine Playlist: [Mechanical Ventilation - YouTube](https://www.youtube.com/playlist?list=PLBA5A30910F1FBF47)
