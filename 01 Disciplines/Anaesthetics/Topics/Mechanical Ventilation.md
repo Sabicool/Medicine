@@ -67,6 +67,14 @@ P_\text{a}\ce{CO2}=\frac{\dot{V}\ce{CO2}\times P_{\text{I}}}{\dot{V}_{\text{A}}}
 			- Increased to >5 mmHg in low cardiac output, COPD, PE, advanced age
 			- Decreased to <2 mmHg in high cardiac output states (e.g. septic shock)
 # NIV
-
+## CPAP
+- Maintains alveolar recruitment and improves pulmonary shunting
+- Improves predominantly oxygenation and therefore indicated in type 1 respiratory failure
+## BiPAP
+$$
+\text{Pressure support (PS)}\approx \text{IPAP}-\text{EPAP}
+$$
+- S/T mode refers to spontaneous and timed mode and therefore has a backup rate
+- S mode refers to spontaneous (only)
 # Source
 - Strong Medicine Playlist: [Mechanical Ventilation - YouTube](https://www.youtube.com/playlist?list=PLBA5A30910F1FBF47)
