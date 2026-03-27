@@ -66,5 +66,7 @@ P_\text{a}\ce{CO2}=\frac{\dot{V}\ce{CO2}\times P_{\text{I}}}{\dot{V}_{\text{A}}}
 		- However, the gap can be
 			- Increased to >5 mmHg in low cardiac output, COPD, PE, advanced age
 			- Decreased to <2 mmHg in high cardiac output states (e.g. septic shock)
+# NIV
+
 # Source
 - Strong Medicine Playlist: [Mechanical Ventilation - YouTube](https://www.youtube.com/playlist?list=PLBA5A30910F1FBF47)
