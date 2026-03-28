@@ -303,5 +303,19 @@ $$
 - Most clinically relevant manifestation is that of pulmonary and interstitial oedema
 ## Protective
 - Principle feature is low tidal volumes
+- Permissive hypercapnoea: $P_\text{a}\ce{CO2}$ is allowed to climb , with a resulting drop in arterial pH
+	- Contraindicated in increased ICP, haemodynamic instability, right heart failure, severe metabolic acidosis
+- Open lung ventilation
+	- Strategy that combines: low tidal volumes and high PEEP
+## Protocol for ARDS
+1. Choose ventilation mode (typically AC or SIMV)
+2. Start with $V_{\text{T}}$ of 6mL/kg of IBW
+3. Start with PEEP at ≥ 8cm $\ce{H2O}$
+4. Set the I:E ratio of 1:2
+5. Measure and record $P_{\text{pleateau}}$ every 4 hours and after any changes in $V_{\text{T}}$ or PEEP
+	- If $P_{\text{pleateau}}$ >30 cm $\ce{H2O}$, ↓ $V_{\text{T}}$ in 1mL/kg increments until $P_{\text{plateau}}$ ≤30 cm $\ce{H2O}$ or to minimum of 4mL/kg IBW
+	- If $V_{\text{T}}$ < 6mL/kg IBW and $P_{\text{plateau}}$ <25 cm $\ce{H2O}$, ↑ $V_{\text{T}}$ by 1mL/kg IBW increments to a max of 6mL/kg
+6. Adjust the RR and $V_{\text{T}}$ according to pH goals:
+	- 
 # Source
 - Strong Medicine Playlist: [Mechanical Ventilation - YouTube](https://www.youtube.com/playlist?list=PLBA5A30910F1FBF47)
