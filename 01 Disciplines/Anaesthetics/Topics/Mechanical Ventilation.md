@@ -4,7 +4,7 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[Anaesthetics]]"
-figureCount: 7
+figureCount: 8
 ---
 # Lung Mechanics
 ## Definitions
@@ -328,6 +328,9 @@ $$
 # Physiological Consequences
 - Affects on gas exchange
 - At high levels of PEEP, alveolar dead space increases dramatically
-	- Occurs because PEEP has a greater effect on normal compliant alveoli than it does on stiff/fluid filled alveoli
+	- Occurs because PEEP has a greater effect on normal compliant alveoli than it does on stiff/fluid filled alveoli. This means that at high PEEP, healthy alveoli become overdistended, thereby increasing resistance to blood flow to these units, shunting blood towards poorly ventilated, abnormal alveoli. This increases physiologic dead space, worsening V/Q mismatch
+<figure style="text-align: center;">
+  <img src="Pasted image 20260328195659.png" width="75%">
+</figure>
 # Source
 - Strong Medicine Playlist: [Mechanical Ventilation - YouTube](https://www.youtube.com/playlist?list=PLBA5A30910F1FBF47)
