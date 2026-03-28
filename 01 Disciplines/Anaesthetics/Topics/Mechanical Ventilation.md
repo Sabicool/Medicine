@@ -4,7 +4,7 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[Anaesthetics]]"
-figureCount: 2
+figureCount: 4
 ---
 # Lung Mechanics
 ## Definitions
@@ -67,7 +67,7 @@ P_\text{a}\ce{CO2}=\frac{\dot{V}\ce{CO2}\times P_{\text{I}}}{\dot{V}_{\text{A}}}
 		- However, the gap can be
 			- Increased to >5 mmHg in low cardiac output, COPD, PE, advanced age
 			- Decreased to <2 mmHg in high cardiac output states (e.g. septic shock)
-# NIV
+# Non-Invasive Ventilation
 ## CPAP
 - Maintains alveolar recruitment and improves pulmonary shunting
 - Improves predominantly oxygenation and therefore indicated in type 1 respiratory failure
@@ -137,7 +137,62 @@ $$
 - Trigger: time
 - Control: pressure
 - Cycling: time
-![[Pasted image 20260328151929.png]]
+<figure style="text-align: center;">
+  <img src="Pasted image 20260328151929.png">
+  <figcaption><b>Figure 3.</b> Pressure Control Ventilation. Inspiratory pressure is set at 25cm of water. Flow starts high with each breath and rapidly declines (known as a decelerating flow contour).</figcaption>
+</figure>
+- Advantages:
+	- Prevents excessive airway pressures
+	- Avoids regional alveolar overdistention
+	- May lead to earlier liberation from mechanical ventilation
+- Disadvantages
+	- Very uncomfortable and requires deep sedation ± paralysis
+	- Unable to guarantee a minimum minute ventilation
+- Indications
+	- Patients who are at a particularly high risk of barotrauma
 ## Pressure Support Ventilation (PSV)
+- There are no mandatory breaths; every breath must be triggered by the patient
+- Trigger: Pressure or flow
+- Control: Pressure
+- Cycling: Flow
+<figure style="text-align: center;">
+  <img src="Pasted image 20260328152917.png">
+  <figcaption><b>Figure 4.</b> Pressure support ventilation. The pressure support is set at ~15cm of water. Inspiration is terminated by the removal of pressure support once the flow drops to 25% of its maximum</figcaption>
+</figure>
+- Advantages:
+	- Probably the most comfortable mode for the awake, conscious patient
+- Disadvantages:
+	- Patient must trigger each breath
+	- A minimum minute ventilation cannot be guaranteed
+	- Associated with poorer quality sleep
+	- Generally incapable of providing full ventilatory support
+- Indications
+	- Conscious patient
+	- As a stepping stone immediately prior to extubation
+# Dual Control modes
+- Use instantaneous feedback to control aspects of lung volume and airway pressure simultaneously
+- Examples include
+	- Pressure-regulated volume control
+	- Volume support
+	- Volume assured pressure support
+# Ventilator Options
+- Mode
+- Fraction of inspired oxygen $F_\text{i}\ce{O2}$
+- Tidal volume ($V_{\text{T}}$)
+- Respiratory rate (RR)
+- Positive End-Expiratory Pressure (PEEP)
+- Pressure Support (PS)
+- Flow shape/contour
+- Inspiratory:Expiratory (I:E) ratio
+## Fraction of Inspired Oxygen $F_\text{i}\ce{O2}$
+- $F_\text{i}\ce{O2}$ should be titrated to the lowest value which still maintains adequate oxygenation
+- In common practice, it is set at 100% after the patient is first intubated, and then titrated downward over one to several hours as indicated by pulse oximetry and/or serial ABGs
+- $F_\text{i}\ce{O2} > 60\%$ leads to oxygen toxicity in the lungs, therfore if adequate oxygenation requires $F_\text{i}\ce{O2}>60\%$, additional strategies are required:
+	- ↑ PEEP
+	- Recruitment manoeuvres
+	- Trial of a different mode
+## Tidal Volume $V_{\text{T}}$
+- Most applicable to volume cycled modes (AC, SIMV)
+- 
 # Source
 - Strong Medicine Playlist: [Mechanical Ventilation - YouTube](https://www.youtube.com/playlist?list=PLBA5A30910F1FBF47)
