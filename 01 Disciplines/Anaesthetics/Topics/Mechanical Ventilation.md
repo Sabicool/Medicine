@@ -15,7 +15,7 @@ $$\dot{V}=V_\text{T}\times\text{Respiratory Rate}$$
 $$\dot{V}_\text{A}=\left(V_\text{T}-V_\text{D}\right)\times\text{Respiratory Rate}$$
 - Where:
 	- $\dot{V}_\text{A}$ is the alveolar ventilation
-	- $V_\text{D}$ is teh physiologic dead space
+	- $V_\text{D}$ is the physiologic dead space
 $$\text{Compliance}=\frac{\Delta\ \text{Volume}}{\Delta\ \text{Pressure}}$$
 $$Q=\frac{\Delta\ P}{R}$$
 - Where
