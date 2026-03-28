@@ -341,9 +341,15 @@ $$
 		- ↑ CVP → ↓ venous return to RA
 		  ↑ RV afterload → ↓ blood exiting RV
 		- ↑ RV afterload → leftward displacement of the IV septum → impairs LV diastolic filling
+- Left ventricular afterload
+	- PEEP decreases $P_{\text{transmural}}$ which leads to decreased afterload (as per law of laplace before)
 $$
 \underset{\text{(AKA afterload)}}{\text{LV Wall Tension}}\approx \frac{P_{\text{transmural}}\times R}{\text{LV wall thickness}}
 $$
+- The effect on cardiac output and blood pressure is highly dependent on the patient’s volume status
+	- If the patient is hypovolaemic or euvolaemic, the decreased preload will significantly decreased cardiac output and blood pressure
+	- If the patient is hypervolaemic, the cardiac output will increase and the blood pressure may increase or remain unchanged
+## Affects on $\ce{O2}$ Delivery
 
 # Source
 - Strong Medicine Playlist: [Mechanical Ventilation - YouTube](https://www.youtube.com/playlist?list=PLBA5A30910F1FBF47)
