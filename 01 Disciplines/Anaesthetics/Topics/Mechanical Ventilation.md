@@ -326,11 +326,24 @@ $$
 	- Select PEEP that gives the best compliance
 9. Adjust the fi$\ce{O2}$ to achieve $S_\text{p}\ce{O2}$ of 88-95% and/or $P_\text{a}\ce{O2}$ of 55-80 mmHg
 # Physiological Consequences
-- Affects on gas exchange
+## Affects on Gas Exchange
+- At low and medium levels of PEEP, it leads to improved alveolar recruitment which leads to larger surface area for gas diffusing
 - At high levels of PEEP, alveolar dead space increases dramatically
 	- Occurs because PEEP has a greater effect on normal compliant alveoli than it does on stiff/fluid filled alveoli. This means that at high PEEP, healthy alveoli become overdistended, thereby increasing resistance to blood flow to these units, shunting blood towards poorly ventilated, abnormal alveoli. This increases physiologic dead space, worsening V/Q mismatch
 <figure style="text-align: center;">
   <img src="Pasted image 20260328195659.png" width="75%">
 </figure>
+
+- High PEEP can also increase pulmonary vascular resistance which can worsen intracardiac R-L shunts
+## Affects on Haemodynamics
+- Preload
+	- PEEP can decrease preload because:
+		- ↑ CVP → ↓ venous return to RA
+		  ↑ RV afterload → ↓ blood exiting RV
+		- ↑ RV afterload → leftward displacement of the IV septum → impairs LV diastolic filling
+$$
+\underset{\text{AKA afterload}}{\text{LV Wall Tension}}\approx \frac{P_{\text{transmural}}\times R}{\text{LV wall thickness}}
+$$
+
 # Source
 - Strong Medicine Playlist: [Mechanical Ventilation - YouTube](https://www.youtube.com/playlist?list=PLBA5A30910F1FBF47)
