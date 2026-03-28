@@ -320,6 +320,11 @@ $$
 	- If pH <7.15 and RR ≥ 35 breaths/min, consider ↑ $V_{\text{T}}$ and suspending $P_{\text{plateau}}$ limit
 7. Adjust I:E ratio to avoid auto-PEEP and dysynchrony
 8. Adjust PEEP to maximise alveolar recruitment while avoiding over-distention:
-	- 
+	- ↑ or ↓ PEEP in increments of 2-3 cm of $\ce{H2O}$
+	- Select PEEP that gives the best compliance
+9. Adjust the fi$\ce{O2}$ to achieve $S_\text{p}\ce{O2}$ of 88-95% and/or $P_\text{a}\ce{O2}$ of 55-80 mmHg
+# Physiological Consequences
+- Affects on gas exchange
+- 
 # Source
 - Strong Medicine Playlist: [Mechanical Ventilation - YouTube](https://www.youtube.com/playlist?list=PLBA5A30910F1FBF47)
