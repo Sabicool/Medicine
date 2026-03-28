@@ -275,6 +275,33 @@ $$
 | **Rate**                            | 10–20 breaths/min to achieve MV of 7–10 L/min; adjust based on pH                                                                                                                           |
 | **PEEP**                            | Start at 5 cmH₂O  <br>Titrate up if PaO₂ <60 on >60% FiO₂  <br>May start with no PEEP in pure hypoventilation                                                                               |
 | **Pressure Support** _(n/a for AC)_ | 5–20 cmH₂O  <br>Optimal PS ≈ P_plateau − PEEP  <br>_(Minimum 5 cmH₂O PS always to overcome ETT resistance)_                                                                                 |
-# 
+# Lung Protective Ventilation
+## Ventilator Associated Lung Injury
+- Most frequently complicates ALI and [[Acute Respiratory Distress Syndrome|ARDS]] 
+- Types include
+	- Barotrauma: caused by excessively airway pressures
+	- Volutrauma: caused by excessive $V_{\text{T}}$
+	- Biotrauma
+	- Cyclic atelactasis
+- Oxygen toxicity
+	- For patient on bleomycin, oxygen toxicity can occur at lower $F_\text{i}\ce{O2}$
+### Barotrauma
+- Manifestations
+	- Pneumothorax
+	- Pneumomediastinum
+	- Subcutaneous emphysema
+	- Systemic gas embolism
+	- Cystic barotrauma
+- Risk factors
+	- High $P_{\text{plateau}}>32.5\pm 2.5\ \text{cm}\ \ce{H2O}$
+	- High minute ventilation
+	- Non-homogenous parenchymal disease (e.g. ARDS)
+	- Necrotising lung pathology
+	- Secretion retention
+### Biotrauma
+- Release of proinflammatory cytokines in response to supranormal intraalveolar pressures; occurs in the absence of physical damage to lung architecture (as in barotrauma)
+- Most clinically relevant manifestation is that of pulmonary and interstitial oedema
+## Protective
+- Principle feature is low tidal volumes
 # Source
 - Strong Medicine Playlist: [Mechanical Ventilation - YouTube](https://www.youtube.com/playlist?list=PLBA5A30910F1FBF47)
