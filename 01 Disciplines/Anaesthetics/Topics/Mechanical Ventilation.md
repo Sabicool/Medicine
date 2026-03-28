@@ -1,9 +1,10 @@
 ---
-date: 2026-03-27
+date: 2026-03-28
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[Anaesthetics]]"
+figureCount: 2
 ---
 # Lung Mechanics
 ## Definitions
@@ -76,5 +77,67 @@ $$
 $$
 - S/T mode refers to spontaneous and timed mode and therefore has a backup rate
 - S mode refers to spontaneous (only)
+# Ventilator Modes
+- Modes can be partially defined by:
+	- Trigger variable: when to initiate a machine-driven breath. Common options include: time triggered, pressure triggered, flow triggered
+	- Control variable: defines what aspect of inspiration is the primary variable controlled by the ventilator during inspiration. Common options include: pressure controlled, volume controlled (also known as volume controlled)
+	- Cycling variable: defines what signals the ventilator to terminate inspiration. Common options include: volume cycled, flow cycled, time cycled. Uncommon options include: pressure cycled
+## Assist Control (AC)
+- Mix of mandatory and assisted breaths with all breaths, once triggered, are treated the same and have a consistent tidal volume
+- Trigger: time, pressure or flow
+- Control: flow (volume)
+- Cycling: time
+<figure style="text-align: center;">
+  <img src="Pasted image 20260328150712.png">
+  <figcaption><b>Figure 1.</b> Assist control. Note that the 1st, 3rd and 4th breaths are patient triggered with the second breath being time triggered.</figcaption>
+</figure>
+- Advantages
+	- Guarantees a minimum minute ventilation
+	- Low work of breathing
+- Disadvantages
+	- Can lead to respiratory alkalosis, auto-PEEP and hypotension in hyperventilating patients as every breath leads to a fully supported breath
+- Indications
+	- Critically ill patients requiring full ventilatory support and in whom fluctuations in $V_{\text{T}}$ is undesirable
+## Synchronised Intermittent Mandatory Ventilation (SIMV)
+- Mix of mandatory breaths (some of which are synchronised with spontaneous breaths), and assisted breaths
+- Mandatory (non-synchronised breaths):
+	- Trigger: time
+	- Control: flow (volume)
+	- Cycling: time
+- Synchronised breaths:
+	- Trigger: pressure or flow
+	- Control: flow (volume)
+	- Cycling: time
+- Non-synchronised breaths
+	- Trigger: pressure or flow
+	- Control: pressure
+	- Cycling: flow
+<figure style="text-align: center;">
+  <img src="Pasted image 20260328151410.png">
+  <figcaption><b>Figure 2.</b> SIMV (with pressure support). Note that the first and fourth breaths are synchronised pressure triggerred fully supported breath with tidal volume set for ~600 mL. The second, third and fifth breaths are spontaneous non-synchronised breaths assisted with pressure support with 10 cm of water.</figcaption>
+</figure>
+- Advantage
+	- Guarantees a minimum minute ventilation
+	- Lower mean airway pressure when compared with AC
+	- Can provide a wide range of respiratory support
+- Disadvantages
+	- Increased work of breathing for patient
+	- ? Lower cardiac output in patients with LV dysfunction
+- Indications
+	- Critically ill patients who are hyperventilating or otherwise prown to auto-PEEP or high airway resistance
+
+> [!NOTE]
+> The main difference between SIMV and AC is that spontaneous breaths in excess of the set respiratory rate:
+> - In AC receive full support
+> - In SIMV receive partial support
+> Therefore in a patient with no spontaneous breaths AC = SIMV
+
+## Pressure Control Ventilation (PCV)
+- Mandatory breaths only. The patient is unable to trigger the ventilator
+- Trigger: time
+- Control: pressure
+- Cycling: time
+![[Pasted image 20260328151929.png]]
+## Pressure Support Ventilation (PSV)
 # Source
 - Strong Medicine Playlist: [Mechanical Ventilation - YouTube](https://www.youtube.com/playlist?list=PLBA5A30910F1FBF47)
