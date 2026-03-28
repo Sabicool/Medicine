@@ -1,10 +1,10 @@
 ---
-date: 2026-03-28
+date: 2026-03-29
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[Anaesthetics]]"
-figureCount: 10
+figureCount: 12
 ---
 # Lung Mechanics
 ## Definitions
@@ -397,11 +397,50 @@ $$
 $$
 \text{Auto-PEEP}=\substack{\text{End-expiratory}\\\text{Alveolar Pressure}}-\substack{\text{Applied}\\\text{PEEP}}
 $$
+- It can be quantified using an end-expiratory breath hold where the rise in pressure above the applied PEEP represents the auto-PEEP
 - Treatment strategies:
 	- For high minute ventilation: ↓ $V_{\text{T}}$, ↓ respiratory rate or ↓ I:E ratio (these strategies allow for some permissive hypercapnoea)
 	- Expiratory flow limitation: bronchodilators, secretion management, ↑ Applied PEEP
 	- Expiration resistance: upsize ET tube, ↑ sedation, paralytics
 ## Patient-Ventilator Dyssynchrony
+- Dyssynchrony is a state in which the respiratory cycle of the patient does not always match that of the ventilator
+- General signs of possible dyssynchrony include increased heart rate, increased respiratory rate, decreased $S_\text{p}\ce{O2}$, increased expiratory muscle activity, coughing, agitation and visible inspiratory effort without triggering the ventilator
+
+| Phase of Respiration | Types and Subtypes of Dyssynchrony                                                                               |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Inspiration**      | **Trigger Dyssynchrony**<br>- Trigger Delay<br>- Missed Trigger<br>- Auto-Triggering<br>- Double-Triggering      |
+| **Inspiration**      | **Flow Dyssynchrony**                                                                                            |
+| **Expiration**       | **Cycling Dyssynchrony** *(a.k.a. Termination Dyssynchrony)*<br>- Premature Termination<br>- Delayed Termination |
+- Trigger delay: an extra delay occurs between when the patient attempts to initiate a breath and when the ventilator begins to deliver it
+	- Fixes include: ↓ trigger pressure, ↓ sedation, correction electrolyte abnormalities, bronchodilators or ↑ ET tube size, or correcting auto-PEEP
+- Missed trigger: Insufficient respiratory effort fails to reach threshold for triggering ventilator
+	- Fixes include: ↓ trigger pressure, ↓ sedation, correction electrolyte abnormalities, bronchodilators or ↑ ET tube size, or correcting auto-PEEP
+- Auto-triggering: Occurs when the ventilator interprets signals other than the patient’s attempt to initiate a breath as signal deliver an inspiration
+	- Fixes include: ↓ triggering sensitivity or addressing noise
+- Flow dyssynchrony: occurs when the flow rate is set too low for the patient’s respiratory demand (seen in volume control modes)
+	- Fixes include: ↑ inspiratory flow rate, changing inspiratory flow pattern or changing the ventilator mode
+
+<figure style="text-align: center;">
+  <img src="Pasted image 20260329005150.png">
+  <figcaption><b>Figure 11.</b> Flow dyssynchrony. Note the concave or scalloped appearance of the inspiration waveform</figcaption>
+</figure>
+
+- Cycling dyssynchrony
+	- Delayed termination
+		- Here the ventilator inspiratory time exceeds that of the patient (i.e. patient tries to initiate expiration while the ventilator is still delivering inspiration)
+		- It can be identified by a sharp spike in airway pressure at the end of inspiration
+		- Fixes include: changing cycling threshold to cycle earlier, changing ventilator mode to time cycled in order to match the patient inspiratory time
+	- Premature termination
+		- The ventilator ceases delivery of air while the patient is trying to inspire
+		- This can cause the pressure to drop below baseline and trigger another ventilator delivered inspiration (known as double triggering)
+		- Fixes include: changing cycling threshold to cycle earlier, changing ventilator mode to time cycled in order to match the patient inspiratory time
+## Ventilator-Associated Pneumonia
+- Any pneumonia that occurs >48 hours after intubation
+
+<figure style="text-align: center;">
+  <img src="Pasted image 20260329005934.png">
+  <figcaption><b>Figure 12.</b> Mechanism of ventilator associated pneumonia</figcaption>
+</figure>
 
 # Source
 - Strong Medicine Playlist: [Mechanical Ventilation - YouTube](https://www.youtube.com/playlist?list=PLBA5A30910F1FBF47)
