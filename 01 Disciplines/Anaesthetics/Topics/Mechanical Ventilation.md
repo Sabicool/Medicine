@@ -80,7 +80,7 @@ $$
 # Ventilator Modes
 - Modes can be partially defined by:
 	- Trigger variable: when to initiate a machine-driven breath. Common options include: time triggered, pressure triggered, flow triggered
-	- Control variable: defines what aspect of inspiration is the primary variable controlled by the ventilator during inspiration. Common options include: pressure controlled, volume controlled (also known as volume controlled)
+	- Control variable: defines what aspect of inspiration is the primary variable controlled by the ventilator during inspiration. Common options include: pressure controlled, flow controlled (also known as volume controlled)
 	- Cycling variable: defines what signals the ventilator to terminate inspiration. Common options include: volume cycled, flow cycled, time cycled. Uncommon options include: pressure cycled
 ## Assist Control (AC)
 - Mix of mandatory and assisted breaths with all breaths, once triggered, are treated the same and have a consistent tidal volume
