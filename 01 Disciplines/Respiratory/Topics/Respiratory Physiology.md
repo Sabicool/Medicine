@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Respiratory|Respiratory]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[Anaesthetics]]"
-date: 2026-03-27
+date: 2026-03-28
 tags:
   - notes
 ---
