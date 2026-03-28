@@ -3,7 +3,7 @@ date: 2026-01-11
 Rotations:
   - "[[Intensive Care Unit]]"
   - "[[Emergency Medicine]]"
-  - a
+  - "[[Anaesthetics]]"
 tags:
   - notes
 ---
