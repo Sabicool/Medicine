@@ -324,7 +324,7 @@ $$
 8. Adjust PEEP to maximise alveolar recruitment while avoiding over-distention:
 	- ↑ or ↓ PEEP in increments of 2-3 cm of $\ce{H2O}$
 	- Select PEEP that gives the best compliance
-9. Adjust the fi$\ce{O2}$ to achieve $S_\text{p}\ce{O2}$ of 88-95% and/or $P_\text{a}\ce{O2}$ of 55-80 mmHg
+9. Adjust the $F_\text{i}\ce{O2}$ to achieve $S_\text{p}\ce{O2}$ of 88-95% and/or $P_\text{a}\ce{O2}$ of 55-80 mmHg
 # Physiological Consequences
 ## Affects on Gas Exchange
 - At low and medium levels of PEEP, it leads to improved alveolar recruitment which leads to larger surface area for gas diffusing
