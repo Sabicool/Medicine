@@ -316,6 +316,10 @@ $$
 	- If $P_{\text{pleateau}}$ >30 cm $\ce{H2O}$, ↓ $V_{\text{T}}$ in 1mL/kg increments until $P_{\text{plateau}}$ ≤30 cm $\ce{H2O}$ or to minimum of 4mL/kg IBW
 	- If $V_{\text{T}}$ < 6mL/kg IBW and $P_{\text{plateau}}$ <25 cm $\ce{H2O}$, ↑ $V_{\text{T}}$ by 1mL/kg IBW increments to a max of 6mL/kg
 6. Adjust the RR and $V_{\text{T}}$ according to pH goals:
+	- If pH <7.30, consider ↑ RR to as high as 35 breaths/min while monitoring for development of auto-PEEP
+	- If pH <7.15 and RR ≥ 35 breaths/min, consider ↑ $V_{\text{T}}$ and suspending $P_{\text{plateau}}$ limit
+7. Adjust I:E ratio to avoid auto-PEEP and dysynchrony
+8. Adjust PEEP to maximise alveolar recruitment while avoiding over-distention:
 	- 
 # Source
 - Strong Medicine Playlist: [Mechanical Ventilation - YouTube](https://www.youtube.com/playlist?list=PLBA5A30910F1FBF47)
