@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[Anaesthetics]]"
-date: 2026-03-22
+date: 2026-03-28
 aliases:
   - ABG Interpretation
 tags:
@@ -423,8 +423,8 @@ $$
 ## Effect of Temperature on ABG
 - Higher temperature → more gas dissolved in blood
 ## 12345 Rule
-- Respiratory acidosis :: For every 10 mmHg rise in PaCO2, there should be 1 increase in $\ce{HCO3-}$ for acute and 4 increase in chronic
-- Respiratory alkalosis :: For every 10mmHg rise in PaCO2, there should be 2 decrease in $\ce{HCO3-}$ for acute and 5 decrease in chronic
+- Respiratory acidosis: For every 10 mmHg rise in PaCO2, there should be 1 increase in $\ce{HCO3-}$ for acute and 4 increase in chronic
+- Respiratory alkalosis: For every 10mmHg rise in PaCO2, there should be 2 decrease in $\ce{HCO3-}$ for acute and 5 decrease in chronic
 ![[2024-04-24_09-21-18_screenshot.png]]
 
 |                       | Acute                   | Chronic                 |

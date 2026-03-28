@@ -38,9 +38,11 @@ aliases:
 
 - Procedures: 
     - [[General Anaesthesia]]
+    - [[Intubation]]
     - [[Lung POCUS]]
 
 - Topics: 
+    - [[Mechanical Ventilation]]
     - [[Respiratory Physiology]]
     - [[Sodium and Potassium Homeostasis]]
 

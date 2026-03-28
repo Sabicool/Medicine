@@ -12,8 +12,10 @@ date: 2026-01-24
 
 - Procedures: 
     - [[General Anaesthesia]]
+    - [[Intubation]]
 
 - Topics: 
+    - [[Mechanical Ventilation]]
     - [[Respiratory Physiology]]
     - [[Sodium and Potassium Homeostasis]]
 

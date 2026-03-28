@@ -57,10 +57,12 @@ date: 2025-12-25
 
 - Procedures: 
     - [[General Anaesthesia]]
+    - [[Intubation]]
     - [[Lumbar Puncture]]
     - [[Lung POCUS]]
 
 - Topics: 
+    - [[Mechanical Ventilation]]
     - [[Mental Health Assessment]]
     - [[Mental State Examination]]
     - [[Paediatric Pain Management]]
