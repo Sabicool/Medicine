@@ -325,6 +325,7 @@ $$
 9. Adjust the fi$\ce{O2}$ to achieve $S_\text{p}\ce{O2}$ of 88-95% and/or $P_\text{a}\ce{O2}$ of 55-80 mmHg
 # Physiological Consequences
 - Affects on gas exchange
-- 
+- At high levels of PEEP, alveolar dead space increases dramatically
+	- Occurs because PEEP has a greater effect on normal compliant alveoli than it does on stiff/fluid filled alveoli
 # Source
 - Strong Medicine Playlist: [Mechanical Ventilation - YouTube](https://www.youtube.com/playlist?list=PLBA5A30910F1FBF47)
