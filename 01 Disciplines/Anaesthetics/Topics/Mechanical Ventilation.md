@@ -349,7 +349,14 @@ $$
 - The effect on cardiac output and blood pressure is highly dependent on the patient’s volume status
 	- If the patient is hypovolaemic or euvolaemic, the decreased preload will significantly decreased cardiac output and blood pressure
 	- If the patient is hypervolaemic, the cardiac output will increase and the blood pressure may increase or remain unchanged
-## Affects on $\ce{O2}$ Delivery
+## Affects on Positive Pressure on Monitoring
+- High levels of PEEP impair the usual means of assessing cardiac preload (i.e. CVP and PCWP)
+- Alternative strategies include:
+	- Calculating $\text{PCWP}_{\text{adjusted}}$
+	- Right ventricular end diastolic volume
+	- Intrathoracic blood volume
+	- Respiratory variation in aortic blood velocity
+	- 
 
 # Source
 - Strong Medicine Playlist: [Mechanical Ventilation - YouTube](https://www.youtube.com/playlist?list=PLBA5A30910F1FBF47)
