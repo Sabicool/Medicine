@@ -342,7 +342,7 @@ $$
 		  ↑ RV afterload → ↓ blood exiting RV
 		- ↑ RV afterload → leftward displacement of the IV septum → impairs LV diastolic filling
 $$
-\underset{\text{AKA afterload}}{\text{LV Wall Tension}}\approx \frac{P_{\text{transmural}}\times R}{\text{LV wall thickness}}
+\underset{\text{(AKA afterload)}}{\text{LV Wall Tension}}\approx \frac{P_{\text{transmural}}\times R}{\text{LV wall thickness}}
 $$
 
 # Source
