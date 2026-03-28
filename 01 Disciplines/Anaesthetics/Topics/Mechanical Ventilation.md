@@ -43,15 +43,17 @@ $$\text{Compliance}=\frac{V_\text{T}}{P_\text{pleateau}-\text{PEEP}}$$
 # Gas Exchange
 ## Normal Gas Exchange
 - Alveolar ventilation equation
-	$$
+
+$$
 P_\text{a}\ce{CO2}=\frac{\dot{V}\ce{CO2}\times P_{\text{I}}}{\dot{V}_{\text{A}}}
-	$$
-	- Where
-		- $P_\text{a}\ce{CO2}$ is the partial pressure of $\ce{CO2}$ in arterial blood
-		- $\dot{V}\ce{CO2}$ is the rate of systemic $\ce{CO2}$ production
-		- $P_{\text{I}}$ is the pressure of inspired air
-		- $\dot{V}_{\text{A}}$ is the alveolar ventilation
-	- Importantly $P_\text{a}\ce{CO2}\propto \frac{1}{\dot{V}_{\text{A}}}$
+$$
+
+- Where
+	- $P_\text{a}\ce{CO2}$ is the partial pressure of $\ce{CO2}$ in arterial blood
+	- $\dot{V}\ce{CO2}$ is the rate of systemic $\ce{CO2}$ production
+	- $P_{\text{I}}$ is the pressure of inspired air
+	- $\dot{V}_{\text{A}}$ is the alveolar ventilation
+- Importantly $P_\text{a}\ce{CO2}\propto \frac{1}{\dot{V}_{\text{A}}}$
  
 | Mechanism                                      | Examples                                    |
 | ---------------------------------------------- | ------------------------------------------- |
