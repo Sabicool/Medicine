@@ -353,10 +353,21 @@ $$
 - High levels of PEEP impair the usual means of assessing cardiac preload (i.e. CVP and PCWP)
 - Alternative strategies include:
 	- Calculating $\text{PCWP}_{\text{adjusted}}$
+		- With normal lung compliance
+			$$
+\text{PCWP}_{\text{adjusted}}\approx \text{PCWP}_{\text{measured}}-\frac{\text{PEEP}}{2}
+			$$
+		- With abnormal lung compliance
+			$$
+\text{PCWP}_{adjusted}\approx \text{PCWP}_{\text{measured}}-\frac{\text{PEEP}}{4}
+			$$
 	- Right ventricular end diastolic volume
 	- Intrathoracic blood volume
 	- Respiratory variation in aortic blood velocity
-	- 
+## Affects on Cerebral Perfusion
+$$
+\underset{ \substack{\text{Cerebral}\\\text{Perfusion Pressure}}  }{ \text{CPP} } = \text{MAP} - \text{ICP}
+$$
 
 # Source
 - Strong Medicine Playlist: [Mechanical Ventilation - YouTube](https://www.youtube.com/playlist?list=PLBA5A30910F1FBF47)
