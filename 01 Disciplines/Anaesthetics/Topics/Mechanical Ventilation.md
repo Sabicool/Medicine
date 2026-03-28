@@ -4,7 +4,7 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[Anaesthetics]]"
-figureCount: 8
+figureCount: 10
 ---
 # Lung Mechanics
 ## Definitions
@@ -353,14 +353,8 @@ $$
 - High levels of PEEP impair the usual means of assessing cardiac preload (i.e. CVP and PCWP)
 - Alternative strategies include:
 	- Calculating $\text{PCWP}_{\text{adjusted}}$
-		- With normal lung compliance
-			$$
-\text{PCWP}_{\text{adjusted}}\approx \text{PCWP}_{\text{measured}}-\frac{\text{PEEP}}{2}
-			$$
-		- With abnormal lung compliance
-			$$
-\text{PCWP}_{adjusted}\approx \text{PCWP}_{\text{measured}}-\frac{\text{PEEP}}{4}
-			$$
+		- With normal lung compliance: $\text{PCWP}_{\text{adjusted}}\approx \text{PCWP}_{\text{measured}}-\frac{\text{PEEP}}{2}$
+		- With abnormal lung compliance: $\text{PCWP}_{adjusted}\approx \text{PCWP}_{\text{measured}}-\frac{\text{PEEP}}{4}$
 	- Right ventricular end diastolic volume
 	- Intrathoracic blood volume
 	- Respiratory variation in aortic blood velocity
@@ -368,6 +362,46 @@ $$
 $$
 \underset{ \substack{\text{Cerebral}\\\text{Perfusion Pressure}}  }{ \text{CPP} } = \text{MAP} - \text{ICP}
 $$
+- Can in some circumstances decrease cerebral perfusion although this is variable
+# Pathologic Consequences
+- Complications from [[Intubation]]:
+	- Dental trauma
+	- Aspiration
+	- Laryngeal damage
+	- Bronchospasm
+	- Oesophageal intubation
+	- Right main bronchus intubation
+## Auto-PEEP (aka Intrinsic PEEP)
+- Auto-PEEP is positive airway pressure that occurs at the end of expiration due to incomplete exhalation
+- Consequences include:
+	- ↑ Risk of barotrauma
+	- ↓ Venous return → ↓ cardiac output → hypotension
+	- Worsened V/Q mismatch
+	- Patient-ventilator dyssynchrony
+	- ↑ in patient’s work of breathing
+- Mechanisms by which auto-PEEP develop:
+	- High minute ventilation (e.g. high $V_{\text{T}}$ and/or high respiratory rate)
+	- Expiratory flow limitation (e.g. high airway resistance in COPD)
+	- Expiratory resistance (e.g. kinked ET tube, patient-ventilator dyssynchrony)
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px;">
+  <figure style="text-align: center;">
+    <img src="Pasted image 20260328234056.png" style="width: 100%;">
+    <figcaption><b>Figure 9.</b> Auto-PEEP absent</figcaption>
+  </figure>
+  <figure style="text-align: center;">
+    <img src="Pasted image 20260328234107.png" style="width: 100%;">
+    <figcaption><b>Figure 10.</b> Auto-PEEP present</figcaption>
+  </figure>
+</div>
+- Examine for audible air flow extending to the end of expiration on auscultation
+$$
+\text{Auto-PEEP}=\substack{\text{End-expiratory}\\\text{Alveolar Pressure}}-\substack{\text{Applied}\\\text{PEEP}}
+$$
+- Treatment strategies:
+	- For high minute ventilation: ↓ $V_{\text{T}}$, ↓ respiratory rate or ↓ I:E ratio (these strategies allow for some permissive hypercapnoea)
+	- Expiratory flow limitation: bronchodilators, secretion management, ↑ Applied PEEP
+	- Expiration resistance: upsize ET tube, ↑ sedation, paralytics
+## Patient-Ventilator Dyssynchrony
 
 # Source
 - Strong Medicine Playlist: [Mechanical Ventilation - YouTube](https://www.youtube.com/playlist?list=PLBA5A30910F1FBF47)
