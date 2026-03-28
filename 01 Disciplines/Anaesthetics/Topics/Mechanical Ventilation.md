@@ -4,7 +4,7 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[Anaesthetics]]"
-figureCount: 4
+figureCount: 7
 ---
 # Lung Mechanics
 ## Definitions
@@ -87,10 +87,12 @@ $$
 - Trigger: time, pressure or flow
 - Control: flow (volume)
 - Cycling: time
+
 <figure style="text-align: center;">
   <img src="Pasted image 20260328150712.png">
   <figcaption><b>Figure 1.</b> Assist control. Note that the 1st, 3rd and 4th breaths are patient triggered with the second breath being time triggered.</figcaption>
 </figure>
+
 - Advantages
 	- Guarantees a minimum minute ventilation
 	- Low work of breathing
@@ -112,10 +114,12 @@ $$
 	- Trigger: pressure or flow
 	- Control: pressure
 	- Cycling: flow
+
 <figure style="text-align: center;">
   <img src="Pasted image 20260328151410.png">
   <figcaption><b>Figure 2.</b> SIMV (with pressure support). Note that the first and fourth breaths are synchronised pressure triggerred fully supported breath with tidal volume set for ~600 mL. The second, third and fifth breaths are spontaneous non-synchronised breaths assisted with pressure support with 10 cm of water.</figcaption>
 </figure>
+
 - Advantage
 	- Guarantees a minimum minute ventilation
 	- Lower mean airway pressure when compared with AC
@@ -137,10 +141,12 @@ $$
 - Trigger: time
 - Control: pressure
 - Cycling: time
+
 <figure style="text-align: center;">
   <img src="Pasted image 20260328151929.png">
   <figcaption><b>Figure 3.</b> Pressure Control Ventilation. Inspiratory pressure is set at 25cm of water. Flow starts high with each breath and rapidly declines (known as a decelerating flow contour).</figcaption>
 </figure>
+
 - Advantages:
 	- Prevents excessive airway pressures
 	- Avoids regional alveolar overdistention
@@ -155,10 +161,12 @@ $$
 - Trigger: Pressure or flow
 - Control: Pressure
 - Cycling: Flow
+
 <figure style="text-align: center;">
   <img src="Pasted image 20260328152917.png">
   <figcaption><b>Figure 4.</b> Pressure support ventilation. The pressure support is set at ~15cm of water. Inspiration is terminated by the removal of pressure support once the flow drops to 25% of its maximum</figcaption>
 </figure>
+
 - Advantages:
 	- Probably the most comfortable mode for the awake, conscious patient
 - Disadvantages:
@@ -193,6 +201,80 @@ $$
 	- Trial of a different mode
 ## Tidal Volume $V_{\text{T}}$
 - Most applicable to volume cycled modes (AC, SIMV)
-- 
+- Initial values should be weight based with:
+	- Healthy lungs 10mL/kg of ideal body weight (as in neurological catastrophy, drug overdose)
+	- COPD 8mL/kg
+	- ARDS 6mL/kg
+- Higher $V_{\text{T}}$ leads to ↓ $P_\text{a}\ce{CO2}$, ↑ pH and ↑ $P_{\text{plateau}}$ and vice versa
+## Respiratory Rate
+- Typical respiratory rate is 10-20 breaths/min in order to provide 7-10 L/min of minute ventilation
+- Higher RR leads to ↓ $P_\text{a}\ce{CO2}$, ↑ pH and higher risk of auto-PEEP and vice versa
+## Positive End-Expiratory Pressure
+- Continuous positive pressure present throughout all of ventilation
+- Physiologic effects:
+	- ↑ oxygentation
+		- ↑ alveolar recruitment
+		- ↑ alveolar surface area
+	- ↑ cardiac output in CHF patients but can ↓ BP in non CHF patients
+		- ↓ preload
+		- ↓ LV afterload
+	- ↑ RV afterload → ↑ R-L shunts if present
+$$
+\ce{O2}\ \text{Delivery}\propto S_\text{a}\ce{O2}\times[\ce{Hb}]\times \text{Cardiac Output}
+$$
+
+<figure style="text-align: center;">
+  <img src="Pasted image 20260328170450.png" width="75%">
+  <figcaption><b>Figure 5.</b> Relationship between oxygen delivery and PEEP. There exists a sweet spot where an optimal PEEP delivers optimised oxygen delivery</figcaption>
+</figure>
+
+ - In clinical practice: PEEP is set to the lowest value that allows F$\ce{O2}$ to be ≤ 60% with a minimum value of 5 cm of $\ce{H2O}$
+## Pressure Support
+- Amount of additional positive pressure beyond PEEP that is provided during inspiration. Important in pressure support ventilation, BiPAP and almost always used in SIMV
+- Simple estimate of optimal PS is:
+$$
+PS_{\text{optimal}}\approx P_{\text{plateau}}-\text{PEEP}
+$$
+- However in practice, PS is typically set to twice PEEP
+## Flow Shape/Contour
+- Describes the pattern of airflow during inspiration and is set in volume-targeted ventilator modes
+	- Always decelerating shape in pressure-targeted modes as a consequence of lung mechanics
+- Options include:
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px;">
+  <figure style="text-align: center;">
+    <img src="Pasted image 20260328171020.png" style="width: 100%;">
+    <figcaption><b>Figure 6.</b> Decelerating flow contour</figcaption>
+  </figure>
+  <figure style="text-align: center;">
+    <img src="Pasted image 20260328171034.png" style="width: 100%;">
+    <figcaption><b>Figure 7.</b> Constant flow contour</figcaption>
+  </figure>
+</div>
+
+- Decelerating flow contour results in:
+	- ↓ $P_{\text{peak}}$
+	- ↑ $P_{\text{mean}}$
+	- ↓ $V_{\text{D}}$
+- Constant flow contour results in:
+	- ↑ $P_{\text{peak}}$
+	- ↓ $P_{\text{mean}}$
+	- Less auto-PEEP
+## Inspiratory : Expiratory Ratio
+- Ratio between the amount of time spent in inspiration and the amount of time spent in expiration
+- In AC and SIMV it is usually set indirectly via $V_{\text{T}}$ and flow rate/pattern
+- In PCV it is usually set directly
+- In PSV it is generally outside of clinician control
+- A higher ratio (higher inspiratory time) results in ↑ $P_{\text{mean}}$ and higher risk of auto-PEEP and vice versa
+## Typical Initial Ventilator Settings
+| Option                              | Typical Settings                                                                                                                                                                            |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Mode**                            | Intrinsic hyperventilation → SIMV  <br>No intrinsic hyperventilation → AC or SIMV                                                                                                           |
+| **FiO₂**                            | Start at 100%  <br>Taper as able to 35–60% to keep PaO₂ >60–80 mmHg                                                                                                                         |
+| **Tidal Volume (V_T)**              | ~10 cc/kg for normal patients  <br>~8 cc/kg for COPD  <br>~6 cc/kg for ARDS  <br>_(Use ideal body weight)_  <br>Adjust as needed based on pH; consider lowering V_T if P_plateau > 30 cmH₂O |
+| **Rate**                            | 10–20 breaths/min to achieve MV of 7–10 L/min; adjust based on pH                                                                                                                           |
+| **PEEP**                            | Start at 5 cmH₂O  <br>Titrate up if PaO₂ <60 on >60% FiO₂  <br>May start with no PEEP in pure hypoventilation                                                                               |
+| **Pressure Support** _(n/a for AC)_ | 5–20 cmH₂O  <br>Optimal PS ≈ P_plateau − PEEP  <br>_(Minimum 5 cmH₂O PS always to overcome ETT resistance)_                                                                                 |
+# 
 # Source
 - Strong Medicine Playlist: [Mechanical Ventilation - YouTube](https://www.youtube.com/playlist?list=PLBA5A30910F1FBF47)
