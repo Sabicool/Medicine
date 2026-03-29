@@ -465,6 +465,6 @@ $$
 2. Mental status: is the patient mentally alert enough to protect their airway
 3. Secretions
 4. Airleak on deflation of ETT balloon suggests absence of tracheal swelling
-# Source
+# Sources
 - Strong Medicine Playlist: [Mechanical Ventilation - YouTube](https://www.youtube.com/playlist?list=PLBA5A30910F1FBF47)
 - [Mechanical Ventilator Basics — ICU One Pager](https://onepagericu.com/vent-basics)
