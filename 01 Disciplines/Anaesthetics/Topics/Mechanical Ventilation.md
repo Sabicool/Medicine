@@ -366,6 +366,7 @@ $$
 \underset{ \substack{\text{Cerebral}\\\text{Perfusion Pressure}}  }{ \text{CPP} } = \text{MAP} - \text{ICP}
 $$
 - Can in some circumstances decrease cerebral perfusion although this is variable
+	- Derranged physiology says that PEEP increases ICP due to decreased venous return
 # Pathologic Consequences
 - Complications from [[Intubation]]:
 	- Dental trauma
