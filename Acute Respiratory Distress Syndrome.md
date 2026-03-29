@@ -38,9 +38,12 @@ date: 2026-03-29
 	- $S_\text{p}\ce{O2}:F_\text{i}\ce{O2}<315$ (if $S_\text{p}\ce{O2}<97\%$) on HFNP with flow of > 30L/min or NIV/CPAP with at least 5 cm $\ce{H2O}$ of PEEP
 - In resource-limited settings:
 	- $S_\text{p}\ce{O2}:F_\text{i}\ce{O2}<315$ (if $S_\text{p}\ce{O2}<97\%$)[^1]
+# Management
+- Open lung model ventilation (i.e. low $V_{\text{T}}$ and high PEEP)
 # Sources
 - [Acute Respiratory Distress Syndrome Definitions • LITFL](https://litfl.com/acute-respiratory-distress-syndrome-definitions/)
 - [A New Global Definition of Acute Respiratory Distress Syndrome - PubMed](https://pubmed.ncbi.nlm.nih.gov/37487152/)
-- [Title Unavailable \| Site Unreachable](https://emcrit.org/ibcc/ards/)
+- [IBCC: ARDS](https://emcrit.org/ibcc/ards/)
+- [Mechanical Ventilation Explained Clearly by MedCram.com \| 4 of 5 - YouTube](https://www.youtube.com/watch?v=KHpJ21UWbhg&list=TLPQMjIwMzIwMjYGr2iheYxRrQ&index=9)
 
 [^1]: Neither PEEP nor a minimum oxygen flow rate are required for diagnosis in reosurce-limited settings
