@@ -448,6 +448,10 @@ $$
 - Avoid increasing respiratory rate
 - Ensure adequate bronchodilators
 - Ensure flow is returning to 0 before next inspiration
+# 🙌 Liberation from the Ventilator
+- Everyday someone is on the ventilator assess:
+	- Lifting sedation
+	- Weaning trial
 # Source
 - Strong Medicine Playlist: [Mechanical Ventilation - YouTube](https://www.youtube.com/playlist?list=PLBA5A30910F1FBF47)
 - [Mechanical Ventilator Basics — ICU One Pager](https://onepagericu.com/vent-basics)
