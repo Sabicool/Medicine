@@ -395,9 +395,11 @@ $$
   </figure>
 </div>
 - Examine for audible air flow extending to the end of expiration on auscultation
+
 $$
 \text{Auto-PEEP}=\substack{\text{End-expiratory}\\\text{Alveolar Pressure}}-\substack{\text{Applied}\\\text{PEEP}}
 $$
+
 - It can be quantified using an end-expiratory breath hold where the rise in pressure above the applied PEEP represents the auto-PEEP
 - Treatment strategies:
 	- For high minute ventilation: ↓ $V_{\text{T}}$, ↓ respiratory rate or ↓ I:E ratio (these strategies allow for some permissive hypercapnoea)
