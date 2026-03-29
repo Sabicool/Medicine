@@ -443,6 +443,11 @@ $$
   <figcaption><b>Figure 12.</b> Mechanism of ventilator associated pneumonia</figcaption>
 </figure>
 
+# COPD
+- Increase inspiratory flow rate to 80-100 L/min to shorten the inspiratory time
+- Avoid increasing respiratory rate
+- Ensure adequate bronchodilators
+- Ensure flow is returning to 0 before next inspiration
 # Source
 - Strong Medicine Playlist: [Mechanical Ventilation - YouTube](https://www.youtube.com/playlist?list=PLBA5A30910F1FBF47)
 - [Mechanical Ventilator Basics — ICU One Pager](https://onepagericu.com/vent-basics)
