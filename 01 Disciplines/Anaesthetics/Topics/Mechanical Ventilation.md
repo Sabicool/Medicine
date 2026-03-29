@@ -4,7 +4,7 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[Anaesthetics]]"
-figureCount: 12
+figureCount: 13
 ---
 ![[Pasted image 20260329010927.png]]
 # Lung Mechanics
@@ -29,6 +29,8 @@ $$\text{Ventilation Pressure}=\text{Resistive Pressure}+\text{Elastic Pressure}$
 	- Elastic pressure which is the pressure required to inflate lungs and chest wall
 
 ## Monitoring
+![[Pasted image 20260329183832.png]]
+
 $$P_\text{Peak}\propto\frac{\text{Airway Resistance}}{\text{Compliance}}$$
 $$P_\text{Plateau}\propto\frac{1}{\text{Compliance}}$$
 $$R_\text{insp}=\frac{P_\text{peak}-P_\text{plateau}}{Q_\text{end inspiratory}}$$
