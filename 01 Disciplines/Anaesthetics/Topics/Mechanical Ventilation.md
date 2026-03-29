@@ -449,9 +449,22 @@ $$
 - Ensure adequate bronchodilators
 - Ensure flow is returning to 0 before next inspiration
 # 🙌 Liberation from the Ventilator
-- Everyday someone is on the ventilator assess:
+- Everyday someone is on the ventilator assess unless patient is on $F_\text{i}\ce{O2}>45\%$, patient is unstable or on high amounts of vasopressors
 	- Lifting sedation
-	- Weaning trial
+	- Weaning/liberation trial
+## Spontaneous Breathing Trial
+- Switch to some pressure support mode with some PEEP or to tube compensation
+- Complete an ABG
+	- If pH > 7.35 and $P_\text{a}\ce{CO2}<45$ and $P\ce{O2}>60$ ⇒ good trial, will likely succeed
+- Rapid shallow breathing index (RSBI or Tobin index): RR/$V_{\text{T}}$ 
+	- If while off the ventilator, the RSBI > 105 suggests the patient will fail the trial
+- NIF ~ -30 suggests good trial
+- Minute ventilation <15L/min
+## Checklist
+1. Mechanics of ventilation in the spontaneous breathing trial (as above)
+2. Mental status: is the patient mentally alert enough to protect their airway
+3. Secretions
+4. Airleak on deflation of ETT balloon suggests absence of tracheal swelling
 # Source
 - Strong Medicine Playlist: [Mechanical Ventilation - YouTube](https://www.youtube.com/playlist?list=PLBA5A30910F1FBF47)
 - [Mechanical Ventilator Basics — ICU One Pager](https://onepagericu.com/vent-basics)
