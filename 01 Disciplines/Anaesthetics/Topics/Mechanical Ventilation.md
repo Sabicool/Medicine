@@ -479,6 +479,8 @@ Ventilation alarms should be treated with great attention (often demanding the s
 	- P: Pneumothorax; check for any signs of decreased breath soudns or chest asymmetry
 	- E: Equipment failure; rarely ventilator malfunction can be the cause of the alarm, if this is suspected disconnect the patient from the ventilator and try BVM ventilation
 	- S: Stacked breathing (auto-PEEP); check for signs of increased work of breathing or decreased tidal volume
+
+![[Pasted image 20260331214059.png]]
 # Sources
 - Strong Medicine Playlist: [Mechanical Ventilation - YouTube](https://www.youtube.com/playlist?list=PLBA5A30910F1FBF47)
 - [Mechanical Ventilator Basics — ICU One Pager](https://onepagericu.com/vent-basics)
