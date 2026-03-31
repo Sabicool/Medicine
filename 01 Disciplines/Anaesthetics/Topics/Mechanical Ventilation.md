@@ -1,5 +1,5 @@
 ---
-date: 2026-03-30
+date: 2026-03-31
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
@@ -470,7 +470,15 @@ $$
 2. Mental status: is the patient mentally alert enough to protect their airway
 3. Secretions
 4. Airleak on deflation of ETT balloon suggests absence of tracheal swelling
+# Troubleshooting Ventilator Alarms
+- Can use the DOPES mnemonic
+	- D: Dislodged or displaced ETT
+	- O: Obstructed ETT by mucous, blood or kinking
+	- P: Pneumothorax; check for any signs of decreased breath soudns or chest asymmetry
+	- E: Equipment failure; rarely ventilator malfunction can be the cause of the alarm, if this is suspected disconnect the patient from the ventilator and try BVM ventilation
+	- S: Stacked breathing (auto-PEEP); check for signs of increased work of breathing or decreased tidal volume
 # Sources
 - Strong Medicine Playlist: [Mechanical Ventilation - YouTube](https://www.youtube.com/playlist?list=PLBA5A30910F1FBF47)
 - [Mechanical Ventilator Basics — ICU One Pager](https://onepagericu.com/vent-basics)
 - [Basics of Mechanical Ventilation - Deranged Physiology](https://derangedphysiology.com/files/Basics%20of%20Mechanical%20Ventilation.pdf)
+- [Ventilator Alarm (DOPES) - YouTube](https://www.youtube.com/watch?v=la4EPaPBc14)
