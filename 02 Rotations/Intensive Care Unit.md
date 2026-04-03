@@ -7,53 +7,55 @@ aliases:
 <!-- QueryToSerialize: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) sort file.name asc group by reverse(split(file.folder, "/"))[0] -->
 <!-- SerializedQuery: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) sort file.name asc group by reverse(split(file.folder, "/"))[0] -->
 - Conditions: 
-    - [[Acute Kidney Injury]]
-    - [[Acute Pulmonary Oedema]]
-    - [[Adrenal Crisis]]
-    - [[Adrenal Insufficiency]]
-    - [[COPD Exacerbation]]
-    - [[Diabetic ketoacidosis]]
-    - [[Hypercalcaemia]]
-    - [[Hyperkalaemia]]
-    - [[Hyponatraemia]]
-    - [[Necrotising Skin Infections]]
-    - [[Sepsis]]
-    - [[Ventricular Tachycardia]]
+    - [[01 Disciplines/Nephrology/Conditions/Acute Kidney Injury.md|Acute Kidney Injury]]
+    - [[01 Disciplines/Respiratory/Conditions/Acute Pulmonary Oedema.md|Acute Pulmonary Oedema]]
+    - [[01 Disciplines/Respiratory/Conditions/Acute Respiratory Distress Syndrome.md|Acute Respiratory Distress Syndrome]]
+    - [[01 Disciplines/Endocrinology/Conditions/Adrenal Crisis.md|Adrenal Crisis]]
+    - [[01 Disciplines/Endocrinology/Conditions/Adrenal Insufficiency.md|Adrenal Insufficiency]]
+    - [[01 Disciplines/Respiratory/Conditions/COPD Exacerbation.md|COPD Exacerbation]]
+    - [[01 Disciplines/Endocrinology/Conditions/Diabetic ketoacidosis.md|Diabetic ketoacidosis]]
+    - [[01 Disciplines/Endocrinology/Conditions/Hypercalcaemia.md|Hypercalcaemia]]
+    - [[01 Disciplines/Clinical/Conditions/Hyperkalaemia.md|Hyperkalaemia]]
+    - [[01 Disciplines/Endocrinology/Conditions/Hyponatraemia.md|Hyponatraemia]]
+    - [[01 Disciplines/Infectious Disease/Conditions/Necrotising Skin Infections.md|Necrotising Skin Infections]]
+    - [[01 Disciplines/Infectious Disease/Conditions/Sepsis.md|Sepsis]]
+    - [[01 Disciplines/Cardiology/Conditions/Ventricular Tachycardia.md|Ventricular Tachycardia]]
 
 - Emergencies: 
-    - [[Acute Airway Failure]]
-    - [[Acute Respiratory Failure]]
-    - [[Advanced Life Support]]
-    - [[Shock]]
-    - [[Unconsciousness]]
+    - [[01 Disciplines/Clinical/Emergencies/Acute Airway Failure.md|Acute Airway Failure]]
+    - [[01 Disciplines/Respiratory/Emergencies/Acute Respiratory Failure.md|Acute Respiratory Failure]]
+    - [[01 Disciplines/Clinical/Emergencies/Advanced Life Support.md|Advanced Life Support]]
+    - [[01 Disciplines/Clinical/Emergencies/Shock.md|Shock]]
+    - [[01 Disciplines/Clinical/Emergencies/Unconsciousness.md|Unconsciousness]]
 
 - Investigations: 
-    - [[Blood Gas Interpretation]]
-    - [[Chest X-ray]]
-    - [[ECG Interpretation]]
-    - [[Neuroimaging]]
+    - [[01 Disciplines/Respiratory/Investigations/Blood Gas Interpretation.md|Blood Gas Interpretation]]
+    - [[01 Disciplines/Respiratory/Investigations/Blood Gas Interpretation.sync-conflict-20260402-124112-MCOTQYW.md|Blood Gas Interpretation.sync-conflict-20260402-124112-MCOTQYW]]
+    - [[01 Disciplines/Radiology/Investigations/Chest X-ray.md|Chest X-ray]]
+    - [[01 Disciplines/Cardiology/Investigations/ECG Interpretation.md|ECG Interpretation]]
+    - [[01 Disciplines/Neurology/Investigations/Neuroimaging.md|Neuroimaging]]
 
 - Presenting Complaints: 
-    - [[Altered Mental Status]]
+    - [[01 Disciplines/Neurology/Presenting Complaints/Altered Mental Status.md|Altered Mental Status]]
 
 - Procedures: 
-    - [[General Anaesthesia]]
-    - [[Intubation]]
-    - [[Lung POCUS]]
+    - [[01 Disciplines/Anaesthetics/Procedures/General Anaesthesia.md|General Anaesthesia]]
+    - [[01 Disciplines/Anaesthetics/Procedures/Intubation.md|Intubation]]
+    - [[01 Disciplines/Clinical/Procedures/Lung POCUS.md|Lung POCUS]]
 
 - Topics: 
-    - [[Mechanical Ventilation]]
-    - [[Respiratory Physiology]]
-    - [[Sodium and Potassium Homeostasis]]
+    - [[01 Disciplines/Anaesthetics/Topics/Mechanical Ventilation.md|Mechanical Ventilation]]
+    - [[01 Disciplines/Respiratory/Topics/Respiratory Physiology.md|Respiratory Physiology]]
+    - [[01 Disciplines/Nephrology/Topics/Sodium and Potassium Homeostasis.md|Sodium and Potassium Homeostasis]]
 
 <!-- SerializedQuery END -->
 # Medications to Know
 <!-- QueryToSerialize: list rows.file.link from "03 Medications" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) group by reverse(split(file.folder, "/"))[0] -->
 <!-- SerializedQuery: list rows.file.link from "03 Medications" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) group by reverse(split(file.folder, "/"))[0] -->
 - Cardiology: 
-    - [[Antiarrhythmics]]
-    - [[Drugs in Cardiac Arrest]]
-    - [[Inotropes]]
+    - [[03 Medications/Cardiology/Antiarrhythmics.md|Antiarrhythmics]]
+    - [[03 Medications/Cardiology/Drugs in Cardiac Arrest.md|Drugs in Cardiac Arrest]]
+    - [[03 Medications/Cardiology/Inotropes.md|Inotropes]]
 
 <!-- SerializedQuery END -->
 # Approach to Ward Round
