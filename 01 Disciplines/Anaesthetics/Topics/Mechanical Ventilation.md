@@ -1,5 +1,5 @@
 ---
-date: 2026-04-03
+date: 2026-04-04
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
@@ -494,6 +494,11 @@ Ventilation alarms should be treated with great attention (often demanding the s
 - Pneumothorax
 - Poor lung compliance → ↓ $V_{\text{T}}$
 - Abdominal compartment syndrome
+## Low $\dot{V}/V_{\text{T}}$
+- Circuit leak, ETT cuff leak
+- Disconnection
+- Patient fatigue or apnoea
+- Poor coompliance (ARDS, pneumothorax)
 ## Low Peak Pressures
 - Circuit disconnect
 - ETT cuff deflated
