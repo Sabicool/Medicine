@@ -498,7 +498,10 @@ Ventilation alarms should be treated with great attention (often demanding the s
 - Circuit disconnect
 - ETT cuff deflated
 - Pt effort
-## L
+## Low Oxygen Alarm
+- Circuit disconnect
+- Incorrect gases
+- Sensor malfunction
 # Sources
 - Strong Medicine Playlist: [Mechanical Ventilation - YouTube](https://www.youtube.com/playlist?list=PLBA5A30910F1FBF47)
 - [Mechanical Ventilator Basics — ICU One Pager](https://onepagericu.com/vent-basics)
