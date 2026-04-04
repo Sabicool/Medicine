@@ -214,6 +214,12 @@ $$
 - Inspiratory:Expiratory (I:E) ratio
 ## Trigger Variable
 - Determines when a breath is delivered distinguishing ‘mandatory’ and ‘spontaneous’ modes of ventilation
+	- Time-triggered - mandatory ventilation
+	- Flow triggered - patient effort changes circuit flow
+	- Pressure triggered - patient generates negative pressure
+- Sensitivity affects:
+    - Work of breathing
+    - Patient-ventilator synchrony
 ## Limit/Target Variable
 
 ## Fraction of Inspired Oxygen $F_\text{i}\ce{O2}$
