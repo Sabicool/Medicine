@@ -256,7 +256,12 @@ $$
 - Patient generates negative pressure
 - A typical pressure trigger threshold would be 1 cm $\ce{H2O}$
 ![[Pressure triggering diagram.jpg]]
-- Gives the patient more control over the initiation of a breath but can also be uncomfortable
+- Disadvantages
+	- Requires more effort to trigger the ventilator
+	- Represents a wasted respiratory effort
+	- Less comfortable for the patient
+- Use cases
+	- 
 #### Shape-signal triggering
 - May decrease wasted effort by “predicting” the next respiratory effort but not widely available
 
