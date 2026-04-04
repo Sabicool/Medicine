@@ -261,7 +261,7 @@ $$
 	- Represents a wasted respiratory effort
 	- Less comfortable for the patient
 - Use cases
-	- 
+	- Can be used to decrease auto-triggering 
 #### Shape-signal triggering
 - May decrease wasted effort by “predicting” the next respiratory effort but not widely available
 
