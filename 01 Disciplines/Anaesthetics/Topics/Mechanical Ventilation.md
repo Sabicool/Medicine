@@ -254,7 +254,9 @@ $$
 		- Therefore unsuitable for patients with a diminished or unreliable respiratory drive
 #### Pressure triggered 
 - Patient generates negative pressure
-	- Gives the patient more control over the initiation of a breath but can also be uncomfortable
+- A typical pressure trigger threshold would be 1 cm $\ce{H2O}$
+![[Pressure triggering diagram.jpg]]
+- Gives the patient more control over the initiation of a breath but can also be uncomfortable
 #### Shape-signal triggering
 - May decrease wasted effort by “predicting” the next respiratory effort but not widely available
 
