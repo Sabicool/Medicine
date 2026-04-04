@@ -221,7 +221,15 @@ $$
     - Work of breathing
     - Patient-ventilator synchrony
 ## Limit/Target Variable
-
+- Refers to the maximum value a variable can reach during inspiration but importantly, it does not end inspiration
+- Common limit variables include pressure and flow
+	- For example, continue holding this pressure or flow value (don’t exceed it) during the rest of isnpiration
+## Cycling Variable
+- **Types of Cycling**
+	 - **Time-cycled** (mandatory modes)
+	- **Flow-cycled** (e.g. pressure support)
+	- **Volume-cycled**
+	- **Pressure-cycled**
 ## Fraction of Inspired Oxygen $F_\text{i}\ce{O2}$
 - $F_\text{i}\ce{O2}$ should be titrated to the lowest value which still maintains adequate oxygenation
 - In common practice, it is set at 100% after the patient is first intubated, and then titrated downward over one to several hours as indicated by pulse oximetry and/or serial ABGs
