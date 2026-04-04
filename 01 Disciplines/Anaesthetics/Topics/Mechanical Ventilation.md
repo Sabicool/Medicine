@@ -33,6 +33,15 @@ $$\text{Ventilation Pressure}=\text{Resistive Pressure}+\text{Elastic Pressure}$
 - Where
 	- Resistive pressure is the pressure required to push airflow through the airways
 	- Elastic pressure which is the pressure required to inflate lungs and chest wall
+## Phases of Mechanical Ventilation
+- Four distinct phases, each of which has a governing variable which determines how that phase proceeds:
+	- Initiate phase controlled by the trigger variable
+	- Inspiratory phase controlled by the limit variable
+	- Cycling phase controlled by the cycle variable
+	- Expiratory phase governed by the PEEP variable; the patient exhales passively
+
+![[Pasted image 20260404113909.png|697]]
+
 
 ## Monitoring
 ![[Pasted image 20260329183832.png]]
@@ -516,8 +525,10 @@ Ventilation alarms should be treated with great attention (often demanding the s
 # Sources
 - Strong Medicine Playlist: [Mechanical Ventilation - YouTube](https://www.youtube.com/playlist?list=PLBA5A30910F1FBF47)
 - [Mechanical Ventilator Basics — ICU One Pager](https://onepagericu.com/vent-basics)
-- Derranged physiology
+- Deranged physiology
 	- [Flow, volume, pressure, resistance and compliance](https://derangedphysiology.com/main/cicm-primary-exam/respiratory-system/Chapter-531/flow-volume-pressure-resistance-and-compliance)
+	- [Phases of a mechanical breath](https://derangedphysiology.com/main/cicm-primary-exam/respiratory-system/Chapter-532/phases-mechanical-breath)
 	- [Basics of Mechanical Ventilation - Deranged Physiology](https://derangedphysiology.com/files/Basics%20of%20Mechanical%20Ventilation.pdf)
+	- [Phase variables: triggering, limits, cycling and PEEP](https://derangedphysiology.com/main/cicm-primary-exam/respiratory-system/Chapter-533/phase-variables-triggering-limits-cycling-and-peep)
 - [Ventilator Alarm (DOPES) - YouTube](https://www.youtube.com/watch?v=la4EPaPBc14)
 - [EMCrit 239 - Vent Alarms = Code Blue](https://emcrit.org/emcrit/vent-alarms/)
