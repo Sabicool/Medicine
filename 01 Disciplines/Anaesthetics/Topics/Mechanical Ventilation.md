@@ -261,7 +261,8 @@ $$
 	- Represents a wasted respiratory effort
 	- Less comfortable for the patient
 - Use cases
-	- Can be used to decrease auto-triggering 
+	- Can be used to decrease auto-triggering (e.g. circuit leak, bronchopleural fistula or hyperdynamic circulation)
+	- Can be used to test the power of respiratory musculature, in the context of an assessment of readiness for extubation (e.g. a patient who is able to trigger the ventilator by generating a negative intrathoracic pressure of -20 cm $\ce{H2O}$ is unlikely to fail extubation due to the weakness of their respiratory muscles)
 #### Shape-signal triggering
 - May decrease wasted effort by “predicting” the next respiratory effort but not widely available
 
