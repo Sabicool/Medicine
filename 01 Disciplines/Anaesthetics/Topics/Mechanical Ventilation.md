@@ -225,18 +225,38 @@ $$
 ### Trigger Variable
 
 - Determines when a breath is delivered distinguishing ‘mandatory’ and ‘spontaneous’ modes of ventilation
-	- Time-triggered - mandatory ventilation
-		- Guarantees a minute volume offering predictable $\ce{CO2}$ removal and decreased work of breathing
-		- Less comfortable and sedation requirements are higher
-	- Flow triggered - patient effort changes circuit flow[^1]
-		- Most comfortable but can be over-sensitive leading to dyssynchrony
-	- Pressure triggered - patient generates negative pressure
-		- Gives the patient more control over the initiation of a breath but can also be uncomfortable
-	- Shape-signal triggering
-		- May decrease wasted effort by “predicting” the next respiratory effort but not widely available
 - Sensitivity affects:
     - Work of breathing
     - Patient-ventilator synchrony
+ 
+#### Time Triggered
+- Mandatory ventilation
+- Guarantees a minute volume offering predictable $\ce{CO2}$ removal and decreased work of breathing
+- Less comfortable and sedation requirements are higher
+#### Flow triggered
+- Patient effort changes circuit flow[^1]
+- Most comfortable but can be over-sensitive leading to dyssynchrony
+- Ventilation is triggered when flow is diverted to the patient when the patient begins inspiration
+	- The exact threshold value can be altered but is generally 1-2 L/min[^2]
+- Some machines indicate spontaneous respiratory effort by colouring the waveform
+
+![[pink indicator for patient-triggered breaths (SERVO-i).jpg]]
+
+- Advantages:
+	- Generally quite sensitive meaning that patient’s work of breathing is not wasted on triggering the ventilator
+	- Allows the patient to have control over their minute volume
+	- May decrease the work of breathing
+	- More comfortable
+	- Permits a lower level of sedation
+- Disadvantages:
+	- May be too sensitive, giving rise to auto-triggering (this is probably the only use case for pressure trigger)
+	- Does not guarantee a minute volume
+		- Therefore unsuitable for patients with a diminished or unreliable respiratory drive
+#### Pressure triggered 
+- Patient generates negative pressure
+	- Gives the patient more control over the initiation of a breath but can also be uncomfortable
+#### Shape-signal triggering
+- May decrease wasted effort by “predicting” the next respiratory effort but not widely available
 
 ### Limit/Target Variable
 
@@ -592,3 +612,4 @@ Ventilation alarms should be treated with great attention (often demanding the s
 - [EMCrit 239 - Vent Alarms = Code Blue](https://emcrit.org/emcrit/vent-alarms/)
 
 [^1]: There is some low quality evidence suggesting postiive effect on ICU stay and duration of ventilator weaning in spontaneously breathing patients
+[^2]: Normal mean inspiratory flow rate at rest is around 15 L/min with a peak of around 30-35 L/min
