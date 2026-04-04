@@ -212,42 +212,71 @@ $$
 - Pressure Support (PS)
 - Flow shape/contour
 - Inspiratory:Expiratory (I:E) ratio
-## Trigger Variable
+## Control Variables
+- The variable which the ventilator uses as feedback signal for controlling inspiration
+$$
+P_{\text{vent}}+P_{\text{muscles}}=\text{elastance}\times \text{volume}+\text{resistance}\times \text{flow}
+$$
+- Flow cannot be a control variable because flow is a volume over time and thus when volume is controlled, flow is controlled indirectly
+- Controlling the pressure variable is beneficial because it maintains a stable pressure in the face of fluctuating respiratory performance, which prevents lung injury from excess pressure but doesn’t give a consistent minute ventilation
+- Controlling the volume variable gives a more stable minute ventilation, which keeps the $P_\text{a}\ce{CO2}$ at the desired level, but which may play havoc with respiratory system pressures
+## Phase Variables
+
+### Trigger Variable
+
 - Determines when a breath is delivered distinguishing ‘mandatory’ and ‘spontaneous’ modes of ventilation
 	- Time-triggered - mandatory ventilation
-	- Flow triggered - patient effort changes circuit flow
+		- Guarantees a minute volume offering predictable $\ce{CO2}$ removal and decreased work of breathing
+		- Less comfortable and sedation requirements are higher
+	- Flow triggered - patient effort changes circuit flow[^1]
+		- Most comfortable but can be over-sensitive leading to dyssynchrony
 	- Pressure triggered - patient generates negative pressure
+		- Gives the patient more control over the initiation of a breath but can also be uncomfortable
+	- Shape-signal triggering
+		- May decrease wasted effort by “predicting” the next respiratory effort but not widely available
 - Sensitivity affects:
     - Work of breathing
     - Patient-ventilator synchrony
-## Limit/Target Variable
+
+### Limit/Target Variable
+
 - Refers to the maximum value a variable can reach during inspiration but importantly, it does not end inspiration
 - Common limit variables include pressure and flow
 	- For example, continue holding this pressure or flow value (don’t exceed it) during the rest of isnpiration
-## Cycling Variable
+
+### Cycling Variable
+
 - **Types of Cycling**
 	 - **Time-cycled** (mandatory modes)
 	- **Flow-cycled** (e.g. pressure support)
 	- **Volume-cycled**
 	- **Pressure-cycled**
-## Fraction of Inspired Oxygen $F_\text{i}\ce{O2}$
+
+### Fraction of Inspired Oxygen $F_\text{i}\ce{O2}$
+
 - $F_\text{i}\ce{O2}$ should be titrated to the lowest value which still maintains adequate oxygenation
 - In common practice, it is set at 100% after the patient is first intubated, and then titrated downward over one to several hours as indicated by pulse oximetry and/or serial ABGs
 - $F_\text{i}\ce{O2} > 60\%$ leads to oxygen toxicity in the lungs, therfore if adequate oxygenation requires $F_\text{i}\ce{O2}>60\%$, additional strategies are required:
 	- ↑ PEEP
 	- Recruitment manoeuvres
 	- Trial of a different mode
-## Tidal Volume $V_{\text{T}}$
+
+### Tidal Volume $V_{\text{T}}$
+
 - Most applicable to volume cycled modes (AC, SIMV)
 - Initial values should be weight based with:
 	- Healthy lungs 10mL/kg of ideal body weight (as in neurological catastrophy, drug overdose)
 	- COPD 8mL/kg
 	- ARDS 6mL/kg
 - Higher $V_{\text{T}}$ leads to ↓ $P_\text{a}\ce{CO2}$, ↑ pH and ↑ $P_{\text{plateau}}$ and vice versa
-## Respiratory Rate
+
+### Respiratory Rate
+
 - Typical respiratory rate is 10-20 breaths/min in order to provide 7-10 L/min of minute ventilation
 - Higher RR leads to ↓ $P_\text{a}\ce{CO2}$, ↑ pH and higher risk of auto-PEEP and vice versa
-## Positive End-Expiratory Pressure
+
+### Positive End-Expiratory Pressure
+
 - Continuous positive pressure present throughout all of ventilation
 - Physiologic effects:
 	- ↑ oxygentation
@@ -267,14 +296,18 @@ $$
 </figure>
 
  - In clinical practice: PEEP is set to the lowest value that allows F$\ce{O2}$ to be ≤ 60% with a minimum value of 5 cm of $\ce{H2O}$
-## Pressure Support
+
+### Pressure Support
+
 - Amount of additional positive pressure beyond PEEP that is provided during inspiration. Important in pressure support ventilation, BiPAP and almost always used in SIMV
 - Simple estimate of optimal PS is:
 $$
 PS_{\text{optimal}}\approx P_{\text{plateau}}-\text{PEEP}
 $$
 - However in practice, PS is typically set to twice PEEP
-## Flow Shape/Contour
+
+### Flow Shape/Contour
+
 - Describes the pattern of airflow during inspiration and is set in volume-targeted ventilator modes
 	- Always decelerating shape in pressure-targeted modes as a consequence of lung mechanics
 - Options include:
@@ -298,13 +331,17 @@ $$
 	- ↑ $P_{\text{peak}}$
 	- ↓ $P_{\text{mean}}$
 	- Less auto-PEEP
-## Inspiratory : Expiratory Ratio
+
+### Inspiratory : Expiratory Ratio
+
 - Ratio between the amount of time spent in inspiration and the amount of time spent in expiration
 - In AC and SIMV it is usually set indirectly via $V_{\text{T}}$ and flow rate/pattern
 - In PCV it is usually set directly
 - In PSV it is generally outside of clinician control
 - A higher ratio (higher inspiratory time) results in ↑ $P_{\text{mean}}$ and higher risk of auto-PEEP and vice versa
-## Typical Initial Ventilator Settings
+
+### Typical Initial Ventilator Settings
+
 | Option                              | Typical Settings                                                                                                                                                                            |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Mode**                            | Intrinsic hyperventilation → SIMV  <br>No intrinsic hyperventilation → AC or SIMV                                                                                                           |
@@ -313,6 +350,7 @@ $$
 | **Rate**                            | 10–20 breaths/min to achieve MV of 7–10 L/min; adjust based on pH                                                                                                                           |
 | **PEEP**                            | Start at 5 cmH₂O  <br>Titrate up if PaO₂ <60 on >60% FiO₂  <br>May start with no PEEP in pure hypoventilation                                                                               |
 | **Pressure Support** _(n/a for AC)_ | 5–20 cmH₂O  <br>Optimal PS ≈ P_plateau − PEEP  <br>_(Minimum 5 cmH₂O PS always to overcome ETT resistance)_                                                                                 |
+
 # Lung Protective Ventilation
 ## Ventilator Associated Lung Injury
 - Most frequently complicates ALI and [[Acute Respiratory Distress Syndrome|ARDS]] 
@@ -549,5 +587,8 @@ Ventilation alarms should be treated with great attention (often demanding the s
 	- [Basics of Mechanical Ventilation - Deranged Physiology](https://derangedphysiology.com/files/Basics%20of%20Mechanical%20Ventilation.pdf)
 	- [Phase variables: triggering, limits, cycling and PEEP](https://derangedphysiology.com/main/cicm-primary-exam/respiratory-system/Chapter-533/phase-variables-triggering-limits-cycling-and-peep)
 	- [Control variables: volume and pressure](https://derangedphysiology.com/main/cicm-primary-exam/respiratory-system/Chapter-534/control-variables-volume-and-pressure)
+	- [Triggering of a mechanically supported breath](https://derangedphysiology.com/main/cicm-primary-exam/respiratory-system/Chapter-535/triggering-mechanically-supported-breath)
 - [Ventilator Alarm (DOPES) - YouTube](https://www.youtube.com/watch?v=la4EPaPBc14)
 - [EMCrit 239 - Vent Alarms = Code Blue](https://emcrit.org/emcrit/vent-alarms/)
+
+[^1]: There is some low quality evidence suggesting postiive effect on ICU stay and duration of ventilator weaning in spontaneously breathing patients
