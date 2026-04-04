@@ -212,6 +212,10 @@ $$
 - Pressure Support (PS)
 - Flow shape/contour
 - Inspiratory:Expiratory (I:E) ratio
+## Trigger Variable
+- Determines when a breath is delivered distinguishing ‘mandatory’ and ‘spontaneous’ modes of ventilation
+## Limit/Target Variable
+
 ## Fraction of Inspired Oxygen $F_\text{i}\ce{O2}$
 - $F_\text{i}\ce{O2}$ should be titrated to the lowest value which still maintains adequate oxygenation
 - In common practice, it is set at 100% after the patient is first intubated, and then titrated downward over one to several hours as indicated by pulse oximetry and/or serial ABGs
