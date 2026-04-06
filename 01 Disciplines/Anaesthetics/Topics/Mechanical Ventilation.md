@@ -269,9 +269,10 @@ $$
 ### Limit/Target Variable
 
 - Refers to the maximum value a variable can reach during inspiration but importantly, it does not end inspiration
-- Common limit variables include pressure and flow
-	- For example, continue holding this pressure or flow value (don’t exceed it) during the rest of isnpiration
-
+- Common limit variables include pressure, flow and volume
+	- For example, continue holding this pressure or flow value (don’t exceed it) during the rest of inspiration
+![[ventilator waveforms with different limit variables.jpg]]
+- 
 ### Cycling Variable
 
 - **Types of Cycling**
