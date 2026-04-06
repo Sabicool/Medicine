@@ -290,9 +290,12 @@ $$
 	- It can either be expressed as a fixed value in litres per minute or a percentage fraction of the peak flow rate achieved during inspiration
 ![[flow-cycled ventilation.jpg]]
 
-- in patients with restrictive lung disease, their lungs have poor respiratory compliance and their flow rate will drop quickly; therefore their tidle volumes will be lower with flow cycling
-- in patients with emphysema lung disease, their lungs will have high lung compliance and their flow rate to drop slowly; therefore ther tidle volumes will be higher with flow cycling
+- in patients with restrictive lung disease, their lungs have poor respiratory compliance and their flow rate will drop quickly; therefore their tidal volumes will be lower with flow cycling
+- in patients with emphysema lung disease, their lungs will have high lung compliance and their flow rate to drop slowly; therefore there tidal volumes will be higher with flow cycling
 - Advantages:
+	- More comfortable for the patient (if the patient neesd to terminate a breath and exhale, the inspiratory flow ceases and the ventilator cycles to expiration rapidly)
+	- Limited by changes in lung compliance and airway resistance and therefore prevents inadvertent ventilatory-induced lung injury (i.e. in poorly compliant lungs, the ventilator will cycle to expiration rather than continue to apply distending pressure)
+- Disadvantages
 	- 
 
 - **Types of Cycling**
