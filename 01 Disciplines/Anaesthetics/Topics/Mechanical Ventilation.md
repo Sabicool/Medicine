@@ -334,13 +334,14 @@ $$
 ### Respiratory Rate
 
 - Typical respiratory rate is 10-20 breaths/min in order to provide 7-10 L/min of minute ventilation
+- The normal resting minute volume is 70-100 mL/kg/min; therefore to produce tidal volumes of 6-8 mL/kg, a respiratory rate of between 12-16 breaths per minute
 - Higher RR leads to ↓ $P_\text{a}\ce{CO2}$, ↑ pH and higher risk of auto-PEEP and vice versa
 
 ### Positive End-Expiratory Pressure
 
 - Continuous positive pressure present throughout all of ventilation
 - Physiologic effects:
-	- ↑ oxygentation
+	- ↑ oxygenation
 		- ↑ alveolar recruitment
 		- ↑ alveolar surface area
 	- ↑ cardiac output in CHF patients but can ↓ BP in non CHF patients
@@ -357,6 +358,9 @@ $$
 </figure>
 
  - In clinical practice: PEEP is set to the lowest value that allows F$\ce{O2}$ to be ≤ 60% with a minimum value of 5 cm of $\ce{H2O}$
+ - The healthy lung should be ventilated with 5-8 cm of $\ce{H2O}$ of PEEP
+ - ARDS patients will require higher PEEP (usually > 12 cm of $\ce{H2O}$)
+ - With bronchospasm, low PEEP or zero PEEP (ZEEP) is sometimes warranted
 
 ### Pressure Support
 
