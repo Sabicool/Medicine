@@ -422,14 +422,14 @@ $$
 
 ### Typical Initial Ventilator Settings
 
-| Option                              | Typical Settings                                                                                                                                                                            |
-| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Mode**                            | Intrinsic hyperventilation → SIMV  <br>No intrinsic hyperventilation → AC or SIMV                                                                                                           |
-| **FiO₂**                            | Start at 100%  <br>Taper as able to 35–60% to keep PaO₂ >60–80 mmHg                                                                                                                         |
-| **Tidal Volume (V_T)**              | ~10 cc/kg for normal patients  <br>~8 cc/kg for COPD  <br>~6 cc/kg for ARDS  <br>_(Use ideal body weight)_  <br>Adjust as needed based on pH; consider lowering V_T if P_plateau > 30 cmH₂O |
-| **Rate**                            | 10–20 breaths/min to achieve MV of 7–10 L/min; adjust based on pH                                                                                                                           |
-| **PEEP**                            | Start at 5 cmH₂O  <br>Titrate up if PaO₂ <60 on >60% FiO₂  <br>May start with no PEEP in pure hypoventilation                                                                               |
-| **Pressure Support** _(n/a for AC)_ | 5–20 cmH₂O  <br>Optimal PS ≈ P_plateau − PEEP  <br>_(Minimum 5 cmH₂O PS always to overcome ETT resistance)_                                                                                 |
+| Option                              | Typical Settings                                                                                                                                                                                                          |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Mode**                            | Intrinsic hyperventilation → SIMV  <br>No intrinsic hyperventilation → AC or SIMV                                                                                                                                         |
+| **FiO₂**                            | Start at 100%  <br>Taper as able to 35–60% to keep $P_\text{a}\ce{O2}$ >60–80 mmHg                                                                                                                                        |
+| **Tidal Volume ($V_{\text{T}}$)**   | ~10 cc/kg for normal patients  <br>~8 cc/kg for COPD  <br>~6 cc/kg for ARDS  <br>_(Use ideal body weight)_  <br>Adjust as needed based on pH; consider lowering $V_{\text{T}}$ if $P_{\text{plateau}}$ > 30 cm $\ce{H2O}$ |
+| **Rate**                            | 10–20 breaths/min to achieve MV of 7–10 L/min; adjust based on pH                                                                                                                                                         |
+| **PEEP**                            | Start at 5 cm $\ce{H2O}$<br>Titrate up if $P_\text{a}\ce{O2}$ <60 on >60% FiO₂  <br>May start with no PEEP in pure hypoventilation                                                                                        |
+| **Pressure Support** _(n/a for AC)_ | 5–20 cm $\ce{H2O}$<br>Optimal $\text{PS} \approx P_{\text{plateau}} - \text{PEEP}$  <br>_(Minimum 5 cm $\ce{H2O}$ PS always to overcome ETT resistance)_                                                                  |
 
 # Lung Protective Ventilation
 ## Ventilator Associated Lung Injury
