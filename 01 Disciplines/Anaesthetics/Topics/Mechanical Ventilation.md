@@ -399,6 +399,16 @@ $$
 ### Inspiratory : Expiratory Ratio
 
 - Ratio between the amount of time spent in inspiration and the amount of time spent in expiration
+- The normal I:E ratio is 1:2 with deviations from this being uncomfortable, often requiring deep sedation
+- Increased inspiratory time:
+	- Increases mean airway pressure  and favours better oxygenation
+		- May paradoxically worsen due to changes in pulmonary blood flow; particularly in volume depleted patients
+	- Decrease $\ce{CO2}$ clearance
+	- More haemodynamic instability 
+	- Increased gas trapping
+- Increased expiratory time
+	- Increases $\ce{CO2}$ clearance and favours better ventilation
+	- Increases probability of atelactasis
 - In AC and SIMV it is usually set indirectly via $V_{\text{T}}$ and flow rate/pattern
 - In PCV it is usually set directly
 - In PSV it is generally outside of clinician control
