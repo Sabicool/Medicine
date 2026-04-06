@@ -296,13 +296,23 @@ $$
 	- More comfortable for the patient (if the patient neesd to terminate a breath and exhale, the inspiratory flow ceases and the ventilator cycles to expiration rapidly)
 	- Limited by changes in lung compliance and airway resistance and therefore prevents inadvertent ventilatory-induced lung injury (i.e. in poorly compliant lungs, the ventilator will cycle to expiration rather than continue to apply distending pressure)
 - Disadvantages
-	- 
-
-- **Types of Cycling**
-	- **Flow-cycled** (e.g. pressure support)
-	- **Volume-cycled**
-	- **Pressure-cycled**
-
+	- Tidal volumes may be poor in patients with poor lung compliance, resulting in inadequate minute volume
+	- Patient comfort depends on intelligent settings; inappropriately low and inappropriately high settings could result in uncomfortably deep and prolonged inspiration or "double triggering" due to insufficient inspiratory time and tidal volume
+#### Pressure Cycled
+- Largely obsolete in the modern era
+- Advantages:
+	- Safety from pressure-related lung injury
+	- Decelerating ramp pattern for flow waveform which supposedly results in even distribution of gas in lung units
+	- Compliance determines cycling
+- Disadvantages
+	- Volume is determined by compliance
+	- Respiratory rate may fluctuate
+	- May increase the respiratory effort (patent needs to exhale forcefully against the pressure valve to trigger expiration)
+	- Pressure cannot be a control variable (duh)
+#### Volume Cycled
+- Largely obsolete in the modern era
+- Inspiratory phase ends when the specified volume has been delivered
+- Major disadvantage is related to safety as it has a propensity to generate high peak airway pressures when the lung compliance decreases
 ### Fraction of Inspired Oxygen $F_\text{i}\ce{O2}$
 
 - $F_\text{i}\ce{O2}$ should be titrated to the lowest value which still maintains adequate oxygenation
@@ -313,12 +323,12 @@ $$
 	- Trial of a different mode
 
 ### Tidal Volume $V_{\text{T}}$
-
+- The tidal volume is 7 mL/kg in a normally breathing patient
 - Most applicable to volume cycled modes (AC, SIMV)
 - Initial values should be weight based with:
-	- Healthy lungs 10mL/kg of ideal body weight (as in neurological catastrophy, drug overdose)
-	- COPD 8mL/kg
-	- ARDS 6mL/kg
+	- Healthy lungs 10 mL/kg of ideal body weight (as in neurological catastrophe, drug overdose)
+	- COPD 8 mL/kg
+	- ARDS 6 mL/kg
 - Higher $V_{\text{T}}$ leads to ↓ $P_\text{a}\ce{CO2}$, ↑ pH and ↑ $P_{\text{plateau}}$ and vice versa
 
 ### Respiratory Rate
