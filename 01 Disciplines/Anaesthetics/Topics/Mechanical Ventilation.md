@@ -272,11 +272,30 @@ $$
 - Common limit variables include pressure, flow and volume
 	- For example, continue holding this pressure or flow value (don’t exceed it) during the rest of inspiration
 ![[ventilator waveforms with different limit variables.jpg]]
-- 
 ### Cycling Variable
+#### Time-Cycled
+- Feature of mandatory modes
+- Usually set by setting a respiratory rate and the I:E ratio
+- Advantages:
+	- **A careful control of minute volume can be achieved**, with obvious advantages for scenarios where tight PaCO2 control is desirable (eg. traumatic brain injury)
+	- **Ventilation is unaffected by changes in lung compliance or airway resistance** because the timing of the breath is unrelated to any of the respiratory system parameters, instead being controlled by a timer
+	- **Minute ventilation is not affected by an unreliable respiratory drive**, making this method suitable for paralysed or deeply unconscious patients
+- Disadvantanges:
+	- Unsuitable for likely sedated and awake patients
+	- May result in patient-ventilator dyssynchrony particularly if the patient tries to exhale before the cycle time runs out
+		- This appears as a pressurise at the end of inspiration either because the lung compliance has reached a point of a distinction or in spontaneously breathing patience, the patient had decided they want to exhale before the breath is over
+![[pressure waveform change with active expiratory effort.jpg]]
+#### Flow Cycled
+- The ventilator cycles into the the expiratory phase once the flow has decreased to a predetermined value during inspiration
+	- It can either be expressed as a fixed value in litres per minute or a percentage fraction of the peak flow rate achieved during inspiration
+![[flow-cycled ventilation.jpg]]
+
+- in patients with restrictive lung disease, their lungs have poor respiratory compliance and their flow rate will drop quickly; therefore their tidle volumes will be lower with flow cycling
+- in patients with emphysema lung disease, their lungs will have high lung compliance and their flow rate to drop slowly; therefore ther tidle volumes will be higher with flow cycling
+- Advantages:
+	- 
 
 - **Types of Cycling**
-	 - **Time-cycled** (mandatory modes)
 	- **Flow-cycled** (e.g. pressure support)
 	- **Volume-cycled**
 	- **Pressure-cycled**
@@ -617,6 +636,7 @@ Ventilation alarms should be treated with great attention (often demanding the s
 	- [Phase variables: triggering, limits, cycling and PEEP](https://derangedphysiology.com/main/cicm-primary-exam/respiratory-system/Chapter-533/phase-variables-triggering-limits-cycling-and-peep)
 	- [Control variables: volume and pressure](https://derangedphysiology.com/main/cicm-primary-exam/respiratory-system/Chapter-534/control-variables-volume-and-pressure)
 	- [Triggering of a mechanically supported breath](https://derangedphysiology.com/main/cicm-primary-exam/respiratory-system/Chapter-535/triggering-mechanically-supported-breath)
+	- [Limit (target) variables in mechanical ventilation](https://derangedphysiology.com/main/cicm-primary-exam/respiratory-system/Chapter-536/limit-target-variables-mechanical-ventilation)
 - [Ventilator Alarm (DOPES) - YouTube](https://www.youtube.com/watch?v=la4EPaPBc14)
 - [EMCrit 239 - Vent Alarms = Code Blue](https://emcrit.org/emcrit/vent-alarms/)
 
