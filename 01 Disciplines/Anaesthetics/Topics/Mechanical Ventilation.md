@@ -360,8 +360,7 @@ $$
  - In clinical practice: PEEP is set to the lowest value that allows F$\ce{O2}$ to be ≤ 60% with a minimum value of 5 cm of $\ce{H2O}$
  - The healthy lung should be ventilated with 5-8 cm of $\ce{H2O}$ of PEEP
  - ARDS patients will require higher PEEP (usually > 12 cm of $\ce{H2O}$)
- - With bronchospasm, low PEEP or zero PEEP (ZEEP) is sometimes warranted
-
+ - With bronchospasm, low PEEP or zero PEEP (ZEEP) is often warranted (< 5 cm of $\ce{H2O}$)
 ### Pressure Support
 
 - Amount of additional positive pressure beyond PEEP that is provided during inspiration. Important in pressure support ventilation, BiPAP and almost always used in SIMV
@@ -654,6 +653,9 @@ Ventilation alarms should be treated with great attention (often demanding the s
 	- [Control variables: volume and pressure](https://derangedphysiology.com/main/cicm-primary-exam/respiratory-system/Chapter-534/control-variables-volume-and-pressure)
 	- [Triggering of a mechanically supported breath](https://derangedphysiology.com/main/cicm-primary-exam/respiratory-system/Chapter-535/triggering-mechanically-supported-breath)
 	- [Limit (target) variables in mechanical ventilation](https://derangedphysiology.com/main/cicm-primary-exam/respiratory-system/Chapter-536/limit-target-variables-mechanical-ventilation)
+	- [Selecting and adjusting PEEP](https://derangedphysiology.com/main/cicm-primary-exam/respiratory-system/Chapter-538/selecting-and-adjusting-peep)
+	- [Inspiratory pause, I:E ratio and inspiratory rise time](https://derangedphysiology.com/main/cicm-primary-exam/respiratory-system/Chapter-539/inspiratory-pause-ie-ratio-and-inspiratory-rise-time)
+	- 
 - [Ventilator Alarm (DOPES) - YouTube](https://www.youtube.com/watch?v=la4EPaPBc14)
 - [EMCrit 239 - Vent Alarms = Code Blue](https://emcrit.org/emcrit/vent-alarms/)
 
