@@ -20,7 +20,6 @@ date: 2025-01-13
 
 - Investigations: 
     - [[Blood Gas Interpretation]]
-    - [[Blood Gas Interpretation.sync-conflict-20260402-124112-MCOTQYW]]
     - [[Chest X-ray]]
     - [[Spirometry]]
 
