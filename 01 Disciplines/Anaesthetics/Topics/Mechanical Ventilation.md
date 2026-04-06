@@ -401,11 +401,17 @@ $$
 - Ratio between the amount of time spent in inspiration and the amount of time spent in expiration
 - The normal I:E ratio is 1:2 with deviations from this being uncomfortable, often requiring deep sedation
 - Increased inspiratory time:
-	- Increases mean airway pressure  and favours better oxygenation
-		- May paradoxically worsen due to changes in pulmonary blood flow; particularly in volume depleted patients
-	- Decrease $\ce{CO2}$ clearance
-	- More haemodynamic instability 
-	- Increased gas trapping
+	- Advantages
+		- Increases mean airway pressure  and favours better oxygenation
+			- May paradoxically worsen due to changes in pulmonary blood flow; particularly in volume depleted patients
+	- Disadvantages
+		- Decrease $\ce{CO2}$ clearance
+		- More haemodynamic instability 
+		- Increased gas trapping
+	- Uses
+		- Situations where severe hypoxia is the primary problem and lung compliance is poor
+			- Volume inspired is usually quite small with the period of air flow being short; therefore, there is often an inspiratory pause during the inspiratory phase, where the pressure level is maintained in the absence of any flow, with a close expiatory valve – a breath hold
+![[an example of an inspiratory phase which is too long.jpg]]
 - Increased expiratory time
 	- Increases $\ce{CO2}$ clearance and favours better ventilation
 	- Increases probability of atelactasis
