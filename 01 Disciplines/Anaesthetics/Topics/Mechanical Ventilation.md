@@ -415,6 +415,9 @@ $$
 - Increased expiratory time
 	- Increases $\ce{CO2}$ clearance and favours better ventilation
 	- Increases probability of atelactasis
+- Inspiratory pause
+	- The end-inspiratory positive airway pressure drives passive expiration 
+	- Pressure loss during an inspiratory pause causes energy loss in the system
 - In AC and SIMV it is usually set indirectly via $V_{\text{T}}$ and flow rate/pattern
 - In PCV it is usually set directly
 - In PSV it is generally outside of clinician control
