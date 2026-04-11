@@ -442,7 +442,6 @@ $$
 	- Decreases gas trapping and auto-PEEP
 	- Poorer oxygenation because of decreased mean airway pressure (although usually offset by intrinsic PEEP)
 	- Decreased haemodynamic impact of positive pressure
-##
 # Lung Protective Ventilation
 ## Ventilator Associated Lung Injury
 - Most frequently complicates ALI and [[Acute Respiratory Distress Syndrome|ARDS]] 
