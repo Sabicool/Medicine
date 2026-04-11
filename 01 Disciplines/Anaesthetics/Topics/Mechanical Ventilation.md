@@ -225,7 +225,8 @@ $$
 - Set point: the ventilator will try to achieve the parameter (control variable chosen) (e.g. the pressure level in a pressure control mode of ventilation)
 - Dual targeting: the ventilator switch from targeting one control variable to another in the middle of the breath
 	- For example of breath may start with a pressure control variable using a decelerating flow away form, then reach the pressure limit mid breath and change to volume control until the target volume is reached
-- 
+- Adaptive targeting:
+	- For example in pressure regulated volume control mode, the inspiratory pressure is automatically adjusted to achieve an average tidal volume target; this varies from breath to breath adapting to the changing compliance
 ## Phase Variables
 
 ### Trigger Variable
