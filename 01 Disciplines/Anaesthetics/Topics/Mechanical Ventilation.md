@@ -141,6 +141,11 @@ $$
   <figcaption><b>Figure 2.</b> SIMV (with pressure support). Note that the first and fourth breaths are synchronised pressure triggerred fully supported breath with tidal volume set for ~600 mL. The second, third and fifth breaths are spontaneous non-synchronised breaths assisted with pressure support with 10 cm of water.</figcaption>
 </figure>
 
+![[SIMV.jpg]]
+
+- User sets a rate and volume 
+- There is a window of opportunity around each timed breath, during which a patient effort will be converted into a mandatory breath
+
 - Advantage
 	- Guarantees a minimum minute ventilation
 	- Lower mean airway pressure when compared with AC
@@ -717,6 +722,7 @@ Ventilation alarms should be treated with great attention (often demanding the s
 	- [Selecting and adjusting PEEP](https://derangedphysiology.com/main/cicm-primary-exam/respiratory-system/Chapter-538/selecting-and-adjusting-peep)
 	- [Inspiratory pause, I:E ratio and inspiratory rise time](https://derangedphysiology.com/main/cicm-primary-exam/respiratory-system/Chapter-539/inspiratory-pause-ie-ratio-and-inspiratory-rise-time)
 	- [Practical differences between pressure and volume controlled ventilation](https://derangedphysiology.com/main/cicm-primary-exam/respiratory-system/Chapter-542/practical-differences-between-pressure-and-volume-controlled-ventilation)
+	- [Mandatory and spontaneous modes of ventilation](https://derangedphysiology.com/main/cicm-primary-exam/respiratory-system/Chapter-543/mandatory-and-spontaneous-modes-ventilation)
 - [Ventilator Alarm (DOPES) - YouTube](https://www.youtube.com/watch?v=la4EPaPBc14)
 - [EMCrit 239 - Vent Alarms = Code Blue](https://emcrit.org/emcrit/vent-alarms/)
 
