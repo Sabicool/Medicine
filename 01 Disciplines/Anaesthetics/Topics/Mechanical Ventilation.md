@@ -168,8 +168,11 @@ $$
   <figcaption><b>Figure 3.</b> Pressure Control Ventilation. Inspiratory pressure is set at 25cm of water. Flow starts high with each breath and rapidly declines (known as a decelerating flow contour).</figcaption>
 </figure>
 
+![[Pressure control modes of ventilation 2.jpg]]
+
 - Advantages:
 	- Prevents excessive airway pressures
+	- Increased mean airway pressure
 	- Avoids regional alveolar overdistention
 	- May lead to earlier liberation from mechanical ventilation
 - Disadvantages
@@ -244,7 +247,7 @@ $$
 - Dual targeting: the ventilator switch from targeting one control variable to another in the middle of the breath
 	- For example of breath may start with a pressure control variable using a decelerating flow away form, then reach the pressure limit mid breath and change to volume control until the target volume is reached
 - Adaptive targeting:
-	- For example in pressure regulated volume control mode, the inspiratory pressure is automatically adjusted to achieve an average tidal volume target; this varies from breath to breath adapting to the changing compliance
+	- For example in pressure regulated volume control mode, the inspiratory pressure is automatically adjusted to achieve an average tidal volume target; this varies from breath to breath adapting to the changing compliance (it guarantees a prescribed volume while maintaining a square pressure volume)
 ## Phase Variables
 
 ### Trigger Variable
