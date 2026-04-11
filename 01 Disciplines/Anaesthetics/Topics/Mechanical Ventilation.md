@@ -231,7 +231,7 @@ $$
 		- Increased mean airway pressure
 		- Increased duration of alveolar recruitment
 		- Protective against barotrauma  
-		- Work of breathing and patient comfort may be improved
+		- Work of breathing and patient comfort may be improved as high initial inspiratory flow can 
 	- Disadvantages
 		- Tidal volume is variable and dependent on respiratory compliance
 		- Uncontrolled volume may result in “volutrauma“ (overdistension)
