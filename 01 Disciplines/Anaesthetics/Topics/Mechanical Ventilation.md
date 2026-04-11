@@ -501,6 +501,17 @@ $$
 - In pressure control modes, the flow waveform is decelerating
 	- A rapid deceleration of this flow indicates either that the lung compliance is poor or that airway resistance is high
 ### End-Inspiratory Flow
+- If the end inspiratory flow is positive, then increasing inspiratory time will produce larger tidal volumes
+### Peak Expiratory Flow
+- The rate of expiratory flow is determined by the resistance of the airways and the elastic recoil of the lungs and chest wall
+	- A low expiratory peak flow suggests there may be airway obstruction (e.g. bronchospasm) or an over-compliant chest wall
+- If an expiratory flow is prolonged, the airway resistance must be increased
+- If flow does not reach zero by the beginning of the next breath, there must be gas trapping
+
+![[flow curves in increased airway resistance and gas trapping.jpg]]
+## Pressure-Volume Loop
+
+![[anatomy of the pressure-volume loop.jpg]]
 
 # Ventilation in Certain Pathological Processes
 ## Improving $\ce{CO2}$ Clearance
