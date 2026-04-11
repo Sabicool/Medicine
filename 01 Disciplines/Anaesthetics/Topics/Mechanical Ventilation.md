@@ -98,10 +98,11 @@ $$
 - S/T mode refers to spontaneous and timed mode and therefore has a backup rate
 - S mode refers to spontaneous (only)
 # Ventilator Modes
-- Modes can be partially defined by:
-	- Trigger variable: when to initiate a machine-driven breath. Common options include: time triggered, pressure triggered, flow triggered
-	- Control variable: defines what aspect of inspiration is the primary variable controlled by the ventilator during inspiration. Common options include: pressure controlled, flow controlled (also known as volume controlled)
-	- Cycling variable: defines what signals the ventilator to terminate inspiration. Common options include: volume cycled, flow cycled, time cycled. Uncommon options include: pressure cycled
+- Ventilator modes are just pre-set combinations of ventilator settings
+- Generally classified according to their major characteristics:
+	- The control variable: pressure vs. volume
+	- Breath sequence: spontaneous vs. mandatory
+	- Targeting scheme: set point, dual targeting, servo control, adaptive etc.
 ## Assist Control (AC)
 - Mix of mandatory and assisted breaths with all breaths, once triggered, are treated the same and have a consistent tidal volume
 - Trigger: time, pressure or flow
@@ -220,6 +221,11 @@ $$
 - Flow cannot be a control variable because flow is a volume over time and thus when volume is controlled, flow is controlled indirectly
 - Controlling the pressure variable is beneficial because it maintains a stable pressure in the face of fluctuating respiratory performance, which prevents lung injury from excess pressure but doesn’t give a consistent minute ventilation
 - Controlling the volume variable gives a more stable minute ventilation, which keeps the $P_\text{a}\ce{CO2}$ at the desired level, but which may play havoc with respiratory system pressures
+## Targeting Scheme
+- Set point: the ventilator will try to achieve the parameter (control variable chosen) (e.g. the pressure level in a pressure control mode of ventilation)
+- Dual targeting: the ventilator switch from targeting one control variable to another in the middle of the breath
+	- For example of breath may start with a pressure control variable using a decelerating flow away form, then reach the pressure limit mid breath and change to volume control until the target volume is reached
+- 
 ## Phase Variables
 
 ### Trigger Variable
