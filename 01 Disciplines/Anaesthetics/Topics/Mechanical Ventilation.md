@@ -220,7 +220,25 @@ P_{\text{vent}}+P_{\text{muscles}}=\text{elastance}\times \text{volume}+\text{re
 $$
 - Flow cannot be a control variable because flow is a volume over time and thus when volume is controlled, flow is controlled indirectly
 - Controlling the pressure variable is beneficial because it maintains a stable pressure in the face of fluctuating respiratory performance, which prevents lung injury from excess pressure but doesn’t give a consistent minute ventilation
+	- Advantages
+		- Increased mean airway pressure
+		- Increased duration of alveolar recruitment
+		- Protective against barotrauma  
+		- Work of breathing and patient comfort may be improved
+	- Disadvantages
+		- Tidal volume is variable and dependent on respiratory compliance
+		- Uncontrolled volume may result in “volutrauma“ (overdistension)
+		- A high early inspiratory flow may breach the pressure  limit if airway resistance is high
 - Controlling the volume variable gives a more stable minute ventilation, which keeps the $P_\text{a}\ce{CO2}$ at the desired level, but which may play havoc with respiratory system pressures
+	- Advantages:
+		- Guaranteed tidal volumes produces a more stable minute volume
+		- The minute volume remains stable over a range of changing pulmonary characteristics.
+		- The initial flow rate is lower than in pressure-controlled modes, i.e. it avoids a high resistance-related early pressure peak
+	- Disadvantages:
+		- The mean airway pressure is lower with volume control ventilation
+		- Recruitment may be poorer in lung units with poor compliance.
+		- In the presence of a leak, the mean airway pressure may be unstable.
+		- Insufficient flow may give rise to patient-ventilator dyssynchrony
 ## Targeting Scheme
 - Set point: the ventilator will try to achieve the parameter (control variable chosen) (e.g. the pressure level in a pressure control mode of ventilation)
 - Dual targeting: the ventilator switch from targeting one control variable to another in the middle of the breath
