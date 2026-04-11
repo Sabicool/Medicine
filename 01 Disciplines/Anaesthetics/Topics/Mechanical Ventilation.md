@@ -167,22 +167,7 @@ $$
   <img src="Pasted image 20260328151929.png">
   <figcaption><b>Figure 3.</b> Pressure Control Ventilation. Inspiratory pressure is set at 25cm of water. Flow starts high with each breath and rapidly declines (known as a decelerating flow contour).</figcaption>
 </figure>
-
-![[Pressure control modes of ventilation 2.jpg]]
-
-- Advantages:
-	- Increased mean airway pressure ⇒ improves oxygenation but not a massive advantage compared to PEEP until higher I:E ratios are used
-	- Increased duration of alveolar recruitment ⇒ square pressure waveform causes alveoli to open earlier and remain open for longer allowing for better gas exchange
-	- Prevents excessive airway pressures thereby protecting against varotrauma
-	- Avoids regional alveolar overdistention
-	- May lead to earlier liberation from mechanical ventilation
-	- The pressure control variable allows for significant air leak (e.g. during bronchoscopy or while ventilating a patient with a bronchopleural fistula)
-- Disadvantages
-	- Very uncomfortable and requires deep sedation ± paralysis
-	- Unable to guarantee a minimum minute ventilation
-	- Uncontrolled volume may result in volutrauma
-	- A high early inspiratory flow may breach the pressure  limit; a more gentle inspiratory flow rate may be beneficial
-- Indications
+ - Indications
 	- Patients who are at a particularly high risk of barotrauma
 ## Pressure Support Ventilation (PSV)
 - There are no mandatory breaths; every breath must be triggered by the patient
@@ -228,14 +213,20 @@ $$
 - Flow cannot be a control variable because flow is a volume over time and thus when volume is controlled, flow is controlled indirectly
 - Controlling the pressure variable is beneficial because it maintains a stable pressure in the face of fluctuating respiratory performance, which prevents lung injury from excess pressure but doesn’t give a consistent minute ventilation
 	- Advantages
-		- Increased mean airway pressure
-		- Increased duration of alveolar recruitment
-		- Protective against barotrauma  
-		- Work of breathing and patient comfort may be improved as high initial inspiratory flow can 
+		- Increased mean airway pressure ⇒ improves oxygenation but not a massive advantage compared to PEEP until higher I:E ratios are used
+		- Increased duration of alveolar recruitment ⇒ square pressure waveform causes alveoli to open earlier and remain open for longer allowing for better gas exchange
+		- Prevents excessive airway pressures thereby protecting against barotrauma
+		- Avoids regional alveolar overdistention
+		- May lead to earlier liberation from mechanical ventilation
+		- The pressure control variable allows for significant air leak (e.g. during bronchoscopy or while ventilating a patient with a bronchopleural fistula)
 	- Disadvantages
 		- Tidal volume is variable and dependent on respiratory compliance
 		- Uncontrolled volume may result in “volutrauma“ (overdistension)
-		- A high early inspiratory flow may breach the pressure  limit if airway resistance is high
+		- A high early inspiratory flow may breach the pressure limit if airway resistance is high
+
+![[Pressure control modes of ventilation 2.jpg]]
+
+
 - Controlling the volume variable gives a more stable minute ventilation, which keeps the $P_\text{a}\ce{CO2}$ at the desired level, but which may play havoc with respiratory system pressures
 	- Advantages:
 		- Guaranteed tidal volumes produces a more stable minute volume
@@ -246,6 +237,8 @@ $$
 		- Recruitment may be poorer in lung units with poor compliance.
 		- In the presence of a leak, the mean airway pressure may be unstable.
 		- Insufficient flow may give rise to patient-ventilator dyssynchrony
+
+![[volume controlled mode of ventilation.jpg]]
 ## Targeting Scheme
 - Set point: the ventilator will try to achieve the parameter (control variable chosen) (e.g. the pressure level in a pressure control mode of ventilation)
 - Dual targeting: the ventilator switch from targeting one control variable to another in the middle of the breath
