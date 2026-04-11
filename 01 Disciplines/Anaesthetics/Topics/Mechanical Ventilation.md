@@ -500,6 +500,7 @@ $$
 ### Maximum Flow
 - In pressure control modes, the flow waveform is decelerating
 	- A rapid deceleration of this flow indicates either that the lung compliance is poor or that airway resistance is high
+### End-Inspiratory Flow
 
 # Ventilation in Certain Pathological Processes
 ## Improving $\ce{CO2}$ Clearance
