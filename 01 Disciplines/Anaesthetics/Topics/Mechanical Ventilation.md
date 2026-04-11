@@ -196,6 +196,15 @@ $$
 	- Pressure-regulated volume control
 	- Volume support
 	- Volume assured pressure support
+## Pressure Regulated Volume Control
+- The user sets a target tidal volume (as in volume control modes)
+- The ventilator performs an assessment of the dynamic lung compliance over the course of three initial calibrating breaths
+- Using this data, it then determines the appropriate pressure level required to achieve the prescribed tidal volume
+- Advantages:
+	- Square pressure waveform favours early and sustained lung unit recruitment
+	- Mean airway pressure is as high as with PCV
+	- Pressure is minimised for any given prescribed tidal volume
+	- A minute volume is guaranteed, preserving a degree of control over PaCO2
 # Ventilator Options
 - Mode
 - Fraction of inspired oxygen $F_\text{i}\ce{O2}$
@@ -707,7 +716,7 @@ Ventilation alarms should be treated with great attention (often demanding the s
 	- [Limit (target) variables in mechanical ventilation](https://derangedphysiology.com/main/cicm-primary-exam/respiratory-system/Chapter-536/limit-target-variables-mechanical-ventilation)
 	- [Selecting and adjusting PEEP](https://derangedphysiology.com/main/cicm-primary-exam/respiratory-system/Chapter-538/selecting-and-adjusting-peep)
 	- [Inspiratory pause, I:E ratio and inspiratory rise time](https://derangedphysiology.com/main/cicm-primary-exam/respiratory-system/Chapter-539/inspiratory-pause-ie-ratio-and-inspiratory-rise-time)
-	- 
+	- [Practical differences between pressure and volume controlled ventilation](https://derangedphysiology.com/main/cicm-primary-exam/respiratory-system/Chapter-542/practical-differences-between-pressure-and-volume-controlled-ventilation)
 - [Ventilator Alarm (DOPES) - YouTube](https://www.youtube.com/watch?v=la4EPaPBc14)
 - [EMCrit 239 - Vent Alarms = Code Blue](https://emcrit.org/emcrit/vent-alarms/)
 
