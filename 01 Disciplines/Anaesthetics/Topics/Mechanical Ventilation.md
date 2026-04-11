@@ -171,13 +171,17 @@ $$
 ![[Pressure control modes of ventilation 2.jpg]]
 
 - Advantages:
-	- Prevents excessive airway pressures
-	- Increased mean airway pressure
+	- Increased mean airway pressure ⇒ improves oxygenation but not a massive advantage compared to PEEP until higher I:E ratios are used
+	- Increased duration of alveolar recruitment ⇒ square pressure waveform causes alveoli to open earlier and remain open for longer allowing for better gas exchange
+	- Prevents excessive airway pressures thereby protecting against varotrauma
 	- Avoids regional alveolar overdistention
 	- May lead to earlier liberation from mechanical ventilation
+	- The pressure control variable allows for significant air leak (e.g. during bronchoscopy or while ventilating a patient with a bronchopleural fistula)
 - Disadvantages
 	- Very uncomfortable and requires deep sedation ± paralysis
 	- Unable to guarantee a minimum minute ventilation
+	- Uncontrolled volume may result in volutrauma
+	- A high early inspiratory flow may breach the pressure  limit; a more gentle inspiratory flow rate may be beneficial
 - Indications
 	- Patients who are at a particularly high risk of barotrauma
 ## Pressure Support Ventilation (PSV)
