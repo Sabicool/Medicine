@@ -1,5 +1,5 @@
 ---
-date: 2026-04-13
+date: 2026-04-14
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
@@ -465,7 +465,16 @@ $$
 | **Rate**                            | 10–20 breaths/min to achieve MV of 7–10 L/min; adjust based on pH                                                                                                                                                         |
 | **PEEP**                            | Start at 5 cm $\ce{H2O}$<br>Titrate up if $P_\text{a}\ce{O2}$ <60 on >60% FiO₂  <br>May start with no PEEP in pure hypoventilation                                                                                        |
 | **Pressure Support** _(n/a for AC)_ | 5–20 cm $\ce{H2O}$<br>Optimal $\text{PS} \approx P_{\text{plateau}} - \text{PEEP}$  <br>_(Minimum 5 cm $\ce{H2O}$ PS always to overcome ETT resistance)_                                                                  |
-
+- Typical initial ventilator alarm settings:
+	- **High pressure limit:** 10–15 cm H₂O above PIP
+	- **Low pressure limit:** 5–10 cm H₂O below PIP
+	- **Low PEEP limit:** 3–5 cm H₂O below set PEEP
+	- **Low exhaled tidal volume:** 100 mL or 50% below set VT
+	- **Low minute ventilation:** 2–5 L/min or 50% below baseline
+	- **High minute ventilation:** 50% above baseline
+	- **FiO₂ alarm:** ±5% from set oxygen concentration
+	- **Temperature alarm:** ±2°C from set temperature
+	- **Apnea delay:** About 20 seconds
 # Ventilator Waveform Interpretation
 ## Pressure Waveform
 ![[ventilator pressure waveform.jpg]]
@@ -800,6 +809,7 @@ Ventilation alarms should be treated with great attention (often demanding the s
 	- [Mandatory and spontaneous modes of ventilation](https://derangedphysiology.com/main/cicm-primary-exam/respiratory-system/Chapter-543/mandatory-and-spontaneous-modes-ventilation)
 - [Ventilator Alarm (DOPES) - YouTube](https://www.youtube.com/watch?v=la4EPaPBc14)
 - [EMCrit 239 - Vent Alarms = Code Blue](https://emcrit.org/emcrit/vent-alarms/)
+- [Ventilator Alarms: Types, Causes, and Troubleshooting (2026)](https://www.respiratorytherapyzone.com/ventilator-alarms/)
 
 [^1]: There is some low quality evidence suggesting postiive effect on ICU stay and duration of ventilator weaning in spontaneously breathing patients
 [^2]: Normal mean inspiratory flow rate at rest is around 15 L/min with a peak of around 30-35 L/min
