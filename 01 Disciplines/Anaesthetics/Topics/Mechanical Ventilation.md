@@ -475,10 +475,10 @@ $$
 ### Plateau Pressure
 - Pressure int he lung after all flow has stopped and is directly related to the compliance of the lung parenchyma
 $$
-\begin{align}
+\begin{align*}
 \text{Plateau Pressure}&=\frac{\text{Tidal Volume}}{\text{Static Compliance}} & \text{Static Pressure}&=\frac{\text{Tidal Volume}}{\text{Driving Pressure}} \\
 \text{Driving Pressure} & = \text{Plateau Pressure}- \text{PEEP}
-\end{align}
+\end{align*}
 $$
 
 ![[pressure curve high vs normal lung compliance.jpg]]
@@ -527,11 +527,11 @@ $$
 ![[A pressure-volume loop with patient-ventilator dyssynchrony.jpg]]
 ## Pressure and Volume and Work of Breathing
 $$
-\begin{align} 
+\begin{align*} 
 W &= \int Fdx \\
 W &= \int (P\cdot A)dx & \left( P=\frac{F}{A} \right) \\
 W &= \int PdV  & (dV=Adx)\\
-\end{align}
+\end{align*}
 $$
 - Hence the work of breathing is the area to the left of the pressure-volume loop
 - Anything that increases the convexity of the inspiratory curve or anything that pushes the whole loop to the right to the right increases the work of breathing
@@ -542,7 +542,7 @@ $$
     <figcaption><b>Figure 17.</b> Work of Breathing (normal)</figcaption>
   </figure>
   <figure style="text-align: center;">
-    <img src="work of breathing on a pressure-volume loop.jpg" style="width: 100%;">
+    <img src="work of breathing and intrinsic peep.jpg" style="width: 100%;">
     <figcaption><b>Figure 18.</b> Work of Breathing in asthma</figcaption>
   </figure>
 </div>
