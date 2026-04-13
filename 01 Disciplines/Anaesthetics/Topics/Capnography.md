@@ -13,6 +13,9 @@ date: 2026-04-13
 - End-tidal $\ce{CO2}$
 - Inspiratory curve
 	- In conditions of mechanical obstruction, for example if some sort of horrible tumour or goitre is causing airway obstruction, this obstacle is fixed, and the ventilator is powerless to overcome it. In this scenario, the inspiratory phase will be a gentle slope, as the ventilator fights to blow air into the patient
+# Abnormal Waveforms
+![[oesophageal intubation.jpg]]
 # Sources
 - [Waveform capnography in the intubated patient - EMCrit Project](https://emcrit.org/ibcc/co2/)
 - [The normal capnograph waveform](https://derangedphysiology.com/main/cicm-primary-exam/respiratory-system/Chapter-5592/normal-capnograph-waveform)
+- [Abnormal capnography waveforms and their interpretation](https://derangedphysiology.com/main/cicm-primary-exam/respiratory-system/Chapter-5593/abnormal-capnography-waveforms-and-their-interpretation)
