@@ -755,6 +755,18 @@ $$
 2. Mental status: is the patient mentally alert enough to protect their airway
 3. Secretions
 4. Airleak on deflation of ETT balloon suggests absence of tracheal swelling
+# Crashing Patient on the Ventilator
+1. Call for help, airway cart, ultrasound and scalpel
+2. If patient arrests, start CPR, delegate two staff members to chest compressions and continue to seek underlying cause
+3. Disconnect patient from ventilator and allow exhalation
+4. BMV 100% oxygen with PEEP valve at 10 breaths/min (if PEEP valve available)
+5. Confirm endotracheal tube position with waveform capnography
+6. Listen for any air leak from the mouth or neck
+7. Pass a bronchoscope, tube exchanger, bougie or suction catheter to exclude obstruction
+8. Consider reintubation unless a patent, correctly positioned tube is directly visualised
+9. Use bedside ultrasound to diagnose pneumothorax and if confirmed, treat with finger thoracostomy
+10. If no pneumothorax, review the list of common causes
+![[Pasted image 20260414005005.png]]
 # Troubleshooting Ventilator Alarms
 Ventilation alarms should be treated with great attention (often demanding the same attention as a code blue).
 
