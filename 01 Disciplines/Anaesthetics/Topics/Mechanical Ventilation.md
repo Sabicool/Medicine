@@ -757,6 +757,11 @@ $$
 		- No uncontrolled acid-base disturbances
 - Typical settings for spontaneos breathing trial
 	- Pressure support ventilation with 5 cm of pressure support and 5 cm of PEEP
+	- If a patient can tolerate the above settings for 30 minutes, they are likely ready for extubation
+- Passing requirements
+	- Adequate oxygenation 
+		- e.g. saturating >88% without requiring more than ~50% of $F_\text{i}\ce{O2}$
+		- 
 - Assessment
 	- Complete an ABG
 		- If pH > 7.35 and $P_\text{a}\ce{CO2}<45$ and $P\ce{O2}>60$ ⇒ good trial, will likely succeed off ventilator
