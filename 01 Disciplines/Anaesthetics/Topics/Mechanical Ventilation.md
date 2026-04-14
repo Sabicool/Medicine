@@ -810,15 +810,20 @@ Ventilation alarms should be treated with great attention (often demanding the s
 	4. Examine the endotracheal tube cuff for leaks
 	5. Confirm that the endotracheal tube is correctly positioned
 	6. Ensure the ventilator is receiving adequate gas supply and power
-## Low $\dot{V}/V_{\text{T}}$
-- Circuit leak, ETT cuff leak
-- Disconnection
-- Patient fatigue or apnoea
-- Poor coompliance (ARDS, pneumothorax)
-## Low Peak Pressures
-- Circuit disconnect
-- ETT cuff deflated
-- Pt effort
+## Low $V_{\text{T}}$
+- Generally due to:
+	- Leaks in system 
+	- Patient disconnection
+	- Airway problems (e.g. malpositioned endotracheal tube, partial extubation, deflated cuff, tracheostomy tube leak)
+	- Inadequate ventilator settings (e.g. tidal volume set too low, premature cycling, inappropriate inspiratory time, excessive respiratory demand)
+ - Troubleshooting
+	 1. Assess the patient looking for chest movement, oxygen saturation and overall stability; if inadequate ventilation or crashing patient refer [[Mechanical Ventilation#Crashing Patient on the Ventilator|crashing patient on the ventilator]]
+	 2. inspect for disconnection examining the entire circuit from the ventilator to the patient making sure all tubing and humidifier connections are secure
+	 3. Check for leaks evaluating the cuff pressure and inspecting for air leaks around the endotracheal tube or tracheostomy tube
+	 4. Confirm airway position
+	 5. Evaluate ventilator settings and mode
+## High Frequency Alarm
+
 ## Low Oxygen Alarm
 - Circuit disconnect
 - Incorrect gases
