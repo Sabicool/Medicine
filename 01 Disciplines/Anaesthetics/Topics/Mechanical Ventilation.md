@@ -743,14 +743,6 @@ $$
 	- Lifting sedation
 	- Weaning/liberation trial
 ## Spontaneous Breathing Trial
-- Switch to some pressure support mode with some PEEP or to tube compensation
-- Complete an ABG
-	- If pH > 7.35 and $P_\text{a}\ce{CO2}<45$ and $P\ce{O2}>60$ ⇒ good trial, will likely succeed
-- Rapid shallow breathing index (RSBI or Tobin index): RR/$V_{\text{T}}$ 
-	- If while off the ventilator, the RSBI > 105 suggests the patient will fail the trial
-- NIF ~ -30 suggests good trial
-- Minute ventilation <15L/min
-
 - Criteria for readiness for spontaneous breathing trial
 	- Respiratory:
 		- $F_\text{i}\ce{O2}$ < 50% with a PEEP ≤ 10 cm (higher PEEPs may be acceptable in obese patients)
@@ -759,6 +751,18 @@ $$
 		- No ongoing myocardial ischaemia
 		- Heart rate <140
 		- Not on high-level vasopressors
+	- Neurologic
+		- Patient is arousable and ideally following commands
+	- Renal
+		- No uncontrolled acid-base disturbances
+- Typical settings for spontaneos breathing trial
+	- Pressure support ventilation with 5 cm of pressure support and 5 cm of PEEP
+- Assessment
+	- Complete an ABG
+		- If pH > 7.35 and $P_\text{a}\ce{CO2}<45$ and $P\ce{O2}>60$ ⇒ good trial, will likely succeed off ventilator
+	- Rapid shallow breathing index (RSBI or Tobin index): RR/$V_{\text{T}}$ 
+		- If while off the ventilator, the RSBI > 105 suggests the patient will fail the extubation
+	- Minute ventilation <15L/min
 ## Checklist
 1. Optimise sedation
 	- Ideal target is following commands, mildly distressed by ETT when sedation held
@@ -777,7 +781,7 @@ $$
 	- Suction stomach
 	- Check for cuff leak if indicated; airleak on deflation of ETT cuff suggets absence of tracheal swelling
 
-![[Pasted image 20260414231602.png|697]]
+![[Pasted image 20260414231602.png|371]]
 # Crashing Patient on the Ventilator
 1. Call for help, airway cart, ultrasound and scalpel
 2. If patient arrests, start CPR, delegate two staff members to chest compressions and continue to seek underlying cause
