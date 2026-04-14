@@ -782,18 +782,29 @@ Ventilation alarms should be treated with great attention (often demanding the s
 
 ![[Pasted image 20260331214059.png]]
 
-## High Peak Pressures
-- Check the circuit:
-	- Fluid pooling in circuit or filter
-	- Kinking of the circuit
-- Tube too small or biofilmed
-- Bronchospasm
-- Biting on ETT
-## High Peak and Plateau Pressures
-- Tube in mainstem
-- Pneumothorax
-- Poor lung compliance → ↓ $V_{\text{T}}$
-- Abdominal compartment syndrome
+## High Pressure Alarm
+- Generally due to:
+	- Increased airway resistance (e.g. secretions, bronchospasm, biting on the endotracheal tube, obstruction of the exhalation valve, endotracheal tube too small)
+	- Decreased lung compliance (e.g. pulmonary oedema, pneumonia, acute respiratory distress syndrome, pneumothorax, haemothorax, abdominal distention, chest wall rigidity)
+	- Patient related causes (e.g. coughing or patient ventilator dyssynchrony)
+- Troubleshooting:
+	1. Assess the patient looking for signs of respiratory distress, cyanosis, agitation or decreased oxygen saturation
+	2. Check the airway, inspecting the endotracheal tube for obstruction, kinking or displacement or if secretions are present, suction the airway
+	3. Inspect the circuit checking the ventilator tubing for kinks, water accumulation or disconnections
+	4. Evaluate lung compliance considering whether it has changed due to conditions such as pneumothorax, pulmonary oedema or worsening lung disease
+	5. Adjust ventilator settings if necessary including:
+		- Decreasing tidal volume 
+		- Increasing inspiratory time
+		- Adjusting inspiratory flow waveform
+		- Providing bronchodilator therapy
+## Low Pressure Alarm
+- Generally due to:
+	- Circuit disconnection (e.g. ventilator tubing disconnection, loose humidifier connection, disconnected exhalation valve tubing)
+	- Airway leaks (e.g. endotracheal tube cuff leak, deflated cuff, improperly positioned endotracheal tube)
+	- System failure (e.g. loss of gas supply, power failure, air compressor malfunction)
+	- Incorrect ventilator settings (e.g. pressure limit set too high, tidal volume set too low, excessively sensitive trigger settings)
+- Troubleshooting:
+	1. 
 ## Low $\dot{V}/V_{\text{T}}$
 - Circuit leak, ETT cuff leak
 - Disconnection
