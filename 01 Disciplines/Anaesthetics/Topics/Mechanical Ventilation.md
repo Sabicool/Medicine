@@ -751,10 +751,24 @@ $$
 - NIF ~ -30 suggests good trial
 - Minute ventilation <15L/min
 ## Checklist
-1. Mechanics of ventilation in the spontaneous breathing trial (as above)
-2. Mental status: is the patient mentally alert enough to protect their airway
-3. Secretions
-4. Airleak on deflation of ETT balloon suggests absence of tracheal swelling
+1. Optimise sedation
+	- Ideal target is following commands, mildly distressed by ETT when sedation held
+	- Consider cross-tapering from propofol onto dexmedetomidine
+2. Optimise volume status
+	- Extubation increases pre-load and blood pressure
+	- Examine the fluid charts for fluid overload considering diuresis before extubation if required
+3. Optimise acid-base status
+	- Treat metabolic acidosis prior to extubation as the patient compensates with respiratory alkalosis
+	- Patients with chronic hypercapnoea and _chronic_ compensatory respiratory alkalosis should ideally be restored to their _baseline_ bicarbonate level prior to extubation
+4. Review chest X-ray
+	- Observe for any treatable disease process (e.g. pleural effusion); it may take re-expanded lung tissue some hours to regain full function
+5. Review insulin regimen and glycaemic control
+	- Extubation often involves discontinuation of enteral nutrition
+6. Other considerations
+	- Suction stomach
+	- Check for cuff leak if indicated; airleak on deflation of ETT cuff suggets absence of tracheal swelling
+
+![[Pasted image 20260414231602.png|697]]
 # Crashing Patient on the Ventilator
 1. Call for help, airway cart, ultrasound and scalpel
 2. If patient arrests, start CPR, delegate two staff members to chest compressions and continue to seek underlying cause
@@ -906,6 +920,7 @@ Ventilation alarms should be treated with great attention (often demanding the s
 - [Ventilator Alarm (DOPES) - YouTube](https://www.youtube.com/watch?v=la4EPaPBc14)
 - [EMCrit 239 - Vent Alarms = Code Blue](https://emcrit.org/emcrit/vent-alarms/)
 - [Ventilator Alarms: Types, Causes, and Troubleshooting (2026)](https://www.respiratorytherapyzone.com/ventilator-alarms/)
+- [Liberation from the ventilator - EMCrit Project](https://emcrit.org/ibcc/extubation/)
 
 [^1]: There is some low quality evidence suggesting postiive effect on ICU stay and duration of ventilator weaning in spontaneously breathing patients
 [^2]: Normal mean inspiratory flow rate at rest is around 15 L/min with a peak of around 30-35 L/min
