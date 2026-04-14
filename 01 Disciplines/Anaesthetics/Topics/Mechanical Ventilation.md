@@ -750,6 +750,15 @@ $$
 	- If while off the ventilator, the RSBI > 105 suggests the patient will fail the trial
 - NIF ~ -30 suggests good trial
 - Minute ventilation <15L/min
+
+- Criteria for readiness for spontaneous breathing trial
+	- Respiratory:
+		- $F_\text{i}\ce{O2}$ < 50% with a PEEP ≤ 10 cm (higher PEEPs may be acceptable in obese patients)
+		- $P_\text{a}\ce{CO2}$ or et$\ce{CO2}$ is normal or close to baseline for patients with chronic hypercapnoea
+	- Cardiovascular:
+		- No ongoing myocardial ischaemia
+		- Heart rate <140
+		- Not on high-level vasopressors
 ## Checklist
 1. Optimise sedation
 	- Ideal target is following commands, mildly distressed by ETT when sedation held
