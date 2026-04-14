@@ -778,25 +778,30 @@ $$
 
 # Troubleshooting Ventilator Alarms
 Ventilation alarms should be treated with great attention (often demanding the same attention as a code blue).
-
-
-![[Pasted image 20260331214059.png]]
-
 ## High Pressure Alarm
 - Generally due to:
 	- Increased airway resistance (e.g. secretions, bronchospasm, biting on the endotracheal tube, obstruction of the exhalation valve, endotracheal tube too small)
 	- Decreased lung compliance (e.g. pulmonary oedema, pneumonia, acute respiratory distress syndrome, pneumothorax, haemothorax, abdominal distention, chest wall rigidity)
 	- Patient related causes (e.g. coughing or patient ventilator dyssynchrony)
 - Troubleshooting:
-	1. Assess the patient looking for signs of respiratory distress, cyanosis, agitation or decreased oxygen saturation
-	2. Check the airway, inspecting the endotracheal tube for obstruction, kinking or displacement or if secretions are present, suction the airway
-	3. Inspect the circuit checking the ventilator tubing for kinks, water accumulation or disconnections
-	4. Evaluate lung compliance considering whether it has changed due to conditions such as pneumothorax, pulmonary oedema or worsening lung disease
-	5. Adjust ventilator settings if necessary including:
-		- Decreasing tidal volume 
-		- Increasing inspiratory time
-		- Adjusting inspiratory flow waveform
-		- Providing bronchodilator therapy
+	1. If $S_\text{p}\ce{O2}$ low or falling refer to [[Mechanical Ventilation#Crashing Patient on the Ventilator|crashing on the ventilator]]
+	2. Assess the patient looking for signs of respiratory distress, cyanosis, agitation or decreased oxygen saturation
+	3. Check for capnograph waveform 
+	4. Check the airway, inspecting the endotracheal tube for obstruction, kinking or displacement or if secretions are present, suction the airway
+	5. Inspect the circuit checking the ventilator tubing for kinks, water accumulation or disconnections
+	6. Change tidal volume to ≤ 8 mL/kg predicted body weight
+	7. Increase the ventilator peak pressure alarm limit until entire set volume is delivered without triggering
+	8. Perform inspiratory hold on ventilator to assess plateau pressure
+		- If peak and plateau pressure difference < 5 cm $\ce{H2O}$ (i.e. elevated plateau pressure)
+			1. Rule out dynamic hyperinflation by lowering the respiratory rate or disconnecting the ventilator
+			2. If no dynamic hyperinflation, perform ultrasound or get CXR to exclude pneumothorax and main-stem tube position
+			3. Consider atelactasis, pneumonia, mucous plugging or ARDS
+			4. Reduce $V_{\text{T}}$ until the pleature pressure < 30 cm $\ce{H2O}$
+		- If peak pressure and pleature pressure difference > 5cm $\ce{H2O}$ (i.e. elevated peak pressure)
+			- Auscultate to assess for obstructive airway disease and use bronchodilators if indicated
+			- Check each piece of ventilator circuit for obstruction
+			- Consider leaving peak pressure limit as high as necessary to deliver breaths if plateau pressure remains < 30 cm $\ce{H2O}$
+![[Pasted image 20260414225715.png]]
 ## Low Pressure Alarm
 - Generally due to:
 	- Circuit disconnection (e.g. ventilator tubing disconnection, loose humidifier connection, disconnected exhalation valve tubing)
@@ -826,6 +831,59 @@ Ventilation alarms should be treated with great attention (often demanding the s
 - Can be due to:
 	- Respiratory distress (e.g. hypoxaemia, pain, fever, metabolic acidosis, inadequate pressure support)
 	- Airway narrowing (e.g. secretions, mucous plugging, bronchospasm)
+	- Auto-triggering (due to sensitivity being set too high, circuit leaks, water in the tubing, cardiac oscillations, external movement or vibration)
+- Troubleshooting
+	1. Assess the patient looking for signs of respiratory distress such as accessory muscle use, low oxygen saturation, diaphoresis, or visible increased work of breathing
+	2. Evaluate oxygenation and ventilation and observing recent blood gas results if available
+	3. Check the airway checking for bronchospasm, mucous plugging and suction if secretions are suspected
+	4. Review ventilatory sensitivity if autotriggering is suspected
+	5. Optimise support by increasing $F_\text{i}\ce{O2}$, inspiratory flow, pressure support or treating pain or anxiety and correcting acid base disorders
+## Apnoea Alarm
+- Common causes:
+	- Circuit disconnection
+	- Depressed respiratory drive
+	- Fatigue or neuromuscular weakness
+	- Inadequate sensitivity
+- Troubleshooting
+	1. Assess the patient looking for chest rise, respiratory effort, oxygen saturation and signs of instability
+	2. Confirm circuit integrity inspecting the ventilator for disconnection, loose tubing or major leaks
+	3. Provide ventilation with manual ventilation while identifying the source of the problem
+	4. Evaluate sedation and respiratory drive considering medications that may be contributing
+	5. Review trigger settings and backup ventilation
+## High PEEP Alarm
+- Common causes:
+	- Auto-PEEP
+	- Air trapping
+	- High respiratory rate
+	- Short expiratory time
+	- Insufficient inspiratory flow leading to prolonged inspiratory time
+	- Obstructive lung disease
+	- Bronchospasm
+	- Excessive tidal volume
+	- Inappropriate I:E ratio
+- Troubleshooting a high PEEP alarm
+	- Involves identifying the cause of air trapping or excessive end-expiratory pressure:
+		- Prolonging expiratory time
+		- Reducing respiratory rate
+		- Reducing tidal volume
+		- Increasing inspiratory flow to shorten inspiratory time
+		- Treating bronchospasm with bronchodilators
+		- Suctioning retained secretions if indicated
+		- Reassessing the set PEEP level
+## Low PEEP Alarm
+- Causes:
+	- Leak in the ventilator circuit
+	- Loose tubing connection
+	- Endotracheal tube cuff leak
+	- Leak around a tracheostomy tube
+	- Faulty valve or humidifier connection
+	- Strong patient inspiratory effort
+- Troubleshooting a low PEEP alarm
+	1. Inspect the circuit for leaks or loose connections
+	2. Evaluate cuff inflation and airway integrity
+	3. Confirm that the ventilator valves are functioning properly 
+	4. Assess inspiratory flow settings
+	5. Adjust settings to better match patient demand if needed
 ## Low Oxygen Alarm
 - Circuit disconnect
 - Incorrect gases
