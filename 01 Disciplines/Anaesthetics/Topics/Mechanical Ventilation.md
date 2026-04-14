@@ -823,7 +823,9 @@ Ventilation alarms should be treated with great attention (often demanding the s
 	 4. Confirm airway position
 	 5. Evaluate ventilator settings and mode
 ## High Frequency Alarm
-
+- Can be due to:
+	- Respiratory distress (e.g. hypoxaemia, pain, fever, metabolic acidosis, inadequate pressure support)
+	- Airway narrowing (e.g. secretions, mucous plugging, bronchospasm)
 ## Low Oxygen Alarm
 - Circuit disconnect
 - Incorrect gases
