@@ -766,9 +766,8 @@ $$
 8. Consider reintubation unless a patent, correctly positioned tube is directly visualised
 9. Use bedside ultrasound to diagnose pneumothorax and if confirmed, treat with finger thoracostomy
 10. If no pneumothorax, review the list of common causes
+
 ![[Pasted image 20260414005005.png]]
-# Troubleshooting Ventilator Alarms
-Ventilation alarms should be treated with great attention (often demanding the same attention as a code blue).
 
 - If the patient is crashing use the DOPES mnemonic
 	- D: Dislodged or displaced ETT
@@ -776,6 +775,10 @@ Ventilation alarms should be treated with great attention (often demanding the s
 	- P: Pneumothorax; check for any signs of decreased breath soudns or chest asymmetry
 	- E: Equipment failure; rarely ventilator malfunction can be the cause of the alarm, if this is suspected disconnect the patient from the ventilator and try BVM ventilation
 	- S: Stacked breathing (auto-PEEP); check for signs of increased work of breathing or decreased tidal volume
+
+# Troubleshooting Ventilator Alarms
+Ventilation alarms should be treated with great attention (often demanding the same attention as a code blue).
+
 
 ![[Pasted image 20260331214059.png]]
 
