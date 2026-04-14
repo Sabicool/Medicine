@@ -804,7 +804,12 @@ Ventilation alarms should be treated with great attention (often demanding the s
 	- System failure (e.g. loss of gas supply, power failure, air compressor malfunction)
 	- Incorrect ventilator settings (e.g. pressure limit set too high, tidal volume set too low, excessively sensitive trigger settings)
 - Troubleshooting:
-	1. 
+	1. Consider manual ventilation with a resuscitation bag while troubleshooting
+	2. Check for circuit disconnection
+	3. Inspect all ventilator tubing and connections
+	4. Examine the endotracheal tube cuff for leaks
+	5. Confirm that the endotracheal tube is correctly positioned
+	6. Ensure the ventilator is receiving adequate gas supply and power
 ## Low $\dot{V}/V_{\text{T}}$
 - Circuit leak, ETT cuff leak
 - Disconnection
