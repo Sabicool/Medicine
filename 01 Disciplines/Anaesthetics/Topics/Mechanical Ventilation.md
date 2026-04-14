@@ -761,14 +761,16 @@ $$
 - Passing requirements
 	- Adequate oxygenation 
 		- e.g. saturating >88% without requiring more than ~50% of $F_\text{i}\ce{O2}$
-		- 
-- Assessment
+	- Adequate ventilation
+		- Occult hypoventilation can be suggested by a decrease in minute ventilation, a decrease in tidal volume or the et$\ce{CO2}$ increases by > 10 mm during the breathing trial
+	- No signs of severe fatigure which may include:
+		- Agitation, diaphoresis, use of accesory muscles
+		- High rapid shallow breathing index ($\text{RSBI}=\text{RR}/V_{\text{T}}$) > 105[^3]
+	- No obvious complication (e.g. arrhythmia, hypotension, severe hypertension etc.)
 	- Complete an ABG
-		- If pH > 7.35 and $P_\text{a}\ce{CO2}<45$ and $P\ce{O2}>60$ ⇒ good trial, will likely succeed off ventilator
-	- Rapid shallow breathing index (RSBI or Tobin index): RR/$V_{\text{T}}$ 
-		- If while off the ventilator, the RSBI > 105 suggests the patient will fail the extubation
-	- Minute ventilation <15L/min
-## Checklist
+		- If pH > 7.35 and $P_\text{a}\ce{CO2}<45$ and $P\ce{O2}>60$ means that they are likely to succeed extubation
+- If develops apnoea during SBT
+## Checklist for Extubation
 1. Optimise sedation
 	- Ideal target is following commands, mildly distressed by ETT when sedation held
 	- Consider cross-tapering from propofol onto dexmedetomidine
@@ -942,3 +944,4 @@ Ventilation alarms should be treated with great attention (often demanding the s
 
 [^1]: There is some low quality evidence suggesting postiive effect on ICU stay and duration of ventilator weaning in spontaneously breathing patients
 [^2]: Normal mean inspiratory flow rate at rest is around 15 L/min with a peak of around 30-35 L/min
+[^3]: Has a specificity of 44% predicting extubation failure. Should be considered a red flag, yet some patients can still be extubated despite a high RSBI (e.g. in patients with interstitial lung disease who have chronic tachypnoea)
