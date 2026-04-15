@@ -742,7 +742,7 @@ $$
 - Everyday someone is on the ventilator assess unless patient is on $F_\text{i}\ce{O2}>45\%$, patient is unstable or on high amounts of vasopressors
 	- Lifting sedation
 	- Weaning/liberation trial
-
+![[Pasted image 20260415215525.png]]
 ## Spontaneous Breathing Trial
 - Criteria for readiness for spontaneous breathing trial
 	- Respiratory:
@@ -895,6 +895,9 @@ Ventilation alarms should be treated with great attention (often demanding the s
 			- Auscultate to assess for obstructive airway disease and use bronchodilators if indicated
 			- Check each piece of ventilator circuit for obstruction
 			- Consider leaving peak pressure limit as high as necessary to deliver breaths if plateau pressure remains < 30 cm $\ce{H2O}$
+
+![[Pasted image 20260415215827.png]]
+
 ![[Pasted image 20260414225715.png]]
 ## Low Pressure Alarm
 - Generally due to:
@@ -984,7 +987,10 @@ Ventilation alarms should be treated with great attention (often demanding the s
 - Sensor malfunction
 # Sources
 - Strong Medicine Playlist: [Mechanical Ventilation - YouTube](https://www.youtube.com/playlist?list=PLBA5A30910F1FBF47)
-- [Mechanical Ventilator Basics — ICU One Pager](https://onepagericu.com/vent-basics)
+- ICU One Pager
+	- [Mechanical Ventilator Basics — ICU One Pager](https://onepagericu.com/vent-basics)
+	- [Ventilator Weaning — ICU One Pager](https://onepagericu.com/vent-weaning)
+	- [Vent Troubleshooting: High Peak Pressures — ICU One Pager](https://static1.squarespace.com/static/5e6d5df1ff954d5b7b139463/t/5e8f9a20e9d767577ce33da7/1586469408605/ICU_one_pager_vent_troubleshooting_1.pdf)
 - Deranged physiology
 	- [Flow, volume, pressure, resistance and compliance](https://derangedphysiology.com/main/cicm-primary-exam/respiratory-system/Chapter-531/flow-volume-pressure-resistance-and-compliance)
 	- [Phases of a mechanical breath](https://derangedphysiology.com/main/cicm-primary-exam/respiratory-system/Chapter-532/phases-mechanical-breath)
