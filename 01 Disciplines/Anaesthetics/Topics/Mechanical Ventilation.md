@@ -780,6 +780,18 @@ $$
 - If a patient fails a SBT:
 	- Place the patient back on a full level of ventilator support
 	- A SBT may be repeated later in the day if there is something which can be easily manipulated to improve likelihood of success (e.g. sedation), otherwise repeat SBT the following morning
+- Causes of failing a SBT:
+	- Volume overload, pulmonary oedema
+	- Angina 
+	- Anxiety
+	- Chronic tachypnoea
+	- Bronchospasm
+	- Pleural effusion
+	- Ventilator assocaited pneumonia
+	- Metabolic acidosis
+	- Elimination of chronic, compensatory metabolic alkalosis (e.g. in a patient with COPD and chronic compensatory metabolic alkalosis whose bicarbonate level is normal)
+	- Electrolyte abnormalities (espeically hypophosphataemia)
+	- 
 ## Checklist for Extubation
 1. Optimise sedation
 	- Ideal target is following commands, mildly distressed by ETT when sedation held
