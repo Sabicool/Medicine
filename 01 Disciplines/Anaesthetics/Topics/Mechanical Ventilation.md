@@ -121,6 +121,8 @@ $$
 	- Can lead to respiratory alkalosis, auto-PEEP and hypotension in hyperventilating patients as every breath leads to a fully supported breath
 - Indications
 	- Critically ill patients requiring full ventilatory support and in whom fluctuations in $V_{\text{T}}$ is undesirable
+
+![[Pasted image 20260415224535.png]]
 ## Synchronised Intermittent Mandatory Ventilation (SIMV)
 - Mix of mandatory breaths (some of which are synchronised with spontaneous breaths), and assisted breaths
 - Mandatory (non-synchronised breaths):
@@ -991,6 +993,7 @@ Ventilation alarms should be treated with great attention (often demanding the s
 	- [Mechanical Ventilator Basics — ICU One Pager](https://onepagericu.com/vent-basics)
 	- [Ventilator Weaning — ICU One Pager](https://onepagericu.com/vent-weaning)
 	- [Vent Troubleshooting: High Peak Pressures — ICU One Pager](https://static1.squarespace.com/static/5e6d5df1ff954d5b7b139463/t/5e8f9a20e9d767577ce33da7/1586469408605/ICU_one_pager_vent_troubleshooting_1.pdf)
+	- [Volume Assist/Control Ventilation — ICU One Pager](https://static1.squarespace.com/static/5e6d5df1ff954d5b7b139463/t/60bc536cf8f9a34b0e38757c/1622954861065/ICU_one_pager_volume_control.pdf)
 - Deranged physiology
 	- [Flow, volume, pressure, resistance and compliance](https://derangedphysiology.com/main/cicm-primary-exam/respiratory-system/Chapter-531/flow-volume-pressure-resistance-and-compliance)
 	- [Phases of a mechanical breath](https://derangedphysiology.com/main/cicm-primary-exam/respiratory-system/Chapter-532/phases-mechanical-breath)
