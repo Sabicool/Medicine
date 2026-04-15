@@ -770,6 +770,16 @@ $$
 	- Complete an ABG
 		- If pH > 7.35 and $P_\text{a}\ce{CO2}<45$ and $P\ce{O2}>60$ means that they are likely to succeed extubation
 - If develops apnoea during SBT
+	- Causes:
+		- Patient was hyperventilated prior to the trial which can be resolved by:
+			- Placing the patient on a standard ventilator mode
+			- Decreasing the backup rate on the ventilator in order to stimulate more spontaneous breaths
+			- Repeat the SBT
+		- The patient has a Cheyne-Stokes breathing pattern
+		- The patient is over-sedated
+- If a patient fails a SBT:
+	- Place the patient back on a full level of ventilator support
+	- A SBT may be repeated later in the day if there is something which can be easily manipulated to improve likelihood of success (e.g. sedation), otherwise repeat SBT the following morning
 ## Checklist for Extubation
 1. Optimise sedation
 	- Ideal target is following commands, mildly distressed by ETT when sedation held
