@@ -2,7 +2,7 @@
 Rotations:
   - "[[Anaesthetics]]"
   - "[[Intensive Care Unit]]"
-date: 2026-04-14
+date: 2026-04-15
 ---
 # Normal Capnometry Waveform
 ![[anatomy of the normal end tidal CO2 graph.jpg]]
@@ -60,3 +60,4 @@ date: 2026-04-14
 - [Abnormal capnography waveforms and their interpretation](https://derangedphysiology.com/main/cicm-primary-exam/respiratory-system/Chapter-5593/abnormal-capnography-waveforms-and-their-interpretation)
 - [No trace, not always the wrong place - British Journal of Anaesthesia](https://www.bjanaesthesia.org/article/S0007-0912(24)00668-8/fulltext)
 - [Time to replace ‘No trace, wrong place’ with ‘Sustained exhaled carbon dioxide’. Comment on Br J Anaesth 2025; 134: 248–9 - British Journal of Anaesthesia](https://www.bjanaesthesia.org/article/S0007-0912(24)00782-7/fulltext)
+- [Capnography & ETCO2 — ICU One Pager](https://onepagericu.com/capnography)
