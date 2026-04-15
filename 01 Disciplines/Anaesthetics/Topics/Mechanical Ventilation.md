@@ -4,7 +4,7 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[Anaesthetics]]"
-figureCount: 18
+figureCount: 19
 ---
 ![[Pasted image 20260329010927.png]]
 # Lung Mechanics
@@ -742,6 +742,7 @@ $$
 - Everyday someone is on the ventilator assess unless patient is on $F_\text{i}\ce{O2}>45\%$, patient is unstable or on high amounts of vasopressors
 	- Lifting sedation
 	- Weaning/liberation trial
+
 ## Spontaneous Breathing Trial
 - Criteria for readiness for spontaneous breathing trial
 	- Respiratory:
@@ -777,6 +778,7 @@ $$
 			- Repeat the SBT
 		- The patient has a Cheyne-Stokes breathing pattern
 		- The patient is over-sedated
+### On Failing a SBT
 - If a patient fails a SBT:
 	- Place the patient back on a full level of ventilator support
 	- A SBT may be repeated later in the day if there is something which can be easily manipulated to improve likelihood of success (e.g. sedation), otherwise repeat SBT the following morning
@@ -790,9 +792,35 @@ $$
 	- Ventilator assocaited pneumonia
 	- Metabolic acidosis
 	- Elimination of chronic, compensatory metabolic alkalosis (e.g. in a patient with COPD and chronic compensatory metabolic alkalosis whose bicarbonate level is normal)
-	- Electrolyte abnormalities (espeically hypophosphataemia)
-	- 
-## Checklist for Extubation
+	- Electrolyte abnormalities (especially hypophosphataemia)
+	- Pulmonary embolism (consider when persistent or worsening respiratory failure without a good explanation)
+	- Atelactasis and/or mucous plugging
+	- Small ETT size causing excessive airway resistance
+	- Ocult endotracheal tube occlusion due to inpissated secretions
+	- Ventilator dyssynchrony or inadequate ventilator support causing respiratory exhaustion
+- Investigations to consider in the failed SBT patient:
+	- Electrolytes including CMP
+	- Review of fluid balance and examination for volume overload
+	- Chest imaging (CXR, pocus)
+	- Review of the acid base status and comapre to baseline bicarbonate status
+	- CT angiography if considering a PE
+### On Passing a SBT
+- Passing means the patient is strong enough to sustain the work of breathing but also consider:
+	- The risk of post-extubation laryngeal oedema
+	- Will the patient be able to maintain their airway
+
+<figure style="text-align: center;">
+  <img src="Pasted image 20260414231602.png" width="75%">
+  <figcaption><b>Figure 19.</b> Assessment of risk of post-extubation laryngeal oedema</figcaption>
+</figure>
+
+- Assessment of ability of a patient to maintain their airway is subjective based on four factors:
+	1. Patient’s mental status
+	2. Is the patient producing plenty of secretions (e.g. requiring suctioning < q2hrly)
+	3. Does the patient have a history of hypercapnoea
+	4. Does the patient have a strong cough (assessed subjectively while suctioning the patient)
+## Extubation
+### Checklist for Extubation
 1. Optimise sedation
 	- Ideal target is following commands, mildly distressed by ETT when sedation held
 	- Consider cross-tapering from propofol onto dexmedetomidine
@@ -809,8 +837,18 @@ $$
 6. Other considerations
 	- Suction stomach
 	- Check for cuff leak if indicated; airleak on deflation of ETT cuff suggets absence of tracheal swelling
-
-![[Pasted image 20260414231602.png|371]]
+### Post Extubation Support
+- Most patients can go from extubation to high flow nasal prongs; however BiPAP can be considered among patients with heart failure or COPD
+- For HFNP to be effective:
+	- HFNP needs to be continued for a substantial amount of time (24-48 hours) unless the patient is already on night time BiPAP
+	- The flow rate should be increased as high as can be tolerated by the aptient (ideally 50-60 L/min)
+### Unplanned Extubation
+- Accidental extubation (e.g. while turning or transporting patient) which generally requires re-intubation
+- Self-extubation (i.e. patient intentionally removes their own endotracheal tube)
+	- Stop all sedative infusions
+	- Place the patient on BiPAP
+	- Observe
+	- Reintubate if clinically indicated
 # Crashing Patient on the Ventilator
 1. Call for help, airway cart, ultrasound and scalpel
 2. If patient arrests, start CPR, delegate two staff members to chest compressions and continue to seek underlying cause
