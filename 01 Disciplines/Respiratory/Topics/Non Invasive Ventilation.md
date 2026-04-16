@@ -3,6 +3,8 @@ date: 2026-04-16
 Rotations:
   - "[[Emergency Medicine]]"
   - "[[Intensive Care Unit]]"
+aliases:
+  - NIV
 ---
 ![[Pasted image 20260416004448.png]]
 
