@@ -7,40 +7,38 @@ Rotations:
 ---
 > Full notes: [[Mechanical Ventilation]]
 
-# Mechanical Ventilation — Quick Reference
+# Ventilator Modes at a Glance
 
-## Ventilator Modes at a Glance
-
-| Mode | Trigger | Control | Cycle | Key Feature | Use When |
-|------|---------|---------|-------|-------------|----------|
-| **AC** | Time/P/Flow | Volume | Time | All breaths fully supported | Full support needed, no hyperventilation |
+| Mode     | Trigger       | Control           | Cycle       | Key Feature                     | Use When                                  |
+|----------|---------------|-------------------|-------------|---------------------------------|-------------------------------------------|
+| **AC**   | Time/P/Flow   | Volume            | Time        | All breaths fully supported     | Full support needed, no hyperventilation  |
 | **SIMV** | Time + P/Flow | Volume + Pressure | Time + Flow | Mandatory + partial spontaneous | Hyperventilating patients, auto-PEEP risk |
-| **PCV** | Time only | Pressure | Time | No patient triggering | High barotrauma risk |
-| **PSV** | P/Flow | Pressure | Flow | All breaths patient-triggered | Conscious, pre-extubation |
-| **PRVC** | Time | Adaptive P→V | Time | Guarantees VT, minimises P | Best of both worlds |
+| **PCV**  | Time only     | Pressure          | Time        | No patient triggering           | High barotrauma risk                      |
+| **PSV**  | P/Flow        | Pressure          | Flow        | All breaths patient-triggered   | Conscious, pre-extubation                 |
+| **PRVC** | Time          | Adaptive P→V      | Time        | Guarantees VT, minimises P      | Best of both worlds                       |
 
 > **AC vs SIMV:** In excess of set RR — AC gives *full* support; SIMV gives *partial* support
 
 ---
 
-## Initial Ventilator Settings
+# Initial Ventilator Settings
 
-| Parameter | Normal | COPD | ARDS |
-|-----------|--------|------|------|
-| **Mode** | AC or SIMV | SIMV | AC or SIMV |
-| **FiO₂** | Start 100%, wean to ≤60% | Start 100%, wean | Start 100%, wean |
-| **VT** | 10 mL/kg IBW | 8 mL/kg IBW | 6 mL/kg IBW |
-| **RR** | 10–20 | Avoid ↑ RR | 10–20 |
-| **PEEP** | 5–8 cmH₂O | Low/ZEEP | ≥8–12 cmH₂O |
-| **PS** | 5–20 cmH₂O | — | — |
-| **I:E** | 1:2 | 1:3 or 1:4 | 1:2 |
+| Parameter | Normal                   | COPD             | ARDS             |
+|-----------|--------------------------|------------------|------------------|
+| **Mode**  | AC or SIMV               | SIMV             | AC or SIMV       |
+| **FiO₂**  | Start 100%, wean to ≤60% | Start 100%, wean | Start 100%, wean |
+| **VT**    | 10 mL/kg IBW             | 8 mL/kg IBW      | 6 mL/kg IBW      |
+| **RR**    | 10–20                    | Avoid ↑ RR       | 10–20            |
+| **PEEP**  | 5–8 cmH₂O                | Low/ZEEP         | ≥8–12 cmH₂O      |
+| **PS**    | 5–20 cmH₂O               | —                | —                |
+| **I:E**   | 1:2                      | 1:3 or 1:4       | 1:2              |
 
 > **FiO₂ >60%** → add strategies: ↑ PEEP, recruitment manoeuvres, change mode  
 > **Pplateau >30 cmH₂O** → ↓ VT in 1 mL/kg steps
 
 ---
 
-## Pressure Interpretation (Volume Control Modes)
+# Pressure Interpretation (Volume Control Modes)
 
 ```
 P_peak ↑, P_plateau normal  →  Airway resistance ↑ (bronchospasm, secretions, kink)
@@ -53,17 +51,17 @@ $$\text{Compliance}=\frac{V_\text{T}}{P_\text{plateau}-\text{PEEP}} \qquad \text
 
 ---
 
-## Phase Variables Summary
+# Phase Variables Summary
 
-| Phase | Variable | Types | Key Point |
-|-------|----------|-------|-----------|
-| **Trigger** | What starts a breath | Time / Flow / Pressure | Flow trigger most comfortable; pressure trigger for auto-triggering |
-| **Limit** | Max value during inspiration (does not end breath) | Pressure / Flow / Volume | — |
-| **Cycle** | What ends a breath | Time / Flow / Pressure / Volume | Flow cycling most comfortable; time cycling best for CO₂ control |
+| Phase       | Variable                                           | Types                           | Key Point                                                           |
+|-------------|----------------------------------------------------|---------------------------------|---------------------------------------------------------------------|
+| **Trigger** | What starts a breath                               | Time / Flow / Pressure          | Flow trigger most comfortable; pressure trigger for auto-triggering |
+| **Limit**   | Max value during inspiration (does not end breath) | Pressure / Flow / Volume        | —                                                                   |
+| **Cycle**   | What ends a breath                                 | Time / Flow / Pressure / Volume | Flow cycling most comfortable; time cycling best for CO₂ control    |
 
 ---
 
-## PEEP Effects
+# PEEP Effects
 
 | Effect | Low-Mid PEEP | High PEEP |
 |--------|-------------|-----------|
@@ -76,7 +74,7 @@ $$\text{Compliance}=\frac{V_\text{T}}{P_\text{plateau}-\text{PEEP}} \qquad \text
 
 ---
 
-## Auto-PEEP
+# Auto-PEEP
 
 **Cause:** Incomplete exhalation → gas trapping
 
@@ -92,7 +90,7 @@ $$\text{Compliance}=\frac{V_\text{T}}{P_\text{plateau}-\text{PEEP}} \qquad \text
 
 ---
 
-## Patient-Ventilator Dyssynchrony
+# Patient-Ventilator Dyssynchrony
 
 | Type | Sign | Fix |
 |------|------|-----|
@@ -104,7 +102,7 @@ $$\text{Compliance}=\frac{V_\text{T}}{P_\text{plateau}-\text{PEEP}} \qquad \text
 
 ---
 
-## Crashing Patient — DOPES
+# Crashing Patient — DOPES
 
 | Letter | Problem | Action |
 |--------|---------|--------|
@@ -116,7 +114,7 @@ $$\text{Compliance}=\frac{V_\text{T}}{P_\text{plateau}-\text{PEEP}} \qquad \text
 
 ---
 
-## SBT Readiness Criteria
+# SBT Readiness Criteria
 
 - **Respiratory:** FiO₂ <50%, PEEP ≤10 cmH₂O, CO₂ at baseline
 - **CVS:** No ischaemia, HR <140, low vasopressors
@@ -129,7 +127,7 @@ $$\text{Compliance}=\frac{V_\text{T}}{P_\text{plateau}-\text{PEEP}} \qquad \text
 
 ---
 
-## High Pressure Alarm Troubleshooting
+# High Pressure Alarm Troubleshooting
 
 ```
 SpO₂ falling? → Crashing patient protocol (DOPES)
@@ -146,7 +144,7 @@ P_peak - P_plateau > 5 cmH₂O (↑ peak only)?
 
 ---
 
-## Ventilator Alarm Quick Reference
+# Ventilator Alarm Quick Reference
 
 | Alarm | Common Causes | First Step |
 |-------|--------------|-----------|

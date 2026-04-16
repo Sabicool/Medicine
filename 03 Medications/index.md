@@ -1,6 +1,6 @@
 ---
 title: 03 Medications
-date: 2025-08-31
+date: 2026-04-16
 aliases:
   - Medications
 ---
@@ -25,3 +25,7 @@ However, lungs contain mainly ẞ2 receptor sites.
 Non-selective ẞ-blockers (e.g. propranolol) will reduce BP, but will also cause unwanted adverse effects such as bronchoconstriction (since the ẞ2-agonist effect is bronchodilation).
 Therefore, non-selective B-blockers cannot be used in patients with asthma. 
 ẞ1 -selective antagonists may be used with caution, provided benefit outweighs risk
+
+
+Other resources:
+- [10 Tips On How To Be An Effective Intern: Meds - YouTube - Strong Medicine](https://www.youtube.com/watch?v=mPrCtRyXHX4)

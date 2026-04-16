@@ -1,10 +1,12 @@
 ---
-date: 2026-03-10
+date: 2026-04-16
 tags:
   - notes
 ---
 ![[Pasted image 20260221133251.png]]
 ![[Pasted image 20260125155014.png]]
+# Practicalities
+- For patients on twice daily diuretics, give the 2nd dose in the early afternoon instead of at night (morning & midday dose)
 # Thiazide Diuretics
 - Mechanism of action
 	- Inhibit sodium reabsorption at the beginning of the DCT by blocking thiazide sensitive $\ce{Na+}-\ce{Cl-}$ symporter
