@@ -16,6 +16,7 @@ aliases:
 	- Improves predominantly oxygenation and therefore indicated in type 1 respiratory failure
 - BiPAP
 	- S/T mode refers to spontaneous and timed mode and therefore has a backup rate
+		- The use of ventilator-triggered breaths in acute respiratory failure while on NIV is questionable; if the patient doesn’t have a good respiratory rate perhaps they should be intubated
 	- S mode refers to spontaneous (only)
 $$
 \text{Pressure support (PS)}\approx \text{IPAP}-\text{EPAP}
@@ -50,11 +51,19 @@ $$
 	- Recent upper gastrointestinal surgery (requires discussion with surgeon)
 	- Following immediate transsphenoidal resection of a pituitary tumour (requires discussion with neurosurgeon)
 # Initial NIV Settings
+![[Pasted image 20260416162312.png]]
 ## Fraction of Inspired Oxygen ($F_\text{i}\ce{O2}$)
 - Titrate to achieve target saturation of 88-92% in patients with chronic respiratory failure
 - In other medical conditions (including neuromuscular disease and chest wall deformity), target $S_\text{p}\ce{O2}$ range of 92-96%
 - In acute coronary syndromes, target $S_\text{p}\ce{O2}$ > 93%
 - In heart failure, target $S_\text{p}\ce{O2}$ > 90%
+## Settings for Congestive Heart Failure
+- The goal is to have a relatively high EPAP setting to maintain high intrathoracic pressures throughout the respiratory cycle
+- Example:
+	- Start at 10 cm $\ce{H2O}$ IPAP / 5 cm $\ce{H2O}$ EPAP to allow the patient to get used to the mask
+	- Increase to 15 cm $\ce{H2O}$ IPAP / 10 cm $\ce{H2O}$ EPAP
+	- Increase to 18 cm $\ce{H2O}$ IPAP / 15 cm $\ce{H2O}$ EPAP
+- CPAP is also perfectly fine and is equally effective
 ## Settings for COPD and Restrictive Diseases
 - Initial settings
 	- S/T mode – spontaneously triggered with a timed backup respiratory rate
@@ -64,11 +73,12 @@ $$
 	- Back-up respiratory rate (BRR) 12-16 breaths per minute
 	- Inspiratory time 1.0-1.4 seconds
 - Increase IPAP by 2 cm $\ce{H2O}$ increments every few minutes until maximum tolerance or target tidal volume of 8-10 mL/kg ideal body weight is achieved
-	- An IPAP of 20-25 cm $\ce{H2O}$ may be required for adequate alveolar ventilation
+	- An IPAP of 20-25 cm $\ce{H2O}$ may be required for adequate alveolar ventilation[^2]
 - Do not increase EPAP in the absence of obesity or obstructive sleep apnoea
 - Adjust mask to minimise leaks
 - Minimise $F_\text{i}\ce{O2}$ to maintain $S_\text{p}\ce{O2}$ 88-92%
 ## Settings for Obesity Hypoventilation Syndrome
+- The goal is to increase the driving pressure which provides mechanical support
 - Initial settings
 	- S/T mode – spontaneously triggered with a timed backup respiratory rate
 	- IPAP 20 cm $\ce{H2O}$
@@ -96,6 +106,8 @@ $$
 - Minimise $F_\text{i}\ce{O2}$ to maintain $S_\text{p}\ce{O2}$ 88-92%
 # Sedation
 - Demedetomidine remains as one of the first line agents to allow tolerance of BiPAP however it has limited availability outside the ICU setting and can cause bradycardia and hypotension
+- Alternatives include IV droperidol, haloperidol, ketamine, fentanyl
+- Benzodiazepines are unfortuantely widley used but are probably not the best agents
 # Sources
 - [Non-Invasive Positive Pressure Ventilation (NIPPV) — ICU One Pager](https://onepagericu.com/nippv)
 - [aci.health.nsw.gov.au/\_\_data/assets/pdf\_file/0004/820372/ACI-Non-invasive-ventilation-for-patients-with-acute-respiratory-failure.pdf](https://aci.health.nsw.gov.au/__data/assets/pdf_file/0004/820372/ACI-Non-invasive-ventilation-for-patients-with-acute-respiratory-failure.pdf)
@@ -103,3 +115,4 @@ $$
 - [Noninvasive Respiratory Support - EMCrit Project](https://emcrit.org/ibcc/support/)
 
 [^1]: See [Non-invasive ventilation (NIV) and asthma • LITFL](https://litfl.com/non-invasive-ventilation-niv-and-asthma/) for more information
+[^2]: [Noninvasive Respiratory Support - EMCrit Project](https://emcrit.org/ibcc/support/) suggests to avoid inspiratory pressures above 20 cm $\ce{H2O}$ as it increases the risk of aspiration and gas inssuflation

@@ -7,7 +7,7 @@ Rotations:
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
 aliases:
   - APO
-date: 2026-03-20
+date: 2026-04-16
 tags:
   - complete
 ---
@@ -73,7 +73,7 @@ tags:
 - Can remember as LMNOP (backwards) at a junior level but better to approach from n ABC perspective when critically unwell.
 ## Treat Ventilation and Lungs
 - **P**osition the patient upright
-- **O**xygen via NIV
+- **O**xygen via [[Non Invasive Ventilation|NIV]] (see [[Non Invasive Ventilation#Settings for Congestive Heart Failure|Settings for congestive heart failure]] for BiPAP settings)
 	- HFNP does not improve clinical outcomes significantly
 	- CPAP or BiPAP[^3] often starting at 10cm $\ce{H2O}$
 	- Uptitrate CPAP and BiPAP settings accordingly up to 20cm $\ce{H2O}$ and 24cm/20cm $\ce{H2O}$ for CPAP and BiPAP respectively
