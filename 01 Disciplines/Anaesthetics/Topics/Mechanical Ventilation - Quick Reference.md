@@ -23,18 +23,18 @@ Rotations:
 
 # Initial Ventilator Settings
 
-| Parameter | Normal                   | COPD             | ARDS             |
-|-----------|--------------------------|------------------|------------------|
-| **Mode**  | AC or SIMV               | SIMV             | AC or SIMV       |
-| **FiO₂**  | Start 100%, wean to ≤60% | Start 100%, wean | Start 100%, wean |
-| **VT**    | 10 mL/kg IBW             | 8 mL/kg IBW      | 6 mL/kg IBW      |
-| **RR**    | 10–20                    | Avoid ↑ RR       | 10–20            |
-| **PEEP**  | 5–8 cmH₂O                | Low/ZEEP         | ≥8–12 cmH₂O      |
-| **PS**    | 5–20 cmH₂O               | —                | —                |
-| **I:E**   | 1:2                      | 1:3 or 1:4       | 1:2              |
+| Parameter | Normal                   | COPD             | ARDS                |
+| --------- | ------------------------ | ---------------- | ------------------- |
+| **Mode**  | AC or SIMV               | SIMV             | AC or SIMV          |
+| **FiO₂**  | Start 100%, wean to ≤60% | Start 100%, wean | Start 100%, wean    |
+| **VT**    | 10 mL/kg IBW             | 8 mL/kg IBW      | 6 mL/kg IBW         |
+| **RR**    | 10–20                    | Avoid ↑ RR       | 10–20               |
+| **PEEP**  | 5–8 cm $\ce{H2O}$        | Low/ZEEP         | ≥8–12 cm $\ce{H2O}$ |
+| **PS**    | 5–20 cm $\ce{H2O}$       | —                | —                   |
+| **I:E**   | 1:2                      | 1:3 or 1:4       | 1:2                 |
 
 > **FiO₂ >60%** → add strategies: ↑ PEEP, recruitment manoeuvres, change mode  
-> **Pplateau >30 cmH₂O** → ↓ VT in 1 mL/kg steps
+> **Pplateau >30 cm $\ce{H2O}$** → ↓ VT in 1 mL/kg steps
 
 ---
 
@@ -104,26 +104,26 @@ $$\text{Compliance}=\frac{V_\text{T}}{P_\text{plateau}-\text{PEEP}} \qquad \text
 
 # Crashing Patient — DOPES
 
-| Letter | Problem | Action |
-|--------|---------|--------|
-| **D** | Dislodged ETT | Confirm position, reintubate |
-| **O** | Obstructed ETT | Suction, bougie, bronchoscope |
-| **P** | Pneumothorax | USS → finger thoracostomy |
-| **E** | Equipment failure | Disconnect, BMV 100% O₂ |
-| **S** | Stacked breathing (auto-PEEP) | Disconnect, allow exhalation |
+| Letter | Problem                       | Action                         |
+| ------ | ----------------------------- | ------------------------------ |
+| **D**  | Dislodged ETT                 | Confirm position, reintubate   |
+| **O**  | Obstructed ETT                | Suction, bougie, bronchoscope  |
+| **P**  | Pneumothorax                  | USS → finger thoracostomy      |
+| **E**  | Equipment failure             | Disconnect, BMV 100% $\ce{O2}$ |
+| **S**  | Stacked breathing (auto-PEEP) | Disconnect, allow exhalation   |
 
 ---
 
 # SBT Readiness Criteria
 
-- **Respiratory:** FiO₂ <50%, PEEP ≤10 cmH₂O, CO₂ at baseline
+- **Respiratory:** FiO₂ <50%, PEEP ≤10 cm $\ce{H2O}$, $\ce{CO2}$ at baseline
 - **CVS:** No ischaemia, HR <140, low vasopressors
 - **Neuro:** Arousable, following commands
 - **Renal:** No uncontrolled acid-base disturbance
 
-**SBT Settings:** PSV 5/5 (PS 5 cmH₂O + PEEP 5 cmH₂O) for 30 minutes
+**SBT Settings:** PSV 5/5 (PS 5 cm $\ce{H2O}$ + PEEP 5 cm $\ce{H2O}$) for 30 minutes
 
-**Pass criteria:** SpO₂ >88%, no ↑ EtCO₂ >10 mmHg, RSBI <105, no arrhythmia/haemodynamic instability
+**Pass criteria:** $S_\text{p}\ce{O2}$ >88%, no ↑ Et$\ce{CO2}$ >10 mmHg, RSBI <105, no arrhythmia/haemodynamic instability
 
 ---
 
@@ -136,9 +136,9 @@ Assess patient → Check ETT → Inspect circuit → Suction
       ↓
 Inspiratory hold → measure P_plateau
       ↓
-P_peak - P_plateau < 5 cmH₂O (↑ plateau)?
+P_peak - P_plateau < 5 cm H₂O (↑ plateau)?
   → Rule out auto-PEEP → USS/CXR → ↓ VT until Pplateau <30
-P_peak - P_plateau > 5 cmH₂O (↑ peak only)?
+P_peak - P_plateau > 5 cm H₂O (↑ peak only)?
   → Bronchodilators → Check circuit → OK if Pplateau <30
 ```
 
