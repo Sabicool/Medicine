@@ -94,6 +94,8 @@ $$
 - A slightly higher EPAP may be required in bulbar disease or obesity (although generally minimal EPAP required)
 - Adjust mask to minimise leaks
 - Minimise $F_\text{i}\ce{O2}$ to maintain $S_\text{p}\ce{O2}$ 88-92%
+# Sedation
+- Demedetomidine remains as one of the first line agents to allow tolerance of BiPAP however it has limited availability outside the ICU setting and can cause bradycardia and hypotension
 # Sources
 - [Non-Invasive Positive Pressure Ventilation (NIPPV) — ICU One Pager](https://onepagericu.com/nippv)
 - [aci.health.nsw.gov.au/\_\_data/assets/pdf\_file/0004/820372/ACI-Non-invasive-ventilation-for-patients-with-acute-respiratory-failure.pdf](https://aci.health.nsw.gov.au/__data/assets/pdf_file/0004/820372/ACI-Non-invasive-ventilation-for-patients-with-acute-respiratory-failure.pdf)
