@@ -4,6 +4,8 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[Anaesthetics]]"
+tags:
+  - complete
 ---
 > Part of: [[Mechanical Ventilation]]
 
@@ -90,12 +92,12 @@ $$
 	- $\dot{V}_{\text{A}}$ is the alveolar ventilation
 - Importantly $P_\text{a}\ce{CO2}\propto \frac{1}{\dot{V}_{\text{A}}}$
 
-| Mechanism | Examples |
-| --- | --- |
-| VQ mismatch | Pneumonia, PE, pulmonary oedema, COPD |
-| Shunt | Congenital heart disease, pulmonary AVM |
-| Thickening of the alveolar-capillary membrane | Interstitial lung disease, pulmonary oedema |
-| Destruction of the alveolar capillary membrane | Emphysema |
+| Mechanism                                      | Examples                                    |
+| ---------------------------------------------- | ------------------------------------------- |
+| VQ mismatch                                    | Pneumonia, PE, pulmonary oedema, COPD       |
+| Shunt                                          | Congenital heart disease, pulmonary AVM     |
+| Thickening of the alveolar-capillary membrane  | Interstitial lung disease, pulmonary oedema |
+| Destruction of the alveolar capillary membrane | Emphysema                                   |
 
 ## Monitoring
 
