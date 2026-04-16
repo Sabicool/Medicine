@@ -45,6 +45,7 @@ aliases:
 - Topics: 
     - [[Capnography]]
     - [[Mechanical Ventilation]]
+    - [[Non Invasive Ventilation]]
     - [[Respiratory Physiology]]
     - [[Sodium and Potassium Homeostasis]]
 

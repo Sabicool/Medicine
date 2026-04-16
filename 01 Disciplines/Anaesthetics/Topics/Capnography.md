@@ -4,6 +4,7 @@ Rotations:
   - "[[Intensive Care Unit]]"
 date: 2026-04-15
 ---
+![[Pasted image 20260415225851.png]]
 # Normal Capnometry Waveform
 ![[anatomy of the normal end tidal CO2 graph.jpg]]
 - Transitional part represents the rush of dead space gas from the airways where gas from the upper airways slowly gives way to mixed gas from the lower airways; its gradient is dependent on resistance to airflow in the airflows

@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Respiratory|Respiratory]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[Intensive Care Unit]]"
-date: 2026-02-28
+date: 2026-04-16
 Next:
   - "[[Shock]]"
 tags:
@@ -109,7 +109,7 @@ aliases:
 # Investigations
 - Investigations to consider and typical prioritisation in acute respiratory distress
 	- [[Lung POCUS]]
-	- [[01 Disciplines/Radiology/Investigations/Chest X-ray]]
+	- [[Chest X-ray]]
 	- [[ECG Interpretation|ECG]]
 	- [[Blood Gas Interpretation|ABG]]
 	- Other labs including FBC, CMP, troponin, lactate, D-dimer
@@ -139,6 +139,8 @@ aliases:
 	- Avoid jumping to diuretics in a euvolaemic patient with pulmonary oedema
 - Consider reversing opiates
 - Consider NIV
+
+![[Pasted image 20260416004607.png]]
 ## Ventilation
 - Ensure the patient has not received respiratory depressants (e.g. opioids) in the past 24 hours (e.g. check pupils)
 	- Give ==naloxone 0.2mg up to 2mg IV, SC or IM every 5 minutes== repeated until alert

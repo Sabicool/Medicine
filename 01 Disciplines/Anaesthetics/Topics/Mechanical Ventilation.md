@@ -87,16 +87,6 @@ $$
 		- However, the gap can be
 			- Increased to >5 mmHg in low cardiac output, COPD, PE, advanced age
 			- Decreased to <2 mmHg in high cardiac output states (e.g. septic shock)
-# Non-Invasive Ventilation
-## CPAP
-- Maintains alveolar recruitment and improves pulmonary shunting
-- Improves predominantly oxygenation and therefore indicated in type 1 respiratory failure
-## BiPAP
-$$
-\text{Pressure support (PS)}\approx \text{IPAP}-\text{EPAP}
-$$
-- S/T mode refers to spontaneous and timed mode and therefore has a backup rate
-- S mode refers to spontaneous (only)
 # Ventilator Modes
 - Ventilator modes are just pre-set combinations of ventilator settings
 - Generally classified according to their major characteristics:
