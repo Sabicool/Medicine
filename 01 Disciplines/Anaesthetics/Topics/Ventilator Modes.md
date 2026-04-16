@@ -4,6 +4,8 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[Anaesthetics]]"
+tags:
+  - cards
 ---
 > Part of: [[Mechanical Ventilation]]
 
@@ -122,7 +124,7 @@ Rotations:
 	- Volume support
 	- Volume assured pressure support
 
-# Pressure Regulated Volume Control (PRVC)
+## Pressure Regulated Volume Control (PRVC)
 
 - The user sets a target tidal volume (as in volume control modes)
 - The ventilator performs an assessment of the dynamic lung compliance over the course of three initial calibrating breaths
