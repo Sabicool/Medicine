@@ -9,6 +9,8 @@ tags:
 ---
 > Part of: [[Mechanical Ventilation]]
 
+![[Pasted image 20260417201104.png]]
+
 - Ventilator modes are just pre-set combinations of ventilator settings
 - Generally classified according to their major characteristics:
 	- The control variable: pressure vs. volume

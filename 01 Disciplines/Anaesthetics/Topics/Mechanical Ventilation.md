@@ -1,5 +1,5 @@
 ---
-date: 2026-04-16
+date: 2026-04-17
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
@@ -12,6 +12,7 @@ Rotations:
 > Quick reference: [[Mechanical Ventilation - Quick Reference]]
 
 ## Sub-Notes
+- I felt I had to split up this topic otherwise there would be too much to scroll through in one note
 
 | Note                                      | Contents                                                                                                   |
 | ----------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
