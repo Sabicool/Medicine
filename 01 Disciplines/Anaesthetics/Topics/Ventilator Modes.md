@@ -35,7 +35,7 @@ tags:
 - Mix of mandatory and assisted breaths with all breaths, once triggered, are treated the same and have a consistent tidal volume
 - Trigger: time, pressure or flow
 - Control: flow (volume)
-- Cycling: time
+- Cycling: time but can be volume cycled to avoid inspiratory pauses
 
 <figure style="text-align: center;">
   <img src="Pasted image 20260328150712.png">
@@ -47,11 +47,19 @@ tags:
 	- Low work of breathing
 - Disadvantages
 	- Can lead to respiratory alkalosis, auto-PEEP and hypotension in hyperventilating patients as every breath leads to a fully supported breath
+	- Uncomfortable
 - Indications
 	- Critically ill patients requiring full ventilatory support and in whom fluctuations in $V_{\text{T}}$ is undesirable
 
 ![[Pasted image 20260415224535.png]]
-
+# Intermittent Mandatory Ventilation (IMV)
+- Not continuously mandatory, the patient can decide their own respiratory rate and take a number of pressure supported breaths; the machine also gives a set number of mandatory breaths
+- Advantages:
+	- Guarantees a minimum minute ventilation
+![[Pasted image 20260418195327.png]]
+- Mandatory breaths are volume controlled
+- Mandatory breaths are time triggered and the pressure supported breaths are flow triggered
+- Time cycled but can be volume cycled to avoid inspiratory pauses
 # Synchronised Intermittent Mandatory Ventilation (SIMV)
 
 - Mix of mandatory breaths (some of which are synchronised with spontaneous breaths), and assisted breaths
