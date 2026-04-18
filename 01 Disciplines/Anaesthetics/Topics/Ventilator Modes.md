@@ -16,6 +16,19 @@ tags:
 	- The control variable: pressure vs. volume
 	- Breath sequence: spontaneous vs. mandatory
 	- Targeting scheme: set point, dual targeting, servo control, adaptive etc.
+# Continuous Mnadatory Ventilation (CMV)
+![[Pasted image 20260418193629.png]]
+
+- The main feature is that it ignores attempts at breathing and all components of the respiratory phase delivered by the ventilator are mandatory (i.e. controlled by time)
+	- This means it is time triggered and typically time cycled
+- Control variable: Typically volume controlled but can be pressure
+- Time triggered
+- Volume, pressure or flow limited
+- Time-cycled but can be volume cycled to avoid an inspiratory pause
+- Advantages:
+	- Gives optimal control over minute volume; therefore useful when maintaining a narrow $\ce{CO2}$ range (e.g. in a paralysed sedated head injury patient)
+- Disadvantages
+	- Uncomfortable; requires decent sedation
 
 # Assist Control (AC)
 
