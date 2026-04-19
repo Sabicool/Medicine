@@ -122,7 +122,6 @@ tags:
 	- Patients who are at a particularly high risk of barotrauma
 
 # Pressure Support Ventilation (PSV)
-
 - There are no mandatory breaths; every breath must be triggered by the patient
 - Trigger: Pressure or flow
 - Control: Pressure
@@ -156,11 +155,14 @@ tags:
 
 - The user sets a target tidal volume (as in volume control modes)
 - The ventilator performs an assessment of the dynamic lung compliance over the course of three initial calibrating breaths
+	- First breath tests compliance and is typically a low volume low pressure calibration breath
+	- The next breath is delivered at a calculated pressure depending on the compliance from the previous breath; if the controlled target volume is exceeded, the ventilator adjusts the flow rate so that the next breath the pressure is slightly lower
 - Using this data, it then determines the appropriate pressure level required to achieve the prescribed tidal volume
+- The main feature is that the lowest possible pressure to achieve the volume control target is applied
 ![[Pasted image 20260419194520.png]]
 
+- Advantages and disadvantages are similar to SIMV with the added benefits from PCV
 - Advantages:
-	- Square pressure waveform favours early and sustained lung unit recruitment
 	- Mean airway pressure is as high as with PCV
 	- Pressure is minimised for any given prescribed tidal volume
-	- A minute volume is guaranteed, preserving a degree of control over PaCO2
+	- A minimum minute volume is guaranteed, preserving a degree of control over PaCO2
