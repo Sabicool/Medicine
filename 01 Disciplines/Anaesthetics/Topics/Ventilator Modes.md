@@ -62,15 +62,17 @@ tags:
 - Time cycled but can be volume cycled to avoid inspiratory pauses
 # Synchronised Intermittent Mandatory Ventilation (SIMV)
 
+- Main difference with IMV is that it is synchronised (as in the name); the patient can decide their own respiratory rate and they can take a number of pressure-supported breaths
+- Among these breaths, the machine also gives a set number of mandatory breaths and if the patient makes an effort around the same time the next mandatory breath is due, the ventilator delivers to them an assist-control breath, with volume control
 - Mix of mandatory breaths (some of which are synchronised with spontaneous breaths), and assisted breaths
 - Mandatory (non-synchronised breaths):
 	- Trigger: time
-	- Control: flow (volume)
-	- Cycling: time
+	- Control: volume
+	- Cycling: time or volume
 - Synchronised breaths:
 	- Trigger: pressure or flow
-	- Control: flow (volume)
-	- Cycling: time
+	- Control: volume
+	- Cycling: time or volume
 - Non-synchronised breaths
 	- Trigger: pressure or flow
 	- Control: pressure
@@ -89,9 +91,11 @@ tags:
 	- Guarantees a minimum minute ventilation
 	- Lower mean airway pressure when compared with AC
 	- Can provide a wide range of respiratory support
+	- Comfortable for the patient
 - Disadvantages
 	- Increased work of breathing for patient
 	- ? Lower cardiac output in patients with LV dysfunction
+	- Limited control over the minute ventilation
 - Indications
 	- Critically ill patients who are hyperventilating or otherwise prone to auto-PEEP or high airway resistance
 
@@ -99,6 +103,7 @@ tags:
 > The main difference between SIMV and AC is that spontaneous breaths in excess of the set respiratory rate:
 > - In AC receive full support
 > - In SIMV receive partial support
+> 
 > Therefore in a patient with no spontaneous breaths AC = SIMV
 
 # Pressure Control Ventilation (PCV)
@@ -152,6 +157,8 @@ tags:
 - The user sets a target tidal volume (as in volume control modes)
 - The ventilator performs an assessment of the dynamic lung compliance over the course of three initial calibrating breaths
 - Using this data, it then determines the appropriate pressure level required to achieve the prescribed tidal volume
+![[Pasted image 20260419194520.png]]
+
 - Advantages:
 	- Square pressure waveform favours early and sustained lung unit recruitment
 	- Mean airway pressure is as high as with PCV
