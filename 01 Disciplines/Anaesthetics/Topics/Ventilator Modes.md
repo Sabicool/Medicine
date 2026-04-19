@@ -119,10 +119,13 @@ tags:
 </figure>
 
 - Indications
-	- Patients who are at a particularly high risk of barotrauma
+	- Patients who are at a particularly high risk of barotrauma (i.e. those with low compliance)
 
 # Pressure Support Ventilation (PSV)
+- The ventilator only controls the pressure support level and the rate, volume, cycling time etc are controlled by the patient
+	- You can only control the the pressure support value (indirectly controlling the tidal volume) and the flow cycling trigger (decreasing it will make the breath last longer)
 - There are no mandatory breaths; every breath must be triggered by the patient
+	- This mode is typically combined with SIMV as the non-mandatory component
 - Trigger: Pressure or flow
 - Control: Pressure
 - Cycling: Flow
