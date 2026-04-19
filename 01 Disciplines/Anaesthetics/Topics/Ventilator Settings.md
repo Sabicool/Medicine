@@ -1,5 +1,5 @@
 ---
-date: 2026-04-16
+date: 2026-04-19
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
@@ -36,6 +36,8 @@ $$
 		- Uncontrolled volume may result in "volutrauma" (overdistension)
 		- A high early inspiratory flow may breach the pressure limit if airway resistance is high
 
+![[Pasted image 20260419203246.png]]
+
 ![[Pressure control modes of ventilation 2.jpg]]
 
 - **Volume control** gives a more stable minute ventilation, keeping $P_\text{a}\ce{CO2}$ at the desired level
@@ -48,11 +50,11 @@ $$
 		- Recruitment may be poorer in lung units with poor compliance
 		- In the presence of a leak, the mean airway pressure may be unstable
 		- Insufficient flow may give rise to patient-ventilator dyssynchrony
+![[Pasted image 20260419203227.png]]
 
 ![[volume controlled mode of ventilation.jpg]]
 
 # Targeting Scheme
-
 - **Set point:** the ventilator will try to achieve the parameter (control variable chosen)
 - **Dual targeting:** the ventilator switches from targeting one control variable to another in the middle of the breath
 	- For example a breath may start with a pressure control variable using a decelerating flow waveform, then reach the pressure limit mid breath and change to volume control until the target volume is reached
