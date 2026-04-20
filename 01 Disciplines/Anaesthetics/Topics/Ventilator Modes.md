@@ -107,9 +107,8 @@ tags:
 > Therefore in a patient with no spontaneous breaths AC = SIMV
 
 # Pressure Control Ventilation (PCV)
-
-- Mandatory breaths only. The patient is unable to trigger the ventilator
-- Trigger: time
+ - The main feature is that pressure is the control variable (CMV, IMV, SIMV, ACV can all be pressure controlled)
+- Trigger: time (but typically flow triggered; the patient will become tachypnoeic if the $V_{\text{T}}$ is inadequate compensating for the low compliance)
 - Control: pressure
 - Cycling: time
 
@@ -120,6 +119,7 @@ tags:
 
 - Indications
 	- Patients who are at a particularly high risk of barotrauma (i.e. those with low compliance)
+- Little control over the minute volume
 
 # Pressure Support Ventilation (PSV)
 - The ventilator only controls the pressure support level and the rate, volume, cycling time etc are controlled by the patient
