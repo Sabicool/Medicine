@@ -1,5 +1,5 @@
 ---
-date: 2026-04-19
+date: 2026-04-24
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
@@ -169,7 +169,6 @@ $$
 - Inspiratory phase ends when the specified volume has been delivered
 - Major disadvantage: propensity to generate high peak airway pressures when lung compliance decreases
 
----
 
 ## Fraction of Inspired Oxygen $F_\text{i}\ce{O2}$
 
