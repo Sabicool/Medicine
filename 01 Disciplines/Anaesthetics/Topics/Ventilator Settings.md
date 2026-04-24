@@ -124,7 +124,7 @@ $$
 	- For example, continue holding this pressure or flow value (don't exceed it) during the rest of inspiration
 
 ![[ventilator waveforms with different limit variables.jpg]]
-
+![[Pasted image 20260424100025.png]]
 ## Cycling Variable
 
 ### Time-Cycled
