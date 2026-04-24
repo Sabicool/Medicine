@@ -15,7 +15,58 @@ date: 2026-04-24
 		- Heart rhythm (as heart rate increases, less time is spent in diastole)
 		- Arrythmias where there is no atrial kick (e.g. atrial fibrillation)
 	- Intrathoracic pressure (reduces preload)
+- Clinical surrogate
+	- Central venous pressure
 # Afterload
 - Force opposing ventricular contraction during systole
+- It is influenced by:
+	- Vascular resistance (e.g. hypertension, vasopressors)
+	- Outflow tract obstruction (e.g. aortic stenosis, HOCM)
+	- LV chamber size/volume (e.g. heart failure)
+	- Arterial compliance
+	- Positive pressure ventilation
+- Clinical surrogate
+	- Systemic vascular resistance
+# Contractility
+- Intrinsic strength of myocardial contraction that is independent of preload and afterload and primarily influenced by the autonomic nervous system’s regulation of cystolic $\ce{Ca^2+}$
+- It is influenced by:
+	- Sympathetic and parasympathetic activation
+	- Ionotropes
+	- Beta blockers
+	- Calcium channel blockers
+	- Pathologic states which interfere calcium handling and ATP generation
+		- Ischaemia/infarction
+		- Inflammation (e.g. myocarditis)
+		- Acid-base derrangements
+		- Hypothermia
+	- Heart rate (bowditch effect)
+- Clinical surrogate
+	- Ejection fraction
+# Stroke Volume and Ejection Fraction
+- The volume of blood ejected from the left ventricle during systole
+
+$$
+\begin{align*}
+\text{SV}&=\text{EDV}-\text{ESV}\\
+\text{EF}&=\frac{\text{SV}}{\text{EDV}}
+\end{align*}
+$$
+# Cardiac Output and Cardiac Index
+- Cardiac output is volume of blood ejected forward from heart per unit time (L/min)
+- Cardiac index is the cardiac output adjusted for estimated body surface area (L/min/m^2)
+	- Normal is 2.5-4.0 L/min/m2
+$$
+\begin{align*}
+\text{CO} & = \text{SV}\times \text{HR} \\
+\text{CI} & = \frac{\text{CO}}{\text{BSA}}
+\end{align*}
+$$
+# Frank-Starling Mechanism
+- Stoke volume is dependent upon LV end-diastolic volume
+
+![[Pasted image 20260424122933.png|500]]
+# Analogy
+![[Pasted image 20260424123516.png]]
+- Stoke volume here is how far the rock will travel when released
 # Sources
 [Cardiac Mechanics (preload, afterload, contractility, ejection fraction, and cardiac output) - YouTube](https://www.youtube.com/watch?v=emmf2JYAD-0&list=PLYojB5NEEakWY3ZS0acDMw4nbEZV-y7pk&index=4)
