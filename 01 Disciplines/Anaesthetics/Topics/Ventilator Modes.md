@@ -5,7 +5,7 @@ Rotations:
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[Anaesthetics]]"
 tags:
-  - cards
+  - complete
 ---
 > Part of: [[Mechanical Ventilation]]
 
