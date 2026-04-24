@@ -1,5 +1,5 @@
 ---
-date: 2026-04-16
+date: 2026-04-24
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
@@ -108,3 +108,17 @@ $$
 		- However, the gap can be:
 			- Increased to >5 mmHg in low cardiac output, COPD, PE, advanced age
 			- Decreased to <2 mmHg in high cardiac output states (e.g. septic shock)
+# PEEP
+## Preload
+- Increased intrathoracic pressure, thus
+	- Decreased venous return,
+	- Thus reduced left ventricular stroke volume
+	- Thus reduced left ventricular contractility
+	- Thus reduced left ventricular oxygen demand
+	- If the left ventricle is decompensating because it is overfilled and overstretched ( “congestive” heart failure) the decreased preload will push it back into the more efficient area of the Frank-Starling curve. 
+- If the PEEP is causing hemodynamic instability, the patient needs more fluid.
+## RV Afterload
+- ↑ Intrathoracic pressure ⇒ ↑ pulmonary artery pressure 
+	- ↑ RV afterload
+	- Increased right ventricular work and oxygen demand
+## LV Afterload
