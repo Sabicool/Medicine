@@ -141,6 +141,7 @@ $$
 
 ![[pressure waveform change with active expiratory effort.jpg]]
 
+![[Pasted image 20260424125716.png]]
 ### Flow Cycled
 
 - The ventilator cycles into the expiratory phase once the flow has decreased to a predetermined value during inspiration
@@ -157,6 +158,7 @@ $$
 	- Tidal volumes may be poor in patients with poor lung compliance, resulting in inadequate minute volume
 	- Patient comfort depends on intelligent settings; inappropriately low or high settings could result in uncomfortably deep inspiration or "double triggering"
 
+![[Pasted image 20260424125807.png]]
 ### Pressure Cycled
 
 - Largely obsolete in the modern era
@@ -254,7 +256,7 @@ $$
 | --- | --- | --- | --- | --- |
 | Decelerating | ↓ | ↑ | ↓ | More |
 | Constant | ↑ | ↓ | ↑ | Less |
-
+![[Pasted image 20260424130217.png]]
 ## Inspiratory : Expiratory Ratio
 
 - Ratio between the amount of time spent in inspiration and expiration
