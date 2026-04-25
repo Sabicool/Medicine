@@ -1,5 +1,5 @@
 ---
-date: 2026-04-25
+date: 2026-04-26
 ---
 # Pressure
 - Hydrostatic pressure is the pressure present in a fluid at rest due to gravity
@@ -69,6 +69,12 @@ $$
 \text{CI} & = \frac{\text{CO}}{\text{BSA}}
 \end{align*}
 $$
+- Oxygen delivery ($D\ce{O2}$) is the product of cardiac output and the oxygen content of arterial blood:
+$$
+D\ce{O2}=\text{CO}\times\left(\underbrace{\underset{\text{Hüfner's constant}}{1.34}\times\ce{[Hb]}\times\frac{S_\text{a}\ce{O2}}{100\%}}_{\ce{O2}\ \text{bound to haemoglobin}}+\underbrace{\underset{\text{Solubility constant}}{0.023}\times P_\text{a}\ce{O2}}_{\ce{O2}\ \text{dissolved in blood}}\right)
+$$
+- If there is adequate arterial $\ce{O2}$ concentration, then cardiac output is the main determinant of $D\ce{O2}$
+	- Inadequate $D\ce{O2}$ defines [[Shock]]
 # Frank-Starling Mechanism
 - Stoke volume is dependent upon LV end-diastolic volume
 

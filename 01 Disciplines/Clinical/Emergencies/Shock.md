@@ -4,7 +4,7 @@ aliases:
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-date: 2026-04-25
+date: 2026-04-26
 ---
 # Definition
 - Physiologic state characterised by a systemic impairment in oxygen delivery as a result of reduced tissue perfusion, almost universally mediated by low blood pressure
@@ -243,6 +243,8 @@ $$
 
 # Sources
 - [Shock Playlist | Strong Medicine - Yotuube](https://www.youtube.com/playlist?list=PLYojB5NEEakXi2wW00LkbkcaESav1Quk9)
+- LITFL:
+	- [Shock • LITFL • CCC Differential Diagnosis](https://litfl.com/shock/)
 - [Undifferentiated Shock — ICU One Pager](https://onepagericu.com/undifferentiated-shock)
 - [Vasopressors — ICU One Pager](https://onepagericu.com/vasopressors)
 
