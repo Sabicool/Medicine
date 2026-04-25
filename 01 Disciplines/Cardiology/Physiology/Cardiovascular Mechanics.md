@@ -1,6 +1,12 @@
 ---
-date: 2026-04-24
+date: 2026-04-25
 ---
+# Pressure
+- Hydrostatic pressure is the pressure present in a fluid at rest due to gravity
+$$
+\Delta P = \rho \cdot g\cdot \Delta h
+$$
+ 
 # Preload
 - Defined as either:
 	- Wall tension experienced by the LV at end-diastole (estimated by LV end-diastolic pressure)
