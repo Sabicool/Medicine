@@ -6,7 +6,9 @@ date: 2026-04-25
 $$
 \Delta P = \rho \cdot g\cdot \Delta h
 $$
- 
+ $$
+ \text{MAP}-\text{CVP}=\text{CO}\times \text{SVR}
+ $$
 # Preload
 - Defined as either:
 	- Wall tension experienced by the LV at end-diastole (estimated by LV end-diastolic pressure)
