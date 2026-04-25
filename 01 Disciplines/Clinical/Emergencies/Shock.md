@@ -4,7 +4,7 @@ aliases:
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-date: 2026-03-22
+date: 2026-04-25
 ---
 # Definition
 - Physiologic state characterised by a systemic impairment in oxygen delivery as a result of reduced tissue perfusion, almost universally mediated by low blood pressure
@@ -106,6 +106,8 @@ $$
 > ![](Attachments/Pasted%20image%2020241216160849.png)
 ## Distinguishing Shock Type
 ![[Pasted image 20260228192323.png|358]]
+
+![[Pasted image 20260425102143.png]]
 - Estimating CVP
 	- JVP is generally a good substitute for CVP
 		- The right atrium is assumed to lie 5cm closer to the ground than the sternal angle at all positions (supine, fully upright or 30-45 degrees)
