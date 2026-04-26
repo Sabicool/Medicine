@@ -122,9 +122,13 @@ $$
 - Labs
 	- FBC
 	- UEC
+	- LFT
 	- Inflammatory markers
-	- Troponin
+	- Troponin and BNP
+	- Coagulation studies and D-dimer
 ![[Pasted image 20260426102157.png]]
+# Trauma Related Shock
+![[Pasted image 20260426103530.png]]
 # Assessment
 - Identify the possible cause as above, assessing volume status and JVP and examining the ECG
 	- A low/non-visible JVP suggests hypovolaemic or distributive shock

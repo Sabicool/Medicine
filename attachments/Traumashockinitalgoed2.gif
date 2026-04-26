@@ -1,0 +1,126 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+
+
+
+
+
+
+  
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <title>Select Your Institution</title>
+	
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"/>
+<!-- Normalize -->
+<link href="/ksLicensing/resources/public.css/normalize/normalize.css" rel="stylesheet"	type="text/css" />
+<!-- Bootstrap & Medical Director Theme CSS -->
+<link href="/ksLicensing/resources/public.css/bootstrap/bootstrap.min.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="/ksLicensing/resources/default/css/custom-bootstrap.css" />
+<link rel="stylesheet" type="text/css" href="/ksLicensing/resources/public.css/auth0.css" />
+<!--[if lte IE 9]>
+    <link href="/res/ksLicensing/public.css/iesupport/ie9below.css" rel="stylesheet" type="text/css">
+    <script src="/res/ksLicensing/public.js/iesupport/html5shiv.js"></script>
+    <script src="/res/ksLicensing/public.js/iesupport/respond.min.js"></script>
+<![endif]-->    
+  </head>
+  <body>
+              <div class="x-vertical-center">               
+                <div class="x-acs-content container">
+                        <div class="row text-center">
+                            <img style="max-width:120px" src="/ksLicensing/resources/default/images/th-logo.png" />
+                        </div>
+                        <div class="row text-center">
+                          <h4 style="padding:10px;" class="modal-title">Welcome to MedicalDirector Access Control System</h4>
+                        </div>
+
+						<div class="row">
+							<div class="col-xs-12">
+								<ul class="list-group">
+								  <li acc="36422" link="https://www.ciap.health.nsw.gov.au" class="list-group-item x-table-item x-account-link" style="border-bottom: none">
+									    <div class="x-table-cell-item">
+											<img class="pull-left x-photo" src="/ksLicensing/resources/default/images/NSW.png">
+										</div>
+									    <div class="x-table-cell-item">
+											<h4 class="list-group-item-heading name" style="margin-top:10px;">New South Wales</h4>
+											<p class="list-group-item-text title">If you are from <b>NSW Health</b>, please select here</p>
+									    </div>												
+									    <div class="x-table-cell-item" style="width: 20%">
+											<img src="/ksLicensing/resources/default/images/arrow-right.png" class="pull-right x-icon">
+										</div>
+								  </li>
+								  <li acc="36265" link="https://www.clinicians.vic.gov.au" class="list-group-item x-table-item x-account-link" style="border-bottom: none">
+									    <div class="x-table-cell-item">
+											<img class="pull-left x-photo" src="/ksLicensing/resources/default/images/vic.png">
+										</div>
+									    <div class="x-table-cell-item">
+											<h4 class="list-group-item-heading name" style="margin-top:10px;">Victoria</h4>
+											<p class="list-group-item-text title">If you are from <b>DHHS Victoria</b>, please select here</p>
+									    </div>												
+									    <div class="x-table-cell-item" style="width: 20%">
+											<img src="/ksLicensing/resources/default/images/arrow-right.png" class="pull-right x-icon">
+										</div>
+								  </li>
+								  <!-- 								  
+								  <li acc="44823" link="https://epoch.hcn.com.au/" class="list-group-item x-table-item x-account-link" style="border-bottom: none">
+									    <div class="x-table-cell-item">
+											<img class="pull-left x-photo" src="/ksLicensing/resources/default/images/tas.png">
+										</div>
+									    <div class="x-table-cell-item">
+											<h4 class="list-group-item-heading name" style="margin-top:10px;">Tasmania</h4>
+											<p class="list-group-item-text title">If you are from the <b>Tasmanian Health Service</b>, please select here</p>
+									    </div>												
+									    <div class="x-table-cell-item" style="width: 20%">
+											<img src="/ksLicensing/resources/default/images/arrow-right.png" class="pull-right x-icon">
+										</div>
+								  </li>	
+								  -->							  
+								</ul>								
+							</div>
+						</div>
+                        <div class="row" style="padding:10px; margin-left:0;margin-right:0">
+							<!-- footer -->
+<div class="footerBar" >
+  <div id="footer_container">
+    <div class="col-xs-6">
+      <a title="Privacy Policy" target="_blank" href="https://medicaldirector.com/about/privacy" rel="popup-privacy">Privacy Policy</a> 
+    </div>
+    <div class="col-xs-6 text-right">
+      <a title="Terms of Use" target="_blank" href="https://www.medicaldirector.com/terms-of-use" rel="terms">Terms of Use</a> 
+    </div>
+  </div>
+</div>  
+<div style="padding-top:10px;" class="col-xs-12 text-center">
+      <script type="text/javascript">
+              document.write("&copy; "
+                      + new Date().getFullYear()
+                      + " Health Communication Network. All rights reserved.");
+      </script>                               
+ </div>        
+                        </div>  						
+                </div>
+              </div>
+    <script type="text/javascript" src="/ksLicensing/resources/default/js/jquery-1.8.2.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function()
+		{ 
+			$(".x-account-link").click(function(){
+				var redirectURL = 'https://www.uptodate.com.acs.hcn.com.au/services/app/contents/graphic/view/EM/76631/Traumashockinitalgoed2.gif';
+				if (redirectURL === '')
+					redirectURL = $(this).attr("link")
+				var url;
+				if(redirectURL.indexOf("?") != -1)
+					url =  redirectURL + "&acc=" + $(this).attr("acc");
+				else	
+					url =  redirectURL + "?acc=" + $(this).attr("acc");
+				location.href = url;
+			});		
+			
+		});
+	</script>	
+  </body>
+ </html>
