@@ -99,9 +99,11 @@ $$
     - Exclude neurogenic ("spinal") shock
 ## Empirical Resuscitation
 - Ventilate the intubated patient with low-moderate PEEP (0.1cmH2O/kg)
-- Commence fluid bolus: 10ml/kg
+- Commence fluid bolus: 10 ml/kg
+	- Generally 30 mL/kg within the first 3 hours for sepsis
 - Commence/escalate vasopressor infusion
 	- The optimal initial vasopressor is unknown as is the optimal MAP
+		- In septic shock, it appears the initial pressor of choice is noradrenaline
 ## Secondary Survey
 - Focused history:
 	- Immediate events preceding the collapse
