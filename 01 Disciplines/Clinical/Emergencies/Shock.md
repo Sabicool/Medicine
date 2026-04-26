@@ -302,6 +302,7 @@ $$
 	- Strong Medicine
 		- [Shock Playlist | Strong Medicine - Yotuube](https://www.youtube.com/playlist?list=PLYojB5NEEakXi2wW00LkbkcaESav1Quk9)
 		- [An Approach to Shock - YouTube](https://www.youtube.com/watch?v=gwjVuPn0yd8)
+		- [Sepsis and Septic Shock - YouTube](https://www.youtube.com/watch?v=3EVpyBORw5Y)
 - LITFL:
 	- [Shock • LITFL • CCC Differential Diagnosis](https://litfl.com/shock/)
 - Deranged Physiology
