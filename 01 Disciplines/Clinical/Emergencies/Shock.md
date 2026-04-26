@@ -125,6 +125,7 @@ $$
 	- UEC
 	- LFT
 	- Inflammatory markers
+	- Blood cultures x 2 
 	- Troponin and BNP
 	- Coagulation studies and D-dimer
 ![[Pasted image 20260426102157.png]]
