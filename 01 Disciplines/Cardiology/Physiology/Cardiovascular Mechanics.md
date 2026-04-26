@@ -15,6 +15,19 @@ $$
 $$
 \text{MAP}=\frac{1}{3}\text{SBP}+\frac{2}{3}\text{DBP}=\text{DBP}+\frac{\text{Pulse Pressure}}{3}
 $$
+- Determinants of SBP
+	- Arterial compliance
+	- Stroke volume
+	- Systemic vascular resistance
+- Determinants of DBP
+	- Systemic vascular resistance
+	- Arterial compliance
+	- Heart rate
+- Determinants of pulse pressure:
+$$
+\text{Pulse Pressure}\propto \frac{\text{Stroke Volume}}{\text{Arterial Compliance}}
+$$
+- 
 # Preload
 - Defined as either:
 	- Wall tension experienced by the LV at end-diastole (estimated by LV end-diastolic pressure)
