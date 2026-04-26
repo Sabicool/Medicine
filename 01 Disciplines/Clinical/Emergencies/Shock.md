@@ -101,6 +101,7 @@ $$
 - Ventilate the intubated patient with low-moderate PEEP (0.1cmH2O/kg)
 - Commence fluid bolus: 10ml/kg
 - Commence/escalate vasopressor infusion
+	- The optimal initial vasopressor is unknown as is the optimal MAP
 ## Secondary Survey
 - Focused history:
 	- Immediate events preceding the collapse
@@ -302,6 +303,7 @@ $$
 - Deranged Physiology
 	- [Definition and classification of shock](https://derangedphysiology.com/main/required-reading/cardiovascular-intensive-care/Chapter-111/definition-and-classification-shock)
 	- [Approach to the undifferentiated shock patient](https://derangedphysiology.com/main/required-reading/cardiovascular-intensive-care/Chapter-112/approach-undifferentiated-shock-patient)
+- UpToDate: Evaluation of and initial approach to the adult patient with undifferentiated hypotension and shock 
 - [Undifferentiated Shock — ICU One Pager](https://onepagericu.com/undifferentiated-shock)
 - [Vasopressors — ICU One Pager](https://onepagericu.com/vasopressors)
 
