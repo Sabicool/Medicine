@@ -27,7 +27,6 @@ $$
 $$
 \text{Pulse Pressure}\propto \frac{\text{Stroke Volume}}{\text{Arterial Compliance}}
 $$
-- 
 # Preload
 - Defined as either:
 	- Wall tension experienced by the LV at end-diastole (estimated by LV end-diastolic pressure)
