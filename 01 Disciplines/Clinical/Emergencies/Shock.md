@@ -7,7 +7,7 @@ Rotations:
 date: 2026-04-26
 ---
 # Definition
-- Physiologic state characterised by a systemic impairment in oxygen delivery as a result of reduced tissue perfusion, almost universally mediated by low blood pressure
+- Physiologic state characterised by a systemic impairment in oxygen delivery as a result of reduced tissue perfusion, almost universally mediated by low blood pressure ($DO_{2}<\dot{V}O_{2}$)
 # Physiology
 $$
 \underset{\text{Perfusion Pressure}}{\text{MAP} - \text{CVP}} = \text{CO} \times \text{SVR}
