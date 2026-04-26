@@ -182,6 +182,7 @@ $$
 - More than one type of shock may co-exist in the same patient for example:
 	- Sepsis + hypovolaemia
 	- Sepsis + sepsis induced cardiomyopathy
+![[Pasted image 20260426192018.png]]
 # Management
 - Give oxygen and rapid IV fluid replacement (provided no evidence of cardiac failure)
 	- Maintain SpO2>95%
@@ -297,7 +298,10 @@ $$
 | Milrinone (PDE inhibitor) | 0       | 0      | 0      | 0        | ↓             | ↔ / ↑        | ↑↑           | ↓ / ↔ / ↑    |
 
 # Sources
-- [Shock Playlist | Strong Medicine - Yotuube](https://www.youtube.com/playlist?list=PLYojB5NEEakXi2wW00LkbkcaESav1Quk9)
+- Youtube Videos
+	- Strong Medicine
+		- [Shock Playlist | Strong Medicine - Yotuube](https://www.youtube.com/playlist?list=PLYojB5NEEakXi2wW00LkbkcaESav1Quk9)
+		- [An Approach to Shock - YouTube](https://www.youtube.com/watch?v=gwjVuPn0yd8)
 - LITFL:
 	- [Shock • LITFL • CCC Differential Diagnosis](https://litfl.com/shock/)
 - Deranged Physiology
