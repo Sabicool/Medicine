@@ -9,6 +9,12 @@ $$
  $$
  \text{MAP}-\text{CVP}=\text{CO}\times \text{SVR}
  $$
+![[Pasted image 20260426112840.png]]
+- Mean arterial pressure is the area under the pressure time curve divided by the length of the cardiac cycle
+	- It can be estimated by the following equations:
+$$
+\text{MAP}=\frac{1}{3}\text{SBP}+\frac{2}{3}\text{DBP}=\text{DBP}+\frac{\text{Pulse Pressure}}{3}
+$$
 # Preload
 - Defined as either:
 	- Wall tension experienced by the LV at end-diastole (estimated by LV end-diastolic pressure)
@@ -82,5 +88,14 @@ $$
 # Analogy
 ![[Pasted image 20260424123516.png]]
 - Stoke volume here is how far the rock will travel when released
+# Viscosity and Turbulence
+- Turbulent flow is more likely when Renold’s number (Re) is high
+- Renold’s number can be given by (where $\mu$ is the viscosity of fluid)
+$$
+\begin{align*}
+\text{Re} & =\frac{\rho \cdot v\cdot d}{\mu} \\
+ & \propto \frac{Q}{d\cdot \mu}
+\end{align*}
+$$
 # Sources
 [Cardiac Mechanics (preload, afterload, contractility, ejection fraction, and cardiac output) - YouTube](https://www.youtube.com/watch?v=emmf2JYAD-0&list=PLYojB5NEEakWY3ZS0acDMw4nbEZV-y7pk&index=4)
