@@ -74,6 +74,56 @@ $$
 	- ↑/↓ platelets
 	- ↑ INR which can lead to DIC
 	- ↑ lactate and ↓ $\ce{HCO3-}$
+# Approach to Undifferentiated Shock
+## Primary Survey
+- Assess airway patency
+    - Exclude airway obstruction and asphyxia
+- Assess breathing:
+    - Oxygenation (saturation probe)
+    - Ventilation (end tidal CO2, chest auscultation)
+    - Exclude tension pneumothorax and massive haemothorax
+- Assess circulation
+    - Peripheral and central temperature/capillary refill
+    - Vital signs (heart rate, blood pressure)
+    - Equipment check
+        - Exclude artifactual shock and equipment failure as the cause of shock, e.g. IABP malfunction, ECMO circuit problems, vasopressor infusion drug error.
+    - Head-to-toe exposure
+        - Exclude externally obvious haemorrhage
+        - Exclude anaphylaxis/angioedema
+    - Point of care TTE: rapid assessment with cardiac echo
+        - Exclude cardiac tamponade
+        - Exclude massive PE
+- Establish venous access
+- Collect a series of generic laboratory investigations, most importantly an ABG
+- Assess neurology (i.e. spinal injury)
+    - Exclude neurogenic ("spinal") shock
+## Empirical Resuscitation
+- Ventilate the intubated patient with low-moderate PEEP (0.1cmH2O/kg)
+- Commence fluid bolus: 10ml/kg
+- Commence/escalate vasopressor infusion
+## Secondary Survey
+- Focused history:
+	- Immediate events preceding the collapse
+	- Drug administration history
+	- Recent interventions
+	- Relevant background history
+	- Collateral from recently attending staff/family
+- Focused examination and investigations
+	- ECG
+	- CXR
+	- ABG with special attention to lactate
+	- Head to toe examination
+	    - Fluid status
+	    - Sources of sepsis
+	    - Toxidromes
+	    - Abdominal examination, looking for AAA, retroperitoneal haematoma and pancreatitis
+	- Bedside abdominal and chest ultrasound, looking for collections
+	- Formal (skilled) TTE, looking for valvular dysfunction, LVOT obstruction, regional wall motion abnormalities and septal defects
+- Labs
+	- FBC
+	- UEC
+	- Inflammatory markers
+	- Troponin
 # Assessment
 - Identify the possible cause as above, assessing volume status and JVP and examining the ECG
 	- A low/non-visible JVP suggests hypovolaemic or distributive shock
