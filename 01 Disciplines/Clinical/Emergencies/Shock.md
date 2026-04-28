@@ -4,7 +4,7 @@ aliases:
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-date: 2026-04-26
+date: 2026-04-28
 ---
 # Definition
 - Physiologic state characterised by a systemic impairment in oxygen delivery as a result of reduced tissue perfusion, almost universally mediated by low blood pressure ($DO_{2}<\dot{V}O_{2}$)
@@ -31,6 +31,10 @@ $$
 		- Toxin-mediated shock (e.g. cyanide and carbon monoxide)
 ## Classification
 ![[ICU_one_pager_undifferentiated_shock.png]]
+- Cardiogenic shock
+	- Depressed contractility: ACS, myocarditis, myocardial contusion, cardiomyopathy, drug overdose (e.g. CCB or beta-blocker)
+	- Acute valvular dysfunction: Papillary muscle or chordae tendinae rupture, infective endocarditis, severe aortic stenosis or mitral stenosis
+	- Arrhythmia: Tachycardia (e.g. VT, AF, SVT), bradycardia (e.g. heart block)
 - Hypovolaemic shock
 	- Haemorrhagic
 		- Traumatic: external or internal (e.g. haemothorax, haemoperitoneum, retroperitoneal haemorrhage)
@@ -38,21 +42,25 @@ $$
 	- Non-haemorrhagic
 		- External (e.g. GI losses from diarrhoea and vomiting, burns, hyperthermia, high-output fistulae)
 		- Internal (e.g. bowel obstruction, pancreatitis)
-- Cardiogenic shock
-	- Depressed contractility: ACS, myocarditis, myocardial contusion, cardiomyopathy, drug overdose (e.g. CCB or beta-blocker)
-	- Acute valvular dysfunction: Papillary muscle or chordae tendinae rupture, infective endocarditis, severe aortic stenosis or mitral stenosis
-	- Arrhythmia: Tachycardia (e.g. VT, AF, SVT), bradycardia (e.g. heart block)
+- Obstructive shock
+	- Pulmonary embolism
+	- Tension pneumothorax
+	- Cardiac tamponade
+	- Dynamic hyperinflation: Excessive ventilation with severe bronchospasm ([Asthma Exacerbation](Asthma%20Exacerbation.md), [COPD](01%20Disciplines/Respiratory/Conditions/COPD.md))
 - Distributive shock
 	- Anaphylaxis
 	- Sepsis
 	- Neurogenic: Loss of sympathetic tone from high spinal cord trauma or epidural anaesthesia
 	- Drug related: Vasodilator antihypertensive agents, nitrates, strong analgesics
 	- Acute adrenal insufficiency: Addison's disease, discontinuing long-term steroids
-- Obstructive shock
-	- Pulmonary embolism
-	- Tension pneumothorax
-	- Cardiac tamponade
-	- Dynamic hyperinflation: Excessive ventilation with severe bronchospasm ([Asthma Exacerbation](Asthma%20Exacerbation.md), [COPD](01%20Disciplines/Respiratory/Conditions/COPD.md))
+- The mnemonic CHOD can be used to remember the above, however a better framework may be PROVED?:
+	- Cardiogenic (**P**ump)
+	- **R**hythm abnormalities
+	- **O**bstructive
+	- Hypovolaemia (**V**olume)
+	- **E**ndocrine (these often cause a mixed classification, but its inclusion ensures things like [[Adrenal Crisis]] are not missed)
+	- **D**istributive
+	- **?**: is it real (check the BP measurement, is the arterial line really in an artery and is the transducer at the correct height)
 
 ![](Attachments/Pasted%20image%2020241216122047.png)
 # Features
