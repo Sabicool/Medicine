@@ -43,10 +43,16 @@ $$
 		- External (e.g. GI losses from diarrhoea and vomiting, burns, hyperthermia, high-output fistulae)
 		- Internal (e.g. bowel obstruction, pancreatitis)
 - Obstructive shock
-	- Pulmonary embolism
-	- Tension pneumothorax
-	- Cardiac tamponade
-	- Dynamic hyperinflation: Excessive ventilation with severe bronchospasm ([Asthma Exacerbation](Asthma%20Exacerbation.md), [COPD](01%20Disciplines/Respiratory/Conditions/COPD.md))
+	- Intrinsic to cardiovascular system
+		- Pulmonary embolism
+		- Air embolism
+		- Myxoma
+		- Amniotic fluid embolism
+	- Extrinsic to cardiovascular system
+		- Tension pneumothorax
+		- Cardiac tamponade
+		- Abdominal compartment syndrome
+		- Dynamic hyperinflation: Excessive ventilation with severe bronchospasm ([Asthma Exacerbation](Asthma%20Exacerbation.md), [COPD](01%20Disciplines/Respiratory/Conditions/COPD.md))
 - Distributive shock
 	- Anaphylaxis
 	- Sepsis
