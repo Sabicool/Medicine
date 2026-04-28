@@ -64,6 +64,8 @@ $$
 	- **R**hythm abnormalities
 	- **O**bstructive
 	- Hypovolaemia (**V**olume)
+		- In the trauma patient consider: SCALPeR: scalp/street, chest, abdomen, long bones, pelvis and retroperitoneum
+			- Steet refers to external blood loss at the scnes and other pre-hospital haemorrhage 
 	- **E**ndocrine (these often cause a mixed classification, but its inclusion ensures things like [[Adrenal Crisis]], hypo/hyperthyroidism, [[Diabetic ketoacidosis]], severe acidosis/alkalosis are not missed)
 	- **D**istributive
 	- **?**: is it real (check the BP measurement, is the arterial line really in an artery and is the transducer at the correct height)
@@ -298,6 +300,14 @@ $$
 	- Cardiac output is known to be high
 	- Other approaches have failed
 ![[Pasted image 20260322110500.png]]
+
+### Steroids
+- Corticosteroids should not be used routinely for patients with septic shock
+	- the weight of evidence does not support a benefit in terms of patient-orientated outcomes
+	- ACTH stimulation tests are not useful in this patients
+	- hydrocortisone 200 mg IV daily is an option for septic shock patients who are refractory to vasopressors (e.g. adults requiring IV noradrenaline at 20-30 micrograms/h) and no other cause found; despite an absence of convincing supportive evidence of benefit
+- Corticosteroids should be used in patients who have shock and a specific indication for corticosteroid therapy
+	- e.g. anaphylaxis, known steroid dependence (e.g. for chronic immunosuppression), known hypoadrenalism, other steroid-responsive conditions like asthma or rheumatoid arthritis
 # Appendix
 | Drug                      | Alpha-1 | Beta-1 | Beta-2 | Dopamine | Effect on SVR | Effect on HR | Effect on CO | Effect on BP |
 | ------------------------- | ------- | ------ | ------ | -------- | ------------- | ------------ | ------------ | ------------ |
@@ -323,6 +333,7 @@ $$
 - LITFL:
 	- [Shock • LITFL • CCC Differential Diagnosis](https://litfl.com/shock/)
 	- [Shock Hot Case • LITFL • CCC Hot Case](https://litfl.com/shock-hot-case/)
+	- [Corticosteroid Therapy for Shock • LITFL • CCC shock](https://litfl.com/corticosteroid-therapy-for-shock/)
 - Deranged Physiology
 	- [Definition and classification of shock](https://derangedphysiology.com/main/required-reading/cardiovascular-intensive-care/Chapter-111/definition-and-classification-shock)
 	- [Approach to the undifferentiated shock patient](https://derangedphysiology.com/main/required-reading/cardiovascular-intensive-care/Chapter-112/approach-undifferentiated-shock-patient)

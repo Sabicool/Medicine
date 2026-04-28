@@ -40,6 +40,7 @@ date: 2025-12-25
     - [[Cardiac Action Potential]]
     - [[Cardiac Anatomy]]
     - [[Cardiac Cycle]]
+    - [[Cardiovascular Mechanics]]
 
 - Presenting Complaints: 
     - [[Arrhythmias]]

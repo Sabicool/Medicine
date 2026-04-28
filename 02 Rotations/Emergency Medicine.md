@@ -1,5 +1,5 @@
 ---
-date: 2026-04-06
+date: 2026-04-28
 ---
 # Common Conditions and Presentations
 <!-- QueryToSerialize: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) sort file.name asc group by reverse(split(file.folder, "/"))[0] -->
@@ -38,6 +38,7 @@ date: 2026-04-06
     - [[Anaphylaxis]]
     - [[Basic Life Support]]
     - [[Shock]]
+    - [[Trauma]]
     - [[Unconsciousness]]
 
 - Investigations: 
@@ -63,11 +64,21 @@ date: 2026-04-06
     - [[Lung POCUS]]
 
 - Topics: 
+    - [[Lung Protective Ventilation]]
     - [[Mechanical Ventilation]]
+    - [[Mechanical Ventilation - Quick Reference]]
     - [[Mental Health Assessment]]
     - [[Mental State Examination]]
+    - [[Non Invasive Ventilation]]
     - [[Paediatric Pain Management]]
     - [[Pain Management]]
+    - [[Physiology of Mechanical Ventilation]]
+    - [[Ventilator Consequences]]
+    - [[Ventilator Modes]]
+    - [[Ventilator Settings]]
+    - [[Ventilator Troubleshooting and Alarms]]
+    - [[Ventilator Waveform Interpretation]]
+    - [[Ventilatory Weaning]]
 
 <!-- SerializedQuery END -->
 
