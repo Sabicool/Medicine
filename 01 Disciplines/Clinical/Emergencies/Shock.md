@@ -64,7 +64,7 @@ $$
 	- **R**hythm abnormalities
 	- **O**bstructive
 	- Hypovolaemia (**V**olume)
-	- **E**ndocrine (these often cause a mixed classification, but its inclusion ensures things like [[Adrenal Crisis]] are not missed)
+	- **E**ndocrine (these often cause a mixed classification, but its inclusion ensures things like [[Adrenal Crisis]], hypo/hyperthyroidism, [[Diabetic ketoacidosis]], severe acidosis/alkalosis are not missed)
 	- **D**istributive
 	- **?**: is it real (check the BP measurement, is the arterial line really in an artery and is the transducer at the correct height)
 
@@ -322,6 +322,7 @@ $$
 		- [Sepsis and Septic Shock - YouTube](https://www.youtube.com/watch?v=3EVpyBORw5Y)
 - LITFL:
 	- [Shock • LITFL • CCC Differential Diagnosis](https://litfl.com/shock/)
+	- [Shock Hot Case • LITFL • CCC Hot Case](https://litfl.com/shock-hot-case/)
 - Deranged Physiology
 	- [Definition and classification of shock](https://derangedphysiology.com/main/required-reading/cardiovascular-intensive-care/Chapter-111/definition-and-classification-shock)
 	- [Approach to the undifferentiated shock patient](https://derangedphysiology.com/main/required-reading/cardiovascular-intensive-care/Chapter-112/approach-undifferentiated-shock-patient)
