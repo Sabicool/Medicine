@@ -62,6 +62,7 @@ date: 2026-04-28
     - [[Intubation]]
     - [[Lumbar Puncture]]
     - [[Lung POCUS]]
+    - [[Rush Exam]]
 
 - Topics: 
     - [[Lung Protective Ventilation]]
@@ -88,7 +89,7 @@ date: 2026-04-28
 - [[Analgesics]]
 - [[Anti-Emetics]]
 - [[Drugs in Cardiac Arrest]]
-- [[Inotropes]]
+- [[Pressors]]
 <!-- SerializedQuery END -->
 # Useful Resources
 - Notes on training: [Emergency Medicine Training](00%20Reference/Training/Emergency%20Medicine%20Training.md)

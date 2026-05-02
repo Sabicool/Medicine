@@ -65,6 +65,6 @@ date: 2025-12-25
 - [[Antihyperglycaemics]]
 - [[Diuretics]]
 - [[Drugs in Cardiac Arrest]]
-- [[Inotropes]]
 - [[Lipid Lowering Therapy]]
+- [[Pressors]]
 <!-- SerializedQuery END -->

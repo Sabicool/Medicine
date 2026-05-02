@@ -8,7 +8,7 @@ date: 2026-05-02
 ---
 # Definition
 - Physiologic state characterised by a systemic impairment in oxygen delivery as a result of reduced tissue perfusion, almost universally mediated by low blood pressure ($DO_{2}<\dot{V}O_{2}$)
-# Physiology
+# Pathophysiology
 $$
 \underset{\text{Perfusion Pressure}}{\text{MAP} - \text{CVP}} = \text{CO} \times \text{SVR}
 $$
@@ -29,7 +29,7 @@ $$
 	- Low systemic vascular resistance ⇒ distributive (e.g. sepsis, anaphylaxis, spinal cord trauma)
 	- Other types:
 		- Toxin-mediated shock (e.g. cyanide and carbon monoxide)
-## Classification
+# Classification
 ![[ICU_one_pager_undifferentiated_shock.png]]
 - Cardiogenic shock
 	- Depressed contractility: ACS, myocarditis, myocardial contusion, cardiomyopathy, drug overdose (e.g. CCB or beta-blocker)
@@ -70,8 +70,8 @@ $$
 	- **D**istributive
 	- **?**: is it real (check the BP measurement, is the arterial line really in an artery and is the transducer at the correct height)
 
-![](Attachments/Pasted%20image%2020241216122047.png)
-# Features
+![400](Attachments/Pasted%20image%2020241216122047.png)
+# Clinical Features
 - Haemodynamics
 	- Hypotension (MAP < 65 mmHg or significant drop from baseline)
 	- Elevated shock index (HR/SBP) >0.8
@@ -98,6 +98,7 @@ $$
 	- ↑/↓ platelets
 	- ↑ INR which can lead to DIC
 	- ↑ lactate and ↓ $\ce{HCO3-}$
+![[Pasted image 20260502200408.png]]
 # Approach to Undifferentiated Shock
 ## Primary Survey
 - Assess airway patency
@@ -114,11 +115,16 @@ $$
     - Head-to-toe exposure
         - Exclude externally obvious haemorrhage
         - Exclude anaphylaxis/angioedema
-    - Point of care TTE: rapid assessment with cardiac echo
+	- 12-lead ECG
+    - Point of care TTE: rapid assessment with cardiac echo and RUSH exam
         - Exclude cardiac tamponade
         - Exclude massive PE
+
+![[Rush Exam#^overview]]
+
 - Establish venous access
 - Collect a series of generic laboratory investigations, most importantly an ABG
+- Mobile Chest X-ray
 - Assess neurology (i.e. spinal injury)
     - Exclude neurogenic ("spinal") shock
 ![[Pasted image 20260502191306.png]]
@@ -126,7 +132,17 @@ $$
 - Ventilate the intubated patient with low-moderate PEEP (0.1cmH2O/kg)
 - Commence fluid bolus: 10 ml/kg
 	- Generally 30 mL/kg within the first 3 hours for sepsis
-- Commence/escalate vasopressor infusion
+	- Give as a fluid challenge: 250-500mL over 10-15 minutes
+		- Assess MAP response and dnyamic predictors (PP variations, PLR)
+	- Balanced crystalloid (hartmann’s or plasmalyte) generally preferred to normal saline unless:
+		- Hypochloraemic alkalosis (e.g. vomiting, NGT losses)
+		- Hyperkalaemia
+		- Traumatic brain injury
+		- Meningitis
+	- Albumin
+		- Albumin 4% reasonable alternative to crystalloid in large-volume resuscitation in septic shock
+		- Albumin 20% used in hepatic failure/spontaneous bacterial peritonitis, hepatorenal syndrome
+- Commence/escalate vasopressor infusion (see below)
 	- The optimal initial vasopressor is unknown as is the optimal MAP
 		- In septic shock, it appears the initial pressor of choice is noradrenaline
 - Antibiotics after peripheral cultures are obtained if sepsis is possible
@@ -139,6 +155,15 @@ $$
 	- Recent interventions
 	- Relevant background history
 	- Collateral from recently attending staff/family
+	- Important history points:
+		- ? chest pain/diaphoresis
+		- Fevers, rigors, immunosuppression
+		- Allergen exposure
+		- Trauma/blood loss
+		- Known cardiac disease, new dyspnoea
+		- Chest procedure
+		- Malignancy (PE)
+		- Exogenous steroid use or adrenal disease
 - Focused examination and investigations
 	- ECG
 	- CXR
@@ -206,6 +231,10 @@ $$
 		- Pacing
 # Trauma Related Shock
 ![[Pasted image 20260426103530.png]]
+
+# Vasopressors and Ionotropes
+![[Pressors#^noradrenaline]]
+![[Pressors#^metaraminol]]
 
 # Assessment
 - Identify the possible cause as above, assessing volume status and JVP and examining the ECG

@@ -41,6 +41,7 @@ aliases:
     - [[General Anaesthesia]]
     - [[Intubation]]
     - [[Lung POCUS]]
+    - [[Rush Exam]]
 
 - Topics: 
     - [[Capnography]]
@@ -65,7 +66,7 @@ aliases:
 - Cardiology: 
     - [[Antiarrhythmics]]
     - [[Drugs in Cardiac Arrest]]
-    - [[Inotropes]]
+    - [[Pressors]]
 
 <!-- SerializedQuery END -->
 # Approach to Ward Round
