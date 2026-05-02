@@ -115,12 +115,19 @@ $$
 		- Increased by: venoconstriction
 		- Increased by: hepatic congestion, abdominal compartment syndrome, external compression
 ![[Pasted image 20260502141508.png]]
-- **Fluid responsiveness**: A patient is fluid-responsive if they're on the steep part of both curves — giving volume will shift the VR curve right (raise MSFP) and walk up the cardiac function curve. If they're on the flat part of the cardiac curve (RV failure, LV failure), fluid raises RAP without improving CO.
+ - **Fluid responsiveness**: A patient is fluid-responsive if they're on the steep part of both curves — giving volume will shift the VR curve right (raise MSFP) and walk up the cardiac function curve. If they're on the flat part of the cardiac curve (RV failure, LV failure), fluid raises RAP without improving CO.
 ![[Pasted image 20260502141530.png]]
 - **Vasopressors vs inotropes**: Noradrenaline raises MSFP (venoconstriction) AND arterial resistance — in distributive shock, the venous effect is often why it helps CO as much as the arterial effect does. Inotropes shift the cardiac function curve upward.
 ![[Pasted image 20260502141632.png]]
 - **Mechanical ventilation**: PEEP → ↑ intrathoracic pressure → ↑ RAP → ↓ venous return → ↓ CO. You can partially compensate with volume (raise MSFP).
 - **Tamponade physiology**: The pericardial pressure compresses the RA, raising effective RAP → venous return drops despite normal MSFP. Drainage immediately lowers this backpressure — CO improves before you've given a drop of fluid.
+
+- Shock physiology: [[guyton-venous-return.html]]
+![[Pasted image 20260502142409.png]]
+![[Pasted image 20260502142426.png]]
+![[Pasted image 20260502142433.png]]
+![[Pasted image 20260502142442.png]]
+![[Pasted image 20260502142449.png]]
 # Viscosity and Turbulence
 - Turbulent flow is more likely when Renold’s number (Re) is high
 - Renold’s number can be given by (where $\mu$ is the viscosity of fluid)

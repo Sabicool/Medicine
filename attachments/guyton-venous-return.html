@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Guyton diagram — venous return &amp; shock</title>
+<style>
+:root{
+  --bg:#fff;--bg2:#f5f4f0;--t1:#1c1c1a;--t2:#58574f;--t3:#8c8a81;
+  --border:rgba(0,0,0,0.12);--border2:rgba(0,0,0,0.22);--r:8px;
+  --font:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;
+}
+@media(prefers-color-scheme:dark){
+  :root{--bg:#1e1e1c;--bg2:#282826;--t1:#e8e6de;--t2:#a6a49c;--t3:#6a6860;
+    --border:rgba(255,255,255,0.10);--border2:rgba(255,255,255,0.20);}
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:var(--font);background:var(--bg);color:var(--t1);padding:14px;font-size:13px}
+input[type=radio]{display:none}
+.btn-row{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:8px}
+.gb{padding:4px 13px;border-radius:20px;border:0.5px solid var(--border2);background:transparent;
+  color:var(--t2);font-size:12px;font-family:var(--font);cursor:pointer;display:inline-block}
+.gb:hover{background:var(--bg2)}
+.legend{display:flex;gap:14px;font-size:11px;color:var(--t3);margin-bottom:6px;flex-wrap:wrap}
+.legend span{display:flex;align-items:center;gap:4px}
+.leg-line{width:18px;height:2.5px;border-radius:2px;display:inline-block}
+.leg-dash{width:18px;display:inline-block;border-top:1.5px dashed var(--t3)}
+.refleg{display:none}
+.info{margin-top:10px;padding:12px 14px;background:var(--bg2);border-radius:var(--r)}
+.met{padding:6px 11px;background:var(--bg);border:0.5px solid var(--border);border-radius:var(--r);min-width:70px}
+.ml{font-size:10px;color:var(--t3);margin-bottom:2px}
+.mv{font-size:12px;font-weight:600;color:var(--t1)}
+svg text{fill:var(--t2)}
+
+.curves-h { display:none; }
+.info-h { display:none; }
+.curves-d { display:none; }
+.info-d { display:none; }
+.curves-c { display:none; }
+.info-c { display:none; }
+.curves-o { display:none; }
+.info-o { display:none; }
+.info-n { display:block; }
+#s-n:checked ~ .w .curves-n { display:block; }
+#s-n:checked ~ .w .curves-h { display:none; }
+#s-n:checked ~ .w .curves-d { display:none; }
+#s-n:checked ~ .w .curves-c { display:none; }
+#s-n:checked ~ .w .curves-o { display:none; }
+#s-n:checked ~ .w .info-n { display:block; }
+#s-n:checked ~ .w .info-h { display:none; }
+#s-n:checked ~ .w .info-d { display:none; }
+#s-n:checked ~ .w .info-c { display:none; }
+#s-n:checked ~ .w .info-o { display:none; }
+#s-n:checked ~ .w label[for="s-n"] { color:#888780;border-color:#888780;border-width:1.5px;background:var(--bg2);font-weight:600; }
+#s-h:checked ~ .w .curves-n { display:none; }
+#s-h:checked ~ .w .curves-h { display:block; }
+#s-h:checked ~ .w .curves-d { display:none; }
+#s-h:checked ~ .w .curves-c { display:none; }
+#s-h:checked ~ .w .curves-o { display:none; }
+#s-h:checked ~ .w .info-n { display:none; }
+#s-h:checked ~ .w .info-h { display:block; }
+#s-h:checked ~ .w .info-d { display:none; }
+#s-h:checked ~ .w .info-c { display:none; }
+#s-h:checked ~ .w .info-o { display:none; }
+#s-h:checked ~ .w label[for="s-h"] { color:#BA7517;border-color:#BA7517;border-width:1.5px;background:var(--bg2);font-weight:600; }
+#s-h:checked ~ .w .refleg { display:flex; }
+#s-d:checked ~ .w .curves-n { display:none; }
+#s-d:checked ~ .w .curves-h { display:none; }
+#s-d:checked ~ .w .curves-d { display:block; }
+#s-d:checked ~ .w .curves-c { display:none; }
+#s-d:checked ~ .w .curves-o { display:none; }
+#s-d:checked ~ .w .info-n { display:none; }
+#s-d:checked ~ .w .info-h { display:none; }
+#s-d:checked ~ .w .info-d { display:block; }
+#s-d:checked ~ .w .info-c { display:none; }
+#s-d:checked ~ .w .info-o { display:none; }
+#s-d:checked ~ .w label[for="s-d"] { color:#1D9E75;border-color:#1D9E75;border-width:1.5px;background:var(--bg2);font-weight:600; }
+#s-d:checked ~ .w .refleg { display:flex; }
+#s-c:checked ~ .w .curves-n { display:none; }
+#s-c:checked ~ .w .curves-h { display:none; }
+#s-c:checked ~ .w .curves-d { display:none; }
+#s-c:checked ~ .w .curves-c { display:block; }
+#s-c:checked ~ .w .curves-o { display:none; }
+#s-c:checked ~ .w .info-n { display:none; }
+#s-c:checked ~ .w .info-h { display:none; }
+#s-c:checked ~ .w .info-d { display:none; }
+#s-c:checked ~ .w .info-c { display:block; }
+#s-c:checked ~ .w .info-o { display:none; }
+#s-c:checked ~ .w label[for="s-c"] { color:#D85A30;border-color:#D85A30;border-width:1.5px;background:var(--bg2);font-weight:600; }
+#s-c:checked ~ .w .refleg { display:flex; }
+#s-o:checked ~ .w .curves-n { display:none; }
+#s-o:checked ~ .w .curves-h { display:none; }
+#s-o:checked ~ .w .curves-d { display:none; }
+#s-o:checked ~ .w .curves-c { display:none; }
+#s-o:checked ~ .w .curves-o { display:block; }
+#s-o:checked ~ .w .info-n { display:none; }
+#s-o:checked ~ .w .info-h { display:none; }
+#s-o:checked ~ .w .info-d { display:none; }
+#s-o:checked ~ .w .info-c { display:none; }
+#s-o:checked ~ .w .info-o { display:block; }
+#s-o:checked ~ .w label[for="s-o"] { color:#7F77DD;border-color:#7F77DD;border-width:1.5px;background:var(--bg2);font-weight:600; }
+#s-o:checked ~ .w .refleg { display:flex; }
+</style>
+</head>
+<body>
+<input type="radio" id="s-n" name="st" checked>
+<input type="radio" id="s-h" name="st">
+<input type="radio" id="s-d" name="st">
+<input type="radio" id="s-c" name="st">
+<input type="radio" id="s-o" name="st">
+<div class="w">
+<div class="btn-row">
+  <label for="s-n" class="gb">Normal</label>
+  <label for="s-h" class="gb">Hypovolaemic</label>
+  <label for="s-d" class="gb">Distributive</label>
+  <label for="s-c" class="gb">Cardiogenic</label>
+  <label for="s-o" class="gb">Obstructive</label>
+</div>
+<div class="legend">
+  <span><span class="leg-line" style="background:#1D9E75"></span>Venous return</span>
+  <span><span class="leg-line" style="background:#7F77DD"></span>Cardiac function</span>
+  <span class="refleg"><span class="leg-dash"></span>Normal (reference)</span>
+</div>
+<svg viewBox="0 0 620 290" width="100%">
+  <!-- Grid -->
+  <g stroke="#ccc" stroke-width="0.5">
+    <line x1="159" y1="20" x2="159" y2="260"/>
+    <line x1="276" y1="20" x2="276" y2="260"/>
+    <line x1="394" y1="20" x2="394" y2="260"/>
+    <line x1="511" y1="20" x2="511" y2="260"/>
+    <line x1="65" y1="202.5" x2="545" y2="202.5"/>
+    <line x1="65" y1="145" x2="545" y2="145"/>
+    <line x1="65" y1="87.5" x2="545" y2="87.5"/>
+  </g>
+  <!-- Axes -->
+  <defs><marker id="axarr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+    <path d="M1.5 1.5L8.5 5L1.5 8.5" fill="none" stroke="#888" stroke-width="1.5" stroke-linecap="round"/>
+  </marker></defs>
+  <line x1="65" y1="260" x2="552" y2="260" stroke="#888" stroke-width="1" marker-end="url(#axarr)"/>
+  <line x1="65" y1="260" x2="65" y2="12" stroke="#888" stroke-width="1" marker-end="url(#axarr)"/>
+  <!-- Ticks -->
+  <g stroke="#888" stroke-width="0.5">
+    <line x1="159" y1="260" x2="159" y2="265"/>
+    <line x1="276" y1="260" x2="276" y2="265"/>
+    <line x1="394" y1="260" x2="394" y2="265"/>
+    <line x1="511" y1="260" x2="511" y2="265"/>
+    <line x1="61" y1="202.5" x2="65" y2="202.5"/>
+    <line x1="61" y1="145" x2="65" y2="145"/>
+    <line x1="61" y1="87.5" x2="65" y2="87.5"/>
+    <line x1="61" y1="20" x2="65" y2="20"/>
+  </g>
+  <text font-family="inherit" font-size="10" fill="#888" x="159" y="276" text-anchor="middle">0</text>
+  <text font-family="inherit" font-size="10" fill="#888" x="276" y="276" text-anchor="middle">5</text>
+  <text font-family="inherit" font-size="10" fill="#888" x="394" y="276" text-anchor="middle">10</text>
+  <text font-family="inherit" font-size="10" fill="#888" x="511" y="276" text-anchor="middle">15</text>
+  <text font-family="inherit" font-size="10" fill="#888" x="58" y="206" text-anchor="end">2</text>
+  <text font-family="inherit" font-size="10" fill="#888" x="58" y="148" text-anchor="end">4</text>
+  <text font-family="inherit" font-size="10" fill="#888" x="58" y="91" text-anchor="end">6</text>
+  <text font-family="inherit" font-size="10" fill="#888" x="58" y="24" text-anchor="end">8</text>
+  <text font-family="inherit" font-size="10" fill="#888" x="545" y="258">RAP (mmHg)</text>
+  <text font-family="inherit" font-size="10" fill="#888" x="67" y="14">CO / VR (L/min)</text>
+<g class="curves-n">
+  <path fill="none" stroke="#1D9E75" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" d="M65.0,24.3 L74.4,32.9 L83.8,41.4 L93.2,50.0 L102.6,58.6 L112.0,67.1 L121.4,75.7 L130.8,84.3 L140.2,92.9 L149.6,101.4 L159.0,110.0 L168.4,118.6 L177.8,127.1 L187.2,135.7 L196.6,144.3 L206.0,152.9 L215.4,161.4 L224.8,170.0 L234.2,178.6 L243.6,187.1 L253.0,195.7 L262.4,204.3 L271.8,212.9 L281.2,221.4 L290.6,230.0 L300.0,238.6 L309.4,247.1 L318.8,255.7 L328.2,260.0 L337.6,260.0 L347.0,260.0 L356.4,260.0 L365.8,260.0 L375.2,260.0 L384.6,260.0 L394.0,260.0 L403.4,260.0 L412.8,260.0 L422.2,260.0 L431.6,260.0 L441.0,260.0 L450.4,260.0 L459.8,260.0 L469.2,260.0 L478.6,260.0 L488.0,260.0 L497.4,260.0 L506.8,260.0 L516.2,260.0 L525.6,260.0 L535.0,260.0"/>
+  <path fill="none" stroke="#7F77DD" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" d="M65.0,245.0 L74.4,239.0 L83.8,233.0 L93.2,227.0 L102.6,221.0 L112.0,215.0 L121.4,209.0 L130.8,203.0 L140.2,197.0 L149.6,191.0 L159.0,185.0 L168.4,179.0 L177.8,173.0 L187.2,167.0 L196.6,161.0 L206.0,155.0 L215.4,149.0 L224.8,143.0 L234.2,137.0 L243.6,131.0 L253.0,125.0 L262.4,119.0 L271.8,113.0 L281.2,107.0 L290.6,101.0 L300.0,95.0 L309.4,89.0 L318.8,83.0 L328.2,77.0 L337.6,71.0 L347.0,65.0 L356.4,59.0 L365.8,53.0 L375.2,50.0 L384.6,50.0 L394.0,50.0 L403.4,50.0 L412.8,50.0 L422.2,50.0 L431.6,50.0 L441.0,50.0 L450.4,50.0 L459.8,50.0 L469.2,50.0 L478.6,50.0 L488.0,50.0 L497.4,50.0 L506.8,50.0 L516.2,50.0 L525.6,50.0 L535.0,50.0"/>
+  <line x1="323.5" x2="323.5" y1="20" y2="260" stroke="#aaa" stroke-width="0.5" stroke-dasharray="3 3"/>
+  <text x="323.5" y="276" text-anchor="middle" font-size="9" fill="#999">MSFP</text>
+  <circle fill="#888780" stroke="white" stroke-width="2.5" r="6.5" cx="207.4" cy="154.1"/>
+  <text x="217.4" y="140.1" font-size="10" font-weight="600" fill="currentColor">RAP 2.1  CO 3.5</text>
+</g>
+<g class="curves-h">
+  <path class="ghost" fill="none" stroke="#999" stroke-width="1.5" stroke-dasharray="4 3" d="M65.0,24.3 L74.4,32.9 L83.8,41.4 L93.2,50.0 L102.6,58.6 L112.0,67.1 L121.4,75.7 L130.8,84.3 L140.2,92.9 L149.6,101.4 L159.0,110.0 L168.4,118.6 L177.8,127.1 L187.2,135.7 L196.6,144.3 L206.0,152.9 L215.4,161.4 L224.8,170.0 L234.2,178.6 L243.6,187.1 L253.0,195.7 L262.4,204.3 L271.8,212.9 L281.2,221.4 L290.6,230.0 L300.0,238.6 L309.4,247.1 L318.8,255.7 L328.2,260.0 L337.6,260.0 L347.0,260.0 L356.4,260.0 L365.8,260.0 L375.2,260.0 L384.6,260.0 L394.0,260.0 L403.4,260.0 L412.8,260.0 L422.2,260.0 L431.6,260.0 L441.0,260.0 L450.4,260.0 L459.8,260.0 L469.2,260.0 L478.6,260.0 L488.0,260.0 L497.4,260.0 L506.8,260.0 L516.2,260.0 L525.6,260.0 L535.0,260.0"/>
+  <path class="ghost" fill="none" stroke="#999" stroke-width="1.5" stroke-dasharray="4 3" d="M65.0,245.0 L74.4,239.0 L83.8,233.0 L93.2,227.0 L102.6,221.0 L112.0,215.0 L121.4,209.0 L130.8,203.0 L140.2,197.0 L149.6,191.0 L159.0,185.0 L168.4,179.0 L177.8,173.0 L187.2,167.0 L196.6,161.0 L206.0,155.0 L215.4,149.0 L224.8,143.0 L234.2,137.0 L243.6,131.0 L253.0,125.0 L262.4,119.0 L271.8,113.0 L281.2,107.0 L290.6,101.0 L300.0,95.0 L309.4,89.0 L318.8,83.0 L328.2,77.0 L337.6,71.0 L347.0,65.0 L356.4,59.0 L365.8,53.0 L375.2,50.0 L384.6,50.0 L394.0,50.0 L403.4,50.0 L412.8,50.0 L422.2,50.0 L431.6,50.0 L441.0,50.0 L450.4,50.0 L459.8,50.0 L469.2,50.0 L478.6,50.0 L488.0,50.0 L497.4,50.0 L506.8,50.0 L516.2,50.0 L525.6,50.0 L535.0,50.0"/>
+  <circle class="ghost" fill="none" stroke="#999" stroke-width="1" stroke-dasharray="2 2" r="4.5" cx="207.4" cy="154.1"/>
+  <path fill="none" stroke="#1D9E75" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" d="M65.0,88.6 L74.4,97.1 L83.8,105.7 L93.2,114.3 L102.6,122.9 L112.0,131.4 L121.4,140.0 L130.8,148.6 L140.2,157.1 L149.6,165.7 L159.0,174.3 L168.4,182.9 L177.8,191.4 L187.2,200.0 L196.6,208.6 L206.0,217.1 L215.4,225.7 L224.8,234.3 L234.2,242.9 L243.6,251.4 L253.0,260.0 L262.4,260.0 L271.8,260.0 L281.2,260.0 L290.6,260.0 L300.0,260.0 L309.4,260.0 L318.8,260.0 L328.2,260.0 L337.6,260.0 L347.0,260.0 L356.4,260.0 L365.8,260.0 L375.2,260.0 L384.6,260.0 L394.0,260.0 L403.4,260.0 L412.8,260.0 L422.2,260.0 L431.6,260.0 L441.0,260.0 L450.4,260.0 L459.8,260.0 L469.2,260.0 L478.6,260.0 L488.0,260.0 L497.4,260.0 L506.8,260.0 L516.2,260.0 L525.6,260.0 L535.0,260.0"/>
+  <path fill="none" stroke="#7F77DD" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" d="M65.0,245.0 L74.4,239.0 L83.8,233.0 L93.2,227.0 L102.6,221.0 L112.0,215.0 L121.4,209.0 L130.8,203.0 L140.2,197.0 L149.6,191.0 L159.0,185.0 L168.4,179.0 L177.8,173.0 L187.2,167.0 L196.6,161.0 L206.0,155.0 L215.4,149.0 L224.8,143.0 L234.2,137.0 L243.6,131.0 L253.0,125.0 L262.4,119.0 L271.8,113.0 L281.2,107.0 L290.6,101.0 L300.0,95.0 L309.4,89.0 L318.8,83.0 L328.2,77.0 L337.6,71.0 L347.0,65.0 L356.4,59.0 L365.8,53.0 L375.2,50.0 L384.6,50.0 L394.0,50.0 L403.4,50.0 L412.8,50.0 L422.2,50.0 L431.6,50.0 L441.0,50.0 L450.4,50.0 L459.8,50.0 L469.2,50.0 L478.6,50.0 L488.0,50.0 L497.4,50.0 L506.8,50.0 L516.2,50.0 L525.6,50.0 L535.0,50.0"/>
+  <line x1="253.0" x2="253.0" y1="20" y2="260" stroke="#aaa" stroke-width="0.5" stroke-dasharray="3 3"/>
+  <text x="253.0" y="276" text-anchor="middle" font-size="9" fill="#999">MSFP</text>
+  <circle fill="#BA7517" stroke="white" stroke-width="2.5" r="6.5" cx="165.9" cy="180.6"/>
+  <text x="175.9" y="166.6" font-size="10" font-weight="600" fill="currentColor">RAP 0.3  CO 2.6</text>
+</g>
+<g class="curves-d">
+  <path class="ghost" fill="none" stroke="#999" stroke-width="1.5" stroke-dasharray="4 3" d="M65.0,24.3 L74.4,32.9 L83.8,41.4 L93.2,50.0 L102.6,58.6 L112.0,67.1 L121.4,75.7 L130.8,84.3 L140.2,92.9 L149.6,101.4 L159.0,110.0 L168.4,118.6 L177.8,127.1 L187.2,135.7 L196.6,144.3 L206.0,152.9 L215.4,161.4 L224.8,170.0 L234.2,178.6 L243.6,187.1 L253.0,195.7 L262.4,204.3 L271.8,212.9 L281.2,221.4 L290.6,230.0 L300.0,238.6 L309.4,247.1 L318.8,255.7 L328.2,260.0 L337.6,260.0 L347.0,260.0 L356.4,260.0 L365.8,260.0 L375.2,260.0 L384.6,260.0 L394.0,260.0 L403.4,260.0 L412.8,260.0 L422.2,260.0 L431.6,260.0 L441.0,260.0 L450.4,260.0 L459.8,260.0 L469.2,260.0 L478.6,260.0 L488.0,260.0 L497.4,260.0 L506.8,260.0 L516.2,260.0 L525.6,260.0 L535.0,260.0"/>
+  <path class="ghost" fill="none" stroke="#999" stroke-width="1.5" stroke-dasharray="4 3" d="M65.0,245.0 L74.4,239.0 L83.8,233.0 L93.2,227.0 L102.6,221.0 L112.0,215.0 L121.4,209.0 L130.8,203.0 L140.2,197.0 L149.6,191.0 L159.0,185.0 L168.4,179.0 L177.8,173.0 L187.2,167.0 L196.6,161.0 L206.0,155.0 L215.4,149.0 L224.8,143.0 L234.2,137.0 L243.6,131.0 L253.0,125.0 L262.4,119.0 L271.8,113.0 L281.2,107.0 L290.6,101.0 L300.0,95.0 L309.4,89.0 L318.8,83.0 L328.2,77.0 L337.6,71.0 L347.0,65.0 L356.4,59.0 L365.8,53.0 L375.2,50.0 L384.6,50.0 L394.0,50.0 L403.4,50.0 L412.8,50.0 L422.2,50.0 L431.6,50.0 L441.0,50.0 L450.4,50.0 L459.8,50.0 L469.2,50.0 L478.6,50.0 L488.0,50.0 L497.4,50.0 L506.8,50.0 L516.2,50.0 L525.6,50.0 L535.0,50.0"/>
+  <circle class="ghost" fill="none" stroke="#999" stroke-width="1" stroke-dasharray="2 2" r="4.5" cx="207.4" cy="154.1"/>
+  <path fill="none" stroke="#1D9E75" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" d="M65.0,20.0 L74.4,20.0 L83.8,20.0 L93.2,20.0 L102.6,20.0 L112.0,26.7 L121.4,40.0 L130.8,53.3 L140.2,66.7 L149.6,80.0 L159.0,93.3 L168.4,106.7 L177.8,120.0 L187.2,133.3 L196.6,146.7 L206.0,160.0 L215.4,173.3 L224.8,186.7 L234.2,200.0 L243.6,213.3 L253.0,226.7 L262.4,240.0 L271.8,253.3 L281.2,260.0 L290.6,260.0 L300.0,260.0 L309.4,260.0 L318.8,260.0 L328.2,260.0 L337.6,260.0 L347.0,260.0 L356.4,260.0 L365.8,260.0 L375.2,260.0 L384.6,260.0 L394.0,260.0 L403.4,260.0 L412.8,260.0 L422.2,260.0 L431.6,260.0 L441.0,260.0 L450.4,260.0 L459.8,260.0 L469.2,260.0 L478.6,260.0 L488.0,260.0 L497.4,260.0 L506.8,260.0 L516.2,260.0 L525.6,260.0 L535.0,260.0"/>
+  <path fill="none" stroke="#7F77DD" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" d="M65.0,245.0 L74.4,236.0 L83.8,227.0 L93.2,218.0 L102.6,209.0 L112.0,200.0 L121.4,191.0 L130.8,182.0 L140.2,173.0 L149.6,164.0 L159.0,155.0 L168.4,146.0 L177.8,137.0 L187.2,128.0 L196.6,119.0 L206.0,110.0 L215.4,101.0 L224.8,92.0 L234.2,83.0 L243.6,74.0 L253.0,65.0 L262.4,56.0 L271.8,47.0 L281.2,38.0 L290.6,35.0 L300.0,35.0 L309.4,35.0 L318.8,35.0 L328.2,35.0 L337.6,35.0 L347.0,35.0 L356.4,35.0 L365.8,35.0 L375.2,35.0 L384.6,35.0 L394.0,35.0 L403.4,35.0 L412.8,35.0 L422.2,35.0 L431.6,35.0 L441.0,35.0 L450.4,35.0 L459.8,35.0 L469.2,35.0 L478.6,35.0 L488.0,35.0 L497.4,35.0 L506.8,35.0 L516.2,35.0 L525.6,35.0 L535.0,35.0"/>
+  <line x1="276.5" x2="276.5" y1="20" y2="260" stroke="#aaa" stroke-width="0.5" stroke-dasharray="3 3"/>
+  <text x="276.5" y="276" text-anchor="middle" font-size="9" fill="#999">MSFP</text>
+  <circle fill="#1D9E75" stroke="white" stroke-width="2.5" r="6.5" cx="185.0" cy="130.1"/>
+  <text x="195.0" y="116.1" font-size="10" font-weight="600" fill="currentColor">RAP 1.1  CO 4.3</text>
+</g>
+<g class="curves-c">
+  <path class="ghost" fill="none" stroke="#999" stroke-width="1.5" stroke-dasharray="4 3" d="M65.0,24.3 L74.4,32.9 L83.8,41.4 L93.2,50.0 L102.6,58.6 L112.0,67.1 L121.4,75.7 L130.8,84.3 L140.2,92.9 L149.6,101.4 L159.0,110.0 L168.4,118.6 L177.8,127.1 L187.2,135.7 L196.6,144.3 L206.0,152.9 L215.4,161.4 L224.8,170.0 L234.2,178.6 L243.6,187.1 L253.0,195.7 L262.4,204.3 L271.8,212.9 L281.2,221.4 L290.6,230.0 L300.0,238.6 L309.4,247.1 L318.8,255.7 L328.2,260.0 L337.6,260.0 L347.0,260.0 L356.4,260.0 L365.8,260.0 L375.2,260.0 L384.6,260.0 L394.0,260.0 L403.4,260.0 L412.8,260.0 L422.2,260.0 L431.6,260.0 L441.0,260.0 L450.4,260.0 L459.8,260.0 L469.2,260.0 L478.6,260.0 L488.0,260.0 L497.4,260.0 L506.8,260.0 L516.2,260.0 L525.6,260.0 L535.0,260.0"/>
+  <path class="ghost" fill="none" stroke="#999" stroke-width="1.5" stroke-dasharray="4 3" d="M65.0,245.0 L74.4,239.0 L83.8,233.0 L93.2,227.0 L102.6,221.0 L112.0,215.0 L121.4,209.0 L130.8,203.0 L140.2,197.0 L149.6,191.0 L159.0,185.0 L168.4,179.0 L177.8,173.0 L187.2,167.0 L196.6,161.0 L206.0,155.0 L215.4,149.0 L224.8,143.0 L234.2,137.0 L243.6,131.0 L253.0,125.0 L262.4,119.0 L271.8,113.0 L281.2,107.0 L290.6,101.0 L300.0,95.0 L309.4,89.0 L318.8,83.0 L328.2,77.0 L337.6,71.0 L347.0,65.0 L356.4,59.0 L365.8,53.0 L375.2,50.0 L384.6,50.0 L394.0,50.0 L403.4,50.0 L412.8,50.0 L422.2,50.0 L431.6,50.0 L441.0,50.0 L450.4,50.0 L459.8,50.0 L469.2,50.0 L478.6,50.0 L488.0,50.0 L497.4,50.0 L506.8,50.0 L516.2,50.0 L525.6,50.0 L535.0,50.0"/>
+  <circle class="ghost" fill="none" stroke="#999" stroke-width="1" stroke-dasharray="2 2" r="4.5" cx="207.4" cy="154.1"/>
+  <path fill="none" stroke="#1D9E75" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" d="M65.0,20.0 L74.4,20.0 L83.8,20.0 L93.2,20.0 L102.6,20.0 L112.0,20.0 L121.4,20.0 L130.8,20.0 L140.2,28.6 L149.6,37.1 L159.0,45.7 L168.4,54.3 L177.8,62.9 L187.2,71.4 L196.6,80.0 L206.0,88.6 L215.4,97.1 L224.8,105.7 L234.2,114.3 L243.6,122.9 L253.0,131.4 L262.4,140.0 L271.8,148.6 L281.2,157.1 L290.6,165.7 L300.0,174.3 L309.4,182.9 L318.8,191.4 L328.2,200.0 L337.6,208.6 L347.0,217.1 L356.4,225.7 L365.8,234.3 L375.2,242.9 L384.6,251.4 L394.0,260.0 L403.4,260.0 L412.8,260.0 L422.2,260.0 L431.6,260.0 L441.0,260.0 L450.4,260.0 L459.8,260.0 L469.2,260.0 L478.6,260.0 L488.0,260.0 L497.4,260.0 L506.8,260.0 L516.2,260.0 L525.6,260.0 L535.0,260.0"/>
+  <path fill="none" stroke="#7F77DD" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" d="M65.0,260.0 L74.4,257.6 L83.8,255.2 L93.2,252.8 L102.6,250.4 L112.0,248.0 L121.4,245.6 L130.8,243.2 L140.2,240.8 L149.6,238.4 L159.0,236.0 L168.4,233.6 L177.8,231.2 L187.2,228.8 L196.6,226.4 L206.0,224.0 L215.4,221.6 L224.8,219.2 L234.2,216.8 L243.6,214.4 L253.0,212.0 L262.4,209.6 L271.8,207.2 L281.2,204.8 L290.6,202.4 L300.0,200.0 L309.4,197.6 L318.8,195.2 L328.2,192.8 L337.6,190.4 L347.0,188.0 L356.4,185.6 L365.8,183.2 L375.2,180.8 L384.6,178.4 L394.0,176.0 L403.4,173.6 L412.8,171.2 L422.2,168.8 L431.6,166.4 L441.0,164.0 L450.4,161.6 L459.8,159.2 L469.2,156.8 L478.6,154.4 L488.0,152.0 L497.4,149.6 L506.8,147.2 L516.2,144.8 L525.6,142.4 L535.0,140.0"/>
+  <line x1="394.0" x2="394.0" y1="20" y2="260" stroke="#aaa" stroke-width="0.5" stroke-dasharray="3 3"/>
+  <text x="394.0" y="276" text-anchor="middle" font-size="9" fill="#999">MSFP</text>
+  <circle fill="#D85A30" stroke="white" stroke-width="2.5" r="6.5" cx="322.0" cy="194.4"/>
+  <text x="332.0" y="180.4" font-size="10" font-weight="600" fill="currentColor">RAP 6.9  CO 2.2</text>
+</g>
+<g class="curves-o">
+  <path class="ghost" fill="none" stroke="#999" stroke-width="1.5" stroke-dasharray="4 3" d="M65.0,24.3 L74.4,32.9 L83.8,41.4 L93.2,50.0 L102.6,58.6 L112.0,67.1 L121.4,75.7 L130.8,84.3 L140.2,92.9 L149.6,101.4 L159.0,110.0 L168.4,118.6 L177.8,127.1 L187.2,135.7 L196.6,144.3 L206.0,152.9 L215.4,161.4 L224.8,170.0 L234.2,178.6 L243.6,187.1 L253.0,195.7 L262.4,204.3 L271.8,212.9 L281.2,221.4 L290.6,230.0 L300.0,238.6 L309.4,247.1 L318.8,255.7 L328.2,260.0 L337.6,260.0 L347.0,260.0 L356.4,260.0 L365.8,260.0 L375.2,260.0 L384.6,260.0 L394.0,260.0 L403.4,260.0 L412.8,260.0 L422.2,260.0 L431.6,260.0 L441.0,260.0 L450.4,260.0 L459.8,260.0 L469.2,260.0 L478.6,260.0 L488.0,260.0 L497.4,260.0 L506.8,260.0 L516.2,260.0 L525.6,260.0 L535.0,260.0"/>
+  <path class="ghost" fill="none" stroke="#999" stroke-width="1.5" stroke-dasharray="4 3" d="M65.0,245.0 L74.4,239.0 L83.8,233.0 L93.2,227.0 L102.6,221.0 L112.0,215.0 L121.4,209.0 L130.8,203.0 L140.2,197.0 L149.6,191.0 L159.0,185.0 L168.4,179.0 L177.8,173.0 L187.2,167.0 L196.6,161.0 L206.0,155.0 L215.4,149.0 L224.8,143.0 L234.2,137.0 L243.6,131.0 L253.0,125.0 L262.4,119.0 L271.8,113.0 L281.2,107.0 L290.6,101.0 L300.0,95.0 L309.4,89.0 L318.8,83.0 L328.2,77.0 L337.6,71.0 L347.0,65.0 L356.4,59.0 L365.8,53.0 L375.2,50.0 L384.6,50.0 L394.0,50.0 L403.4,50.0 L412.8,50.0 L422.2,50.0 L431.6,50.0 L441.0,50.0 L450.4,50.0 L459.8,50.0 L469.2,50.0 L478.6,50.0 L488.0,50.0 L497.4,50.0 L506.8,50.0 L516.2,50.0 L525.6,50.0 L535.0,50.0"/>
+  <circle class="ghost" fill="none" stroke="#999" stroke-width="1" stroke-dasharray="2 2" r="4.5" cx="207.4" cy="154.1"/>
+  <path fill="none" stroke="#1D9E75" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" d="M65.0,24.3 L74.4,32.9 L83.8,41.4 L93.2,50.0 L102.6,58.6 L112.0,67.1 L121.4,75.7 L130.8,84.3 L140.2,92.9 L149.6,101.4 L159.0,110.0 L168.4,118.6 L177.8,127.1 L187.2,135.7 L196.6,144.3 L206.0,152.9 L215.4,161.4 L224.8,170.0 L234.2,178.6 L243.6,187.1 L253.0,195.7 L262.4,204.3 L271.8,212.9 L281.2,221.4 L290.6,230.0 L300.0,238.6 L309.4,247.1 L318.8,255.7 L328.2,260.0 L337.6,260.0 L347.0,260.0 L356.4,260.0 L365.8,260.0 L375.2,260.0 L384.6,260.0 L394.0,260.0 L403.4,260.0 L412.8,260.0 L422.2,260.0 L431.6,260.0 L441.0,260.0 L450.4,260.0 L459.8,260.0 L469.2,260.0 L478.6,260.0 L488.0,260.0 L497.4,260.0 L506.8,260.0 L516.2,260.0 L525.6,260.0 L535.0,260.0"/>
+  <path fill="none" stroke="#7F77DD" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" d="M65.0,260.0 L74.4,260.0 L83.8,260.0 L93.2,260.0 L102.6,260.0 L112.0,260.0 L121.4,260.0 L130.8,260.0 L140.2,260.0 L149.6,260.0 L159.0,260.0 L168.4,254.0 L177.8,248.0 L187.2,242.0 L196.6,236.0 L206.0,230.0 L215.4,224.0 L224.8,218.0 L234.2,212.0 L243.6,206.0 L253.0,200.0 L262.4,194.0 L271.8,188.0 L281.2,182.0 L290.6,176.0 L300.0,170.0 L309.4,164.0 L318.8,158.0 L328.2,152.0 L337.6,146.0 L347.0,140.0 L356.4,134.0 L365.8,128.0 L375.2,122.0 L384.6,116.0 L394.0,110.0 L403.4,104.0 L412.8,98.0 L422.2,92.0 L431.6,86.0 L441.0,80.0 L450.4,74.0 L459.8,68.0 L469.2,62.0 L478.6,56.0 L488.0,50.0 L497.4,50.0 L506.8,50.0 L516.2,50.0 L525.6,50.0 L535.0,50.0"/>
+  <line x1="323.5" x2="323.5" y1="20" y2="260" stroke="#aaa" stroke-width="0.5" stroke-dasharray="3 3"/>
+  <text x="323.5" y="276" text-anchor="middle" font-size="9" fill="#999">MSFP</text>
+  <circle fill="#7F77DD" stroke="white" stroke-width="2.5" r="6.5" cx="255.8" cy="198.2"/>
+  <text x="265.8" y="184.2" font-size="10" font-weight="600" fill="currentColor">RAP 4.1  CO 2.1</text>
+</g>
+</svg>
+<div class="info info-n">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px">
+    <span style="width:10px;height:10px;border-radius:50%;background:#888780;flex-shrink:0;display:inline-block"></span>
+    <span style="font-size:14px;font-weight:600;color:var(--t1)">Normal</span>
+  </div>
+  <p style="font-size:12px;color:var(--t2);margin:0 0 10px;line-height:1.5">Baseline physiology. Venous return equals cardiac output at the intersection of both curves. MSFP is the elastic recoil pressure of the venous reservoir; RAP is the back-pressure opposing it. CO&nbsp;=&nbsp;(MSFP&nbsp;−&nbsp;RAP)&nbsp;/&nbsp;RVR.</p>
+  <div style="display:flex;gap:8px;flex-wrap:wrap">
+    <div class="met"><div class="ml">MSFP</div><div class="mv">7 mmHg</div></div>
+    <div class="met"><div class="ml">Cardiac function</div><div class="mv">Normal</div></div>
+    <div class="met"><div class="ml">Operating RAP</div><div class="mv">2.1 mmHg</div></div>
+    <div class="met"><div class="ml">Operating CO</div><div class="mv">3.5 L/min</div></div>
+  </div>
+</div>
+<div class="info info-h">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px">
+    <span style="width:10px;height:10px;border-radius:50%;background:#BA7517;flex-shrink:0;display:inline-block"></span>
+    <span style="font-size:14px;font-weight:600;color:var(--t1)">Hypovolaemic</span>
+  </div>
+  <p style="font-size:12px;color:var(--t2);margin:0 0 10px;line-height:1.5">Volume loss ↓ MSFP → VR curve shifts left (parallel). CO falls significantly with minimal RAP change — cardiac function is preserved. Fluid boluses restore MSFP, walking the operating point back up the cardiac function curve.</p>
+  <div style="display:flex;gap:8px;flex-wrap:wrap">
+    <div class="met"><div class="ml">MSFP</div><div class="mv">↓↓ 4 mmHg (volume loss)</div></div>
+    <div class="met"><div class="ml">Cardiac function</div><div class="mv">Preserved</div></div>
+    <div class="met"><div class="ml">Operating RAP</div><div class="mv">0.3 mmHg</div></div>
+    <div class="met"><div class="ml">Operating CO</div><div class="mv">2.6 L/min</div></div>
+  </div>
+</div>
+<div class="info info-d">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px">
+    <span style="width:10px;height:10px;border-radius:50%;background:#1D9E75;flex-shrink:0;display:inline-block"></span>
+    <span style="font-size:14px;font-weight:600;color:var(--t1)">Distributive</span>
+  </div>
+  <p style="font-size:12px;color:var(--t2);margin:0 0 10px;line-height:1.5">Venodilation ↓ MSFP and ↓ RVR — VR curve shifts left and becomes steeper. Hyperdynamic cardiac response shifts CO curve up. CO maintained or ↑ early despite low SVR. Vasopressors (noradrenaline) restore MSFP via venoconstriction.</p>
+  <div style="display:flex;gap:8px;flex-wrap:wrap">
+    <div class="met"><div class="ml">MSFP</div><div class="mv">↓ 5 mmHg (venodilation)</div></div>
+    <div class="met"><div class="ml">Cardiac function</div><div class="mv">↑ Hyperdynamic</div></div>
+    <div class="met"><div class="ml">Operating RAP</div><div class="mv">1.1 mmHg</div></div>
+    <div class="met"><div class="ml">Operating CO</div><div class="mv">4.3 L/min</div></div>
+  </div>
+</div>
+<div class="info info-c">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px">
+    <span style="width:10px;height:10px;border-radius:50%;background:#D85A30;flex-shrink:0;display:inline-block"></span>
+    <span style="font-size:14px;font-weight:600;color:var(--t1)">Cardiogenic</span>
+  </div>
+  <p style="font-size:12px;color:var(--t2);margin:0 0 10px;line-height:1.5">Depressed pump function shifts CO curve steeply down-right → high RAP, low CO. Backed-up blood raises MSFP (congestion). Inotropes shift CO curve up; diuretics lower MSFP; vasodilators reduce afterload. Classic high CVP, low CO picture.</p>
+  <div style="display:flex;gap:8px;flex-wrap:wrap">
+    <div class="met"><div class="ml">MSFP</div><div class="mv">↑ ~10 mmHg (congestion)</div></div>
+    <div class="met"><div class="ml">Cardiac function</div><div class="mv">↓↓ Depressed</div></div>
+    <div class="met"><div class="ml">Operating RAP</div><div class="mv">6.9 mmHg</div></div>
+    <div class="met"><div class="ml">Operating CO</div><div class="mv">2.2 L/min</div></div>
+  </div>
+</div>
+<div class="info info-o">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px">
+    <span style="width:10px;height:10px;border-radius:50%;background:#7F77DD;flex-shrink:0;display:inline-block"></span>
+    <span style="font-size:14px;font-weight:600;color:var(--t1)">Obstructive</span>
+  </div>
+  <p style="font-size:12px;color:var(--t2);margin:0 0 10px;line-height:1.5">Tamponade or massive PE raises pericardial/pulmonary back-pressure on the RA — CO curve shifts right (heart needs more preload to generate the same CO). VR curve unchanged. RAP rises, CO falls. Definitive treatment removes the obstruction.</p>
+  <div style="display:flex;gap:8px;flex-wrap:wrap">
+    <div class="met"><div class="ml">MSFP</div><div class="mv">7 mmHg (unchanged)</div></div>
+    <div class="met"><div class="ml">Cardiac function</div><div class="mv">Shifted right (↑ effective RAP)</div></div>
+    <div class="met"><div class="ml">Operating RAP</div><div class="mv">4.1 mmHg</div></div>
+    <div class="met"><div class="ml">Operating CO</div><div class="mv">2.1 L/min</div></div>
+  </div>
+</div>
+</div>
+</body>
+</html>
