@@ -1,5 +1,5 @@
 ---
-date: 2026-04-26
+date: 2026-05-02
 ---
 # Pressure
 - Hydrostatic pressure is the pressure present in a fluid at rest due to gravity
@@ -100,6 +100,27 @@ $$
 # Analogy
 ![[Pasted image 20260424123516.png]]
 - Stoke volume here is how far the rock will travel when released
+# Venous Return
+- At most circumstances $\text{Cardiac Output}=\text{Venous Return}$
+$$
+\text{Venous Return}=\frac{\text{MSFP}-\text{RAP}}{\text{RVR}}
+$$
+- Where:
+	- MSFP is the mean systemic filling pressure, the pressure that would exist throughout the entire systemic vasculature if the heart stopped and flow equalised (i.e. elastic recoil pressure of the venous reservoir), normally 7-8 mmHg
+		- Increased by: volume loading, venoconstriction (adrenaline, noradrenaline)
+		- Decreased by: haemorrhage, venodilation (early phase sepsis, nitrates)
+	- RAP is the right atrial pressure and is the pressure opposing venous return
+		- Increased by: RV failure, tamponade, PEEP
+	- RVR is resistance to venous return and is the resistance of venous capacitance vessels, mainly set by small veins and venules
+		- Increased by: venoconstriction
+		- Increased by: hepatic congestion, abdominal compartment syndrome, external compression
+![[Pasted image 20260502141508.png]]
+- **Fluid responsiveness**: A patient is fluid-responsive if they're on the steep part of both curves — giving volume will shift the VR curve right (raise MSFP) and walk up the cardiac function curve. If they're on the flat part of the cardiac curve (RV failure, LV failure), fluid raises RAP without improving CO.
+![[Pasted image 20260502141530.png]]
+- **Vasopressors vs inotropes**: Noradrenaline raises MSFP (venoconstriction) AND arterial resistance — in distributive shock, the venous effect is often why it helps CO as much as the arterial effect does. Inotropes shift the cardiac function curve upward.
+![[Pasted image 20260502141632.png]]
+- **Mechanical ventilation**: PEEP → ↑ intrathoracic pressure → ↑ RAP → ↓ venous return → ↓ CO. You can partially compensate with volume (raise MSFP).
+- **Tamponade physiology**: The pericardial pressure compresses the RA, raising effective RAP → venous return drops despite normal MSFP. Drainage immediately lowers this backpressure — CO improves before you've given a drop of fluid.
 # Viscosity and Turbulence
 - Turbulent flow is more likely when Renold’s number (Re) is high
 - Renold’s number can be given by (where $\mu$ is the viscosity of fluid)
