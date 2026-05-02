@@ -334,7 +334,7 @@ $$
 	- [Shock • LITFL • CCC Differential Diagnosis](https://litfl.com/shock/)
 	- [Shock Hot Case • LITFL • CCC Hot Case](https://litfl.com/shock-hot-case/)
 	- [Corticosteroid Therapy for Shock • LITFL • CCC shock](https://litfl.com/corticosteroid-therapy-for-shock/)
-	- [Venous Return and Shock • LITFL • CCC Cardiology](https://litfl.com/venous-return-and-shock/)
+	- [Venous Return and Shock • LITFL • CCC Cardiology](https://litfl.com/venous-return-and-shock/) 
 - Deranged Physiology
 	- [Definition and classification of shock](https://derangedphysiology.com/main/required-reading/cardiovascular-intensive-care/Chapter-111/definition-and-classification-shock)
 	- [Approach to the undifferentiated shock patient](https://derangedphysiology.com/main/required-reading/cardiovascular-intensive-care/Chapter-112/approach-undifferentiated-shock-patient)
