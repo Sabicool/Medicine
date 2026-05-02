@@ -129,6 +129,9 @@ $$
 - Commence/escalate vasopressor infusion
 	- The optimal initial vasopressor is unknown as is the optimal MAP
 		- In septic shock, it appears the initial pressor of choice is noradrenaline
+- Antibiotics after peripheral cultures are obtained if sepsis is possible
+- Steroids in patients with suspected adrenal crisis
+	- When in doubt about adrenal insufficiency, a reasonable approach is to give 6 mg dexamethasone and check a cortisol level simultaneously[^3]
 ## Secondary Survey
 - Focused history:
 	- Immediate events preceding the collapse
@@ -151,13 +154,59 @@ $$
 	- FBC
 	- UEC
 	- LFT
-	- Inflammatory markers
+	- Inflammatory markers (CRP and procalcitonin)
 	- Blood cultures x 2 
 	- Troponin and BNP
 	- Coagulation studies and D-dimer
+	- Cortisol level
+	- TSH and free T4 level
 ![[Pasted image 20260426102157.png]]
+
+# Approach to Refractory Shock
+- Diagnostic tests:
+	- Cardiac imaging:
+		- Repeat POCUS
+		- Formal echocardiography
+		- Review CT imaging if available
+		- Evaluate for unsual forms of shock (e.g. LVOT obstruction)
+	- Laboratory investigations:
+		- ABG/VBG and EUCs
+		- Glucose level
+		- CMP
+		- TSH and FT4
+		- CRP, procalcitonin and blood cultures
+- Treatment options:
+	- Optimise MAP target
+		- Central arterial line (femoral or axillary) as opposed to radial artery
+		- Reducing MAP target
+	- Review medications and stop hypotension inducing medications
+		- Haemodynamically stable analgosedation (e.g. ketamine infusion)
+		- Discontinue alpha-blockers being used for BPH
+	- Optimise pre-load
+		- Reduce PEEP
+		- Evaluate for auto-PEEP
+		- Re-evaluate fluid status and consider volume administration if appropriate
+	- Metabolic optimisation
+		- Temperature management
+		- Intravenous calcium in patients with low ionised calcium
+		- pH optimisation:
+			- Bicarbonate
+			- Ventilator management
+			- Dialysis
+		- IV thiamine for beriberi
+		- Steroids may enhance vascular responsiveness to vasopressors
+		- Thyroid hormone replacement for decompensated hypothyroidism
+			- Probably treat with T3 to achieve more rapid improvement
+	- Vasopressor optimisation
+		- High dose noradrenaline
+		- ? Methylene blue
+	- Heart rate optimisation
+		- Atropine
+		- Isoprenaline
+		- Pacing
 # Trauma Related Shock
 ![[Pasted image 20260426103530.png]]
+
 # Assessment
 - Identify the possible cause as above, assessing volume status and JVP and examining the ECG
 	- A low/non-visible JVP suggests hypovolaemic or distributive shock
@@ -354,3 +403,4 @@ $$
 
 [^1]: Except for in obstructive shock, where the obstructive cause must be dealt with first (e.g. tension pneumothorax)
 [^2]: CVP is a poor predictor of fluid responsiveness
+[^3]: Dexamethasone does not interfere with the cortisol level allowing one to perform an ACTH stimulation test later if indicated
