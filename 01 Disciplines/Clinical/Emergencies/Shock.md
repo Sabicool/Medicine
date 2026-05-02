@@ -284,6 +284,7 @@ $$
 ![[Pasted image 20260228203914.png|448]]
 
 # Fluid Responsiveness
+![[Pasted image 20260502230540.png]]
 - Fluid responsiveness is 10-15% increase in cardiac output in response to a fluid chalenge or pre-load augmentation manoeuvre
 - Not the same as needing fluid:
 	- **Is the patient fluid responsive?** (Will CO rise with fluid?)
@@ -387,6 +388,7 @@ $$
 - UpToDate: Evaluation of and initial approach to the adult patient with undifferentiated hypotension and shock 
 - [Undifferentiated Shock — ICU One Pager](https://onepagericu.com/undifferentiated-shock)
 - [Vasopressors — ICU One Pager](https://onepagericu.com/vasopressors)
+- [Fluid Responsiveness - could this hemodynamically unstable patient respond to IV fluids? — ICU One Pager](https://onepagericu.com/fluid-responsiveness)
 
 [^2]: CVP is a poor predictor of fluid responsiveness
 [^3]: Dexamethasone does not interfere with the cortisol level allowing one to perform an ACTH stimulation test later if indicated
