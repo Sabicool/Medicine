@@ -72,15 +72,23 @@ $$
 
 ![](Attachments/Pasted%20image%2020241216122047.png)
 # Features
+- Haemodynamics
+	- Hypotension (MAP < 65 mmHg or significant drop from baseline)
+	- Elevated shock index (HR/SBP) >0.8
+	- Urine output < 0.5 mL/kg/hour
+	- Dark urine
+	- ↑ troponin
+- Skin perfusion
+	- Cool hands and knees are an early sign of vasoconstriction with reduced cardiac output
+	- Mottling
+		- Suggests active endogenous vasoconstriction, implying that the patient would benefit from ionotropy not vasopressors
+	- Capillary refill time (>5 seconds)
+![[Pasted image 20260502190527.png]]
 - Neurological
-	- Altered mental status (agitation → delirium → solmnolence)
+	- Altered mental status (agitation → delirium → solmnolence), generally more of a sign of septic shock
 - Respiratory
 	- ↑ respiratory rate
 	- ↓ oxygen saturation
-- Cardiovascular
-	- ↑ heart rate
-	- ↑ troponin
-	- ↓ blood pressure
 - Hepatological
 	- ↑ bilirubin, AST, ALT
 - Nephrology
@@ -113,6 +121,7 @@ $$
 - Collect a series of generic laboratory investigations, most importantly an ABG
 - Assess neurology (i.e. spinal injury)
     - Exclude neurogenic ("spinal") shock
+![[Pasted image 20260502191306.png]]
 ## Empirical Resuscitation
 - Ventilate the intubated patient with low-moderate PEEP (0.1cmH2O/kg)
 - Commence fluid bolus: 10 ml/kg
