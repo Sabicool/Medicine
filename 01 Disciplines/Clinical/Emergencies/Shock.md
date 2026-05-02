@@ -211,6 +211,7 @@ $$
 	- Sepsis + hypovolaemia
 	- Sepsis + sepsis induced cardiomyopathy
 ![[Pasted image 20260426192018.png]]
+![[Pasted image 20260502191854.png]]
 # Management
 - Give oxygen and rapid IV fluid replacement (provided no evidence of cardiac failure)
 	- Maintain SpO2>95%
