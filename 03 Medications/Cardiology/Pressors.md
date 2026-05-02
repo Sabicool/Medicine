@@ -29,3 +29,17 @@ tags:
 > - Less titratable than noradrenaline infusion
 
 ^metaraminol
+
+
+> [!NOTE] Adrenaline
+> Anaphylaxis: 0.3-0.5 mg IM (thigh) | Shock infusion: 0.01-1 mcg/kg/min IV
+> - Anaphylaxis: IM adrenaline (Epipen 0.3 mg or ampoule 1:1000) is the drug of first choice
+> - Septic shock: Second agent alongside noradrenaline when additional inotropic support needed; associated with increased lactate that does not reflect true worsening
+> - Cardiogenic shock: Adrenaline has more arrhythmogenic risk than other inotropes
+> - Cardiac arrest: 1 mg IV every alternate loop
+
+^adrenaline
+
+
+> [!NOTE] Terlipressin
+> 
