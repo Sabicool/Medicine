@@ -30,6 +30,8 @@ $$
 	- Other types:
 		- Toxin-mediated shock (e.g. cyanide and carbon monoxide)
 # Classification
+![[Pasted image 20260228192323.png|358]]
+
 ![[ICU_one_pager_undifferentiated_shock.png]]
 - Cardiogenic shock
 	- Depressed contractility: ACS, myocarditis, myocardial contusion, cardiomyopathy, drug overdose (e.g. CCB or beta-blocker)
@@ -101,8 +103,10 @@ $$
 ![[Pasted image 20260502200408.png]]
 # Approach to Undifferentiated Shock
 ## Primary Survey
+- Call early for a senior doctor to help
 - Assess airway patency
     - Exclude airway obstruction and asphyxia
+- Start monitoring (pulse oximetry, ECG, BP)
 - Assess breathing:
     - Oxygenation (saturation probe)
     - Ventilation (end tidal CO2, chest auscultation)
@@ -169,7 +173,7 @@ $$
 	- CXR
 	- ABG with special attention to lactate
 	- Head to toe examination
-	    - Fluid status
+	    - Fluid status (JVP, skin, mucous membranes, heart sounds, lung sounds, CRT, HR, SBP, urine output, IVC and collapsability)
 	    - Sources of sepsis
 	    - Toxidromes
 	    - Abdominal examination, looking for AAA, retroperitoneal haematoma and pancreatitis
@@ -187,6 +191,15 @@ $$
 	- TSH and free T4 level
 ![[Pasted image 20260426102157.png]]
 
+![[Pasted image 20260228202223.png]]
+
+![[Pasted image 20260426192018.png]]
+
+![[Pasted image 20260502191854.png]]
+
+- More than one type of shock may co-exist in the same patient for example:
+	- Sepsis + hypovolaemia
+	- Sepsis + sepsis induced cardiomyopathy
 # Approach to Refractory Shock
 - Diagnostic tests:
 	- Cardiac imaging:
@@ -224,96 +237,62 @@ $$
 			- Probably treat with T3 to achieve more rapid improvement
 	- Vasopressor optimisation
 		- High dose noradrenaline
-		- ? Methylene blue
+		- Can consider second vasopressor (e.g. terlipressin)
+		- If mottling present: pivot from vasopressors to inotropes
+		- Consider right heart catheterisation for refractory or diagnostically unclear shock
+	- RV optimisation
+		- Correct all reversible causes of elevated PVR: hypoxia (target SaO₂ >92%), hypercapnia, acidosis, over-distension on the ventilator
+		- Pulmonary vasodilators: inhaled nitric oxide, nebulised iloprost (prostacyclin analogue)
+		- Milrinone is the preferred inotrope when there is combined LV + RV failure — it reduces PVR while supporting both ventricles
+		- Prone positioning reduces PVR in ARDS with cor pulmonale
 	- Heart rate optimisation
 		- Atropine
 		- Isoprenaline
 		- Pacing
+	- Mechanical circulatory support
+		- Invasive aortic balloon pump
+		- Impella
+		- VA-ECMO
 # Trauma Related Shock
 ![[Pasted image 20260426103530.png]]
 
 # Vasopressors and Ionotropes
+- Start noradrenaline early — don't wait for large volumes of fluid; fluid overload is harmful
+- Peripheral vasopressor use (short-term, large proximal vein) is acceptable to avoid delaying treatment while CVC inserted
+- Corticosteroids for vasopressor-refractory septic shock: hydrocortisone 200 mg/day IV (APROCCHSS, ADRENAL trials)
+- Titrate to MAP 65 (not higher in most cases — SEPSISPAM trial: no benefit at MAP 80–85)
+
 ![[Pressors#^noradrenaline]]
 ![[Pressors#^metaraminol]]
+![[Pressors#^adrenaline]]
+![[Pressors#^terlipressin]]
+![[Pressors#^doboutamine]]
+![[Pressors#^milrinone]]
+![[Pressors#^phenylephrine]]
 
-# Assessment
-- Identify the possible cause as above, assessing volume status and JVP and examining the ECG
-	- A low/non-visible JVP suggests hypovolaemic or distributive shock
-	- A raised JVP is seen in cardiogenic and obstructive shock
-		- ![](Attachments/Pasted%20image%2020241216142430.png)
-	- ECG changes may be the cause or the effect of the shock state
-- Look at the colour of the hands and digits and feel the temperature of the patient's hands 
-- Skin and mucous membranes
-	- An adequately hydrated patient has moist mucous membranes and a small pool of saliva at the undersurface of the tongue in the area of the frenulum
-	- Check tissue turgor by raising a fold of skin from the anterior chest area over the sternal angle
-- Measure CRT, HR, SBP and pulse pressure (widens in distributive and narrows in hypovolaemic), JVP
-	- Check postural HR and BP and repeat the HR and BP after the patient sits or stands for at least 2 minutes
-		- An increase in HR >20 beats/min, a fall in SBP >20 mmHg or any fall in DBP indicates postural hypotension
-	- Assess the capillary refill time by pressing on a nailbed (held at the level of the heart) for 5 seconds. Over 2 seconds is regarded as prolonged
-	- JVP usually falls on inspiration but Kussmaul's sign is when JVP rises on inspiration seen in cardiac tamponade
-	- Low diastolic blood pressure suggests arterial vasodilation as in [[Anaphylaxis]] or [[Sepsis]]
-	- A narrowed pulse pressure (<35-45 mmHg) suggests arterial vasoconstriction (cardiogenic shock or hypovolaemia)
-- Measure urine output
-	- Oliguria (urine volume <0.5 mL/kg/h)
-- Volume overload features:
-	- Raised JVP, peripheral oedema (taut, non-compliant skin), enlarged tender liver with positive hepatojugular reflux (liver pressing causes persistent elevation in JVP)
-	- An S3 gallop, lung crackles or pleural effusion
+| Situation                           | First agent                       | Add / escalate to                                                             | Avoid                                                 |
+| ----------------------------------- | --------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------- |
+| Undifferentiated shock              | Noradrenaline                     | Fluid trial first; escalate based on 6-step framework                         | —                                                     |
+| Septic shock (vasodilatory)         | Noradrenaline                     | Terlipressin (refractory); hydrocortisone; adrenaline if inotrope also needed | Excess fluid, dopamine                                |
+| Cardiogenic shock (LV)              | Noradrenaline (MAP support)       | Dobutamine or milrinone (inotropy); IABP/Impella/VA-ECMO escalation           | Dopamine, excessive adrenaline                        |
+| RV failure                          | Noradrenaline                     | Milrinone (reduces PVR + inotrope); adrenaline; inhaled iloprost/NO           | Vasodilators, aggressive fluid loading in RV dilation |
+| Anaphylaxis                         | Adrenaline 0.5 mg IM              | Adrenaline IV infusion; fluids; glucagon if on β-blockers                     | Any delay to adrenaline                               |
+| Peri-operative / spinal hypotension | Metaraminol 0.5–2 mg IV bolus     | Noradrenaline infusion once CVC placed; phenylephrine if bradycardic          | —                                                     |
+| Bradycardic shock                   | Atropine → isoprenaline infusion  | Temporary transvenous pacing                                                  | Phenylephrine, metaraminol (worsen bradycardia)       |
+| LVOTO / HOCM                        | Phenylephrine + fluid bolus       | Esmolol infusion (rate control)                                               | Inotropes, vasodilators, tachycardia-promoting agents |
+| Adrenal crisis                      | Hydrocortisone 100 mg IV + saline | Noradrenaline if MAP not restored                                             | Delaying hydrocortisone for investigations            |
+![[Pasted image 20260228203914.png|448]]
 
- > [!NOTE] Measuring JVP
-> - Can actually be done at any angle from 0 to 90 degrees. We often start at 45 degrees but if you can't see it, the JVP is either low in which case lower the head of the bed or the JVP is high in which case raise the head of the bed
-> - Once identified measure the perpendicular distance above the sternal angle to the top of the column of blood
-> - A JVP of 2-3 cm above the sternal angle is normal in adult patients; volume-overloaded patients have a JVP >3cm
-> - Pressing on the abdomen induces the hepatojugular reflux which increases the level of the JVP which may make it easier to identify
-> ![](Attachments/Pasted%20image%2020241216160849.png)
-## Distinguishing Shock Type
-![[Pasted image 20260228192323.png|358]]
+# Fluid Responsiveness
 
-![[Pasted image 20260425102143.png]]
-- Estimating CVP
-	- JVP is generally a good substitute for CVP
-		- The right atrium is assumed to lie 5cm closer to the ground than the sternal angle at all positions (supine, fully upright or 30-45 degrees)
-		- Therefore CVP in cm of water can be estimated by the following formula where normal is <8
-			- $\text{CVP} \approx \text{Height of JVP above sternal angle} + 5$
-	- Bedside ultrasound
-		- Place in subxiphoid/subcostal area and orient head to toe
-		- Measure the IVC diameter and collapsibility with sharp inspiration (ask the patient to ‘sniff’)
-		- ![[Pasted image 20260228201025.png|304]]
-		- ![[Pasted image 20260228201044.png|320]]
-- Estimating CO
-	- Using LV function on ultrasound as a substitute for CO
-	- Use the ultrasound in the parasternal long axis view
-- SVR
-	- Can be estimated by high SVR ⇒ cool extremities
-![[Pasted image 20260228202223.png]]
-- More than one type of shock may co-exist in the same patient for example:
-	- Sepsis + hypovolaemia
-	- Sepsis + sepsis induced cardiomyopathy
-![[Pasted image 20260426192018.png]]
-![[Pasted image 20260502191854.png]]
-# Management
-- Give oxygen and rapid IV fluid replacement (provided no evidence of cardiac failure)
-	- Maintain SpO2>95%
-	- Known COPD and modifications to obs. chart then can titrate the SpO2
-- Call early for a senior doctor to help
-- Start monitoring
-	- Pulse oximetry, ECG, BP, urine output, invasive arterial and venous monitoring if in ICU
-- Optimise oxygenation and ventilation:
-	- Consider high-flow oxygen and assisted ventilation if necessary
- - Optimise heart rate and rhythm:
-	- Cardioversion of a cardiac tachyarrhythmia if causing hypotension
-	- Atropine, adrenaline and pacing if bradycardia causing hypotension
-- Optimise preload and haemoglobin:
-	- Give 10-20 mL/kg normal saline rapidly IV and repeat until JVP is 3-5 cm above the sternal angle
-		- **Do not give fluids if JVP is already raised and the patient is in pulmonary oedema**
-		- If more than 60 mL/kg is required, check Hb to determine need for blood transfusion
-	- Give blood early for ongoing haemorrhage and arrange urgent surgery according to the cause; aim for Hb >90-100 g/L
-- Optimise afterload:
-	- Give a vasopressor if vasodilated from [Anaphylaxis](01%20Disciplines/Immunology/Emergencies/Anaphylaxis.md) or sepsis (e.g. adrenaline or noradrenaline respectively)
-	- **Do not use a vasopressor in hypovolaemia (especially haemorrhagic shock)**
-- Optimise cardiac function:
-	- Inotropic support (e.g. low-dose adrenaline, dobutamine or dopamine infusion) if still shocked despite above measures
-- Treat sepsis:
-	- Give broad-spectrum antibiotics early if septic shock is suspected
+# Steroids
+- Corticosteroids should not be used routinely for patients with septic shock
+	- the weight of evidence does not support a benefit in terms of patient-orientated outcomes
+	- ACTH stimulation tests are not useful in this patients
+	- hydrocortisone 200 mg IV daily is an option for septic shock patients who are refractory to vasopressors (e.g. adults requiring IV noradrenaline at 20-30 micrograms/h) and no other cause found; despite an absence of convincing supportive evidence of benefit
+- Corticosteroids should be used in patients who have shock and a specific indication for corticosteroid therapy
+	- e.g. anaphylaxis, known steroid dependence (e.g. for chronic immunosuppression), known hypoadrenalism, other steroid-responsive conditions like asthma or rheumatoid arthritis
+# Fluid Replacement in Dehydrated Patients
 
 > [!NOTE] Fluid replacement in dehydrated patients
 > 1. Resuscitate intravascular volume until perfusion is normalised as above with 20 mL/kg boluses of crystalloid (normal saline preferred)
@@ -326,91 +305,23 @@ $$
 > 	- 3.75L over 8 hours ≈ 450 mL/h
 > 	- 3.75L over 16 hours ≈ 230 mL/h
 > 6. Monitor adequacy of replacement by perfusion and vital signs, urine output and electrolyte changes
-- Crystalloids (e.g. normal saline) are widely used as fluid replacement
-	- Normal saline has a half-life in the intravascular space of around 1-3 hours
-- Colloids stay in the intravascular space for longer
-	- Albumin has a half-life in the intravascular space of around 17-20 hours
-	- They are more expensive and may cause allergic reactions
-- 5% dextrose equilibrates across the intravascular, interstitial and intracellular spaces and does not support the intravascular volume and therefore has *no role* in fluid resuscitation in shock
-## General Principles
-- The most critical aspect of treatment is the prompt restoration of normal haemodynamics therefore the priorities are[^1]:
-	1. Pulse, ventilation and oxygenation
-	2. Fluids (unless it is obvious that the patient has cardiogenic shock)
-	3. ‘Pressors’ (i.e. vasopressors and inotropes)
-	4. Everything else
-![[Pasted image 20260228203914.png|448]]
-### IV Fluid Resuscitation
-- Fluid responsiveness is present when stroke volume or cardiac output increases by ≥ 15% after receiving a 500mL bolus of IV fluid
-- IV fluid resuscitation should be used in patients who are fluid responders which can be tested in:
-	- Spontaneously breathing patients by:
-		- Change in pulse pressure ≥ 9% to passive leg raise
-		- Collapsibility of IVC with inspiration
-	- Fully sedated & mechanically ventilated patient by:
-		- A significant difference between the max stroke volume and/or pulse pressure (at end of inspiration) and minimum stroke volume and/or pulse pressure (at end of expiration)
-- Preferred fluid for resuscitation
-	- Colloids offer no benefit over crystalloids for resuscitation
-	- Give 1-2 L at a time in patients without a history of CHF or ESRD
-		- 30mL/kg of crystalloid is recommended as an initial fluid challenge
-	- Give 500 - 1000 mL at a time in patients with mild-moderate CHF or ESRD
-	- Give 250 mL at a time in patients with severe CHF
-	- Patients should be reassessed after each IVF bolus until shock is resolved
-- Determining adequacy of resuscitation
-	- MAP ≥ 65 mmHg
-	- CVP = 8-12 mmHg[^2]
-	- Urine output ≥ 0.5 mL/kg/hr
-	- $S_\text{CV}\ce{O2}$ ≥ 70%
-	- Normalised lactate if initially abnormal
-	- Normalised mental status if initially abnormal
-	- Note that heart rate is not a reliable indicator of volume status
-### Pressors
-![[Pasted image 20260301143438.png]]
-- Adrenoceptors
-	- $\alpha_1$ causes vasoconstriction ⇒ ↑ SVR
-	- $\beta_1$ causes inotropy and chronotropy ⇒ ↑ contractility and ↑ HR ⇒ ↑ CO
-	- $\beta_2$ causes vasodilation ⇒ ↓ SVR
-- Metaraminol
-    - Predominantly α₁ agonist with indirect β₁ effect (via noradrenaline release)
-    - ⇒ ↑ SVR, mild ↑ CO
-    - Less reflex bradycardia than Phenylephrine
-![[Pasted image 20260301145047.png]]
 
-| Shock Type                                                                  | Strategy       | First Line Agents                                         |
-| --------------------------------------------------------------------------- | -------------- | --------------------------------------------------------- |
-| Septic shock                                                                | Pressor-first  | Noradrenaline                                             |
-| Refractory septic shock                                                     | Add-on pressor | Vasopressin ± adrenaline                                  |
-| Cardiogenic shock†                                                          | Inotrope-first | Noradrenaline ± dobutamine                                |
-| Hypovolemic shock                                                           | Volume-first   | IV fluids; pressors only as a temporising measure         |
-| Perioperative / anaesthetic hypotension                                     | Pressor-first  | Metaraminol, phenylephrine, ephedrine (context dependent) |
-| Mixed / undifferentiated shock                                              | Pressor-first  | Noradrenaline ± dobutamine or adrenaline                  |
 
-- Phenylephrine is not recommended in the treatment of septic shock except in the following circumstances:
-	- Noradrenaline is associated with serious arrhythmias
-	- Cardiac output is known to be high
-	- Other approaches have failed
-![[Pasted image 20260322110500.png]]
-
-### Steroids
-- Corticosteroids should not be used routinely for patients with septic shock
-	- the weight of evidence does not support a benefit in terms of patient-orientated outcomes
-	- ACTH stimulation tests are not useful in this patients
-	- hydrocortisone 200 mg IV daily is an option for septic shock patients who are refractory to vasopressors (e.g. adults requiring IV noradrenaline at 20-30 micrograms/h) and no other cause found; despite an absence of convincing supportive evidence of benefit
-- Corticosteroids should be used in patients who have shock and a specific indication for corticosteroid therapy
-	- e.g. anaphylaxis, known steroid dependence (e.g. for chronic immunosuppression), known hypoadrenalism, other steroid-responsive conditions like asthma or rheumatoid arthritis
 # Appendix
-| Drug                      | Alpha-1 | Beta-1 | Beta-2 | Dopamine | Effect on SVR | Effect on HR | Effect on CO | Effect on BP |
-| ------------------------- | ------- | ------ | ------ | -------- | ------------- | ------------ | ------------ | ------------ |
-| Phenylephrine             | +++     | 0      | 0      | 0        | ↑↑            | ↓ / ↔        | ↓            | ↑↑           |
-| Metaraminol               | +++     | + (indirect) | 0  | 0        | ↑↑            | ↔ / ↑        | ↔ / ↑        | ↑↑           |
-| Vasopressin (V1 agonist)  | 0       | 0      | 0      | 0        | ↑↑            | ↔            | ↓            | ↑            |
-| Noradrenaline             | +++     | ++     | 0      | 0        | ↑↑            | ↑            | ↔ / ↑        | ↑↑           |
-| Adrenaline (Low dose)     | +       | +++    | ++     | 0        | ↓             | ↑            | ↑            | ↔ / ↑        |
-| Adrenaline (High dose)    | ++      | +++    | ++     | 0        | ↔ / ↑         | ↑            | ↑            | ↑↑           |
-| Dopamine (Low dose)*      | 0       | +      | 0      | ++       | ↔             | ↑            | ↑            | ↑            |
-| Dopamine (Moderate dose)* | +       | ++     | 0      | ++       | ↑             | ↑            | ↑            | ↑↑           |
-| Dopamine (High dose)*     | ++      | ++     | 0      | ++       | ↑↑            | ↑            | ↔ / ↑        | ↑↑           |
-| Dobutamine                | 0 / +   | +++    | ++     | 0        | ↓             | ↑            | ↑↑           | ↓ / ↔ / ↑    |
-| Isoprenaline              | 0       | +++    | +++    | 0        | ↓             | ↑↑           | ↑↑           | ↓ / ↔        |
-| Milrinone (PDE inhibitor) | 0       | 0      | 0      | 0        | ↓             | ↔ / ↑        | ↑↑           | ↓ / ↔ / ↑    |
+| Drug                      | Alpha-1 | Beta-1       | Beta-2 | Dopamine | Effect on SVR | Effect on HR | Effect on CO | Effect on BP |
+| ------------------------- | ------- | ------------ | ------ | -------- | ------------- | ------------ | ------------ | ------------ |
+| Phenylephrine             | +++     | 0            | 0      | 0        | ↑↑            | ↓ / ↔        | ↓            | ↑↑           |
+| Metaraminol               | +++     | + (indirect) | 0      | 0        | ↑↑            | ↔ / ↑        | ↔ / ↑        | ↑↑           |
+| Vasopressin (V1 agonist)  | 0       | 0            | 0      | 0        | ↑↑            | ↔            | ↓            | ↑            |
+| Noradrenaline             | +++     | ++           | 0      | 0        | ↑↑            | ↑            | ↔ / ↑        | ↑↑           |
+| Adrenaline (Low dose)     | +       | +++          | ++     | 0        | ↓             | ↑            | ↑            | ↔ / ↑        |
+| Adrenaline (High dose)    | ++      | +++          | ++     | 0        | ↔ / ↑         | ↑            | ↑            | ↑↑           |
+| Dopamine (Low dose)*      | 0       | +            | 0      | ++       | ↔             | ↑            | ↑            | ↑            |
+| Dopamine (Moderate dose)* | +       | ++           | 0      | ++       | ↑             | ↑            | ↑            | ↑↑           |
+| Dopamine (High dose)*     | ++      | ++           | 0      | ++       | ↑↑            | ↑            | ↔ / ↑        | ↑↑           |
+| Dobutamine                | 0 / +   | +++          | ++     | 0        | ↓             | ↑            | ↑↑           | ↓ / ↔ / ↑    |
+| Isoprenaline              | 0       | +++          | +++    | 0        | ↓             | ↑↑           | ↑↑           | ↓ / ↔        |
+| Milrinone (PDE inhibitor) | 0       | 0            | 0      | 0        | ↓             | ↔ / ↑        | ↑↑           | ↓ / ↔ / ↑    |
 
 # Sources
 - Youtube Videos
@@ -430,6 +341,5 @@ $$
 - [Undifferentiated Shock — ICU One Pager](https://onepagericu.com/undifferentiated-shock)
 - [Vasopressors — ICU One Pager](https://onepagericu.com/vasopressors)
 
-[^1]: Except for in obstructive shock, where the obstructive cause must be dealt with first (e.g. tension pneumothorax)
 [^2]: CVP is a poor predictor of fluid responsiveness
 [^3]: Dexamethasone does not interfere with the cortisol level allowing one to perform an ACTH stimulation test later if indicated

@@ -42,4 +42,43 @@ tags:
 
 
 > [!NOTE] Terlipressin
-> 
+> Bolus: 0.85–2.5 mg IV bolus q4–6h | Infusion: 1.3–5 mg/24h 
+> - $V_{1}$ receptor agonist (smooth muscle vasoconstriction)
+> - Hepatorenal syndrome type 1: terlipressin + albumin is first line
+> - Variceal bleeding: 2mg IV bolus then 1 mg q4-6h for up to 5 days
+> - Used in refractory septic shock as noradrenaline-sparing agent (off-label in Australia)
+> - Risk: digital/skin ischaemia, bradycardia, mesenteric ischaemia — monitor carefully
+> - Avoid in ischaemic heart disease, peripheral vascular disease
+
+^terlipressin
+
+
+> [!NOTE] Doboutamine
+> 2–20 mcg/kg/min IV infusion
+> - $\beta_{1}$ and $\beta_{2}$ agonist - positive inotropy, chronotropy; reduces SVR (vasodilatory)
+> - Used in cardiogenic shock with adequate MAP (often combined with noradrenaline)
+> - Risk of tachycardia and arrhythmia; may worsen hypotension in true hypovolaemia
+
+^doboutamine
+
+
+> [!NOTE] Milrinone
+> 0.125–0.75 mcg/kg/min IV (load: 25–50 mcg/kg over 10 min, often omitted)
+> - Used in cardiogenic shock, especially post-cardiac surgery or when β-receptor downregulation limits dobutamine effect
+> - Useful in pulmonary hypertension (reduces PVR)
+> - Longer half-life — effects accumulate, harder to titrate; prolonged hypotension if overdosed
+> - Renally cleared — dose-reduce in AKI
+
+^milrinone
+
+
+> [!NOTE] Phenylephrine
+> Bolus 50–200 mcg IV | Infusion 10–300 mcg/min
+> - Pure α₁ agonist — vasoconstriction without inotropic effect
+> - Useful in tachycardia-associated shock where noradrenaline's β₁ effect is undesirable (e.g., HOCM, AF with fast ventricular rate)
+> - Reflex bradycardia — use cautiously in bradycardic patients
+> - Can worsen cardiogenic shock by increasing afterload without supporting cardiac output
+
+^phenylephrine
+
+![[Pasted image 20260322110500.png]]

@@ -14,3 +14,13 @@ Rotations:
 > - **Lower limbs:** DVT (if PE suspected)
 
 ^overview
+
+
+- Bedside ultrasound
+	- Place in subxiphoid/subcostal area and orient head to toe
+	- Measure the IVC diameter and collapsibility with sharp inspiration (ask the patient to ‘sniff’)
+	- ![[Pasted image 20260228201025.png|304]]
+	- ![[Pasted image 20260228201044.png|320]]
+- Estimating CO
+	- Using LV function on ultrasound as a substitute for CO
+	- Use the ultrasound in the parasternal long axis view
