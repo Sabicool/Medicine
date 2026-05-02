@@ -9,6 +9,7 @@ tags:
 ---
 ![[Pasted image 20251207162214.png]]
 
+![[Pasted image 20260502234200.png]]
 
 > [!NOTE] Noradrenaline
 > 0.01-3 mcg/kg/min IV infusion (central line preferred)
