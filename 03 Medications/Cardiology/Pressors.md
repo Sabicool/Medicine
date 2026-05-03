@@ -22,6 +22,7 @@ aliases:
 > 
 > 
 > ![[noradrenaline.svg]]
+
 ^noradrenaline
 
 
@@ -36,6 +37,7 @@ aliases:
 > 
 > 
 > ![[metaraminol.svg]]
+
 ^metaraminol
 
 
@@ -48,6 +50,7 @@ aliases:
 > 
 > 
 > ![[adrenaline.svg]]
+
 ^adrenaline
 
 
