@@ -2,8 +2,8 @@ PWD /Users/sabiqul/Documents/02 areas/Medicine/tex
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT metaraminol.tex
-OUTPUT metaraminol.log
+INPUT phenylephrine.tex
+OUTPUT phenylephrine.log
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/standalone/standalone.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/standalone/standalone.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tools/shellesc.sty
@@ -176,10 +176,10 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/simplekv/simplekv.tex
 INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
 INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
 INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
-INPUT ./metaraminol.aux
-INPUT ./metaraminol.aux
-INPUT metaraminol.aux
-OUTPUT metaraminol.aux
+INPUT ./phenylephrine.aux
+INPUT ./phenylephrine.aux
+INPUT phenylephrine.aux
+OUTPUT phenylephrine.aux
 INPUT /usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -191,8 +191,7 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-OUTPUT metaraminol.pdf
+OUTPUT phenylephrine.pdf
 INPUT /usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT metaraminol.aux
+INPUT phenylephrine.aux
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb

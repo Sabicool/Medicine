@@ -85,6 +85,7 @@ aliases:
 > - Useful in tachycardia-associated shock where noradrenaline's β₁ effect is undesirable (e.g., HOCM, AF with fast ventricular rate)
 > - Reflex bradycardia — use cautiously in bradycardic patients
 > - Can worsen cardiogenic shock by increasing afterload without supporting cardiac output
+> ![[phenylephrine.svg]]
 
 ^phenylephrine
 

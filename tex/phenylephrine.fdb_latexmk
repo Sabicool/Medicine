@@ -1,10 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1777787515.58777 "metaraminol.tex" "metaraminol.pdf" "metaraminol" 1777787516.4267 0
+["pdflatex"] 1777787667.84932 "phenylephrine.tex" "phenylephrine.pdf" "phenylephrine" 1777787668.55332 0
   "/Users/sabiqul/.emacs.d/.local/straight/build-30.1/auctex/latex/preview.sty" 1761552973.57768 13875 09967d4ab60287cfaa3ce0e42a1524aa ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
-  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1248133631 32762 224316ccc9ad3ca0423a14971cfa7fc1 ""
   "/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/chemfig/chemfig.sty" 1592340471 388 2f9ccd1a71661ff4bea57e7855b0518e ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/chemfig/chemfig.tex" 1703804609 125167 2eae1c145639ddfa929d9bc7d93c3346 ""
@@ -110,10 +109,10 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1710929554.48101 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1710929396 8221424 376c9295c27607c5dad0bee67a28b4e1 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "metaraminol.aux" 1777787516.37691 73 cd3799fd75268c26c2d3c8da72e95612 "pdflatex"
-  "metaraminol.tex" 1777787512.81346 364 cd8e8f64f3d9e81c57576aa7a11d774e ""
+  "phenylephrine.aux" 1777787668.50543 73 cd3799fd75268c26c2d3c8da72e95612 "pdflatex"
+  "phenylephrine.tex" 1777787665.26156 368 70a2506a7b1fd6ab3d6c7bdf3e680272 ""
   (generated)
-  "metaraminol.aux"
-  "metaraminol.log"
-  "metaraminol.pdf"
+  "phenylephrine.aux"
+  "phenylephrine.log"
+  "phenylephrine.pdf"
   (rewritten before read)

@@ -11,6 +11,7 @@ date: 2026-05-03
 - The **backbone of all sympathomimetics**: catecholamines, amphetamines, antidepressants, bronchodilators
 - No hydroxyl groups → highly lipid soluble → **crosses the BBB freely**
 - Has essentially **no intrinsic pharmacological activity** on its own — it's purely a scaffold to hang functional groups on
+
 ![[beta-phenylethylamine.svg]]
 ## Beta-Carbon
 
@@ -39,6 +40,8 @@ date: 2026-05-03
 The catechol 3,4-hydroxyl pattern = maximum receptor binding, minimum CNS entry
 
 # Clinical Correlates
+See: [[Pressors]]
+
 | Drug              | Key structural feature         | Consequence                            |
 | ----------------- | ------------------------------ | -------------------------------------- |
 | **Noradrenaline** | No amine substituent           | Potent α agonist                       |
