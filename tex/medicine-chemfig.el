@@ -15,7 +15,8 @@
 \\usepackage{tikz}
 \\usepackage{chemfig}
 \\setchemfig{
-  atom sep=2.5em,         % bond length
+  atom sep=2.5em,
+  cram width=3pt,
   bond style={line width=0.8pt},
   double bond sep=2pt,
   baseline=(current bounding box.center)
