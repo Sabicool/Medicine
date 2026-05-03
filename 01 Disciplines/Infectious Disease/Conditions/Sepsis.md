@@ -3,9 +3,10 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
-date: 2026-04-29
+date: 2026-05-03
 aliases:
   - Septicaemia
+  - Septic Shock
 ---
 - SOFA Score can be used for sepsis severity score
 	- ≥2 => ↑ mortality
@@ -44,3 +45,4 @@ aliases:
 # Source: 
 - 16+ years old: https://www.cec.health.nsw.gov.au/__data/assets/pdf_file/0005/291803/Adult-Sepsis-Pathway.PDF
 - [Title Unavailable \| Site Unreachable](https://www.youtube.com/watch?v=3EVpyBORw5Y)
+- [Critique of the modern definitions for sepsis (Sepsis-III)](https://derangedphysiology.com/main/required-reading/sepsis-and-infections/Chapter-1401/critique-modern-definitions-sepsis-sepsis-iii)
