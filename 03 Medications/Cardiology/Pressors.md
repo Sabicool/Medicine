@@ -6,6 +6,9 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
 tags:
   - notes
+aliases:
+  - Vasopressors
+  - Ionotropes
 ---
 ![[Pasted image 20251207162214.png]]
 
@@ -16,6 +19,7 @@ tags:
 > - First line vasopressor in distributive and most forms of shock
 > - Predominantly $\alpha_{1}$ agonist with some $\beta_{1}$ ⇒ ↑ SVR and mild ↑ HR/CO
 > - Can be run peripherally short-term (forearm or antecubital) at low doses while CVC inserted
+> ![[noradrenaline.svg]]
 
 ^noradrenaline
 
@@ -28,6 +32,7 @@ tags:
 > - Tachyphylaxis with prolonged use
 > - Reflex bradycardia can occur - treat with atropine
 > - Less titratable than noradrenaline infusion
+> ![[metaraminol.svg]]
 
 ^metaraminol
 
@@ -38,6 +43,7 @@ tags:
 > - Septic shock: Second agent alongside noradrenaline when additional inotropic support needed; associated with increased lactate that does not reflect true worsening
 > - Cardiogenic shock: Adrenaline has more arrhythmogenic risk than other inotropes
 > - Cardiac arrest: 1 mg IV every alternate loop
+> ![[adrenaline.svg]]
 
 ^adrenaline
 

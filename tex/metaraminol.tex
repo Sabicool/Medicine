@@ -1,4 +1,5 @@
 \documentclass[tikz, border=2pt]{standalone}
+\usepackage{mhchem}
 \usepackage{tikz}
 \usepackage{chemfig}
 \setchemfig{
@@ -8,5 +9,7 @@
   baseline=(current bounding box.center)
 }
 \begin{document}
-\chemfig{**6((-HO)-(-OH)-----)}
+\chemfig{**(6---
+  (-(<[:90]OH)-[:-30](-[:-90])<[:30]\ce{NH2})
+  --(-HO)-)}
 \end{document}
