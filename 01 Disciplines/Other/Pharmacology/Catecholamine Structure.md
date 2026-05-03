@@ -7,3 +7,9 @@ date: 2026-05-03
 - The two hydroxyl groups are critical for receptor affinity (see below)
 
 ![[phenol.svg]]
+
+# β-Phenylethylamine
+
+- The **backbone of all sympathomimetics**: catecholamines, amphetamines, antidepressants, bronchodilators
+- No hydroxyl groups → highly lipid soluble → **crosses the BBB freely**
+- Has essentially **no intrinsic pharmacological activity** on its own — it's purely a scaffold to hang functional groups on
