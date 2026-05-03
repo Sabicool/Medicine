@@ -1,5 +1,5 @@
 ---
-date: 2026-05-02
+date: 2026-05-03
 Rotations:
   - "[[Intensive Care Unit]]"
   - "[[Emergency Medicine]]"
@@ -9,7 +9,7 @@ tags:
 ---
 ![[Pasted image 20251207162214.png]]
 
-![[Pasted image 20260502234200.png]]
+![[Pasted image 20260503104603.png]]
 
 > [!NOTE] Noradrenaline
 > 0.01-3 mcg/kg/min IV infusion (central line preferred)
