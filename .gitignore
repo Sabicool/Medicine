@@ -18,6 +18,7 @@ Templates/*
 # Excalidraw/*
 
 tex/.auctex-auto/*
+tex/chemfig-launch.sh
 *.log
 *.pdf
 *.synctex.gz

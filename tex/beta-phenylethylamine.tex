@@ -1,0 +1,13 @@
+\documentclass[tikz, border=2pt]{standalone}
+\usepackage{mhchem}
+\usepackage{tikz}
+\usepackage{chemfig}
+\setchemfig{
+  atom sep=2.5em,         % bond length
+  bond style={line width=0.8pt},
+  double bond sep=2pt,
+  baseline=(current bounding box.center)
+}
+\begin{document}
+\chemfig{**6(---(--[:-30]-[:30]\ce{NH2})---)}
+\end{document}

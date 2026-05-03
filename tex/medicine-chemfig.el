@@ -11,6 +11,7 @@
 
 (defconst medicine/chemfig-template
   "\\documentclass[tikz, border=2pt]{standalone}
+\\usepackage{mhchem}
 \\usepackage{tikz}
 \\usepackage{chemfig}
 \\setchemfig{
@@ -111,10 +112,45 @@ When called interactively from a markdown buffer in the vault, inserts
       (insert medicine/chemfig-template)
       (goto-char (point-min))
       (re-search-forward "\\\\chemfig{" nil t)
-      (setq-local medicine/chemfig--name   name
-                  medicine/chemfig--source marker)
       (require 'latex nil t)
       (if (fboundp 'LaTeX-mode) (LaTeX-mode) (latex-mode))
+      ;; Set locals after mode activation — major-mode calls kill buffer-locals.
+      (setq-local medicine/chemfig--name   name
+                  medicine/chemfig--source marker)
+      (medicine-chemfig-mode 1)
+      (message "C-c C-c  compile + export   |   C-c C-k  discard"))
+    (setq medicine/chemfig--pending buf)
+    (if (and (featurep 'yequake)
+             (assoc "medicine-chemfig" yequake-frames))
+        (progn
+          (when (and (fboundp 'my/yequake-frame-visible-p)
+                     (my/yequake-frame-visible-p "medicine-chemfig"))
+            (yequake-toggle "medicine-chemfig"))
+          (yequake-toggle "medicine-chemfig"))
+      (pop-to-buffer buf))))
+
+;;;###autoload
+(defun medicine/edit-chemfig (name)
+  "Open an existing chemfig .tex file for editing and re-export.
+Completes from .tex files in the vault tex/ directory.
+Does not insert a wikilink on compile — the link already exists."
+  (interactive
+   (list (completing-read
+          "Edit diagram: "
+          (mapcar #'file-name-base
+                  (file-expand-wildcards
+                   (expand-file-name "*.tex" medicine/tex-dir)))
+          nil t)))
+  (let* ((tex-file (expand-file-name (concat name ".tex") medicine/tex-dir))
+         (buf      (get-buffer-create (format "*chemfig:%s*" name))))
+    (with-current-buffer buf
+      (erase-buffer)
+      (insert-file-contents tex-file)
+      (goto-char (point-min))
+      (require 'latex nil t)
+      (if (fboundp 'LaTeX-mode) (LaTeX-mode) (latex-mode))
+      (setq-local medicine/chemfig--name   name
+                  medicine/chemfig--source nil)
       (medicine-chemfig-mode 1)
       (message "C-c C-c  compile + export   |   C-c C-k  discard"))
     (setq medicine/chemfig--pending buf)
