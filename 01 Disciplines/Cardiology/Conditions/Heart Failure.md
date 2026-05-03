@@ -1,7 +1,8 @@
 ---
 Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
-date: 2025-01-09
+date: 2026-05-03
 tags:
   - notes
 ---
+# Acute
