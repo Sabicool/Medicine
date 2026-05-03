@@ -16,3 +16,9 @@ Private/*
 .trash/*
 Templates/*
 # Excalidraw/*
+
+tex/.auctex-auto/*
+*.log
+*.pdf
+*.synctex.gz
+*.aux
