@@ -262,12 +262,25 @@ $$
 - Corticosteroids for vasopressor-refractory septic shock: hydrocortisone 200 mg/day IV (APROCCHSS, ADRENAL trials)
 - Titrate to MAP 65 (not higher in most cases — SEPSISPAM trial: no benefit at MAP 80–85)
 
+
 ![[Pressors#^noradrenaline]]
+
+
 ![[Pressors#^metaraminol]]
+
+
 ![[Pressors#^adrenaline]]
+
+
 ![[Pressors#^terlipressin]]
+
+
 ![[Pressors#^doboutamine]]
+
+
 ![[Pressors#^milrinone]]
+
+
 ![[Pressors#^phenylephrine]]
 
 | Situation                           | First agent                       | Add / escalate to                                                             | Avoid                                                 |

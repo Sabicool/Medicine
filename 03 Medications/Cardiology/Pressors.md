@@ -19,8 +19,9 @@ aliases:
 > - First line vasopressor in distributive and most forms of shock
 > - Predominantly $\alpha_{1}$ agonist with some $\beta_{1}$ ⇒ ↑ SVR and mild ↑ HR/CO
 > - Can be run peripherally short-term (forearm or antecubital) at low doses while CVC inserted
+> 
+> 
 > ![[noradrenaline.svg]]
-
 ^noradrenaline
 
 
@@ -32,8 +33,9 @@ aliases:
 > - Tachyphylaxis with prolonged use
 > - Reflex bradycardia can occur - treat with atropine
 > - Less titratable than noradrenaline infusion
+> 
+> 
 > ![[metaraminol.svg]]
-
 ^metaraminol
 
 
@@ -43,8 +45,9 @@ aliases:
 > - Septic shock: Second agent alongside noradrenaline when additional inotropic support needed; associated with increased lactate that does not reflect true worsening
 > - Cardiogenic shock: Adrenaline has more arrhythmogenic risk than other inotropes
 > - Cardiac arrest: 1 mg IV every alternate loop
+> 
+> 
 > ![[adrenaline.svg]]
-
 ^adrenaline
 
 
@@ -68,6 +71,8 @@ aliases:
 
 ^doboutamine
 
+![[Dobutamine.excalidraw.svg]]
+%%[[Dobutamine.excalidraw.md|🖋 Edit in Excalidraw]]%%
 
 > [!NOTE] Milrinone
 > 0.125–0.75 mcg/kg/min IV (load: 25–50 mcg/kg over 10 min, often omitted)
@@ -85,6 +90,8 @@ aliases:
 > - Useful in tachycardia-associated shock where noradrenaline's β₁ effect is undesirable (e.g., HOCM, AF with fast ventricular rate)
 > - Reflex bradycardia — use cautiously in bradycardic patients
 > - Can worsen cardiogenic shock by increasing afterload without supporting cardiac output
+> 
+> 
 > ![[phenylephrine.svg]]
 
 ^phenylephrine

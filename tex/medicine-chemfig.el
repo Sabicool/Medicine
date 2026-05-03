@@ -16,6 +16,7 @@
 \\usepackage{chemfig}
 \\setchemfig{
   atom sep=2.5em,
+  angle increment=30,
   cram width=3pt,
   bond style={line width=0.8pt},
   double bond sep=2pt,
