@@ -1,5 +1,5 @@
 ---
-date: 2026-05-03
+date: 2026-05-04
 Rotations:
   - "[[Intensive Care Unit]]"
   - "[[Emergency Medicine]]"
@@ -66,11 +66,12 @@ aliases:
 ^terlipressin
 
 
-> [!NOTE] Doboutamine
+> [!NOTE] Dobutamine
 > 2–20 mcg/kg/min IV infusion
 > - $\beta_{1}$ and $\beta_{2}$ agonist - positive inotropy, chronotropy; reduces SVR (vasodilatory)
 > - Used in cardiogenic shock with adequate MAP (often combined with noradrenaline)
 > - Risk of tachycardia and arrhythmia; may worsen hypotension in true hypovolaemia
+> ![[dobutamine.svg]]
 
 ^doboutamine
 

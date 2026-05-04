@@ -1,0 +1,20 @@
+\documentclass[tikz, border=2pt]{standalone}
+\usepackage{mhchem}
+\usepackage{tikz}
+\usepackage{chemfig}
+\setchemfig{
+  atom sep=2.5em,
+  angle increment=30,
+  cram width=3pt,
+  bond style={line width=0.8pt},
+  double bond sep=2pt,
+  baseline=(current bounding box.center)
+}
+\begin{document}
+\chemfig{HO-[1]
+  **6(---
+  (-[1]-[-1]-[1]N(-[3]H)
+  -[-1](-[-3])-[1]-[-1]-[1]**6(---(-OH)---))
+  --(-HO)-
+  )}
+\end{document}
