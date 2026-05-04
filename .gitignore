@@ -23,3 +23,7 @@ tex/chemfig-launch.sh
 *.pdf
 *.synctex.gz
 *.aux
+*.fdb_latexmk
+*.fls
+*.sh
+.auctex-auto/*
