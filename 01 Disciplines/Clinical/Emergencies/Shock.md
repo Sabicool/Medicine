@@ -4,7 +4,7 @@ aliases:
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-date: 2026-05-03
+date: 2026-05-06
 ---
 # Definition
 - Physiologic state characterised by a systemic impairment in oxygen delivery as a result of reduced tissue perfusion, almost universally mediated by low blood pressure ($DO_{2}<\dot{V}O_{2}$)
@@ -133,7 +133,7 @@ $$
     - Exclude neurogenic ("spinal") shock
 ![[Pasted image 20260502191306.png]]
 ## Empirical Resuscitation
-- Ventilate the intubated patient with low-moderate PEEP (0.1cmH2O/kg)
+- Ventilate the intubated patient with low-moderate PEEP (0.1 cm $\ce{H2O}$/kg)
 - Commence fluid bolus: 10 ml/kg
 	- Generally 30 mL/kg within the first 3 hours for sepsis
 	- Give as a fluid challenge: 250-500mL over 10-15 minutes
