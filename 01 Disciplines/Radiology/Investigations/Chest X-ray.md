@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[02 Rotations/Respiratory|Respiratory]]"
-date: 2026-03-22
+date: 2026-05-07
 tags:
   - notes
 figureCount: 49
@@ -54,6 +54,10 @@ Assess for:
 - Rib notching
 	- Superior surface: osteogenesis imperfecta, connective tissue disorders, hyperparathyroidism
 	- Inferior surface: coarctation of the aorta, subclavian or SVC obstruction
+- Sternoclavicular joint dislocation (usually uncommon unless high impact mechanism)
+	- Inferior displacement of the medial ends of the clavicle suggests posterior dislocation (see: [Radiopaedia case](https://radiopaedia.org/courses/case-reads/pages/2931)) - requires thoracic CT angiogram to assess for vascular, airway or oesophageal injury
+	- Superior displacement on X-ray suggests anterior dislocation
+![[Pasted image 20260507125619.png]]
 ### Soft Tissue
 - Subcutaneous emphysema
 ## Cardiac Silhouette and Mediastinum
