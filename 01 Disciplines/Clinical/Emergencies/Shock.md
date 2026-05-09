@@ -86,7 +86,9 @@ $$
 	- Mottling
 		- Suggests active endogenous vasoconstriction, implying that the patient would benefit from ionotropy not vasopressors
 	- Capillary refill time (>5 seconds)
+
 ![[Pasted image 20260502190527.png]]
+
 - Neurological
 	- Altered mental status (agitation → delirium → solmnolence), generally more of a sign of septic shock
 - Respiratory
