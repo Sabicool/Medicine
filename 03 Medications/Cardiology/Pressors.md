@@ -1,5 +1,5 @@
 ---
-date: 2026-05-04
+date: 2026-05-09
 Rotations:
   - "[[Intensive Care Unit]]"
   - "[[Emergency Medicine]]"
@@ -99,5 +99,6 @@ aliases:
 > ![[phenylephrine.svg]]
 
 ^phenylephrine
+
 
 ![[Pasted image 20260322110500.png]]

@@ -4,10 +4,11 @@ aliases:
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-date: 2026-05-06
+date: 2026-05-09
 ---
 # Definition
 - Physiologic state characterised by a systemic impairment in oxygen delivery as a result of reduced tissue perfusion, almost universally mediated by low blood pressure ($DO_{2}<\dot{V}O_{2}$)
+
 # Pathophysiology
 $$
 \underset{\text{Perfusion Pressure}}{\text{MAP} - \text{CVP}} = \text{CO} \times \text{SVR}
