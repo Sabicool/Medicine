@@ -297,7 +297,9 @@ $$
 | Bradycardic shock                   | Atropine → isoprenaline infusion  | Temporary transvenous pacing                                                  | Phenylephrine, metaraminol (worsen bradycardia)       |
 | LVOTO / HOCM                        | Phenylephrine + fluid bolus       | Esmolol infusion (rate control)                                               | Inotropes, vasodilators, tachycardia-promoting agents |
 | Adrenal crisis                      | Hydrocortisone 100 mg IV + saline | Noradrenaline if MAP not restored                                             | Delaying hydrocortisone for investigations            |
+
 ![[Pasted image 20260228203914.png|448]]
+
 
 # Fluid Responsiveness
 ![[Pasted image 20260502230540.png]]
