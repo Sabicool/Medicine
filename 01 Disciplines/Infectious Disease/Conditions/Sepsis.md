@@ -55,6 +55,7 @@ aliases:
 - Monitoring
 	- Arterial line
 	- Central line if pressors are required
+- Goals
 	- Aim for MAP ≥65 mmHg
 	- Aun for CVP 8-12 mmHg
 - Measure fluid responsiveness (e.g. pulse pressure variation, expiratory hold manoeuvre, passive leg raise, stroke volume variation, IVC ultrasonography)
@@ -63,8 +64,17 @@ aliases:
 	- Lactate clearance is better than 10% over 2 hours
 	- Arteriovenous $\ce{CO2}$ difference < 6 mmHg
 	- Urine output > 1.0 mL/kg
-
-
+## Vasopressors
+- If no further fluid resuscitation can be provided and haemodynamics still suboptimal start pressors
+- Noradrenaline remains first choice
+## Assess Adequacy of Cardiac Output
+- Consider inotropes in patients:
+	- Low cardiac output that is being monitored
+	- Patients whose fluid resuscitation remains inadequate (as above: $\text{Scv}\ce{O2}$, lactate clearance etc.) despite adequate MAP
+- Dobutamine appears to be most recommended followed by adrenaline?
+## Refractory Hypotension
+- Refractory shock is suggested by:
+	- 
 
 
 - Restore haemodynamics
