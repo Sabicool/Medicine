@@ -120,8 +120,8 @@ aliases:
 	- [Resuscitation of the Septic Shock Patient](https://derangedphysiology.com/main/required-reading/sepsis-and-infections/Chapter-121/fluid-resuscitation-septic-shock)
 	- [Fluid resuscitation for septic shock](https://derangedphysiology.com/main/required-reading/sepsis-and-infections/Chapter-121/fluid-resuscitation-septic-shock)
 	- [Critique of the modern definitions for sepsis (Sepsis-III)](https://derangedphysiology.com/main/required-reading/sepsis-and-infections/Chapter-1401/critique-modern-definitions-sepsis-sepsis-iii)
-- [Publication – Surviving Sepsis Campaign Guidelines 2024 – Sepsis Australia](https://www.australiansepsisnetwork.net.au/resources/publication-surviving-sepsis-campaign-guidelines-2024/)
 - [Surviving Sepsis Campaign \| SCCM](https://www.sccm.org/survivingsepsiscampaign)
 - [2026 SSC Adult Guidelines Updates: What Clinicians Need to Know - YouTube](https://www.youtube.com/watch?v=YGmytzW_yB0)
+- [Critical Care Medicine | Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026](https://journals.lww.com/ccmjournal/fulltext/2026/04000/surviving_sepsis_campaign__international.5.aspx)
 
 [^1]: This remains as a conditional recommendation from the surviving sepsis campaign with low quality evidence
