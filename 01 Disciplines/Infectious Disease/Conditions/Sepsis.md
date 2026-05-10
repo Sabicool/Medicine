@@ -7,6 +7,8 @@ aliases:
   - Septicaemia
   - Septic Shock
 ---
+Also see: [[Shock]] for the management of undifferentiated shock
+
 - SOFA Score can be used for sepsis severity score
 	- ≥2 => ↑ mortality
  - Antibiotics
@@ -16,8 +18,7 @@ aliases:
 # Screening
 - Who to screen
 	- All acutely ill patients who arrive to hospital by ambulance or flight
-- Consider screening with SIRS criteria: [Fetching Title#0276](https://www.mdcalc.com/calc/1096/sirs-sepsis-septic-shock-criteria)
-- 
+- Consider screening with [SIRS criteria](https://www.mdcalc.com/calc/1096/sirs-sepsis-septic-shock-criteria) or MEWS as opposed to qSOFA
 # Investigations
 - Bedside
 	- ECG - ischaemia, arrhythmias
@@ -35,7 +36,6 @@ aliases:
 	- Echocardiogram - sepsis-induced cardiomyopathy
 	- Abdominal imaging
 # Management
-- ABCs
 
 > [!NOTE] Summary of Management
 > 1.  IV access and blood cultures 
@@ -49,6 +49,7 @@ aliases:
 > 9. If still refractory consider: intravenous calcium, methylene blue, esmolol
 > 10. Consider toxic shock: IV immunoglobulin and clindamycin
 
+![[Pasted image 20260510165424.png]]
 ## Fluid Resuscitation
 - Large-bore cannulae
 - Blood cultures; ideally two sets from different sites
@@ -57,8 +58,11 @@ aliases:
 	- If not in shock, where sepsis is probable but not confirmed; rapid assessment and administer antimicrobial therapy within 3 hours
 	- Consider anaerobic coverage when risk factors exist e.g. intra-abdominal or deep seated gynaecological/obstetric source of infection, necrotising soft tissue infection, head and neck infection and central nervous system abscesses or empyema
 - 30mL/kg of crystalloid fluid (preferably balanced fluids e.g. hartmanns, plasmalyte)[^1] within the first 3 hours
-	- Weight-based fluid volume should be calculated on actual body weight (particularly in underweight patients) or ideal body weight in patients with BMI > 30
+	- Weight-based fluid volume should be calculated on actual body weight (particularly in underweight patients) or adjusted body weight in patients with BMI > 30 (see: [adjusted body weight calculator](https://www.mdcalc.com/calc/68/ideal-body-weight-adjusted-body-weight) or table below)
 	- In patients with traumatic brain injury use 0.9% saline
+
+![[Pasted image 20260510164818.png|697]]
+
 - Albumin
 - Transfuse blood if Hb < 70 but remain conservative in transfusion efforts
 ## Assess Need for Further Fluid Resuscitation
@@ -67,7 +71,7 @@ aliases:
 	- Central line if pressors are required
 	- Monitor capillary refill time where serial lactate measurements are not possible
 - Goals
-	- Aim for MAP ≥65 mmHg and a MAP of 60-65 mmHg in patients aged ≥ 65 years
+	- Aim for MAP of 65±5 mmHg and lower MAP range of 60-65 mmHg in patients aged ≥ 65 years
 	- Aun for CVP 8-12 mmHg
 - Measure fluid responsiveness (e.g. pulse pressure variation, expiratory hold manoeuvre, passive leg raise, stroke volume variation, IVC ultrasonography)
 - Fluid resuscitation is considered adequate if:
