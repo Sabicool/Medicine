@@ -74,8 +74,25 @@ aliases:
 - Dobutamine appears to be most recommended followed by adrenaline?
 ## Refractory Hypotension
 - Refractory shock is suggested by:
-	- 
+	- Patient has adequate preload
+	- Patient has adequate cardiac output
+	- MAP won’t remain in goal despite large doses of noradrenaline (>15 µg/min or 0.21 µg/kg/min or is otherwise causing arrhythmias)
+	- Fluid resuscitation measures remain inadequate
+- Consider:
+	- Vasopressin
+	- Steroids
+	- Toxic shock
+- Other considerations:
+	- Correct ionised calcium
+	- Methylene blue
+	- Angiotensin-II
+	- Correct acidosis with bicarbonate if pH < 7.15
+	- Slow heart rate with esmolol
+	- High volume haemofiltration
 
+
+
+—
 
 - Restore haemodynamics
 	- IV fluids boluses 30mL/kg in the first 3 hours
@@ -92,4 +109,7 @@ aliases:
 - [Title Unavailable \| Site Unreachable](https://www.youtube.com/watch?v=3EVpyBORw5Y)
 - Derranged Physiology: [Sepsis and Infections Chapters](https://derangedphysiology.com/main/required-reading/sepsis-and-infections):
 	- [Resuscitation of the Septic Shock Patient](https://derangedphysiology.com/main/required-reading/sepsis-and-infections/Chapter-121/fluid-resuscitation-septic-shock)
-- [Critique of the modern definitions for sepsis (Sepsis-III)](https://derangedphysiology.com/main/required-reading/sepsis-and-infections/Chapter-1401/critique-modern-definitions-sepsis-sepsis-iii)
+	- [Fluid resuscitation for septic shock](https://derangedphysiology.com/main/required-reading/sepsis-and-infections/Chapter-121/fluid-resuscitation-septic-shock)
+	- [Critique of the modern definitions for sepsis (Sepsis-III)](https://derangedphysiology.com/main/required-reading/sepsis-and-infections/Chapter-1401/critique-modern-definitions-sepsis-sepsis-iii)
+- [Publication – Surviving Sepsis Campaign Guidelines 2024 – Sepsis Australia](https://www.australiansepsisnetwork.net.au/resources/publication-surviving-sepsis-campaign-guidelines-2024/)
+- [Surviving Sepsis Campaign \| SCCM](https://www.sccm.org/survivingsepsiscampaign)
