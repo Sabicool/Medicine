@@ -16,6 +16,8 @@ aliases:
 # Screening
 - Who to screen
 	- All acutely ill patients who arrive to hospital by ambulance or flight
+- Consider screening with SIRS criteria: [Fetching Title#0276](https://www.mdcalc.com/calc/1096/sirs-sepsis-septic-shock-criteria)
+- 
 # Investigations
 - Bedside
 	- ECG - ischaemia, arrhythmias
@@ -54,7 +56,7 @@ aliases:
 	- Ideally within 1 hour of recognition if patient is in shock
 	- If not in shock, where sepsis is probable but not confirmed; rapid assessment and administer antimicrobial therapy within 3 hours
 	- Consider anaerobic coverage when risk factors exist e.g. intra-abdominal or deep seated gynaecological/obstetric source of infection, necrotising soft tissue infection, head and neck infection and central nervous system abscesses or empyema
-- 30mL/kg of crystalloid fluid (preferably balanced fluids e.g. hartmanns, plasmalyte)[^1]
+- 30mL/kg of crystalloid fluid (preferably balanced fluids e.g. hartmanns, plasmalyte)[^1] within the first 3 hours
 	- Weight-based fluid volume should be calculated on actual body weight (particularly in underweight patients) or ideal body weight in patients with BMI > 30
 	- In patients with traumatic brain injury use 0.9% saline
 - Albumin
@@ -76,6 +78,7 @@ aliases:
 ## Vasopressors
 - If no further fluid resuscitation can be provided and haemodynamics still suboptimal start pressors
 - Noradrenaline remains first choice
+- Start vasopressors peripherally (e.g. with metaraminol) to avoid delaying initiation of vasopressors until central venous access is secured
 ## Assess Adequacy of Cardiac Output
 - Consider inotropes in patients:
 	- Low cardiac output that is being monitored
@@ -88,7 +91,8 @@ aliases:
 	- MAP won’t remain in goal despite large doses of noradrenaline (>15 µg/min or 0.21 µg/kg/min or is otherwise causing arrhythmias)
 	- Fluid resuscitation measures remain inadequate
 - Consider:
-	- Vasopressin
+	- Vasopressin (if available)
+		- If still inadequate consider adrenaline
 	- Steroids
 	- Toxic shock
 - Other considerations:
