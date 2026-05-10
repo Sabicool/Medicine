@@ -100,7 +100,7 @@ aliases:
 	- Methylene blue
 	- Angiotensin-II
 	- Correct acidosis with bicarbonate if pH < 7.15
-	- Slow heart rate with esmolol
+	- Slow heart rate with esmolol[^2]
 	- High volume haemofiltration
 
 
@@ -129,3 +129,4 @@ aliases:
 - [Critical Care Medicine | Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026](https://journals.lww.com/ccmjournal/fulltext/2026/04000/surviving_sepsis_campaign__international.5.aspx)
 
 [^1]: This remains as a conditional recommendation from the surviving sepsis campaign with low quality evidence
+[^2]: Surviving sepsis guidelines suggest against this
