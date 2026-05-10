@@ -13,6 +13,9 @@ aliases:
 	- Tazoscin
 	- Vancomycin
 	- ±Azithromycin if suspicious of respiratory cause
+# Screening
+- Who to screen
+	- All acutely ill patients who arrive to hospital by ambulance or flight
 # Investigations
 - Bedside
 	- ECG - ischaemia, arrhythmias
@@ -48,7 +51,11 @@ aliases:
 - Large-bore cannulae
 - Blood cultures; ideally two sets from different sites
 - Antibiotic therapy without delay
-- 30mL/kg of crystalloid fluid (preferably balanced fluids e.g. plasmalyte)
+	- Ideally within 1 hour of recognition if patient is in shock
+	- If not in shock, where sepsis is probable but not confirmed; rapid assessment and administer antimicrobial therapy within 3 hours
+	- Consider anaerobic coverage when risk factors exist e.g. intra-abdominal or deep seated gynaecological/obstetric source of infection, necrotising soft tissue infection, head and neck infection and central nervous system abscesses or empyema
+- 30mL/kg of crystalloid fluid (preferably balanced fluids e.g. plasmalyte)[^1]
+	- Weight-based fluid volume should be calculated on actual body weight (particularly in underweight patients) or ideal body weight in patients with BMI > 30
 - Albumin
 - Transfuse blood if Hb < 70 but remain conservative in transfusion efforts
 ## Assess Need for Further Fluid Resuscitation
@@ -113,3 +120,6 @@ aliases:
 	- [Critique of the modern definitions for sepsis (Sepsis-III)](https://derangedphysiology.com/main/required-reading/sepsis-and-infections/Chapter-1401/critique-modern-definitions-sepsis-sepsis-iii)
 - [Publication – Surviving Sepsis Campaign Guidelines 2024 – Sepsis Australia](https://www.australiansepsisnetwork.net.au/resources/publication-surviving-sepsis-campaign-guidelines-2024/)
 - [Surviving Sepsis Campaign \| SCCM](https://www.sccm.org/survivingsepsiscampaign)
+- [2026 SSC Adult Guidelines Updates: What Clinicians Need to Know - YouTube](https://www.youtube.com/watch?v=YGmytzW_yB0)
+
+[^1]: This remains as a conditional recommendation from the surviving sepsis campaign with low quality evidence
