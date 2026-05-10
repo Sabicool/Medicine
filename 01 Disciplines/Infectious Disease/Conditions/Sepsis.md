@@ -2,7 +2,7 @@
 Rotations:
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
-date: 2026-05-09
+date: 2026-05-10
 aliases:
   - Septicaemia
   - Septic Shock
@@ -45,6 +45,27 @@ aliases:
 > 10. Consider toxic shock: IV immunoglobulin and clindamycin
 
 ## Fluid Resuscitation
+- Large-bore cannulae
+- Blood cultures; ideally two sets from different sites
+- Antibiotic therapy without delay
+- 30mL/kg of crystalloid fluid (preferably balanced fluids e.g. plasmalyte)
+- Albumin
+- Transfuse blood if Hb < 70 but remain conservative in transfusion efforts
+## Assess Need for Further Fluid Resuscitation
+- Monitoring
+	- Arterial line
+	- Central line if pressors are required
+	- Aim for MAP ≥65 mmHg
+	- Aun for CVP 8-12 mmHg
+- Measure fluid responsiveness (e.g. pulse pressure variation, expiratory hold manoeuvre, passive leg raise, stroke volume variation, IVC ultrasonography)
+- Fluid resuscitation is considered adequate if:
+	- $\text{Scv}\ce{O2}$ > 70%
+	- Lactate clearance is better than 10% over 2 hours
+	- Arteriovenous $\ce{CO2}$ difference < 6 mmHg
+	- Urine output > 1.0 mL/kg
+
+
+
 
 - Restore haemodynamics
 	- IV fluids boluses 30mL/kg in the first 3 hours
