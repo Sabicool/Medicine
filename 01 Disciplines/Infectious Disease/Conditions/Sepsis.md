@@ -95,6 +95,12 @@ Also see: [[Shock]] for the management of undifferentiated shock
 - Noradrenaline remains first choice
 - Start vasopressors peripherally (e.g. with metaraminol) to avoid delaying initiation of vasopressors until central venous access is secured
 ## Assess Adequacy of Cardiac Output
+- Features of septic cardiomyopathy
+	- Rapid onset
+	- Reversible and leads to full recovery in survivors, usually over 7-10 days
+	- Left ventricular dilatation with normal or low filling pressure (due to increased LV compliance and EDV and coexistent RV dysfunction)
+	- Global ventricular dysfunction with decreased ejection fraction (due to ventricular dilatation despite preserved stroke volume)
+	- Absence of regional dysfunction (distinct from Takotsubo cardiomyopathy and myocardial ischaemia)
 - Consider inotropes in patients:
 	- Low cardiac output that is being monitored
 	- Patients whose fluid resuscitation remains inadequate (as above: $\text{Scv}\ce{O2}$, lactate clearance etc.) despite adequate MAP
@@ -142,6 +148,7 @@ Also see: [[Shock]] for the management of undifferentiated shock
 - [Surviving Sepsis Campaign \| SCCM](https://www.sccm.org/survivingsepsiscampaign)
 - [2026 SSC Adult Guidelines Updates: What Clinicians Need to Know - YouTube](https://www.youtube.com/watch?v=YGmytzW_yB0)
 - [Critical Care Medicine | Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026](https://journals.lww.com/ccmjournal/fulltext/2026/04000/surviving_sepsis_campaign__international.5.aspx)
+- [Septic cardiomyopathy • LITFL • CCC](https://litfl.com/septic-cardiomyopathy/)
 
 [^1]: This remains as a conditional recommendation from the surviving sepsis campaign with low quality evidence
 [^2]: Surviving sepsis guidelines suggest against this
