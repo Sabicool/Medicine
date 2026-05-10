@@ -54,16 +54,18 @@ aliases:
 	- Ideally within 1 hour of recognition if patient is in shock
 	- If not in shock, where sepsis is probable but not confirmed; rapid assessment and administer antimicrobial therapy within 3 hours
 	- Consider anaerobic coverage when risk factors exist e.g. intra-abdominal or deep seated gynaecological/obstetric source of infection, necrotising soft tissue infection, head and neck infection and central nervous system abscesses or empyema
-- 30mL/kg of crystalloid fluid (preferably balanced fluids e.g. plasmalyte)[^1]
+- 30mL/kg of crystalloid fluid (preferably balanced fluids e.g. hartmanns, plasmalyte)[^1]
 	- Weight-based fluid volume should be calculated on actual body weight (particularly in underweight patients) or ideal body weight in patients with BMI > 30
+	- In patients with traumatic brain injury use 0.9% saline
 - Albumin
 - Transfuse blood if Hb < 70 but remain conservative in transfusion efforts
 ## Assess Need for Further Fluid Resuscitation
 - Monitoring
 	- Arterial line
 	- Central line if pressors are required
+	- Monitor capillary refill time where serial lactate measurements are not possible
 - Goals
-	- Aim for MAP ≥65 mmHg
+	- Aim for MAP ≥65 mmHg and a MAP of 60-65 mmHg in patients aged ≥ 65 years
 	- Aun for CVP 8-12 mmHg
 - Measure fluid responsiveness (e.g. pulse pressure variation, expiratory hold manoeuvre, passive leg raise, stroke volume variation, IVC ultrasonography)
 - Fluid resuscitation is considered adequate if:
