@@ -17,6 +17,15 @@ Also see: [[Shock]] for the management of undifferentiated shock
 	- ±Azithromycin if suspicious of respiratory cause
 # Diagnostic Criteria
 
+> [!NOTE] Sepsis-3 Criteria
+> *life-threatening organ dysfunction due to a dysregulated host response to infection*
+> Organ dysfunction is suggested by:
+> - An increase of ≥2 points of the SOFA score ([SOFA-2](https://www.mdcalc.com/calc/10648/sequential-organ-failure-assessment-sofa-2-score#next-steps))
+> Septic shock is definted as above as well as both:
+> - Hypotension requiring vasopressors
+> - Lactate >2 mmol/L
+
+
 # Screening
 - Who to screen
 	- All acutely ill patients who arrive to hospital by ambulance or flight
