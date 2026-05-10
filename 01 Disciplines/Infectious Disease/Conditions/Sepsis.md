@@ -15,6 +15,8 @@ Also see: [[Shock]] for the management of undifferentiated shock
 	- Tazoscin
 	- Vancomycin
 	- ±Azithromycin if suspicious of respiratory cause
+# Diagnostic Criteria
+
 # Screening
 - Who to screen
 	- All acutely ill patients who arrive to hospital by ambulance or flight
