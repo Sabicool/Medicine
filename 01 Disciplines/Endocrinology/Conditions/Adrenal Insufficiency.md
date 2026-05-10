@@ -76,7 +76,7 @@ tags:
 - Monitor: BP, serum sodium and potassium concentrations, plasma renin concentration
 	- If a patient has hypertension and a plasma renin concentration at the lower end of normal, reduce the fludrocortisone dose
 	- If a patient has hypertension and a plasma renin concentration at the higher end of normal or elevated and the patient does not have any other signs that suggest mineralocorticoid excess (e.g. oedema, hypokalaemia), start antihypertensive therapy (usually ACE-i, ARB or CCB)
-	- In concurrent [[Heart Failure]], most heart failure therapy can be used except the aldosterone antagonist (spironolactone); instead fludrocortisone dose should be reduced or stopped
+	- In concurrent [[Acute Heart Failure]], most heart failure therapy can be used except the aldosterone antagonist (spironolactone); instead fludrocortisone dose should be reduced or stopped
 # Sources
 - eTG: Adrenal Insufficiency. Accessed 25/12/2025
 - [Adrenal gland & steroid pharmacology - EMCrit Project](https://emcrit.org/ibcc/adrenal-crisis/)

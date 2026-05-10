@@ -22,7 +22,7 @@ tags:
 	- Associated symptoms: chest pain, cough, fever, stridor, wheeze and facial oedema?
 - Other observations
 	- Vital signs
-- Does the patient have a history of [Heart Failure](01%20Disciplines/Cardiology/Conditions/Heart%20Failure.md) or [Acute Pulmonary Oedema](01%20Disciplines/Respiratory/Conditions/Acute%20Pulmonary%20Oedema.md) or of [Asthma Exacerbation](Asthma%20Exacerbation.md) or [COPD](01%20Disciplines/Respiratory/Conditions/COPD.md)?
+- Does the patient have a history of [Acute Heart Failure](Acute%20Heart%20Failure.md) or [Acute Pulmonary Oedema](01%20Disciplines/Respiratory/Conditions/Acute%20Pulmonary%20Oedema.md) or of [Asthma Exacerbation](Asthma%20Exacerbation.md) or [COPD](01%20Disciplines/Respiratory/Conditions/COPD.md)?
 - Does the patient have massive haemoptysis ⇒immediate review
 ## Instructions over the phone
 - Ask for measurement of the oxygen saturation by non-invasive pulse oximetry
@@ -30,7 +30,7 @@ tags:
 - Request as high a concentration of $\ce{O2}$ in the short term unless the patient has significant COPD → 28% $\ce{O2}$ by Venturi mask and reassess at the bedside
 - Ask the nurse to bring the resuscitation trolley to the bedside, attach an ECG monitor to the patient and gain IV access
 - Request ==nebulised salbutamol 5mg (1mL) diluted with 3mL of normal saline if the patient has asthma or wheeze==
-- Request ==GTN SL (0.4mg by spray or 0.6mg tablet)== if the patient is hypertensive, has chest pain or a history of [Heart Failure](01%20Disciplines/Cardiology/Conditions/Heart%20Failure.md); repeat in 5-10 minutes only if SBP remains >100mmHg
+- Request ==GTN SL (0.4mg by spray or 0.6mg tablet)== if the patient is hypertensive, has chest pain or a history of [Acute Heart Failure](Acute%20Heart%20Failure.md); repeat in 5-10 minutes only if SBP remains >100mmHg
 # Common Causes *(Corridor thoughts)*
 ## Dyspnoea
 - Pulmonary causes
@@ -146,9 +146,9 @@ tags:
 - Was SOB sudden or gradual onset?
 	- Sudden ⇒ [Pneumothorax](01%20Disciplines/Respiratory/Conditions/Pneumothorax.md), [Pulmonary Embolism](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md) and inhaled foreign body
 	- Gradual ⇒ [Pneumonia](01%20Disciplines/Respiratory/Conditions/Pneumonia.md)
-	- Orthopnoea or paroxysmal nocturnal dyspnoea ⇒ [LV Heart Failure](01%20Disciplines/Cardiology/Conditions/Heart%20Failure.md)
+	- Orthopnoea or paroxysmal nocturnal dyspnoea ⇒ [LV Heart Failure](Acute%20Heart%20Failure.md)
 - Chest pain and character?
-	- Central, heavy chest pain radiating to the neck, jaw or arms ⇒ [Acute Coronary Syndromes](01%20Disciplines/Cardiology/Conditions/Acute%20Coronary%20Syndromes.md) or [LV Heart Failure](01%20Disciplines/Cardiology/Conditions/Heart%20Failure.md)
+	- Central, heavy chest pain radiating to the neck, jaw or arms ⇒ [Acute Coronary Syndromes](01%20Disciplines/Cardiology/Conditions/Acute%20Coronary%20Syndromes.md) or [LV Heart Failure](Acute%20Heart%20Failure.md)
 	- Pleuritic chest pain ⇒ [Pneumonia](01%20Disciplines/Respiratory/Conditions/Pneumonia.md), [Pulmonary Embolism](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md) or [Pneumothorax](01%20Disciplines/Respiratory/Conditions/Pneumothorax.md)
 	- [Pulmonary Embolism](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md) is characterised by a sudden onset SOB with non-radiating chest pain which can be a central constant ache or lateral pleuritic pain
 - Cough? Sputum?
@@ -192,19 +192,19 @@ tags:
 | CVS         | Distended neck veins ⇒ massive PE, cardiogenic failure, tension pneumothorax, cardiac tamponade                                                                                                                                                                                                            |
 |             | Peripherally shut down with clammy skin ⇒ [Shock](01%20Disciplines/Clinical/Emergencies/Shock.md) (cardiogenic, obstructive or hypovolaemic)                                                                                                                                                               |
 |             | Arrhythmia (LVE, PE)                                                                                                                                                                                                                                                                                       |
-|             | S3 gallop ⇒ [LV Heart Failure](01%20Disciplines/Cardiology/Conditions/Heart%20Failure.md)                                                                                                                                                                                                                  |
+|             | S3 gallop ⇒ [LV Heart Failure](Acute%20Heart%20Failure.md)                                                                                                                                                                                                                  |
 |             | Loud P2 ⇒ [COPD](01%20Disciplines/Respiratory/Conditions/COPD.md), [Pulmonary Hypertension](01%20Disciplines/Cardiology/Conditions/Pulmonary%20Hypertension.md))                                                                                                                                           |
-|             | Systolic murmur ⇒ [LV Heart Failure](01%20Disciplines/Cardiology/Conditions/Heart%20Failure.md)                                                                                                                                                                                                            |
+|             | Systolic murmur ⇒ [LV Heart Failure](Acute%20Heart%20Failure.md)                                                                                                                                                                                                            |
 |             | Wheeze ([Asthma Exacerbation](Asthma%20Exacerbation.md), [COPD](01%20Disciplines/Respiratory/Conditions/COPD.md), foreign body aspiration)                                                                                                                                                     |
 | Resp        | Stridor, hoarse voice, inability to speak (upper airway obstruction, [Anaphylaxis](01%20Disciplines/Immunology/Emergencies/Anaphylaxis.md))                                                                                                                                                                |
 |             | Limited inspiration and splinted chest wall 2° to pleuritic chest pain ⇒ [Pneumothorax](01%20Disciplines/Respiratory/Conditions/Pneumothorax.md), [Pulmonary Embolism](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md), [Pneumonia](01%20Disciplines/Respiratory/Conditions/Pneumonia.md) |
-|             | Basal crackles ⇒ LV [Heart Failure](01%20Disciplines/Cardiology/Conditions/Heart%20Failure.md)                                                                                                                                                                                                             |
+|             | Basal crackles ⇒ LV [Acute Heart Failure](Acute%20Heart%20Failure.md)                                                                                                                                                                                                             |
 |             | Hyperexpanded, hyperresonant ⇒ [Pneumothorax](01%20Disciplines/Respiratory/Conditions/Pneumothorax.md)                                                                                                                                                                                                     |
 |             | Subcutaneous emphysema ⇒ [Pneumothorax](01%20Disciplines/Respiratory/Conditions/Pneumothorax.md)                                                                                                                                                                                                           |
 |             | Pulmonary consolidation ⇒ [Pneumonia](01%20Disciplines/Respiratory/Conditions/Pneumonia.md), [Pulmonary Embolism](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md) with infarction                                                                                                         |
-|             | Pleural effusion ⇒ [LV Heart Failure](01%20Disciplines/Cardiology/Conditions/Heart%20Failure.md), malignancy, [PE](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md), [Pneumonia](01%20Disciplines/Respiratory/Conditions/Pneumonia.md)                                                     |
-| GIT         | Distension and ascites with tender hepatomegaly ⇒ RV [Heart Failure](01%20Disciplines/Cardiology/Conditions/Heart%20Failure.md) or CCF                                                                                                                                                                     |
-| Other       | Peripheral oedema w/ accentuated skin creases on posterior thorax and taut, noncompliant skin ⇒ RV [Heart Failure](01%20Disciplines/Cardiology/Conditions/Heart%20Failure.md) or CCF                                                                                                                       |
+|             | Pleural effusion ⇒ [LV Heart Failure](Acute%20Heart%20Failure.md), malignancy, [PE](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md), [Pneumonia](01%20Disciplines/Respiratory/Conditions/Pneumonia.md)                                                     |
+| GIT         | Distension and ascites with tender hepatomegaly ⇒ RV [Acute Heart Failure](Acute%20Heart%20Failure.md) or CCF                                                                                                                                                                     |
+| Other       | Peripheral oedema w/ accentuated skin creases on posterior thorax and taut, noncompliant skin ⇒ RV [Acute Heart Failure](Acute%20Heart%20Failure.md) or CCF                                                                                                                       |
 |             | Tender swollen thigh ([DVT](01%20Disciplines/Haematology/Conditions/Deep%20Vein%20Thrombosis.md) with [PE](01%20Disciplines/Respiratory/Conditions/Pulmonary%20Embolism.md))                                                                                                                               |
 ## Investigations
 - Bedside: 

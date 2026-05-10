@@ -6,6 +6,9 @@ Rotations:
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
 date: 2026-05-10
 ---
+- See:
+	- [[Sepsis]]
+	- [[Acute Heart Failure]]
 # Definition
 - Physiologic state characterised by a systemic impairment in oxygen delivery as a result of reduced tissue perfusion, almost universally mediated by low blood pressure ($DO_{2}<\dot{V}O_{2}$)
 
@@ -57,8 +60,8 @@ $$
 		- Abdominal compartment syndrome
 		- Dynamic hyperinflation: Excessive ventilation with severe bronchospasm ([Asthma Exacerbation](Asthma%20Exacerbation.md), [COPD](01%20Disciplines/Respiratory/Conditions/COPD.md))
 - Distributive shock
-	- Anaphylaxis
-	- Sepsis
+	- [[Anaphylaxis]]
+	- [[Sepsis]]
 	- Neurogenic: Loss of sympathetic tone from high spinal cord trauma or epidural anaesthesia
 	- Drug related: Vasodilator antihypertensive agents, nitrates, strong analgesics
 	- Acute adrenal insufficiency: Addison's disease, discontinuing long-term steroids

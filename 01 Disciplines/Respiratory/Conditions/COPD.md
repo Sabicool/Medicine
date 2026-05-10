@@ -66,7 +66,7 @@ tags:
 	- Long term macrolide antibiotics
 ![[Pasted image 20251024221856.png]]
 ## Other Notes on Management
-- Beta blockers should not be stopped in patients with COPD and [[Heart Failure|HFrEF]] or a [[Acute Coronary Syndromes|Myocardial Infarction]] within the last 3 years
+- Beta blockers should not be stopped in patients with COPD and [[Acute Heart Failure|HFrEF]] or a [[Acute Coronary Syndromes|Myocardial Infarction]] within the last 3 years
 - Patients with COPD are at an increased risk of bone fractures; identify patients with [[Osteoporosis]]
 - Limit the use of oral corticosteroids in patients with COPD and diabetes
 - Mild to moderate [[Pulmonary Hypertension]] is common in patients with COPD

@@ -89,7 +89,7 @@ Other defintiions:
 - Endocrine: [[Diabetes]]
 - Cardiovascular
 	- Cardiovscular disease
-	- Cardiomyopathy and Congestive [[Heart Failure]]
+	- Cardiomyopathy and Congestive [[Acute Heart Failure]]
 	- DVTs
 - Respiratory
 	- Obstructive sleep apnoea

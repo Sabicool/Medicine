@@ -127,7 +127,7 @@ date: 2026-03-01
 |                | Papilloedema is a bad sign as it indicates hypertensive encephalopathy **with** cerebral oedema                                                           |
 |                | Severe hypertension may not show marked encephalopathy or papilloedema but will usually show retinal haemorrhages or exudates                             |
 | Resp           | Tachypnoea, crackles, pleural effusion ⇒ [[Acute Pulmonary Oedema\|APO]]                                                                                  |
-| Cardiovascular | S3 gallop, elevated JVP ⇒ LVF and biventricular [[Heart Failure]]                                                                                         |
+| Cardiovascular | S3 gallop, elevated JVP ⇒ LVF and biventricular [[Acute Heart Failure]]                                                                                         |
 |                | Absent pulse, new murmur ⇒ [[Aortic Dissection]]                                                                                                          |
 | Neuro          | Hyperreflexia, clonus, headache and visual disturbances ⇒ pre-eclampsia, hypertensive encephalopathy                                                      |
 |                | Focal neurological defecits ⇒ [[Aortic Dissection]], late sign of hypertensive encephalopathy                                                             |

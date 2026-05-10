@@ -49,7 +49,7 @@ tags:
 # Examination
 - Hyperexpanded, barrel-shaped chest, ↑WOB (tachypnoea, accessory muscle use and lip pursing)
 - Fever, wheeze, sputum production
-- Cor pulmonale - right [[Heart Failure]] 2° to [[Pulmonary Hypertension]]
+- Cor pulmonale - right [[Acute Heart Failure]] 2° to [[Pulmonary Hypertension]]
 - Signs of hypercarbia: tremor, bounding pulses, peripheral vasodilation, drowsiness or confusion
 - Check for other causes of acute [[Shortness of Breath, Cough and Haemopytsis|Dyspnoea]] (e.g. [[Asthma Exacerbation]], [[Acute Pulmonary Oedema]], [[Pneumothorax]], [[Pulmonary Embolism|PE]])
 # Investigations
@@ -124,7 +124,7 @@ tags:
 		- For patients with severe COPD who have a COPD exacerbation that does not resposne to initial antibiotic therapy after 48-72 hours and if bacterial infection remains the likely cause consider ==amoxicillin + clavulanate 875+125 mg PO, 12-hourly for 5 days==
 		- If *P. aeruginosa* is identified in sputum (current isolation or known colonisation in past 3 months) consider ==ciprofloxacin 750 mg PO 12-hourly for 5 days==
 	- ![[Pasted image 20251012183012.png]]
-- If RV [[Heart Failure]] with fluid overload → ==Furosemide 40mg IV or PO==
+- If RV [[Acute Heart Failure]] with fluid overload → ==Furosemide 40mg IV or PO==
 - Consider naloxone if the patient is on opioid analgesics that may cause respiratory depression
 - If no response to above and ongoing hypoxial ($\rm{}\ce{SpO2}$<85%), extreme respiratory distress, ↑ $P\rm{}a\ce{CO2}$, patient is exhausted or acidaemia is worsening then commence non-invasive BiPAP ventilation
 

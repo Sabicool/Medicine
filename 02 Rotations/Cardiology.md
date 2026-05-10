@@ -6,6 +6,7 @@ date: 2025-12-25
 <!-- SerializedQuery: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) sort file.name asc group by reverse(split(file.folder, "/"))[0] -->
 - Conditions: 
     - [[Acute Coronary Syndromes]]
+    - [[Acute Heart Failure]]
     - [[Acute Pulmonary Oedema]]
     - [[Aortic Dissection]]
     - [[Atrial Fibrillation]]
@@ -13,7 +14,6 @@ date: 2025-12-25
     - [[AV Nodal Re-entry Tachycardia]]
     - [[AV Re-entry Tachycardia]]
     - [[Essential Hypertension]]
-    - [[Heart Failure]]
     - [[Hypercalcaemia]]
     - [[Hyperkalaemia]]
     - [[Hypertension]]
@@ -24,7 +24,6 @@ date: 2025-12-25
     - [[Pericarditis]]
     - [[Pulmonary Hypertension]]
     - [[Secondary Hypertension]]
-    - [[Sepsis]]
     - [[Stable Angina]]
     - [[Supraventricular Tachycardia]]
     - [[Ventricular Tachycardia]]
