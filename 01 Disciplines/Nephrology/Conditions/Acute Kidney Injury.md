@@ -28,3 +28,4 @@ date: 2026-05-12
 
 # Source
 - [Acute Kidney Injury (including HRS-AKI) - EMCrit Project](https://emcrit.org/ibcc/aki/)
+- [Acute Kidney Injury • LITFL • CCC Renal](https://litfl.com/acute-kidney-injury/)
