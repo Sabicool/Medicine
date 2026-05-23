@@ -4,11 +4,11 @@ Rotations:
 aliases:
   - Low urine output
   - Oliguria
-date: 2026-04-23
+date: 2026-05-23
 ---
 # Phone Call/Presentation Questions
 - What is the urine output? (How much urine has been passed in the past 24 hours)
-	- Oliguria = urine output <400mL/day (<20mL/h)
+	- Oliguria = urine output <400mL/day (<20mL/h or <0.3 mL/kg/hr)
 	- Anuria ⇒ mechanical obstruction of bladder outlet, blocked IDC or obstructed single kidney
 	- How are we measuring this and why?
 	- How much does the patient weigh?
@@ -46,7 +46,7 @@ date: 2026-04-23
 		- Noradrenaline, adrenaline
 		- NSAIDs, ACE-i
 - Intra-renal
-	- Acute tubular necrosis
+	- [[Acute Tubular Necrosis]]
 		- Usually 2° to pre-renal causes
 		- Medications (e.g. aminoglycosides, amphotericin B, IV contrast, chemotherapy)
 		- Poisons (e.g. ethylene glycol, mercury, carbon tetrachloride)
@@ -155,6 +155,7 @@ date: 2026-04-23
 		- WBC casts (especially eosinophil casts) are seen in acute interstitial nephritis
 		- Pigmented granular casts are seen with ATN
 		- Oval fat bodies are suggestive of nephrotic syndrome
+- [[Renal Ultrasound]]
 # Immediate Management
 > [!NOTE]
 > Every evaluation for ↓ urine output should begin with ruling out urinary retention
@@ -167,11 +168,43 @@ date: 2026-04-23
 - IDC present:
 	- Ensure IDC is not clogged or kinked
 		 - Flush a blocked IDC with 20-30mL sterile normal saline to resolve intraluminal blockage causing anuria
-- If obsstruction is ruled out:
+- If obstruction is ruled out:
 	- Assess volume status based on history, clinical situation, JVP and IVC ultrasound (do not give IV fluids to a patient in urinary retention)
 - Assess for kidney injury using bloods and urinalysis
 - Rule out emerging sepsis
 - Attach continuous non-invasive ECG, BP and pulse oximeter monitoring to the patient
+## Diagnostic Approach
+- Rule out mechanical obstruction:
+	- Ensure IDC is not blocked
+	- Perform renal tract ultrasound ± CT-KUB
+- Distinguish pre-renal from intra-renal using bloods:
+	- Pre-renal failure has concentrated urine, elevated serum urea, low fractional sodium excretion and low urine sodium
+	- Intra-renal failure has dilute urine, normal urine-creatinine ratio, normal fractional sodium excretion and high urine sodium
+- Exclude obvious causes of pre-renal failure
+	- Hypovolaemia, hypotension
+	- Relative hypotension in the patient who is normally hypertensive
+	- Abdominal compartment syndrome
+	- Renal vascular disease - perform renal doppler studies to exclude renal artery stenosis and renal vein thrombosis
+- Explore intra-renal differentials
+	- History
+	- Exam
+	- Urine examination
+	    - culture the urine
+	    - Urine protein analysis (light chains)
+	- Bloods for differentials
+	    - Blood film (MAHA)
+	    - ADAMTS13 (TTP/HUS)
+	    - EPG/IEPG (multiple myeloma)
+	    - Eosinophil count (interstitial nephritis)
+	    - CK level (would be embarrassing to miss rhabdomyolysis)
+	- Bloods for immunology
+	    - Anti-C1q, IgG, ASOT (for streptococcal GN)
+	    - Anti-GBM, ANCA (Goodpastures)
+	    - Anti-MPO, PR3 (ANCA-positive GN)
+	    - Anti-dsDNA, C3, C4, antiphospholipid (lupus)
+	    - Streptococcal serology
+	- Urine sediment studies
+	- Renal biopsy
 ## Life Threatening Complications
 - Severe hyperkalaemia:
 	- Give 10% calcium chloride 10mL IV over 2-3 minutes to provide immediate cardioprotection to prevent cardiac arrest
@@ -201,6 +234,8 @@ date: 2026-04-23
 	- Uraemic encephalopathy with symptoms of decreased mental status, obtundation and seizures or uraemic pericarditis
 # Other Considerations
 - Consider getting the nursing staff to do a two hourly bladder scan
+# Source
+- [An approach to the assessment of oligoanuria](https://derangedphysiology.com/main/required-reading/renal-intensive-care/Chapter-112/approach-assessment-oligoanuria)
 # Footnotes
 
 [^1]: Source: https://dermnetnz.org/topics/livedo-reticularis
