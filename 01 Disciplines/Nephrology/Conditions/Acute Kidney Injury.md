@@ -30,11 +30,20 @@ date: 2026-05-23
 ## Distinguishing Pre/Intra/Post Renal Failure
 ![[Pasted image 20260523142835.png]]
 
-|                       | Intra-renal      | Pre-renal        |
-| --------------------- | ---------------- | ---------------- |
-| Urine osmolality      | <400-450 mOsm/kg | >450-500 mOsm/kg |
-| Urine sodium          | High (>40 meq/L) | Low (<20 meq/L)  |
-| Urea/creatinine ratio | Normal in ATN    |                  |
+|                                | Intra-renal                                                    | Pre-renal              |
+| ------------------------------ | -------------------------------------------------------------- | ---------------------- |
+| Urine osmolality               | <400-450 mOsm/kg                                               | >450-500 mOsm/kg       |
+| Urine sodium                   | High (>40 meq/L)                                               | Low (<20 meq/L)        |
+| Urea:Cr (mmol:µmol)            | <0.04                                                          | >0.1                   |
+| Urine/serum creatinine ratio   | >40                                                            | <20                    |
+| Urine/serum osmolality         | >1.0                                                           | >1.5                   |
+| Fractional excretion of urea   | >25%                                                           | <25%                   |
+| Fractional excretion of sodium | >2%                                                            | <1%                    |
+| Urine microscopy               | Muddy brown granular casts, epithelial casts, epithelial cells | Nothing, hyaline casts |
+$$
+\text{Fractional Excretion of }\ce{Na+}=\left(\frac{\text{Urinary Sodium}}{\text{Serum Sodium}}\right) \Big / \left(\frac{\text{Urinary Creatinine}}{\text{Serum Creatinine}}\right)\times 100
+$$
+# Investigations
 
 # Source
 - [Acute Kidney Injury (including HRS-AKI) - EMCrit Project](https://emcrit.org/ibcc/aki/)
