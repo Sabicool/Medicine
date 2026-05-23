@@ -2,7 +2,7 @@
 Rotations:
   - "[[Intensive Care Unit]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
-date: 2026-05-12
+date: 2026-05-23
 ---
 # Definitions
 - KDIGO AKI workgroup defined AKI as any of the following:
@@ -26,6 +26,15 @@ date: 2026-05-12
 - Other classifications exist (see [Deranged Physiology: A comparison of classification systems for acute kidney injury](https://derangedphysiology.com/main/required-reading/renal-intensive-care/Chapter-214/comparison-classification-systems-acute-kidney-injury))
 # Aetiologies
 ![[Pasted image 20260302212422.png]]
+
+## Distinguishing Pre/Intra/Post Renal Failure
+![[Pasted image 20260523142835.png]]
+
+|                       | Intra-renal      | Pre-renal        |
+| --------------------- | ---------------- | ---------------- |
+| Urine osmolality      | <400-450 mOsm/kg | >450-500 mOsm/kg |
+| Urine sodium          | High (>40 meq/L) | Low (<20 meq/L)  |
+| Urea/creatinine ratio | Normal in ATN    |                  |
 
 # Source
 - [Acute Kidney Injury (including HRS-AKI) - EMCrit Project](https://emcrit.org/ibcc/aki/)

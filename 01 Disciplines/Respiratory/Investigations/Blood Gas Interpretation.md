@@ -91,8 +91,8 @@ tags:
 		- Severe renal failure can lead HAGMA to excrete phosphate and sulphate in the urine resulting in their accumulation
 		- Lactic acidosis, ketoacidosis (DKA, ETOH, starvation), methanol ingestion, ethylene glycol ingestion, toluene inhalation (glue sniffing)
 	- Normal anion gap acidosis ⇒ decreased renal $\ce{H+}$ excretion or loss of $\ce{HCO3}$ in urine or GI tract 
-		- Loss of $\ce{HCO3}$: diarrhoea/GI drainage, Type 2 [[Renal tubular acidosis]], [[Diuretics#Acetazolamide|Acetazolamide]]
-		- Decreased $\ce{H+}$ excretion: renal failure, Type 1 [[Renal tubular acidosis]], Type 4 [[Renal tubular acidosis]]/[[Conn syndrome]]
+		- Loss of $\ce{HCO3}$: diarrhoea/GI drainage, Type 2 [[Renal Tubular Acidosis]], [[Diuretics#Acetazolamide|Acetazolamide]]
+		- Decreased $\ce{H+}$ excretion: renal failure, Type 1 [[Renal Tubular Acidosis]], Type 4 [[Renal Tubular Acidosis]]/[[Conn syndrome]]
 		- Results in decrease in $\ce{HCO3}$ with an increase in $\ce{Cl-}$ a roughly 1:1 ratio (hence NAGMA sometimes called hyperchloraemic acidosis)
 		- Potassium is not included because it tends to influence the result little[^5] however if one insisted, the normal value would be around 16
 		$$
