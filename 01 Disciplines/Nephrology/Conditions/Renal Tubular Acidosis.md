@@ -1,5 +1,5 @@
 ---
-date: 2026-05-22
+date: 2026-05-24
 ---
 
 |                       | Type 1 Distal                                | Type 2 Proximal                                             | Type 4                                    |
