@@ -94,6 +94,21 @@ Obsidian has been a great to use on my other devices (namely, my iPad and my pho
     - Text Extractor
     - Vimrc Support[^3]
 
+In particular for the discipline notes I use this kind of format with the dataview serializer plugin to display lists of the relevant notes.
+
+```
+list rows.file.link 
+    from "01 Disciplines" 
+    where  
+        contains(Rotations, "[" + this.file.name + "]("
+            + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20") 
+            + ")") OR contains(Rotations, this.file.link) or 
+        contains(file.path,this.file.name) 
+    sort file.name asc 
+    group by reverse(split(file.folder, "/"))[0]
+```
+
+
 [^1]: Both are great applications for note taking but unfortunately there might be some barrier to using either application because of the initial learning to use either program. If that is the case for you, I'd recommend something like notion or remnote to take notes on
 [^2]: I should generally be adding these cards to the Malleus Clinical Medicine Anki project
 [^3]: Man vim support in obsidian sucks. Just use emacs with evil mode and obsidian.el.

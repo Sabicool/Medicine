@@ -81,6 +81,12 @@ $$
 \text{Fractional Excretion of }\ce{Na+}=\left(\frac{\text{Urinary Sodium}}{\text{Serum Sodium}}\right) \Big / \left(\frac{\text{Urinary Creatinine}}{\text{Serum Creatinine}}\right)\times 100
 $$
 # Investigations
+- Labs
+	- EUCs
+	- CK
+	- Urinalysis and sediment analysis
+- Additional labs to consider
+	- Relevant drug levels (e.g. vancomycin, aminoglycoside, cyclosporine, tacrolimus levels)
 # Prevention
 - Maintain a Hb > 70
 - Ensure intravascular volume is adequate
