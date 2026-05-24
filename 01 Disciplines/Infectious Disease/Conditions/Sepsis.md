@@ -2,7 +2,7 @@
 Rotations:
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
-date: 2026-05-13
+date: 2026-05-23
 aliases:
   - Septicaemia
   - Septic Shock
