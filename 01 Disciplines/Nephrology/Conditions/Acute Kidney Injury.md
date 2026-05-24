@@ -3,6 +3,8 @@ Rotations:
   - "[[Intensive Care Unit]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
 date: 2026-05-25
+tags:
+  - cards
 ---
 # Definitions
 - KDIGO AKI workgroup defined AKI as any of the following:
@@ -82,7 +84,7 @@ date: 2026-05-25
 | Urine/serum creatinine ratio   | >40                                                            | <20                    |
 | Urine/serum osmolality         | >1.0                                                           | >1.5                   |
 | Fractional excretion of urea   | >25%                                                           | <25%                   |
-| Fractional excretion of sodium | >2%                                                            | <1%                    |
+| Fractional excretion of sodium[^1] | >2%                                                            | <1%                    |
 | Urine microscopy               | Muddy brown granular casts, epithelial casts, epithelial cells | Nothing, hyaline casts |
 $$
 \text{Fractional Excretion of }\ce{Na+}=\left(\frac{\text{Urinary Sodium}}{\text{Serum Sodium}}\right) \Big / \left(\frac{\text{Urinary Creatinine}}{\text{Serum Creatinine}}\right)\times 100
@@ -110,6 +112,17 @@ $$
 		- Hypotension → trial noradrenaline
 	- If evaluation doesn’t suggest hypoperfusion or failure to improve urine output consider a furosemide stress test where adequate urine production following a furosemide stress tests suggests pre-renal aetiology and inadequate urine production suggests intrinsic renal failure
 - If non-oliguric evaluate for intrinsic renal failure
+
+
+> [!NOTE] Furosemide Stress Test
+> - Administration of a defined dose of furosemide:
+> 	- 1 mg/kg for patients who are furosemide naive.
+> 	- 1.5 mg/kg for patients with prior exposure to furosemide.
+> - Monitoring urine output
+> 	- More than 200 ml within two hours indicates adequate response.
+> 
+> 
+ ![[Pasted image 20260525092612.png]]
 # Management
 - Treat the underlying cause as per diagnostic approach (above)
 - Discontinue nephrotoxins and dose-adjust renally cleared medications
@@ -129,11 +142,42 @@ $$
 	- Renal diet to reduce potassium intake
 	- Treat hyperkalaemia if present
 - Acid-Base support
-	- 
+	- Providing bicarbonate for uraemic acidosis aiming for a pH > 7.2
+	- Can be given as:
+		- Isotonic bicarbonate (glucose 5% with 150 mEq/L $\ce{NaHCO3}$) in patients who are hypovolaemic
+		- Hypertonic bicarbonate ampules (50 mL ampules of 1 mEq/mL bicarbonate) in patients who are hyponatraemic
+		- Oral bicarbonate tablets
 - Phosphate binding
+	- If phosphate > 1.94 mmol/L treat with calcium acetate (in hypocalcaemic patients) or sevelamer
+- Haemodialysis
+	- Indicated for patients with 
+		- Acidosis refractory to IV bicarbonate
+		- Diuresis-refractory electrolyte abnormalities (e.g. hyperkalaemia)
+		- Fluid overload refractory to diuretics
+		- Symptoms of uraemia (e.g. delirium, asterixis, pericardial effusion)
+## Hepatorenal Syndrome
+- Clinical presentation:
+	- Typically in advanced cirrhosis with ascites but also in acute liver failure or alcoholic hepatitis especially those with chronic hypotension and hyponatraemia (i.e. borderline perfusion due to vasodilation)
+	- A precipitating factor may be present such as a haemodynamic stressor (e.g. infection, volume depletion or overload) or deterioration in liver function (e.g. acute on chronic liver failure)
+	- Presentation is one with oliguria and bland urine sediment findings (i.e. no evidence of glomerulonephritis or tubular necrosis)
+- In addition to the above management options consider:
+	- Albumin
+	- Vasopressors ([[Pressors#^Noradrenaline|noradrenaline]] remains first line)
+		- Aim MAP > 15 mmHg above baseline
+	- Therapeutic large volume paracentesis 
+
+
+> [!NOTE] 
+>- Importantly, these patients have low muscle mass and enhanced renal creatinine secretion leading to artificially low creatinine values; therefore:
+> 	- Creatinine level tends to over-estimate renal function
+> 	- Small changes in creatinine may be significant and meet AKI criteria
+
+
 # Source
 - [Acute Kidney Injury (including HRS-AKI) - EMCrit Project](https://emcrit.org/ibcc/aki/)
 - [Acute Kidney Injury • LITFL • CCC Renal](https://litfl.com/acute-kidney-injury/)
 - Deranged Physiology:
 	- [Biochemical indices in diagnosis of pre-renal failure](https://derangedphysiology.com/main/required-reading/renal-intensive-care/Chapter-113/biochemical-indices-diagnosis-pre-renal-failure)
 	- [Uraemia; its causes and consequences](https://derangedphysiology.com/main/required-reading/renal-intensive-care/Chapter-1141/uraemia-its-causes-and-consequences)
+
+[^1]: IBCC says that fractional excretion of sodium performs poorly in differentiating pre-renal and intrinsic renal failure
