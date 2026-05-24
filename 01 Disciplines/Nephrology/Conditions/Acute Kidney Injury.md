@@ -2,7 +2,7 @@
 Rotations:
   - "[[Intensive Care Unit]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
-date: 2026-05-24
+date: 2026-05-25
 ---
 # Definitions
 - KDIGO AKI workgroup defined AKI as any of the following:
