@@ -125,8 +125,11 @@ $$
 	- Hypovolaemia + uraemic acidosis give isotonic bicarbonate (5% dextrose with 150 mEq/L sodium bicarbonate)
 	- Hypovolaemia + normal bicarbonate give a balancved crystalloid (e.g. hartmann’s or plasmalyte); avoid normal saline
 - Potassium management
-	- 
+	- Replace potassium conservatively targeting $\ce{K+}$ > 3.5 mmol
+	- Renal diet to reduce potassium intake
+	- Treat hyperkalaemia if present
 - Acid-Base support
+	- 
 - Phosphate binding
 # Source
 - [Acute Kidney Injury (including HRS-AKI) - EMCrit Project](https://emcrit.org/ibcc/aki/)
