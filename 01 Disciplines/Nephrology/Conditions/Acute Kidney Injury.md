@@ -33,6 +33,13 @@ date: 2026-05-24
 - Haematological malignancy
 - Post cardiac arrest
 - Pre-existing renal failure
+# Prevention
+- Maintain a Hb > 70
+- Ensure intravascular volume is adequate
+	- Avoid chloride-rich fluids
+	- Avoid using hydroxyethyl starch
+- Achieve satisfactory haemodynamic parameters (e.g. MAP > 70 mmHg)
+	- In chronically hypertensive septic patients, aim for a higher MAP (eg. 75-80mmg)
 # Aetiologies
 ![[Pasted image 20260302212422.png]]
 - Medications:
@@ -80,20 +87,28 @@ date: 2026-05-24
 $$
 \text{Fractional Excretion of }\ce{Na+}=\left(\frac{\text{Urinary Sodium}}{\text{Serum Sodium}}\right) \Big / \left(\frac{\text{Urinary Creatinine}}{\text{Serum Creatinine}}\right)\times 100
 $$
-# Investigations
+# Diagnostic Approach
 - Labs
 	- EUCs
 	- CK
 	- Urinalysis and sediment analysis
 - Additional labs to consider
 	- Relevant drug levels (e.g. vancomycin, aminoglycoside, cyclosporine, tacrolimus levels)
-# Prevention
-- Maintain a Hb > 70
-- Ensure intravascular volume is adequate
-	- Avoid chloride-rich fluids
-	- Avoid using hydroxyethyl starch
-- Achieve satisfactory haemodynamic parameters (e.g. MAP > 70 mmHg)
-	- In chronically hypertensive septic patients, aim for a higher MAP (eg. 75-80mmg)
+	- Uric acid level
+	- Plasma-free haemoglobin
+	- Urine albumin/creatinine ratio
+- Evaluate for post-renal causes
+	- [[Renal Ultrasound|POCUS of kidneyes and bladder]]
+	- Flushing or changing IDC
+- If oliguric, treat and assess for renal hypoperfusion:
+	- History review (e.g. diuresis, fluid balance)
+	- Perfusion evaluation (e.g. relative hypoperfusion, shock index, fluid responsiveness, [[Rush Exam]])
+	- Resolve renal hypoperfusion:
+		- Volume excess + congestive nephropathy → diurese
+		- Volume depletion → fluid
+		- Cardiogenic shock → trial inotrope or inopressor
+		- Hypotension → trial noradrenaline
+	- If evaluation doesn’t suggest hypoperfusion or failure to improve urine output consider a furosemide stress test
 # Source
 - [Acute Kidney Injury (including HRS-AKI) - EMCrit Project](https://emcrit.org/ibcc/aki/)
 - [Acute Kidney Injury • LITFL • CCC Renal](https://litfl.com/acute-kidney-injury/)
