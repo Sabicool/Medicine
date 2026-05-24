@@ -2,10 +2,12 @@
 Rotations:
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
-date: 2026-05-23
+date: 2026-05-25
 aliases:
   - Septicaemia
   - Septic Shock
+tags:
+  - cards
 ---
 Also see: [[Shock]] for the management of undifferentiated shock
 
@@ -24,7 +26,6 @@ Also see: [[Shock]] for the management of undifferentiated shock
 > Septic shock is definted as above as well as both:
 > - Hypotension requiring vasopressors
 > - Lactate >2 mmol/L
-
 
 # Screening
 - Who to screen
@@ -124,19 +125,8 @@ Also see: [[Shock]] for the management of undifferentiated shock
 	- Slow heart rate with esmolol[^2]
 	- High volume haemofiltration
 
-
-
-—
-
-- Restore haemodynamics
-	- IV fluids boluses 30mL/kg in the first 3 hours
-		- Signs of adequate resuscitation
-			- MAP ≥ 65mmHg
-			- Urine output ≥ 0.5mL/kg/hr
-			- Improving lactate
-	- Pressors if fluids insufficient
-- Treat the underlying infection with broad spectrum antibiotics
-- Source control
+## Source Control and Antibiotics
+## Other Therapies
 - Potentially vitamin C, thiamine and hydrocortisone
 # Source: 
 - 16+ years old: https://www.cec.health.nsw.gov.au/__data/assets/pdf_file/0005/291803/Adult-Sepsis-Pathway.PDF

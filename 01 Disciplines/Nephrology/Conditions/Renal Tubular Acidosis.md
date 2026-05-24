@@ -1,5 +1,7 @@
 ---
-date: 2026-05-24
+date: 2026-05-25
+tags:
+  - notes
 ---
 
 |                       | Type 1 Distal                                | Type 2 Proximal                                             | Type 4                                    |

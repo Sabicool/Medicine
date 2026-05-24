@@ -1,5 +1,7 @@
 ---
 date: 2026-05-23
+tags:
+  - notes
 ---
 ![[Pasted image 20260523141332.png]]
 # Source

@@ -4,7 +4,9 @@ Rotations:
 aliases:
   - Low urine output
   - Oliguria
-date: 2026-05-23
+date: 2026-05-25
+tags:
+  - cards
 ---
 # Phone Call/Presentation Questions
 - What is the urine output? (How much urine has been passed in the past 24 hours)
