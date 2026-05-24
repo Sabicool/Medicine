@@ -108,7 +108,8 @@ $$
 		- Volume depletion → fluid
 		- Cardiogenic shock → trial inotrope or inopressor
 		- Hypotension → trial noradrenaline
-	- If evaluation doesn’t suggest hypoperfusion or failure to improve urine output consider a furosemide stress tes
+	- If evaluation doesn’t suggest hypoperfusion or failure to improve urine output consider a furosemide stress test where adequate urine production following a furosemide stress tests suggests pre-renal aetiology and inadequate urine production suggests intrinsic renal failure
+- If non-oliguric evaluate for intrinsic renal failure
 # Source
 - [Acute Kidney Injury (including HRS-AKI) - EMCrit Project](https://emcrit.org/ibcc/aki/)
 - [Acute Kidney Injury • LITFL • CCC Renal](https://litfl.com/acute-kidney-injury/)
