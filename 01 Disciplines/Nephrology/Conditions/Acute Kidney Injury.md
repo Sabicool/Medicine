@@ -110,6 +110,24 @@ $$
 		- Hypotension → trial noradrenaline
 	- If evaluation doesn’t suggest hypoperfusion or failure to improve urine output consider a furosemide stress test where adequate urine production following a furosemide stress tests suggests pre-renal aetiology and inadequate urine production suggests intrinsic renal failure
 - If non-oliguric evaluate for intrinsic renal failure
+# Management
+- Treat the underlying cause as per diagnostic approach (above)
+- Discontinue nephrotoxins and dose-adjust renally cleared medications
+- Optimise haemodynamics
+	- Discontinue anti-hypertensives and negative inotropes
+	- Optimise vasopressors (MAP > 65 mmHg and MAP > 80 mmHg in patients with chronic hypertension or hepatorenal physiology)
+	- Consider a vasopressor challenge
+- Fluids management
+	- Fluid is beneficial under the following circumstances:
+		- Pre-renal AKI
+		- Patient is fluid responsive
+		- Patient is hypovolaemic
+	- Hypovolaemia + uraemic acidosis give isotonic bicarbonate (5% dextrose with 150 mEq/L sodium bicarbonate)
+	- Hypovolaemia + normal bicarbonate give a balancved crystalloid (e.g. hartmann’s or plasmalyte); avoid normal saline
+- Potassium management
+	- 
+- Acid-Base support
+- Phosphate binding
 # Source
 - [Acute Kidney Injury (including HRS-AKI) - EMCrit Project](https://emcrit.org/ibcc/aki/)
 - [Acute Kidney Injury • LITFL • CCC Renal](https://litfl.com/acute-kidney-injury/)
