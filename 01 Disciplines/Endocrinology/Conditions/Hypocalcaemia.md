@@ -1,5 +1,5 @@
 ---
-date: 2025-12-25
+date: 2026-05-25
 tags:
   - notes
 ---
@@ -19,6 +19,9 @@ tags:
 | Free fatty acids | Increase in free fatty acids = decreased ionised calcium      |
 
 ![[Hypercalcaemia#Physiology of Calcium Homeostasis]]
+# Clinical Features
+- Chvostek sign is the twicth elicited by tapping over the facial nerve.
+- Trousseau is the carpopedal spasm in response to overlong BP cuff inflation.
 # Investigations
 - Correcting $\ce{Ca+}$ for albumin, however evidence demonstrates that formulas actually perform worse than uncorrected calcium levels
 $$
