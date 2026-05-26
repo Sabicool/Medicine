@@ -73,8 +73,18 @@ $$
 $$
 # Management
 - Acute replacement
+	- IV replacement with calcium salt (gluconate or chloride; does not really matter)
+	- Ensure magnesium and phosphate replacement also occurs accordingly
 - Medium term placement
+	- Oral replacement with either calcium citrate or carbonate[^1]
+	- Vitamin D replacement
+	- With intact parathyroid function (i.e. PTH appropriately high) cholecalciferol (converted to calcitriol in the kidney when parathyroid function is normal)
+	- With impaired parathyroid function give calcitriol
 - Recalcitrant hypocalcaemia
+	- Thiazide diuretics
+	- Recombinant PTH
 # Sources
 - [Hypocalcaemia • LITFL • CCC Electrolytes](https://litfl.com/hypocalcaemia/)
 - [Hypocalcaemia - Deranged physiology](https://derangedphysiology.com/main/required-reading/electrolyte-disorders/Chapter-721/hypocalcemia)
+
+[^1]: Perhaps calcium citrate is better as it does not need to be taken after food as it does not require a normal gastric pH to dissolve; calcium citrate might therefore be appropriate for fasted patients
