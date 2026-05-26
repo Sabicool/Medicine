@@ -1,5 +1,5 @@
 ---
-date: 2026-05-25
+date: 2026-05-26
 tags:
   - cards
 ---
@@ -38,4 +38,4 @@ tags:
 - Correct co-existing electrolyte abnormalities (hypokalaemia and hypocalcaemia)
 # Sources
 - [Hypomagnesaemia • LITFL • CCC Electrolytes](https://litfl.com/hypomagnesaemia/)
-- [Hypomagnesemia](https://derangedphysiology.com/main/required-reading/electrolyte-disorders/Chapter-841/hypomagnesemia)
+- [Hypomagnesemia - Deranged Physiology](https://derangedphysiology.com/main/required-reading/electrolyte-disorders/Chapter-841/hypomagnesemia)
