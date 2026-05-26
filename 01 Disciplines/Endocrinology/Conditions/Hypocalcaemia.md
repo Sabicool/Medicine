@@ -34,7 +34,9 @@ tags:
 		- Phosphate
 		- Biphosphonates
 		- Phenytoin
-
+- Causes of hypocalcaemia categorised by acid base balance:
+	- Metabolic alkalosis – citrate toxicity
+	- Metabolic acidosis – acute renal failure, tumour lysis, rhabdomyolysis, pancreatitis, ethylene glycol poisoning, hydrofluoric acid, sepsis, burns
 - Citrate toxicity is probably the only cause of low ionised calcium with normal total calcium
 	- This is because measurement instruments which detect calcium will also measure citrate-calcium complexes in the serum, but the electrode which measures ionised calcium will only measure the free fraction, which decreases with citrate chelation
 
@@ -53,6 +55,7 @@ tags:
 	- Cardiac arrhythmias (e.g. Torsades)
 	- Hypotension
 # Investigations
+- ECG
 - PTH
 	- PTH normally rises in resposne to hypocalcaemia
 	- Low PTH suggests dysregulation of PTH secretion which can be due to primary [[Hypoparathyroidism]] (e.g. surgical destruction), PTH secretion suppression as in sepsis or congenital mutations
@@ -67,13 +70,19 @@ tags:
 		- Secondary [[Hyperparathyroidism]] (e.g. in Vitamin D deficiency) are associated with a low phosphate
 		- High phosphate will also chelate calcium; forming insoluble calcium phosphate
 - Amylase and lipase
+- Albumin
+- CK and urate level to observe for rhabdomyolysis
 - Correcting $\ce{Ca+}$ for albumin, however evidence demonstrates that formulas actually perform worse than uncorrected calcium levels
 $$
 \rm{Corrected\;Calcium}=0.8\times(40-\rm{Albumin})+\ce{Ca^{2+}}
 $$
 # Management
 - Acute replacement
-	- IV replacement with calcium salt (gluconate or chloride; does not really matter)
+	- IV replacement with calcium salt (chloride has more calcium per 10mL)
+		- 10mL gluconate = 2.3mmol = 93mg, 10mL chloride = 6.8mmol = 272mg
+		- Calcium chloride has more significant phlebitis risk and tissue necrosis if extravasation; only give via a central line
+		- Calcium gluconate is preferred in peripheral access
+		- Calcium chloride is preferred in cardiac arrest, severe hepatic impairment or when central access already exists
 	- Ensure magnesium and phosphate replacement also occurs accordingly
 - Medium term placement
 	- Oral replacement with either calcium citrate or carbonate[^1]
