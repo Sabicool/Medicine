@@ -1,13 +1,17 @@
 ---
 Rotations:
   - "[[Intensive Care Unit]]"
-date: 2026-03-04
+date: 2026-05-26
 ---
 # Pathophysiology
 - Hyponatraemia generally causes low extracellular osmolality causing fluid shift into the intracellular space
 - This can cause cerebral oedema, precipitating the clinical features
 - ADH acts primarily on water re-absorption and at a distal end of the nephron, and therefore can cause disorders of serum sodium concentration
 	- Angiotensin II, Aldosterone and ANP/BNP all cause same directional shifts in sodium and water reabsorption in the kidneys so it is unusual for disorders of these hormones to cause significant derangement in serum sodium concentration
+- Severity classification:
+	- Mild 125-134
+	- Moderate 120-124
+	- Severe <120
 # Clinical Features
 - Mostly neurological
 	- At sodium 125-130 when acute or sodium 120-125 when chronic:
@@ -20,6 +24,9 @@ date: 2026-03-04
 		- Coma
 - Presence and severity of symptoms are related to severity of hyponatraemia and speed of derangement (as indicated above)
 # Workup
+- The main goals in the assessment of hyponatraemia are:
+	1. 
+
 - Determine serum osmolality
 - Hypotonic hyponatraemia
 	- Determine volume status
