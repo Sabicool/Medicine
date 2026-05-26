@@ -40,20 +40,41 @@ tags:
 
 ![[Hypercalcaemia#Physiology of Calcium Homeostasis]]
 # Clinical Features
-- Chvostek sign is the twicth elicited by tapping over the facial nerve.
-- Trousseau is the carpopedal spasm in response to overlong BP cuff inflation.
+- Mild hypocalcaemia
+	- Generalised myalgia
+	- Twitching, fasciculations
+	- QT prolongation
+	- Chvostek sign is the twicth elicited by tapping over the facial nerve.
+	- Confusion, delirium psychosis
+- Severe hypocalcaemia
+	- Trousseau is the carpopedal spasm in response to overlong BP cuff inflation.
+	- Tetany and seizures
+	- Papilloedema and raised intracranial pressure
+	- Cardiac arrhythmias (e.g. Torsades)
+	- Hypotension
 # Investigations
 - PTH
 	- PTH normally rises in resposne to hypocalcaemia
 	- Low PTH suggests dysregulation of PTH secretion which can be due to primary [[Hypoparathyroidism]] (e.g. surgical destruction), PTH secretion suppression as in sepsis or congenital mutations
 - Serum 25-hydroxyvitamin D
-- Magnesium and phosphate level
+	- Low vitamin D can cause hypocalcaemia
+	- Low vitamin D can be secondary to lack of UV light, dietary deficiency or renal failure (hence urea and creatinine)
 - Urea and creatinine
+- Magnesium and phosphate level
+	- [[Hypomagnesaemia]] causes both decreased PTH secretion and impaired tissue response to PTH but requires Mg levels < 0.4 mmol/L
+	- [[Hyperphosphataemia]] can be associated with low calcium
+		- Primary [[Hypoparathyroidism]] disorders are associated with a raised serum phosphate
+		- Secondary [[Hyperparathyroidism]] (e.g. in Vitamin D deficiency) are associated with a low phosphate
+		- High phosphate will also chelate calcium; forming insoluble calcium phosphate
 - Amylase and lipase
 - Correcting $\ce{Ca+}$ for albumin, however evidence demonstrates that formulas actually perform worse than uncorrected calcium levels
 $$
 \rm{Corrected\;Calcium}=0.8\times(40-\rm{Albumin})+\ce{Ca^{2+}}
 $$
+# Management
+- Acute replacement
+- Medium term placement
+- Recalcitrant hypocalcaemia
 # Sources
 - [Hypocalcaemia • LITFL • CCC Electrolytes](https://litfl.com/hypocalcaemia/)
 - [Hypocalcaemia - Deranged physiology](https://derangedphysiology.com/main/required-reading/electrolyte-disorders/Chapter-721/hypocalcemia)
