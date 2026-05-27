@@ -61,6 +61,7 @@ date: 2026-05-27
 $$
 \text{Corrected Serum Osmolality}= \text{Measured Osmolality}-[\text{Urea}]
 $$
+![[lazy mans hyponatremia.jpg]]
 ## Hypotonic
 - The main causes here are either caused by solute depletion or dilution and are differentiated by the volume status
 - Determine volume status
