@@ -1,7 +1,7 @@
 ---
 Rotations:
   - "[[Intensive Care Unit]]"
-date: 2026-05-26
+date: 2026-05-27
 ---
 # Pathophysiology
 - Hyponatraemia generally causes low extracellular osmolality causing fluid shift into the intracellular space
@@ -101,7 +101,7 @@ Hyperlipidaemia, multiple myeloma ⇒ pseudohyponatraemia because of reduction i
 - Hypertonic saline 3% 1-2 mL/kg/hr; can consider rapid reversal with 100mL q10 minutes until seizure stops
 - Furosemide 20mg IV
 ## Chronic symptomatic
-- >48 hours of hypontraemia or of unknown duration
+- More than 48 hours of hypontraemia or of unknown duration
 - Calculate the sodium deficit and correct by 10 mmol/L/day' (refer to calculations section of [Hyponatraemia • LITFL • CCC Electrolytes](https://litfl.com/hyponatraemia/))
 - Furosemide 20 mg IV
 - Fluid restrict
@@ -118,3 +118,5 @@ Hyperlipidaemia, multiple myeloma ⇒ pseudohyponatraemia because of reduction i
 	- [Hyponatremia - YouTube | Strong Medicine](https://www.youtube.com/watch?v=1qIwk1UqTGY)
 - LITFL:
 	- [Hyponatraemia • LITFL • CCC Electrolytes](https://litfl.com/hyponatraemia/)
+- Deranged Physiology:
+	- [Hyponatremia: a lazy man's classification](https://derangedphysiology.com/main/required-reading/electrolyte-disorders/Chapter-531/hyponatremia-lazy-mans-classification)

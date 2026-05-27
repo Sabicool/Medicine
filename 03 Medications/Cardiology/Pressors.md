@@ -1,5 +1,5 @@
 ---
-date: 2026-05-09
+date: 2026-05-27
 Rotations:
   - "[[Intensive Care Unit]]"
   - "[[Emergency Medicine]]"
@@ -74,9 +74,6 @@ aliases:
 > ![[dobutamine.svg]]
 
 ^doboutamine
-
-![[Dobutamine.excalidraw.svg]]
-%%[[Dobutamine.excalidraw.md|🖋 Edit in Excalidraw]]%%
 
 > [!NOTE] Milrinone
 > 0.125–0.75 mcg/kg/min IV (load: 25–50 mcg/kg over 10 min, often omitted)
