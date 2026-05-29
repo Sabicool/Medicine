@@ -52,7 +52,7 @@ date: 2026-05-29
 - Standard bloods
 - Plasma osmolality
 - Plasma proteins and lipids
-- Urinary sodium
+- Urinary sodium → here a high urine sodium suggests SIADH
 - Urine osmolality
 - Optional extras to consider:
 	- ABG
@@ -100,6 +100,8 @@ Hyperlipidaemia, multiple myeloma ⇒ pseudohyponatraemia because of reduction i
 - Mannitol
 - Radiocontrast use
 - Highly osmotic agents cause increase in water osmosis into intravascular space causing dilutional hyponatraemia
+
+![[hyperosmolar hyponatremia.jpg]]
 # Management
 - Fluid restriction to < 800 mL/day
 - Diuretics
