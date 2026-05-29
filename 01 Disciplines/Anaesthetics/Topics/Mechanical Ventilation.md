@@ -1,5 +1,5 @@
 ---
-date: 2026-04-17
+date: 2026-05-29
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
@@ -64,7 +64,12 @@ $$\text{Compliance}=\frac{V_\text{T}}{P_\text{plateau}-\text{PEEP}} \qquad \text
 
 ---
 
-## Sources
+# Delirium Prevention
+- The FAVoR trial demonstrates a reduction in delirium for ventilated patients receiving scripted family-recorded voice message to re-orientate them
+	- There was only a 1.1% improvement in delirium free days, a low number of patients recruited to the trial, and although small the differences in baseline characteristics between the intervention & control groups may be significant given the small difference in outcome. I would therefore want to see further data before pushing for widespread adoption of this technique
+	- Delirium Reduction via Scripted Family Voice Recordings in Critically Ill Patients Receiving Mechanical Ventilation CL Munro. Am J Crit Care. 2025; Nov 1;34(6):429-437. doi: 10.4037/ajcc2025486
+
+# Sources
 
 - Strong Medicine Playlist: [Mechanical Ventilation - YouTube](https://www.youtube.com/playlist?list=PLBA5A30910F1FBF47)
 - ICU One Pager

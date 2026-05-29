@@ -1,5 +1,5 @@
 ---
-date: 2025-12-08
+date: 2026-05-29
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
@@ -135,6 +135,10 @@ tags:
 
 - ![[Pasted image 20251012202503.png]]
 	- A combination of BiPAP and anxiolytics may be very helpful in breaking patients out of a Flash AECOPD
+## Additional Therapies
+- Extracorporeal carbon dioxide removal
+	- However the VENT-ACOID trial did not demonstrate significant benefit to avoid intubation or wean from mechanical ventilation although the very low intubation rate in NIV arm suggesting that the population may not have been that sick 
 # Sources
 - IBCC book: https://emcrit.org/ibcc/AECOPD/#top
 - Wyatt JP, Taylor RG, Wit K de, Hotton EJ. Oxford Handbook of Emergency Medicine. Oxford: OUP Oxford; 2020. 795 p. 112
+- Extracorporeal Carbon Dioxide Removal to Avoid Invasive Ventilation During Exacerbations of Chronic Obstructive Pulmonary Disease: VENT-AVOID Trial – A Randomized Clinical Trial Duggal et al. 2024; American Journal of Respiratory and Critical Care Medicine March 1, 2024 Pages xv-616
