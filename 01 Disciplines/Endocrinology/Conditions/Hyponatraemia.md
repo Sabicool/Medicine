@@ -38,9 +38,13 @@ date: 2026-05-29
 	- Raised ICP
 	- Seizures
 	- Coma
+- Psychosocial history for suggestion of psychogenic polydipsia or weird diets
 - Medications (diuretics, steroids, drugs which cause SIADH e.g. SSRIs)
+	- Also review the fluid chart (has someone been charting dextrose without interchanging with saline)
 - Co-morbidities: adrenal disease, liver disease
-- Medications
+- Trauma history suggesting cerebral salt wasting or pituitary injury
+- Recent procedures: TURP, contrast CT, recent surgery etc.
+- Social history: alcohol intake
 ## Examinations
 - Volume status
 - Neurological complications (e.g. increased ICP, lateralising signs)
@@ -50,10 +54,17 @@ date: 2026-05-29
 - Plasma proteins and lipids
 - Urinary sodium
 - Urine osmolality
+- Optional extras to consider:
+	- ABG
+	- TFTs
+	- LFTs
+	- Urea and creatinine
+	- Random cortisol
+	- Short synacthen test
 # Workup
 - The main goals in the assessment of hyponatraemia are:
 	1. Severity of hyponatraemia ([correct for hyperglycaemia if present](https://www.mdcalc.com/calc/50/sodium-correction-hyperglycemia))
-	2. Type of hyponatraemia (hypertonic/isotonic/hypotonic)
+	2. Type of hyponatraemia (hypertonic/isotonic/hypotonic); although pretty much all hyponatraemia is hypo-osmolar
 	3. Treat cause
 	4. Prevent complications
 - Remember to correct serum osmolality for the effect of urea
