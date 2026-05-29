@@ -1,7 +1,7 @@
 ---
 Rotations:
   - "[[Intensive Care Unit]]"
-date: 2026-05-28
+date: 2026-05-29
 ---
 # Pathophysiology
 - Hyponatraemia generally causes low extracellular osmolality causing fluid shift into the intracellular space
@@ -38,7 +38,7 @@ date: 2026-05-28
 	- Raised ICP
 	- Seizures
 	- Coma
-- Medications
+- Medications (diuretics, steroids, drugs which cause SIADH e.g. SSRIs)
 - Co-morbidities: adrenal disease, liver disease
 - Medications
 ## Examinations
