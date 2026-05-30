@@ -32,6 +32,12 @@ date: 2026-05-30
 - Normal renal, hepatic, cardiac, pituitary, adrenal and thyroid function
 - Absence of hypotension, hypovolemia, oedema and ADH-influencing drugs
 - Hyponatremia corrects with water restriction
+# Workup
+1. Review medication list for medications causing SIADH
+2. Review smoking history for occult lung cancer
+3. Consider neurological examination
+4. Chest X-ray
+5. Consider head CT
 # Management
 - Fluid restriction
 - Demeclocycline

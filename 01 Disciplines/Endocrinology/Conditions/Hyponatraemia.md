@@ -2,6 +2,8 @@
 Rotations:
   - "[[Intensive Care Unit]]"
 date: 2026-05-30
+tags:
+  - cards
 ---
 # Pathophysiology
 - Hyponatraemia generally causes low extracellular osmolality causing fluid shift into the intracellular space
@@ -66,8 +68,17 @@ date: 2026-05-30
 - The main goals in the assessment of hyponatraemia are:
 	1. Severity of hyponatraemia ([correct for hyperglycaemia if present](https://www.mdcalc.com/calc/50/sodium-correction-hyperglycemia))
 	2. Type of hyponatraemia (hypertonic/isotonic/hypotonic); although pretty much all hyponatraemia is hypo-osmolar
-	3. Treat cause
-	4. Prevent complications
+	3. Check urine osmolality
+	4. Assess volume status and measure urinary sodium
+	5. Consider additional tests
+		- Low uric acid or urea suggests SIADH or cerebral salt wasting
+		- Metabolic alkalosis + hypokalaemia suggests volume depletion from vomiting or diuretics
+		- Metabolic acidosis + hypokalaemia suggests volume depletion from diarrhoea
+		- Metabolic acidosis + hyperkalaemia suggests primary adrenal insufficiency
+	6. Consider workup of [[Syndrome of Inappropriate Antiduretic Hormone Secretion|SIADH]] causes if SIADH is likely
+	7. Treat cause
+	8. Prevent complications
+
 - Remember to correct serum osmolality for the effect of urea
 	- Urea is an ineffective osmole (as it freely crosses cell membranes) → therefore does not cause H2O to moved out of cells
 $$
@@ -75,6 +86,10 @@ $$
 $$
 ![[lazy mans hyponatremia.jpg]]
 ## Hypotonic
+
+![[Pasted image 20260530181047.png]]
+![[Pasted image 20260530181117.png]]
+
 - The main causes here are either caused by solute depletion or dilution and are differentiated by the volume status or by urine studies
 - Hypo-osmolar urine
 	- Low urine sodium
@@ -120,7 +135,10 @@ $$
 			- Elevated vasopressin causes water retention and dilutional hyponatraemia but sodium excretion remains intact, hence the high urinary sodium
 		- Cerebral salt wasting
 			- These patients are hypovolaemic and produce high urine output in contrast to [[Syndrome of Inappropriate Antiduretic Hormone Secretion|SIADH]] patients who are normmovolaemic and have low urine output
+			- There is an inappropriate inhibition of sodium reabsorption in the kidneys resulting in volume depletion
 			- Here ADH is elevated as an appropriate response to hypovolaemia
+			- Fluid restriction will improve SIADH but worsen cerebral salt wasting
+				- Isotonic saline improves cerebral salt wasting but has no effect on SIADH
 - Determine volume status
 	- Hypovolaemic: Loss of $\ce{\ce{H2O}}$ and sodium from the extracellular fluid space → ↑ ADH secretion → ↓ free $\ce{\ce{H2O}}$ excretion and retention → hyponatraemia
 		- Intra-renal causes: ACE-i, [[Diuretics]], [[Adrenal Insufficiency|Addison disease]], Cerebral sodium wasting syndrome, [[Acute Tubular Necrosis]] → would expect urine sodium to be high > 20 mmol/L
@@ -180,6 +198,11 @@ $$
 $$
 
 # Management
+![[Pasted image 20260530183654.png]]
+
+- Recommendation for rise:
+	- Correct rate of ≤6 mmol/L over the first 24 hours
+	- In the presence of severe neurological symptoms increase the sodium immediately in the first few hours until symptoms improve then hold for the remainder of the day
 - Fluid restriction to <800 mL/day
 - Diuretics
 - Isotonic saline in true volume depletion
@@ -213,8 +236,21 @@ $$
 	- Once volume is restored, ADH release will decrease, and dilute diuresis will ensue
 	- This loss of free water will assist the attempts to correct hyponatremia with hypertonic saline
 	- Thus, volume replacement must occur together with sodium replacement
+- Initial infusion rate can be calculated by:
+$$
+\text{Infusion Rate (mL/hr)}\approx \text{Lean Body Weight (kg)}\times 1.5
+$$
 ## Hypertonic Saline Replacement
 - Symptomatic hyponatraemia should be managed with the infusion of hypertonic saline
+- Initial infusion rate can be given by:
+$$
+\text{Infusion Rate (mL/hr)}=\text{Lean Body Weight (kg)}\times \text{Desired rate of serum Na increase}
+$$
+- For example for a 100kg man with a sodium of 110 mmol/L, what is the desired rate of 3% saline to increase the sodium to 113 mmol/L over 6 hours
+$$
+100 \times \frac{113-110}{6}\approx 50 \text{ mL/hr}
+$$
+
 ## Asymptomatic from SIADH
 - Fluid restrict
 - Furosemide 20-40mg/day
