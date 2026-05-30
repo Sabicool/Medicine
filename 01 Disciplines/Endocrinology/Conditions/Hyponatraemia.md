@@ -80,7 +80,12 @@ $$
 	- Low urine sodium
 		- Dilutional hyponatraemia; the kidney is trying to pass free water to concentrate extracellular fluid
 		- Water excess: psychogenic polydipsia, inappropriate fluids (i.e. 5% dextrose)
-		- 
+		- Dietary solute deficiency (beer potomania, malnutrition e.g. ovolactovegetarians, crash dieters, elderly "tea and toast" diet)
+			- Minimum urine osmolality ~40–60 mOsm/kg — kidney cannot dilute below this; therefore $\text{Max Water Excretion}=\frac{\text{Daily Solute Load (mOsm)}}{\text{Minimum Urine Osmolality (mOsm/kg)}}$ and with a normal diet this is up to 10-15 L/day
+			- With a low protein and ow sodium diet, there is less urea production and less sodium is available for excretion
+			- As the solute load falls the maximum water excretion decreases sometimes down to ~4 L/day
+			- Excess water intake beyond this results in dilutional hyponatraemia
+			- Management here is to increase solute intake and fluid restrict
 - Determine volume status
 	- Hypovolaemic: Loss of $\ce{\ce{H2O}}$ and sodium from the extracellular fluid space → ↑ ADH secretion → ↓ free $\ce{\ce{H2O}}$ excretion and retention → hyponatraemia
 		- Intra-renal causes: ACE-i, [[Diuretics]], [[Adrenal Insufficiency|Addison disease]], Cerebral sodium wasting syndrome, [[Acute Tubular Necrosis]] → would expect urine sodium to be high > 20 mmol/L
@@ -174,3 +179,4 @@ $$
 	- [Hyperosmolar hyponatremia](https://derangedphysiology.com/main/required-reading/electrolyte-disorders/Chapter-532/hyperosmolar-hyponatremia)
 	- [Isoosmolar hyponatremia](https://derangedphysiology.com/main/required-reading/electrolyte-disorders/Chapter-533/isoosmolar-hyponatremia)
 	- [Hypoosmolar hyponatremia with dilute urine and low urine sodium](https://derangedphysiology.com/main/required-reading/electrolyte-disorders/Chapter-534/hypoosmolar-hyponatremia-dilute-urine-and-low-urine-sodium)
+	- [Hypoosmolar hyponatremia with dilute urine and high urine sodium](https://derangedphysiology.com/main/required-reading/electrolyte-disorders/Chapter-535/hypoosmolar-hyponatremia-dilute-urine-and-high-urine-sodium)
