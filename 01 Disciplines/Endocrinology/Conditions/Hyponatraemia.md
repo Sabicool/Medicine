@@ -104,7 +104,23 @@ $$
 			- Cirrhosis with ascites where the blood pressure is low due to systemic vasodilation despite a hyperdynamic circulation thereby activating the renin-angiotensin-aldosterone-system
 			- Nephrotic syndrome where fluid leaving the intravascular compartment results in reduced effective circulating volume thereby activating the renin-angiotensin-aldosterone-system
 	- High urine sodium
-		- 
+		- [[Diuretics#Thiazide Diuretics|Thiazide diuretics]]
+		- Polyuric phase of [[Acute Tubular Necrosis]]
+		- [[Chronic Renal Failure]]
+			- In chronic renal failure, urine osmolality tends towards 300 mOsm/kg (isothenuria) where the kidney is neither adding nor removing water effectively, so urine ends up isotonic to plasma
+				- This is because of the loss of the corticomedullary osmotic gradient
+			- Tubules faile to retain sodium also resulting in sodium wasting
+		- Corticosteroid deficiency (e.g. [[Adrenal Insufficiency|Addison disease]])
+			- Loss of aldosterone causes decreased sodium resorption and increased potassium retention thereby causing hyponatraemia and [[Hyperkalaemia]]
+			- Cortisol itself inhibits ADH secretion meaning less cortisol results in water retention due to more circulating ADH causing concentrated high sodium urine
+			- Exogenous corticosteroids resolves this issue
+		- [[Hypothyroidism]]
+		- Pan-hypopituitarism
+		- [[Syndrome of Inappropriate Antiduretic Hormone Secretion|SIADH]]
+			- Elevated vasopressin causes water retention and dilutional hyponatraemia but sodium excretion remains intact, hence the high urinary sodium
+		- Cerebral salt wasting
+			- These patients are hypovolaemic and produce high urine output in contrast to [[Syndrome of Inappropriate Antiduretic Hormone Secretion|SIADH]] patients who are normmovolaemic and have low urine output
+			- Here ADH is elevated as an appropriate response to hypovolaemia
 - Determine volume status
 	- Hypovolaemic: Loss of $\ce{\ce{H2O}}$ and sodium from the extracellular fluid space → ↑ ADH secretion → ↓ free $\ce{\ce{H2O}}$ excretion and retention → hyponatraemia
 		- Intra-renal causes: ACE-i, [[Diuretics]], [[Adrenal Insufficiency|Addison disease]], Cerebral sodium wasting syndrome, [[Acute Tubular Necrosis]] → would expect urine sodium to be high > 20 mmol/L
@@ -164,7 +180,7 @@ $$
 $$
 
 # Management
-- Fluid restriction to < 800 mL/day
+- Fluid restriction to <800 mL/day
 - Diuretics
 - Isotonic saline in true volume depletion
 - Oral sodium tablets
@@ -181,6 +197,24 @@ $$
 - Furosemide 20 mg IV
 - Fluid restrict
 - Repeat sodium every 2 hours
+## Fluid Restriction
+- Management of choice in euvolaemic and hypervolaemic hyponatraemia (e.g. [[Syndrome of Inappropriate Antiduretic Hormone Secretion|SIADH]], CCF, cirrhosis, nephrotic syndrome, psychogenic polydipsia, beer potomania)
+- May not work where:
+	- High urine osmolality
+	- Low urine output
+	- Sum of urinary sodium and potassium concentration exceeds the serum sodium concentration
+	- After 2 days of fluid restriction, the sodium concentration has failed to increase by more than 2 mmol/L
+## Isotonic Saline Replacement
+- Management of choice in hypovolaemic hyponatraemia as the hyponatraemia is due to increased ADH due to low circulating volume
+- Once volume is corrected, the stimulus for ADH secretion will cease and tonicity will be restored by diuresis
+- In summary:
+	- Hypovolemia has resulted in excess ADH release in spite of hypo-osmolarity, because the baroreceptor reflex is a stronger stimulus for ADH release than the osmoreceptor reflex
+	- The excess ADH results in free water retention, which counteracts the attempts to increase sodium concentration with hypertonic saline
+	- Once volume is restored, ADH release will decrease, and dilute diuresis will ensue
+	- This loss of free water will assist the attempts to correct hyponatremia with hypertonic saline
+	- Thus, volume replacement must occur together with sodium replacement
+## Hypertonic Saline Replacement
+- Symptomatic hyponatraemia should be managed with the infusion of hypertonic saline
 ## Asymptomatic from SIADH
 - Fluid restrict
 - Furosemide 20-40mg/day
@@ -199,3 +233,4 @@ $$
 	- [Isoosmolar hyponatremia](https://derangedphysiology.com/main/required-reading/electrolyte-disorders/Chapter-533/isoosmolar-hyponatremia)
 	- [Hypoosmolar hyponatremia with dilute urine and low urine sodium](https://derangedphysiology.com/main/required-reading/electrolyte-disorders/Chapter-534/hypoosmolar-hyponatremia-dilute-urine-and-low-urine-sodium)
 	- [Hypoosmolar hyponatremia with dilute urine and high urine sodium](https://derangedphysiology.com/main/required-reading/electrolyte-disorders/Chapter-535/hypoosmolar-hyponatremia-dilute-urine-and-high-urine-sodium)
+	- [Management of hyponatraemia](https://derangedphysiology.com/main/required-reading/electrolyte-disorders/Chapter-539/management-hyponatremia)
