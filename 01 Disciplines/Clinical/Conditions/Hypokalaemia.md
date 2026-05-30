@@ -45,16 +45,38 @@ date: 2026-05-30
 	- Dangerous arrhythmias are more common when hypokalaemia also occurs with QT prolonging drugs, digoxin toxicity, [[Hypomagnesaemia]], coronary ischaemia
 # Assessment
 ## History
+- fatigue
+- muscle cramps
+- weakness
+- constipation
+- rhabdomyolysis
+- ascending paralysis
+- respiratory failure
+- arrhythmias
+- symptoms more likely in pre-existing heart disease (IHD, CHF, LVH)
+- medications: cause of hypokalaemia and also anti-arrhythmics (sotalol -> increased risk of arrhythmias)
 
 ## Examination
 
 ## Investigations
+- ECG
+- EUC
+- CMP
+- Digoxin level if on digoxin
 # Workup
 1. Most aetiologies are evident from history
 2. Assess magnesium level
 3. Check acid base status and measure urine potassium excretion
 ![[Pasted image 20260530211923.png]]
 # Management
+- Replace magnesium as fascilitates a more rapid correction of hyperkalaemia
+
 ![[Pasted image 20260530212150.png]]
 
 - For patients with hypokalaemia in the setting of essential diuretic use (e.g. heart failure) or hyperaldosteronism, a potassium-sparing diuretic is usually more effective than chronic potassium replacement
+- In life threatening arrhythmias:
+	- $\ce{K+}$ 20 mmol over 10 minutes
+	- $\ce{Mg^{2+}}$ 10 mmol over 10 minutes
+# Sources
+- [Hypokalaemia](https://derangedphysiology.com/main/required-reading/electrolyte-disorders/Chapter-621/hypokalemia)
+- [Hypokalaemia • LITFL • CCC Electrolytes](https://litfl.com/hypokalaemia/)
