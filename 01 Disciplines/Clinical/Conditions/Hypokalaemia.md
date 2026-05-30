@@ -9,6 +9,12 @@ date: 2026-05-30
 - Moderate – 2.5-3.0
 - Severe – <2.5
 # Aetiologies
+![[Pasted image 20260530211239.png]]
+
+![[Pasted image 20260530211725.png]]
+
+![[Pasted image 20260530211556.png]]
+
 - can remember with the mnemonic Dr froM MIT:
 	- Decreased $\ce{K+}$ intake (e.g. poor dietary intake, starvation)
 	- [[Hypomagnesaemia]] which results in increased potassium loss
@@ -33,11 +39,22 @@ date: 2026-05-30
 		- Beta-agonists
 		- Alkalosis: respiratory and metabolic
 		- Hypokalaemic periodic paralysis
+# Clinical Features
+- Muscles - weakness (legs > arms), cramps, ileus, rhabdomyolysis
+- Cardiac conduction abnormalities
+	- Dangerous arrhythmias are more common when hypokalaemia also occurs with QT prolonging drugs, digoxin toxicity, [[Hypomagnesaemia]], coronary ischaemia
 # Assessment
 ## History
 
 ## Examination
 
 ## Investigations
-
+# Workup
+1. Most aetiologies are evident from history
+2. Assess magnesium level
+3. Check acid base status and measure urine potassium excretion
+![[Pasted image 20260530211923.png]]
 # Management
+![[Pasted image 20260530212150.png]]
+
+- For patients with hypokalaemia in the setting of essential diuretic use (e.g. heart failure) or hyperaldosteronism, a potassium-sparing diuretic is usually more effective than chronic potassium replacement
