@@ -75,7 +75,12 @@ $$
 $$
 ![[lazy mans hyponatremia.jpg]]
 ## Hypotonic
-- The main causes here are either caused by solute depletion or dilution and are differentiated by the volume status
+- The main causes here are either caused by solute depletion or dilution and are differentiated by the volume status or by urine studies
+- Hypo-osmolar urine
+	- Low urine sodium
+		- Dilutional hyponatraemia; the kidney is trying to pass free water to concentrate extracellular fluid
+		- Water excess: psychogenic polydipsia, inappropriate fluids (i.e. 5% dextrose)
+		- 
 - Determine volume status
 	- Hypovolaemic: Loss of $\ce{\ce{H2O}}$ and sodium from the extracellular fluid space → ↑ ADH secretion → ↓ free $\ce{\ce{H2O}}$ excretion and retention → hyponatraemia
 		- Intra-renal causes: ACE-i, [[Diuretics]], [[Adrenal Insufficiency|Addison disease]], Cerebral sodium wasting syndrome, [[Acute Tubular Necrosis]] → would expect urine sodium to be high > 20 mmol/L
@@ -94,11 +99,20 @@ $$
 		- TURP/hysteroscopy syndrome
 			- Acutely TURP syndrome can present with isotonic or hypertonic picture with high osmolar gap before the glycine is metabolised as glycine itself is osmotically active; Once metabolised to ammonia or glyxoxylate and the true hypotonic hyponatraemia is unmasked
 ## Isotonic
-Hyperlipidaemia, multiple myeloma ⇒ pseudohyponatraemia because of reduction in aqueous plasma
+- Referred to as pseudohyponatraemia as it is due to a measurement artifact
+	- In the lab, the sample is diluted to 1/10th the solution then the sodium is measured
+	- The concentration of sodium is then calculated with the assumption that it comes from a sample which originally consisted of 93% water
+- Hyperlipidaemia, multiple myeloma ⇒ pseudohyponatraemia because of reduction in aqueous plasma
+
+Correcting sodium for high lipids (lipid concentration measured in mg/dL) or proteins (protein concentration measured in g/L) is possible with the following formula
+$$
+\text{Corrected }\ce{Na+}=\frac{\text{Measured }\ce{Na+}\times 0.93}{99.1-(1.1\times 10^{-5}\times \text{L})-(0.07\times \text{P})}
+$$
+
 ## Hypertonic
 - Osmotically active particles in the plasma induce movement of $\ce{\ce{H2O}}$ from intracellular to extracellular space decreasing serum sodium conentration even through the serum osmolality remains elevated
 - Mannitol; although this turns into [[Hypernatraemia]] as mannitol is a free-water-sucking osmotic diuretic
--  
+- Alcohol intoxication can cause hyperosmolarity and thus hyponatraemia but the inhibition of ADH by alcohol leads to massive diuresis and dehyudration and typically hypo-osmolar hyponatraemia 
 - Radiocontrast use
 - Highly osmotic agents cause increase in water osmosis into intravascular space causing dilutional hyponatraemia
 
@@ -157,3 +171,6 @@ $$
 	- [Hyponatraemia • LITFL • CCC Electrolytes](https://litfl.com/hyponatraemia/)
 - Deranged Physiology:
 	- [Hyponatremia: a lazy man's classification](https://derangedphysiology.com/main/required-reading/electrolyte-disorders/Chapter-531/hyponatremia-lazy-mans-classification)
+	- [Hyperosmolar hyponatremia](https://derangedphysiology.com/main/required-reading/electrolyte-disorders/Chapter-532/hyperosmolar-hyponatremia)
+	- [Isoosmolar hyponatremia](https://derangedphysiology.com/main/required-reading/electrolyte-disorders/Chapter-533/isoosmolar-hyponatremia)
+	- [Hypoosmolar hyponatremia with dilute urine and low urine sodium](https://derangedphysiology.com/main/required-reading/electrolyte-disorders/Chapter-534/hypoosmolar-hyponatremia-dilute-urine-and-low-urine-sodium)
