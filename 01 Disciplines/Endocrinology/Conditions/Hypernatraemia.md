@@ -70,6 +70,23 @@ $$
 > To reduce sodium by 5 mmol/L over 12 hours, we therefore need to give $\frac{5}{4.3}=1.2 \text{ L}$ of fluid. To account for ongoing losses due to DI, we might want to give another 2L, for a total of 3.2 L over 12 hours which is approximately 260 mL/hr
 > - We can therefore give both fluids simultaneously or give the boluses of normal saline first then the glucose 5%
 
+- Alternatively and much easily use the [free water calculator on MDCalc](https://www.mdcalc.com/calc/113/free-water-deficit-hypernatremia) making sure to plugin in an appropriate desired sodium target (i.e. 10 mmol/24 hours)
+	1. Assess volume status and resuscitate appropriately with normal saline
+	2. Establish acute vs chronic to determine rate (acute ≈ 1 mmol/L/hr and chronic < 24 mmol/L over 24 hours); when in doubt assume chronic
+	3. Set a safe 24-hour target sodium (i.e. in chronic $\text{Target Na}=\text{Current Na}-10$)
+	4. Use this as the sodium desired value in the above calculator in MDCalc
+	5. Divide this volume by 24 hours to get the mL/hr of pure free water
+	6. Add maintenance and ongoing free water losses 
+		- Insensible losses (skin + respiratory) is roughly 0.5-1 mL/kg/hr and are electrolyte free so also contribute to hypernatraemia
+			- Add 10% per °C above 37°C for fever, and more for tachypnoea, burns, open abdomen or unhumidified ventilation
+		- Determine the electrolyte free water clearance by the kidney $\text{EFWC}=V_{\text{urine}}\times (1-\frac{\ce{Na+_{\text{urine}} + K+_{\text{urine}}}}{\ce{Na+_{\text{serum}}}}$
+			- A positive EFWC is the volume of pure water the kidney is dumping per unit time and should be matched by the IVF replacement
+		- Do not add isotonic losses to this (e.g. GI output, drain fluid, blood)
+	7. Adjust this for the fluid’s actual free-water fraction: 5% dextrose = 1.0 (rate unchanged), 0.45% saline = 0.5 (double it), 0.18–0.225% saline = ~0.75. This gives the volume of _that fluid_ to run
+		- $\text{Free Water Fraction}=1-\frac{\ce{Na+}_{\text{fluid}}+\ce{K+}_{\text{fluid}}}{154}$
+		- For example, 2.8L of free water over 24h via 0.45% saline is $2.8/0.5 = 5.6 \text{ L}$ or 230 mL/hr
+	8. Cross check with formula above
+	9. Recheck sodium at 4-6 hours and titrate
 # Sources
 - Youtube Videos
 	- [Hypernatremia - YouTube](https://www.youtube.com/watch?v=UuJXQdDFgoA&list=PLYojB5NEEakXVIAapcSEleP4doUdHVtld&index=3)
