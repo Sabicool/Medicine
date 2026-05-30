@@ -89,7 +89,10 @@ $$
 	- High urine sodium
 		- Normal mechanisms of water resorption and sodium retention have failed
 		- [[Acute Kidney Injury|Acute Renal Failure]]
-			- 
+			- **Sodium reabsorption failure** — damaged tubules can't reclaim Na⁺ from the lumen
+			- **ADH unresponsiveness** — collecting duct can't concentrate urine even if ADH is present
+			- Reduced flow delivered to distal nephron compounds both problems
+			- Above result in small volume of dilute, sodium rich urine
 - Determine volume status
 	- Hypovolaemic: Loss of $\ce{\ce{H2O}}$ and sodium from the extracellular fluid space → ↑ ADH secretion → ↓ free $\ce{\ce{H2O}}$ excretion and retention → hyponatraemia
 		- Intra-renal causes: ACE-i, [[Diuretics]], [[Adrenal Insufficiency|Addison disease]], Cerebral sodium wasting syndrome, [[Acute Tubular Necrosis]] → would expect urine sodium to be high > 20 mmol/L
