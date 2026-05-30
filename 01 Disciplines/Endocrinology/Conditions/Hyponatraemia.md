@@ -1,7 +1,7 @@
 ---
 Rotations:
   - "[[Intensive Care Unit]]"
-date: 2026-05-29
+date: 2026-05-30
 ---
 # Pathophysiology
 - Hyponatraemia generally causes low extracellular osmolality causing fluid shift into the intracellular space
@@ -54,6 +54,7 @@ date: 2026-05-29
 - Plasma proteins and lipids
 - Urinary sodium → here a high urine sodium suggests SIADH
 - Urine osmolality
+- Serum glucose level
 - Optional extras to consider:
 	- ABG
 	- TFTs
@@ -96,12 +97,34 @@ $$
 Hyperlipidaemia, multiple myeloma ⇒ pseudohyponatraemia because of reduction in aqueous plasma
 ## Hypertonic
 - Osmotically active particles in the plasma induce movement of $\ce{\ce{H2O}}$ from intracellular to extracellular space decreasing serum sodium conentration even through the serum osmolality remains elevated
-- Hyperglycaemia (for each rise in 1 mmol/L in blood glucose, the serum sodium will decrease by 0.3 mmol/L)
-- Mannitol
+- Mannitol; although this turns into [[Hypernatraemia]] as mannitol is a free-water-sucking osmotic diuretic
+-  
 - Radiocontrast use
 - Highly osmotic agents cause increase in water osmosis into intravascular space causing dilutional hyponatraemia
 
 ![[hyperosmolar hyponatremia.jpg]]
+
+- Calculate corrected sodium for hyperglycaemia
+
+A linear equation can be used but it tends to be inaccurate once the BGL goes above 25
+$$
+\text{Na}^+_{\text{corrected}} = \text{Na}^+_{\text{measured}} + 1.6 \times \frac{\text{glucose} - 5.6}{5.6}
+$$
+
+Alternatively can remember that at:
+- A BSL of 14, the sodium decreases by 4 mmol/L
+- A BSL of 28, the sodium decreases by 8 mmol/L
+- A BSL of 56, the sodium decreases by 16 mmol/L
+
+Hence we start to use this formula for higher BGLs
+$$
+\text{Na}^+_{\text{corrected}} = \text{Na}^+_{\text{measured}} + 
+\begin{cases} 
+1.6 \times \dfrac{\text{glucose} - 5.6}{5.6} & \text{if glucose} \leq 25 \\[8pt] 
+2.4 \times \dfrac{\text{glucose} - 5.6}{5.6} & \text{if glucose} > 25 
+\end{cases}
+$$
+
 # Management
 - Fluid restriction to < 800 mL/day
 - Diuretics
