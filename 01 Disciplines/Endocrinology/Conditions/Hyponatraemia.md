@@ -93,6 +93,18 @@ $$
 			- **ADH unresponsiveness** — collecting duct can't concentrate urine even if ADH is present
 			- Reduced flow delivered to distal nephron compounds both problems
 			- Above result in small volume of dilute, sodium rich urine
+		- Post obstructive diuresis
+		- Polyuric phase of [[Acute Tubular Necrosis]]
+- Hyper-osmolar urine
+	- Low urine sodium
+		- Hypovolaemia in patients who have extracellular fluid losses (e.g. diarrhoea, vomiting, burns, blood loss, third spacing into post-laparotomy abdomen)
+			- Manage with just normal saline
+		- Hypervolaemia where the renin-angiotensin-aldosterone system is activated inappropriately
+			- Heart Failure results in decreased salt delivery to macula densa activating the renin-angiotensin-aldosterone system
+			- Cirrhosis with ascites where the blood pressure is low due to systemic vasodilation despite a hyperdynamic circulation thereby activating the renin-angiotensin-aldosterone-system
+			- Nephrotic syndrome where fluid leaving the intravascular compartment results in reduced effective circulating volume thereby activating the renin-angiotensin-aldosterone-system
+	- High urine sodium
+		- 
 - Determine volume status
 	- Hypovolaemic: Loss of $\ce{\ce{H2O}}$ and sodium from the extracellular fluid space → ↑ ADH secretion → ↓ free $\ce{\ce{H2O}}$ excretion and retention → hyponatraemia
 		- Intra-renal causes: ACE-i, [[Diuretics]], [[Adrenal Insufficiency|Addison disease]], Cerebral sodium wasting syndrome, [[Acute Tubular Necrosis]] → would expect urine sodium to be high > 20 mmol/L
