@@ -86,6 +86,10 @@ $$
 			- As the solute load falls the maximum water excretion decreases sometimes down to ~4 L/day
 			- Excess water intake beyond this results in dilutional hyponatraemia
 			- Management here is to increase solute intake and fluid restrict
+	- High urine sodium
+		- Normal mechanisms of water resorption and sodium retention have failed
+		- [[Acute Kidney Injury|Acute Renal Failure]]
+			- 
 - Determine volume status
 	- Hypovolaemic: Loss of $\ce{\ce{H2O}}$ and sodium from the extracellular fluid space → ↑ ADH secretion → ↓ free $\ce{\ce{H2O}}$ excretion and retention → hyponatraemia
 		- Intra-renal causes: ACE-i, [[Diuretics]], [[Adrenal Insufficiency|Addison disease]], Cerebral sodium wasting syndrome, [[Acute Tubular Necrosis]] → would expect urine sodium to be high > 20 mmol/L
@@ -139,7 +143,7 @@ Hence we start to use this formula for higher BGLs
 $$
 \text{Na}^+_{\text{corrected}} = \text{Na}^+_{\text{measured}} + 
 \begin{cases} 
-1.6 \times \dfrac{\text{glucose} - 5.6}{5.6} & \text{if glucose} \leq 25 \\[8pt] 
+1.6 \times \dfrac{\text{glucose} - 5.6}{5.6} & \text{if glucose} \leq 25 \\[12pt] 
 2.4 \times \dfrac{\text{glucose} - 5.6}{5.6} & \text{if glucose} > 25 
 \end{cases}
 $$

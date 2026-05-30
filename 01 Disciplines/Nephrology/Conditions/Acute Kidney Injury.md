@@ -5,6 +5,8 @@ Rotations:
 date: 2026-05-25
 tags:
   - cards
+aliases:
+  - Acute Renal Failure
 ---
 # Definitions
 - KDIGO AKI workgroup defined AKI as any of the following:
