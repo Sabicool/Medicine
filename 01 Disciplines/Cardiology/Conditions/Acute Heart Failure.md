@@ -73,6 +73,30 @@ aliases:
 	- BiPAP or CPAP
 	- Consider drainage of large effusions for patients in respiratory distress
 - Optimise MAP
-	- 
+	- Afterload reduction in those with high MAP/SVR
+		- Consider in patients with:
+			- HFrEF with LV dilatation
+			- Mitral regurgitation
+			- Unnecessarily high MAP (also see [[Acute Pulmonary Oedema]])
+		- Can be obtained with agents such as:
+			- High dose nitroglycerine infusion
+			- Nitroprusside infusion
+			- Nicardipine
+			- Milrinone
+	- Hypotension: consider inopressor
+		- Noradrenaline is widely recommended as the front-line agent for cardiogenic shock
+- Optimise volume status
+	- Fluid administration
+		- Give fluid when all are met
+			- There is insufficient end-organ perfusion (e.g., acute kidney injury)
+			- There is no evidence of pulmonary congestion (e.g., no B-lines on lung ultrasonography)
+			- The overall assessment suggests true hypovolemia (e.g., no systemic congestion)
+			- Dynamic indices suggest that the patient is fluid-responsive
+	- Fluid removal
+		- Consider diuresis when:
+			- There is significant pulmonary and/or systemic congestion (e.g., RV failure with high CVP).
+			- Overall assessment suggests total body fluid overload
+		- For patients who aren't responding adequately to furosemide, consider adding a thiazide diuretic
+- 
 # Sources
 - [Acute decompensated heart failure (including cardiogenic shock) - EMCrit Project](https://emcrit.org/ibcc/chf/)
