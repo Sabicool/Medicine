@@ -68,3 +68,11 @@ aliases:
 	- Near dead
 	- Lactate ≥8 mmol/L
 	- Profound hypotension despite maximal haemodynamic support
+# Management
+- Treat the lungs (effusion and pulmonary oedema):
+	- BiPAP or CPAP
+	- Consider drainage of large effusions for patients in respiratory distress
+- Optimise MAP
+	- 
+# Sources
+- [Acute decompensated heart failure (including cardiogenic shock) - EMCrit Project](https://emcrit.org/ibcc/chf/)
