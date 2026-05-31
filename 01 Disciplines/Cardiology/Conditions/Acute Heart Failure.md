@@ -17,7 +17,18 @@ aliases:
 	- Acute hypovolaemia
 	- Renal failure
 - Arrhythmia
-- 
+- Valvular dysfunction (e.g. LV outflow tract obstruction, prosthetic valve dysfunction, native valve dysfunction)
+- Medications
+	- Non-adherence with heart failure therapies
+	- Adverse medication effect
+	- Sympathomimetic abuse
+- Other
+	- Uncontrolled hypertension
+	- Uncontrolled sleep-disordered breathing
+	- Hypophosphatemia
+	- Iron deficiency (with or without anemia)
+	- Thyroid disease (hypothyroidism or hyperthyroidism)
+	- Infection/sepsis
 # Diagnosis
 ## SCAI Shock Classification
 - A: At risk
