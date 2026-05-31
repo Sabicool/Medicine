@@ -28,7 +28,7 @@ aliases:
 	- Hypophosphatemia
 	- Iron deficiency (with or without anemia)
 	- Thyroid disease (hypothyroidism or hyperthyroidism)
-	- Infection/sepsis
+	- Infection/[[Sepsis]]
 # Diagnosis
 ## SCAI Shock Classification
 - A: At risk
