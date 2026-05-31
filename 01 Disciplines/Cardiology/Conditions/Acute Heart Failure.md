@@ -97,6 +97,6 @@ aliases:
 			- There is significant pulmonary and/or systemic congestion (e.g., RV failure with high CVP).
 			- Overall assessment suggests total body fluid overload
 		- For patients who aren't responding adequately to furosemide, consider adding a thiazide diuretic
-- 
+- Consider inotrope for HFrEF
 # Sources
 - [Acute decompensated heart failure (including cardiogenic shock) - EMCrit Project](https://emcrit.org/ibcc/chf/)
