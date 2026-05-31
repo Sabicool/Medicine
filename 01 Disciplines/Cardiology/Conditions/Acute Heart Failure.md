@@ -8,7 +8,16 @@ aliases:
   - Cardiogenic Shock
 ---
 # Aetiologies
-
+- Acute drop in LV function
+	- [[Acute Coronary Syndromes|ACS]]
+	- [[Takotsubo Cardiomyopathy]], [[Post-Cardiac Arrest]]
+	- [[Myocarditis]]
+- Volume dysfunction
+	- Volume overload (e.g. diuretic non-adherence, dietary indiscretion, iatrogenic volume resuscitation)
+	- Acute hypovolaemia
+	- Renal failure
+- Arrhythmia
+- 
 # Diagnosis
 ## SCAI Shock Classification
 - A: At risk
