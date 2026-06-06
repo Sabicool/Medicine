@@ -4,7 +4,7 @@ aliases:
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-date: 2026-05-22
+date: 2026-06-06
 tags:
   - cards
 ---
@@ -221,6 +221,8 @@ $$
 		- CMP
 		- TSH and FT4
 		- CRP, procalcitonin and blood cultures
+	- Pulmonary artery catheters
+		- Guidelines and scientific statements suggest using pulmonary artery catheters early in the treatment course for selected patients who do not have a response to initial therapy or in cases of diagnostic or therapeutic uncertainty, such as in mixed shock
 - Treatment options:
 	- Optimise MAP target
 		- Central arterial line (femoral or axillary) as opposed to radial artery
@@ -312,7 +314,7 @@ $$
 - Not the same as needing fluid:
 	- **Is the patient fluid responsive?** (Will CO rise with fluid?)
 	- **Does the patient need fluid?** (Is tissue perfusion inadequate and likely to improve with more preload?)
-- Generally dynamic predictors are better than static predictors (e.g. CVP, PCWP, RAP/LVEDP)
+- Generally dynamic predictors are better than static predictors (e.g. CVP[^2], PCWP, RAP/LVEDP)
 ## Challenges
 ### Passive leg raise
 - Method
@@ -412,6 +414,7 @@ $$
 - [Undifferentiated Shock — ICU One Pager](https://onepagericu.com/undifferentiated-shock)
 - [Vasopressors — ICU One Pager](https://onepagericu.com/vasopressors)
 - [Fluid Responsiveness - could this hemodynamically unstable patient respond to IV fluids? — ICU One Pager](https://onepagericu.com/fluid-responsiveness)
+- Thiele H, Hassager C. Cardiogenic Shock. _New England Journal of Medicine_. 2025;394(1):62-77. doi:[10.1056/NEJMra2312086](https://doi.org/10.1056/NEJMra2312086)
 
 [^2]: CVP is a poor predictor of fluid responsiveness
 [^3]: Dexamethasone does not interfere with the cortisol level allowing one to perform an ACTH stimulation test later if indicated

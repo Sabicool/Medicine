@@ -31,6 +31,8 @@ aliases:
 	- Infection/[[Sepsis]]
 # Diagnosis
 ## SCAI Shock Classification
+![[Pasted image 20260606151901.png]]
+
 - A: At risk
 	- Not currently in shock but at risk with normal examination, biochemical markers and haemodynamics
 - B: Beginning cardiogenic shock
@@ -68,10 +70,18 @@ aliases:
 	- Near dead
 	- Lactate ≥8 mmol/L
 	- Profound hypotension despite maximal haemodynamic support
+# Investigations
+## Monitoring
+- BGL control
+- Hourly lactate
+- Urine output 
+- Renal function
+- Currently, there is no consensus on the appropriate method of invasive hemodynamic monitoring to assess and guide treatment of cardiogenic shock
 # Management
 - Treat the lungs (effusion and pulmonary oedema):
 	- BiPAP or CPAP
 	- Consider drainage of large effusions for patients in respiratory distress
+	- If mechanical ventilation is used, lung-protective strategies should be implemented if feasible (e.g. tidal volume of 6-8 mL/kg of predicted body weight)
 - Optimise MAP
 	- Afterload reduction in those with high MAP/SVR
 		- Consider in patients with:
@@ -93,11 +103,15 @@ aliases:
 			- The overall assessment suggests true hypovolemia (e.g., no systemic congestion)
 			- Dynamic indices suggest that the patient is fluid-responsive
 	- Fluid removal
-		- Consider diuresis when:
+		- Consider diuresis when[^1]:
 			- There is significant pulmonary and/or systemic congestion (e.g., RV failure with high CVP).
 			- Overall assessment suggests total body fluid overload
+			- Clinical signs of uraemia
+			- Metabolic acidosis
+			- Refractory hyperkalaemia
 		- For patients who aren't responding adequately to furosemide, consider adding a thiazide diuretic
 - Consider inotrope for HFrEF
 # Sources
 - [Acute decompensated heart failure (including cardiogenic shock) - EMCrit Project](https://emcrit.org/ibcc/chf/)
 - Thiele H, Hassager C. Cardiogenic Shock. _New England Journal of Medicine_. 2025;394(1):62-77. doi:[10.1056/NEJMra2312086](https://doi.org/10.1056/NEJMra2312086)
+[^1]: Earlier initiation of renal replacement therapy in the absence of these conventional emergent indications has been shown to have no effect on outcome
