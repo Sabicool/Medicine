@@ -1,7 +1,7 @@
 ---
 Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
-date: 2026-05-31
+date: 2026-06-06
 tags:
   - notes
 aliases:
@@ -100,3 +100,4 @@ aliases:
 - Consider inotrope for HFrEF
 # Sources
 - [Acute decompensated heart failure (including cardiogenic shock) - EMCrit Project](https://emcrit.org/ibcc/chf/)
+- Thiele H, Hassager C. Cardiogenic Shock. _New England Journal of Medicine_. 2025;394(1):62-77. doi:[10.1056/NEJMra2312086](https://doi.org/10.1056/NEJMra2312086)
