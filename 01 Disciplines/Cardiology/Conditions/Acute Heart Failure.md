@@ -128,10 +128,17 @@ aliases:
 			- Patients with mechanical complication of AMI (e.g. acute mitral regurgitation, post-infarction VSD) where it is used as a bridge to surgery 
 			- Temporary haemodynamic support when pharmacological therapy is failing and patient is being transferred to higher-capability centres[^3] (e.g. for ECMO or impella)
 	- Impella
+		- DanGer Shock Trial showed benefit in patients meeting the following criteria:
 # Sources
-- [Acute decompensated heart failure (including cardiogenic shock) - EMCrit Project](https://emcrit.org/ibcc/chf/)
-- Thiele H, Hassager C. Cardiogenic Shock. _New England Journal of Medicine_. 2025;394(1):62-77. doi:[10.1056/NEJMra2312086](https://doi.org/10.1056/NEJMra2312086)
-- Thiele, H., Zeymer, U., Neumann, F.-J., Ferenc, M., Olbrich, H.-G., Hausleiter, J., Richardt, G., Hennersdorf, M., Empen, K., Fuernau, G., Desch, S., Eitel, I., Hambrecht, R., Fuhrmann, J., Böhm, M., Ebelt, H., Schneider, S., Schuler, G., Werdan, K., 2012. Intraaortic Balloon Support for Myocardial Infarction with Cardiogenic Shock. New England Journal of Medicine 367, 1287–1296. [https://doi.org/10.1056/NEJMoa1208410](https://doi.org/10.1056/NEJMoa1208410)
+- Blogs
+	- [Acute decompensated heart failure (including cardiogenic shock) - EMCrit Project](https://emcrit.org/ibcc/chf/)
+- Guidelines
+	- [Management of cardiogenic shock - ACI NSW Health](https://aci.health.nsw.gov.au/__data/assets/pdf_file/0018/1043370/Management-of-Cardiogenic-Shock-CPG.pdf)
+- Review Articles
+	- Thiele H, Hassager C. Cardiogenic Shock. _New England Journal of Medicine_. 2025;394(1):62-77. doi:[10.1056/NEJMra2312086](https://doi.org/10.1056/NEJMra2312086)
+- Papers
+	- Thiele, H., Zeymer, U., Neumann, F.-J., Ferenc, M., Olbrich, H.-G., Hausleiter, J., Richardt, G., Hennersdorf, M., Empen, K., Fuernau, G., Desch, S., Eitel, I., Hambrecht, R., Fuhrmann, J., Böhm, M., Ebelt, H., Schneider, S., Schuler, G., Werdan, K., 2012. Intraaortic Balloon Support for Myocardial Infarction with Cardiogenic Shock. New England Journal of Medicine 367, 1287–1296. [https://doi.org/10.1056/NEJMoa1208410](https://doi.org/10.1056/NEJMoa1208410)
+	- Møller JE, Engstrøm T, Jensen LO, Eiskjær H, Mangner N, Polzin A, Schulze PC, Skurk C, Nordbeck P, Clemmensen P, Panoulas V, Zimmer S, Schäfer A, Werner N, Frydland M, Holmvang L, Kjærgaard J, Sørensen R, Lønborg J, Lindholm MG, Udesen NLJ, Junker A, Schmidt H, Terkelsen CJ, Christensen S, Christiansen EH, Linke A, Woitek FJ, Westenfeld R, Möbius-Winkler S, Wachtell K, Ravn HB, Lassen JF, Boesgaard S, Gerke O, Hassager C; DanGer Shock Investigators. Microaxial Flow Pump or Standard Care in Infarct-Related Cardiogenic Shock. N Engl J Med. 2024 Apr 18;390(15):1382-1393. doi: 10.1056/NEJMoa2312572. Epub 2024 Apr 7. PMID: 38587239.
 
 [^1]: Earlier initiation of renal replacement therapy in the absence of these conventional emergent indications has been shown to have no effect on outcome
 [^2]: Patients with new-onset atrial fibrillation might benefit from cardioversion to sinus rhythym instead
