@@ -14,6 +14,8 @@ aliases:
 
 ![[Pasted image 20260503104603.png]]
 
+
+
 > [!NOTE] Noradrenaline
 > 0.01-3 mcg/kg/min IV infusion (central line preferred)
 > - First line vasopressor in distributive and most forms of shock
