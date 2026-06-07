@@ -33,9 +33,9 @@ aliases:
 ## SCAI Shock Classification
 ![[Pasted image 20260606151901.png]]
 
-- A: At risk
+- A: At risk (mortality 0.8 - 28.9%)
 	- Not currently in shock but at risk with normal examination, biochemical markers and haemodynamics
-- B: Beginning cardiogenic shock
+- B: Beginning cardiogenic shock (mortality 2.2 - 35.1%)
 	- Defined as clinical instability _without_ hypoperfusion
 	- Physical examination: warm and well perfused, elevated JVP and may have crackles
 	- Biochemical markers: normal lactate, minimal [[Acute Kidney Injury|Acute Renal Failure]], elevated BNP
@@ -43,7 +43,7 @@ aliases:
 		- Hypotension (SBP <90 mm, MAP <60 mm, or >30 mm drop from baseline).
 		- Tachycardia (HR >100 b/m).
 		- Patients may have abnormal invasive hemodynamics (such as reduced cardiac output) but _without_ end-organ malperfusion
-- C: Classic cardiogenic shock
+- C: Classic cardiogenic shock (mortality 10.7 - 59.1%)
 	- Hypoperfusion & requires at least one intervention beyond volume resuscitation with patients usually relatively hypotensive but this isn’t a requirement
 		- If a patient requires vasoactive therapy, they are automatically classified as at least SCAI-C
 	- Physical examination:
@@ -58,14 +58,14 @@ aliases:
 	- Haemodynamics
 		- Cardiac index $<2.2\text{ L/min/m}^2$
 		- PCWP > 15 mm
-- D: Deterioration over time
+- D: Deterioration over time (mortality 24 - 66.9%)
 	- Worsening SCAI-C where the initial support strategy is failing
 		- The need for ≥2 vasoactives/devices due to failure of one intervention indicates SCAI-D
 		- The need for higher mechanical support or medication doses over time suggests SCAI-D
 	- Physical examination is same as SCAI-C plus not responding to therapy
 	- Biochemical markers are the same as SCAI-C plus worsening (e.g. lactate rising and persistently > 2 mmol/L)
 	- Haemodynamics are the same as SCAI-C plus requiring more support
-- E: Extremis
+- E: Extremis (mortality 37.7 - 85.9%)
 	- Actual or impending circulatory collapse
 	- Near dead
 	- Lactate ≥8 mmol/L
@@ -129,9 +129,40 @@ aliases:
 			- Temporary haemodynamic support when pharmacological therapy is failing and patient is being transferred to higher-capability centres[^3] (e.g. for ECMO or impella)
 	- Impella
 		- DanGer Shock Trial showed benefit in patients meeting the following criteria:
+			- STEMI with cardiogenic shock
+			- Undergoing emergency PCI
+			- No cardiac arrest
+			- No RV failure
+			- No significant hypoxia
+			- No mechanical complications
+			- Age under ~77 years 
+		- Also consider in:
+			- Progressive/refractory cardiogenic shock SCAI stage D-E on any aetiology
+			- SCAI C failing medical therapy
+			- Non-AMI aetiologies (e.g. HF-related, myocarditis)
+			- High-risk PCI support
+		- Contraindications:
+			- Mechanical aortic valve
+			- Severe aortic regurgitation (device worsens AR)
+			- Severely calcified/stenotic aortic valve
+			- Severe peripheral arterial disease (femoral access)
+			- Left ventricular thrombus
+			- Ventricular septal defect (relative)
+	- [[ECMO|VA-ECMO]]
+- [[Heart Failure]] management as appropriate:
+	- HFrEF: SGTL2, ACE-i/ARB/ARNI, aldosterone antagonist, iron infusion, verciguat, diuretics, digoxin
+	- HFpEF: SGTL2, diuretics (e.g. loop, MRA, thiazide), AF management, HTN management, OSA
+
+![[Pasted image 20260607234645.png]]
+
+![[Pasted image 20260607234651.png]]
+
+![[Pasted image 20260607234705.png]]
+
 # Sources
 - Blogs
 	- [Acute decompensated heart failure (including cardiogenic shock) - EMCrit Project](https://emcrit.org/ibcc/chf/)
+	- [Cardiogenic shock - deranged physiology](https://derangedphysiology.com/main/required-reading/cardiovascular-intensive-care/Chapter-113/cardiogenic-shock)
 - Guidelines
 	- [Management of cardiogenic shock - ACI NSW Health](https://aci.health.nsw.gov.au/__data/assets/pdf_file/0018/1043370/Management-of-Cardiogenic-Shock-CPG.pdf)
 - Review Articles
