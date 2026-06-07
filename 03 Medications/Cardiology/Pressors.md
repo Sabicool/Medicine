@@ -14,7 +14,7 @@ aliases:
 
 ![[Pasted image 20260503104603.png]]
 
-
+![[Pasted image 20260607220132.png]]
 
 > [!NOTE] Noradrenaline
 > 0.01-3 mcg/kg/min IV infusion (central line preferred)
