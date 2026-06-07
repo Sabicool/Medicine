@@ -4,7 +4,7 @@ aliases:
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-date: 2026-06-06
+date: 2026-06-07
 tags:
   - cards
 ---
@@ -285,7 +285,7 @@ $$
 ![[Pressors#^terlipressin]]
 
 
-![[Pressors#^doboutamine]]
+![[Pressors#^dobutamine]]
 
 
 ![[Pressors#^milrinone]]

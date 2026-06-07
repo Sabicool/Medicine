@@ -1,5 +1,5 @@
 ---
-date: 2026-05-27
+date: 2026-06-07
 Rotations:
   - "[[Intensive Care Unit]]"
   - "[[Emergency Medicine]]"
@@ -73,7 +73,7 @@ aliases:
 > - Risk of tachycardia and arrhythmia; may worsen hypotension in true hypovolaemia
 > ![[dobutamine.svg]]
 
-^doboutamine
+^dobutamine
 
 > [!NOTE] Milrinone
 > 0.125–0.75 mcg/kg/min IV (load: 25–50 mcg/kg over 10 min, often omitted)

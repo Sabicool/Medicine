@@ -1,7 +1,7 @@
 ---
 Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
-date: 2026-06-06
+date: 2026-06-07
 tags:
   - notes
 aliases:
@@ -111,6 +111,13 @@ aliases:
 			- Refractory hyperkalaemia
 		- For patients who aren't responding adequately to furosemide, consider adding a thiazide diuretic
 - Consider inotrope for HFrEF
+	- Ideal first-line ionotrope is yet to be determined
+	- [[Pressors#^dobutamine|Dobutamine]] appears to be commonly used
+	- Where refractory, levosimendan and phosphodiesterase 3 inhbitors such as milrinone can be used
+- Vasopressors
+	- Noradrenaline is probably the vasoconstrictor of choice for hypotension and inadequate tissue perfusion
+- Mechanical circulatory support devices
+	- 
 # Sources
 - [Acute decompensated heart failure (including cardiogenic shock) - EMCrit Project](https://emcrit.org/ibcc/chf/)
 - Thiele H, Hassager C. Cardiogenic Shock. _New England Journal of Medicine_. 2025;394(1):62-77. doi:[10.1056/NEJMra2312086](https://doi.org/10.1056/NEJMra2312086)
