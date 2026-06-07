@@ -114,11 +114,25 @@ aliases:
 	- Ideal first-line ionotrope is yet to be determined
 	- [[Pressors#^dobutamine|Dobutamine]] appears to be commonly used
 	- Where refractory, levosimendan and phosphodiesterase 3 inhbitors such as milrinone can be used
+	- Consider digoxin in patients with long-standing atrial fibrillation and systolic heart failure[^2]
+- Treat the underlying cause
+	- [[Arrhythmias]]
+	- [[Acute Coronary Syndromes|ACS]] to be managed with revascularisation
+	- [[Anaemia]]
 - Vasopressors
 	- Noradrenaline is probably the vasoconstrictor of choice for hypotension and inadequate tissue perfusion
 - Mechanical circulatory support devices
-	- 
+	- [[Intra-Aortic Balloon Pump]] 
+		- As shown by the IABP-SHOCK II Trial (Thiele H 2012) you cannot give every patient with cardiogenic shock an IABP
+		- IABP may be appropriate in the following cases:
+			- Patients with mechanical complication of AMI (e.g. acute mitral regurgitation, post-infarction VSD) where it is used as a bridge to surgery 
+			- Temporary haemodynamic support when pharmacological therapy is failing and patient is being transferred to higher-capability centres[^3] (e.g. for ECMO or impella)
+	- Impella
 # Sources
 - [Acute decompensated heart failure (including cardiogenic shock) - EMCrit Project](https://emcrit.org/ibcc/chf/)
 - Thiele H, Hassager C. Cardiogenic Shock. _New England Journal of Medicine_. 2025;394(1):62-77. doi:[10.1056/NEJMra2312086](https://doi.org/10.1056/NEJMra2312086)
+- Thiele, H., Zeymer, U., Neumann, F.-J., Ferenc, M., Olbrich, H.-G., Hausleiter, J., Richardt, G., Hennersdorf, M., Empen, K., Fuernau, G., Desch, S., Eitel, I., Hambrecht, R., Fuhrmann, J., Böhm, M., Ebelt, H., Schneider, S., Schuler, G., Werdan, K., 2012. Intraaortic Balloon Support for Myocardial Infarction with Cardiogenic Shock. New England Journal of Medicine 367, 1287–1296. [https://doi.org/10.1056/NEJMoa1208410](https://doi.org/10.1056/NEJMoa1208410)
+
 [^1]: Earlier initiation of renal replacement therapy in the absence of these conventional emergent indications has been shown to have no effect on outcome
+[^2]: Patients with new-onset atrial fibrillation might benefit from cardioversion to sinus rhythym instead
+[^3]: There is a NSW health policy directive on IABP and ECMO retrieval
