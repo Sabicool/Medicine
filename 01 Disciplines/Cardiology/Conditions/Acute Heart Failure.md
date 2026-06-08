@@ -1,7 +1,7 @@
 ---
 Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
-date: 2026-06-07
+date: 2026-06-08
 tags:
   - notes
 aliases:
@@ -82,45 +82,60 @@ aliases:
 	- BiPAP or CPAP
 	- Consider drainage of large effusions for patients in respiratory distress
 	- If mechanical ventilation is used, lung-protective strategies should be implemented if feasible (e.g. tidal volume of 6-8 mL/kg of predicted body weight)
-- Optimise MAP
-	- Afterload reduction in those with high MAP/SVR
-		- Consider in patients with:
-			- HFrEF with LV dilatation
-			- Mitral regurgitation
-			- Unnecessarily high MAP (also see [[Acute Pulmonary Oedema]])
-		- Can be obtained with agents such as:
-			- High dose nitroglycerine infusion
-			- Nitroprusside infusion
-			- Nicardipine
-			- Milrinone
-	- Hypotension: consider inopressor
-		- Noradrenaline is widely recommended as the front-line agent for cardiogenic shock
-- Optimise volume status
-	- Fluid administration
-		- Give fluid when all are met
-			- There is insufficient end-organ perfusion (e.g., acute kidney injury)
-			- There is no evidence of pulmonary congestion (e.g., no B-lines on lung ultrasonography)
-			- The overall assessment suggests true hypovolemia (e.g., no systemic congestion)
-			- Dynamic indices suggest that the patient is fluid-responsive
-	- Fluid removal
-		- Consider diuresis when[^1]:
-			- There is significant pulmonary and/or systemic congestion (e.g., RV failure with high CVP).
-			- Overall assessment suggests total body fluid overload
-			- Clinical signs of uraemia
-			- Metabolic acidosis
-			- Refractory hyperkalaemia
-		- For patients who aren't responding adequately to furosemide, consider adding a thiazide diuretic
+- Optimise cardiovascular haemodynamics
+	- Rate
+		- Maintain AV synchrony with pacing
+		- Aim for rate of 80-100 but if evidence of diastolic dysfunction or LVOTO can consider slower rates
+	- Rhythm
+		- Maintain sinus rhythm and reverse AF
+	- Optimise MAP
+		- Afterload reduction in those with high MAP/SVR
+			- Consider in patients with:
+				- HFrEF with LV dilatation
+				- Mitral regurgitation
+				- Unnecessarily high MAP (also see [[Acute Pulmonary Oedema]])
+			- Can be obtained with agents such as:
+				- High dose nitroglycerine infusion
+				- Nitroprusside infusion
+				- Nicardipine
+				- Milrinone
+		- Hypotension: consider inopressor
+			- Noradrenaline is widely recommended as the front-line agent for cardiogenic shock: improves SVR and elevates diastolic pressure to improve coronary perfusion
+			- Dobutamine or milrinone to vasodilte systemically and reduce LV afterload
+			- Consider pulmonary vasodilators to decrease RV afterload
+	- Optimise volume status
+		- Fluid administration
+			- Give fluid when all are met
+				- There is insufficient end-organ perfusion (e.g., acute kidney injury)
+				- There is no evidence of pulmonary congestion (e.g., no B-lines on lung ultrasonography)
+				- The overall assessment suggests true hypovolemia (e.g., no systemic congestion)
+				- Dynamic indices suggest that the patient is fluid-responsive
+		- Fluid removal
+			- Consider diuresis when[^1]:
+				- There is significant pulmonary and/or systemic congestion (e.g., RV failure with high CVP).
+				- Overall assessment suggests total body fluid overload
+				- Clinical signs of uraemia
+				- Metabolic acidosis
+				- Refractory hyperkalaemia
+			- For patients who aren't responding adequately to furosemide, consider adding a thiazide diuretic
 - Consider inotrope for HFrEF
-	- Ideal first-line ionotrope is yet to be determined
-	- [[Pressors#^dobutamine|Dobutamine]] appears to be commonly used
-	- Where refractory, levosimendan and phosphodiesterase 3 inhbitors such as milrinone can be used
+	- Ideal first-line ionotrope is yet to be determined by RCTs
+	- [[Pressors#^dobutamine|Dobutamine]] appears to be commonly used and is recommended in ACI health guidelines
+	- where refractory, levosimendan and phosphodiesterase 3 inhbitors such as milrinone can be used
 	- Consider digoxin in patients with long-standing atrial fibrillation and systolic heart failure[^2]
 - Treat the underlying cause
 	- [[Arrhythmias]]
 	- [[Acute Coronary Syndromes|ACS]] to be managed with revascularisation
 	- [[Anaemia]]
+	- Pericardiocentesis
 - Vasopressors
 	- Noradrenaline is probably the vasoconstrictor of choice for hypotension and inadequate tissue perfusion
+	- Note the following:
+		 - Noradrenaline and dobutamine should be first line for cardiogenic shock with mainly left ventricular dysfunction
+		- Noradrenaline and milrinone should be reserved for cardiogenic shock with mainly right ventricular dysfunction
+		- Noradrenaline and levosimendan should be considered a second-line therapy on the basis of difficult pharmacokinetics on the part of the latter, and are equally recommendable for both LV and RV dysfunction
+		- Adrenaline as a solo agent is recommended only for shrt-term support while waiting for expert care,
+		- Dopamine and vasopressin aren't recommended for anyone
 - Mechanical circulatory support devices
 	- [[Intra-Aortic Balloon Pump]] 
 		- As shown by the IABP-SHOCK II Trial (Thiele H 2012) you cannot give every patient with cardiogenic shock an IABP
