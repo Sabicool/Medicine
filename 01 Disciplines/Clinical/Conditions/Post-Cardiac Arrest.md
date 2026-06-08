@@ -1,5 +1,8 @@
 ---
 date: 2026-06-08
+Rotations:
+  - "[[Intensive Care Unit]]"
+  - "[[Emergency Medicine]]"
 ---
 # Pathophysiology
 ![[consequences of post-cardiac arrest syndrome.jpg]]
@@ -19,4 +22,9 @@ date: 2026-06-08
 		- Pulmonary contusion from CPR
 		  Endothelial dysfunction
 	- Lowering body temperature to result in lower $\dot{V}\ce{CO2}$ means lower minute volume requirements which means lower tidal volumes (protective lung ventilation)
-- 
+- Ischaemic [[Hepatitis]]
+# Assessment
+# Sources
+- Deranged Physiology
+	- [Post-cardiac arrest syndrome ("Post-Resuscitation Syndrome")](https://derangedphysiology.com/main/required-reading/cardiovascular-intensive-care/Chapter-211/post-cardiac-arrest-syndrome-post-resuscitation-syndrome)
+	- [Approach to cardiac arrest and peri-arrest scenarios](https://derangedphysiology.com/main/required-reading/cardiovascular-intensive-care/Chapter-212/approach-cardiac-arrest-and-peri-arrest-scenarios)
