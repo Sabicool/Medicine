@@ -6,6 +6,7 @@ tags:
   - notes
 aliases:
   - Cardiogenic Shock
+figureCount: 1
 ---
 # Aetiologies
 - Acute drop in LV function
@@ -101,7 +102,7 @@ aliases:
 				- Milrinone
 		- Hypotension: consider inopressor
 			- Noradrenaline is widely recommended as the front-line agent for cardiogenic shock: improves SVR and elevates diastolic pressure to improve coronary perfusion
-			- Dobutamine or milrinone to vasodilte systemically and reduce LV afterload
+			- Dobutamine or milrinone to vasodilate systemically and reduce LV afterload
 			- Consider pulmonary vasodilators to decrease RV afterload
 	- Optimise volume status
 		- Fluid administration
@@ -118,16 +119,24 @@ aliases:
 				- Metabolic acidosis
 				- Refractory hyperkalaemia
 			- For patients who aren't responding adequately to furosemide, consider adding a thiazide diuretic
-- Consider inotrope for HFrEF
+- Consider inotrope for low cardiac output with signs of peripheral vasoconstriction (e.g. cool mottled peripheries; knee mottling)
 	- Ideal first-line ionotrope is yet to be determined by RCTs
 	- [[Pressors#^dobutamine|Dobutamine]] appears to be commonly used and is recommended in ACI health guidelines
-	- where refractory, levosimendan and phosphodiesterase 3 inhbitors such as milrinone can be used
+		- Dobutamine may cause hypotension due to vasodilatory effects and should be used in combination with noradrenaline to support a MAP > 65 mmHg
+	- Where refractory, levosimendan and phosphodiesterase 3 inhbitors such as milrinone can be used
 	- Consider digoxin in patients with long-standing atrial fibrillation and systolic heart failure[^2]
+- [[Pressors#^Adrenaline|Adrenaline]] is reasonable as a first line single agent in an emergency as a bridge to improved central venous access or retrieval to percutaneous intervention procedures
 - Treat the underlying cause
 	- [[Arrhythmias]]
 	- [[Acute Coronary Syndromes|ACS]] to be managed with revascularisation
 	- [[Anaemia]]
 	- Pericardiocentesis
+
+<figure style="text-align: center;">
+  <img src="Pasted image 20260608201941.png">
+  <figcaption><b>Figure 1.</b> Inotropes and vasopressor therapy in cardiogenic shock. MCS = mechanical circulatory support.</figcaption>
+</figure>
+
 - Vasopressors
 	- Noradrenaline is probably the vasoconstrictor of choice for hypotension and inadequate tissue perfusion
 	- Note the following:
