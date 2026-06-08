@@ -10,4 +10,5 @@ date: 2026-06-08
 - Hypoxic brain injury
 	- After restoration of circulation, the cerebral bloodflow autoregulation mechanism is impaired resulting in cerebral vasodilation and hyperaemia
 	- Excess oxygen can genereate free radicals and neuronal lipid peroxidation
-- 
+- Renal failure
+- Ulceration of the gastric mucosa from hypoxia and other CPR related stomach injuries
