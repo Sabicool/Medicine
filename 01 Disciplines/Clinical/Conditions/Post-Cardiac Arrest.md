@@ -24,7 +24,11 @@ Rotations:
 	- Lowering body temperature to result in lower $\dot{V}\ce{CO2}$ means lower minute volume requirements which means lower tidal volumes (protective lung ventilation)
 - Ischaemic [[Hepatitis]]
 # Assessment
+# Management
+
+![[stages of management of the post-cardiac arrest patient-1.jpg]]
 # Sources
 - Deranged Physiology
 	- [Post-cardiac arrest syndrome ("Post-Resuscitation Syndrome")](https://derangedphysiology.com/main/required-reading/cardiovascular-intensive-care/Chapter-211/post-cardiac-arrest-syndrome-post-resuscitation-syndrome)
 	- [Approach to cardiac arrest and peri-arrest scenarios](https://derangedphysiology.com/main/required-reading/cardiovascular-intensive-care/Chapter-212/approach-cardiac-arrest-and-peri-arrest-scenarios)
+	- [Supportive management of the recently resuscitated patient](https://derangedphysiology.com/main/required-reading/cardiovascular-intensive-care/Chapter-223/supportive-management-recently-resuscitated-patient)
