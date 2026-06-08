@@ -12,3 +12,11 @@ date: 2026-06-08
 	- Excess oxygen can genereate free radicals and neuronal lipid peroxidation
 - Renal failure
 - Ulceration of the gastric mucosa from hypoxia and other CPR related stomach injuries
+- [[Acute Respiratory Distress Syndrome|ARDS]] 
+	- Which can occur in a plethora of ways probably in tandem:
+		- Failing left ventricle
+		- Aspirated stomach contents
+		- Pulmonary contusion from CPR
+		  Endothelial dysfunction
+	- Lowering body temperature to result in lower $\dot{V}\ce{CO2}$ means lower minute volume requirements which means lower tidal volumes (protective lung ventilation)
+- 
