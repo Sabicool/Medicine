@@ -37,8 +37,8 @@ Rotations:
 - Normoxia:
 	- Aim for a $P_\text{a}\ce{O2}$ of around 100 mmHg
 - Aim for normocapnoea
-- In the first 24 hours aim for a termpature of 32-36 degrees (targeted temperature management)
-- Aim for a MAP > 65 mmHg and a SBP > 90 mmHg
+- In the first 24 hours aim for a termpature of 32-36 degrees (targeted temperature management) except in:
+- aim for a MAP > 65 mmHg and a SBP > 90 mmHg
 - Aim for a BSL between 8-10
 	- NG feeding can commence during TTM
 - Sedation
