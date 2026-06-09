@@ -24,6 +24,10 @@ date: 2026-06-09
 - Monitor
 - Linear probe
 ### Method
+1. Wash hands and put on mask
+2. Position the forearm so that it is flat
+3. Put on sterile gloves
+4. Use antiseptic solution to wash skin from the wrist to antecubital fossa
 ## Over the Wire
 ## Under the Wire
 # Sources
