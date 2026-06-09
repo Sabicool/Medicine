@@ -1,5 +1,5 @@
 ---
-date: 2026-06-08
+date: 2026-06-09
 Rotations:
   - "[[Intensive Care Unit]]"
   - "[[Emergency Medicine]]"
@@ -38,6 +38,8 @@ Rotations:
 	- Aim for a $P_\text{a}\ce{O2}$ of around 100 mmHg
 - Aim for normocapnoea
 - In the first 24 hours aim for a termpature of 32-36 degrees (targeted temperature management) except in:
+	- Those with obvious good neurology
+	- Those with uncontrollable bleeding (colder temperatures cause less platelet aggregation)
 - aim for a MAP > 65 mmHg and a SBP > 90 mmHg
 - Aim for a BSL between 8-10
 	- NG feeding can commence during TTM
