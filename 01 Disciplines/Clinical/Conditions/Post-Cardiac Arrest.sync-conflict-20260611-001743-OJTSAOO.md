@@ -23,14 +23,6 @@ Rotations:
 		  Endothelial dysfunction
 	- Lowering body temperature to result in lower $\dot{V}\ce{CO2}$ means lower minute volume requirements which means lower tidal volumes (protective lung ventilation)
 - Ischaemic [[Hepatitis]]
-# Aetiologies
-- Cardiac arrest is the common pathway of any severe illness and therefore the differentials remain quite broad, nontheless here is a list of common causes:
-	- Arrhythmia
-		- VT/VF related to structural heart disease (remote MI, acute MI, [[Hypertrophic Cardiomyopathy|HOCM]], ARVC, myocarditis, cardiac sarcoidosis, amyloidosis)
-		- VT/VF with a structurally normal heart (Torsades de pointes, WPW plus AF, Brudgada syndrome, Commotio cordis)
-		- Bradycardia (e.g. heart block)
-	- Primary respiratory arrest
-		- 
 # Assessment
 - TTE
 - EEG
@@ -56,14 +48,12 @@ Rotations:
 	- Propofol and ramifentanil may be the most suitable combination
 ## Other Considerations
 - Consider angiogram especially in patients with ECG evidence of myocardial ischaemia
-# Post Arrest Prognostication
+# Neurological Testing
 - Somatosensory evoked potentials
-	- In short, the idea is that Per nerve stimulation should evoke a response in the cortical central neurons
+	- In short, the idea is that 
 # Sources
 - Deranged Physiology
 	- [Post-cardiac arrest syndrome ("Post-Resuscitation Syndrome")](https://derangedphysiology.com/main/required-reading/cardiovascular-intensive-care/Chapter-211/post-cardiac-arrest-syndrome-post-resuscitation-syndrome)
 	- [Approach to cardiac arrest and peri-arrest scenarios](https://derangedphysiology.com/main/required-reading/cardiovascular-intensive-care/Chapter-212/approach-cardiac-arrest-and-peri-arrest-scenarios)
 	- [Supportive management of the recently resuscitated patient](https://derangedphysiology.com/main/required-reading/cardiovascular-intensive-care/Chapter-223/supportive-management-recently-resuscitated-patient)
 	- [Mild therapeutic hypothermia for survivors of cardiac arrest](https://derangedphysiology.com/main/required-reading/cardiovascular-intensive-care/Chapter-224/mild-therapeutic-hypothermia-survivors-cardiac-arrest)
-- IBCC
-	- [Post-cardiac arrest management (including neuroprognostication) - EMCrit Project](https://emcrit.org/ibcc/post-arrest/)
