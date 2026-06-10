@@ -29,10 +29,42 @@ Rotations:
 		- VT/VF related to structural heart disease (remote MI, acute MI, [[Hypertrophic Cardiomyopathy|HOCM]], ARVC, myocarditis, cardiac sarcoidosis, amyloidosis)
 		- VT/VF with a structurally normal heart (Torsades de pointes, WPW plus AF, Brudgada syndrome, Commotio cordis)
 		- Bradycardia (e.g. heart block)
-	- Primary respiratory arrest
-		- 
+	- Primary respiratory arrest - note that agonal respirations are nonspecific and do not necessarily indicate a primary respiratory aetiology
+		- Upper airway obstruction
+		- Severe asthma or COPD
+		- Tension pneumothorax
+	- Primary neurologic arrest
+		- Intracranial haemorrhage
+		- Seizures (SUDEP = sudden unexpected death in epilepsy), status epilepticus
+	- Toxicologic/metabolic
+		- Overdose (e.g. opioids)
+		- Hypoglycaemia
+		- Hyperkalaemia, hypokalaemia, hypomagnesaemia
+	- Any cause of profound shock
 # Assessment
-- TTE
+- ECG with particular attention to:
+	- Ischaemia
+	- Brugada pattern
+	- ARVC
+	- QT interval ([[long QT syndrome]])
+	- Early repolarisation
+	- Wolff-Parkinson-White pattern
+	- [[Hypertrophic Cardiomyopathy]]
+	- Evidence of [[Pulmonary Embolism|PE]]
+- Labs
+	- Glucose
+	- Basic labs (CMP, EUC, FBC, Coags, LFTs)
+	- ABG/VBG
+	- Troponin
+	- CRP
+	- Blood cultures if concern for sepsis
+	- B-HCG if required
+	- Urine toxicology
+- X-ray chest
+- POCUS:
+	- [[Lung POCUS]]
+	- [[Echocardiogram]]
+	- Abdominal USS evaluating for peritoneal blood or ascites
 - EEG
 - Troponin
 	- Troponins at 12 hours post arrest (with a cut-off of 0.6 ng/ml, or 600 ng/L) had 96% sensitivity and 80% specificity for myocardial infarction which is probably not very useful
