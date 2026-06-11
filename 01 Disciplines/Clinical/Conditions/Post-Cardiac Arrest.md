@@ -56,6 +56,8 @@ Rotations:
 	- Basic labs (CMP, EUC, FBC, Coags, LFTs)
 	- ABG/VBG
 	- Troponin
+		- Troponins at 12 hours post arrest (with a cut-off of 0.6 ng/ml, or 600 ng/L) had 96% sensitivity and 80% specificity for myocardial infarction which is probably not very useful
+		- Mainly for monitoring for reinfarction
 	- CRP
 	- Blood cultures if concern for sepsis
 	- B-HCG if required
@@ -65,10 +67,10 @@ Rotations:
 	- [[Lung POCUS]]
 	- [[Echocardiogram]]
 	- Abdominal USS evaluating for peritoneal blood or ascites
+- CT head to pelvis
+	- Purpose:
+		- 
 - EEG
-- Troponin
-	- Troponins at 12 hours post arrest (with a cut-off of 0.6 ng/ml, or 600 ng/L) had 96% sensitivity and 80% specificity for myocardial infarction which is probably not very useful
-	- Mainly for monitoring for reinfarction
 # Management
 
 ![[stages of management of the post-cardiac arrest patient-1.jpg]]
