@@ -12,6 +12,8 @@ Rotations:
 > - Identify and treat reversible causes (4Hs & 4Ts)  
 > - Transfer to ICU 
 
+![[scan.jpg]]
+
 ![[Pasted image 20260611145548.png]]
 # Pathophysiology
 ![[consequences of post-cardiac arrest syndrome.jpg]]
