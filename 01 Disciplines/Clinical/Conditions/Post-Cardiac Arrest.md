@@ -79,7 +79,6 @@ Rotations:
 		- CT abdomen/pelvis with contrast is usually adequate
 	- Timing
 		- After initial resuscitation and stabilisation
-		- 
 - EEG
 # Management
 
@@ -98,7 +97,9 @@ Rotations:
 - Sedation
 	- Avoid benzodiazepines as their clearance is decreased with hypothermia
 	- Propofol and ramifentanil may be the most suitable combination
-## Other Considerations
+## Coronary Investigation
+- ACS accounts for ~65% of out of hospital cardiac arrests with a shockable rhythm
+- 
 - Consider angiogram especially in patients with ECG evidence of myocardial ischaemia
 # Post Arrest Prognostication
 - Somatosensory evoked potentials
