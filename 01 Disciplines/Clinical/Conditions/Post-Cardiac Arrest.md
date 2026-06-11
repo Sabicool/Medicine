@@ -3,6 +3,8 @@ date: 2026-06-11
 Rotations:
   - "[[Intensive Care Unit]]"
   - "[[Emergency Medicine]]"
+tags:
+  - cards
 ---
 
 > [!NOTE] Immediate Priorities at ROSC
@@ -177,7 +179,7 @@ Rotations:
 ## Seizure Management
 - Use EEG to diagnose seizures
 - First line anti-epileptic medications are levetiracetam and sodium valproate but routine seizure prophylaxis is not recommended
-## Neuromanagement
+## Targeted Temperature Management
 - Patients who are able to follow commands only require supportive care, for those unable to follow commands the following applies
 - Temperature control is recommended for:
 	- OOHCA with initially shockable rhythm who remain unresponsive after ROSC
@@ -186,14 +188,21 @@ Rotations:
 	- IHCA with any intiial rhythm who remain unresponsive after ROSC
 - Temperature control
 	- Target a temperature of 37.5°C in most patients especially if those who shiver when targeting lower temperatures (e.g. 36°C)
-- If temperature control is used it should continue for at least 24 hours
+- Methods
+	- Simple ice packs and/or wet towels
+	- Cooling blankets or pads
+	- Transnasal evaporative cooling
+	- Intravascular heat exchanger placed in the femoral or subclavian veins
+	- Infusion of cold saline or Hartmann’s solution
 - Paracetamol 1000 mg q6hrly as an antipyretic, analgesic and anti-shivering agent
+- If temperature control is used it should continue for at least 24 hours
+- Rewarming should occur at 0.25-0.5°C/hour
+## Neuromanagement
 - Sedation:
 	- Typically propofol is the agent of choice initially; other alternatives include dexmedetomidine
 - Ketamine infusion (0.1-0.3 mg/hr) is often helpful for both analgesia and shivering
 - Avoid benzodiazepines or opioids as they may delay awakening and confound neuroprognostication
 - EEG monitoring
-### Shivering Management
 ## Gastrointestinal Management
 - Nutrition should be managed as usual
 - Patients are at high risk of stress ulcerations so prophylaxis is recommended
