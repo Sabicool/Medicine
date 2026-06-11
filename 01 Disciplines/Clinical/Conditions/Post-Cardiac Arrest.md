@@ -69,6 +69,16 @@ Rotations:
 	- Abdominal USS evaluating for peritoneal blood or ascites
 - CT head to pelvis
 	- Purpose:
+		- Find cause of cardiac arrest
+		- Evaluate for complications of CPR (e.g. liver laceration)
+		- CT head may provide information about neuroprognostication
+		- Evaluate for evidence of aspiration/pneumonia
+	- Protocol
+		- Head CT: non-contrast is often adequate unless concern for a primary CNS pathology in which case consider CT angiography
+		- Chest CT: Obtain CT angiography to exclude PE if this is a possibility
+		- CT abdomen/pelvis with contrast is usually adequate
+	- Timing
+		- After initial resuscitation and sdtabilisation
 		- 
 - EEG
 # Management
