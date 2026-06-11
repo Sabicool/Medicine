@@ -4,6 +4,15 @@ Rotations:
   - "[[Intensive Care Unit]]"
   - "[[Emergency Medicine]]"
 ---
+
+> [!NOTE] Immediate Priorities at ROSC
+> - Secure and confirm airway (intubate if comatose; waveform capnography)  
+> - Obtain IV/IO access, continuous ECG, SpO₂, invasive arterial BP  
+> - 12-lead ECG immediately post-ROSC  
+> - Identify and treat reversible causes (4Hs & 4Ts)  
+> - Transfer to ICU 
+
+![[Pasted image 20260611145548.png]]
 # Pathophysiology
 ![[consequences of post-cardiac arrest syndrome.jpg]]
 
@@ -42,7 +51,7 @@ Rotations:
 		- Hyperkalaemia, hypokalaemia, hypomagnesaemia
 	- Any cause of profound shock
 # Assessment
-- ECG with particular attention to:
+- ECG **immediately post ROSC** with particular attention to:
 	- Ischaemia
 	- Brugada pattern
 	- ARVC
@@ -85,21 +94,53 @@ Rotations:
 ![[stages of management of the post-cardiac arrest patient-1.jpg]]
 
 ## Targets
+| Domain                      | Target / Recommendation                                           | Guideline Source         |
+| --------------------------- | ----------------------------------------------------------------- | ------------------------ |
+| O₂ (initial)                | 100% FiO₂ until SpO₂ measurable                                   | AHA 2025, RCUK 2025      |
+| O₂ (maintenance)            | SpO₂ 94–98% / PaO₂ 60–105 mmHg                                    | AHA 2025, RCUK 2025      |
+| Ventilation                 | PaCO₂ 35–45 mmHg                                                  | AHA 2025, RCUK 2025      |
+| MAP                         | ≥65 mmHg                                                          | AHA 2025, RCUK 2025      |
+| Temperature (comatose)      | ≤37.5°C (fever prevention); hypothermia 32–34°C uncertain benefit | ANZCOR 2024, RCUK 2025   |
+| Fever avoidance duration    | ≥72 hours post-ROSC                                               | ANZCOR 2024, RCUK 2025   |
+| Glucose                     | 4–10 mmol/L (avoid hypo and hyperglycaemia)                       | AHA 2025, RCUK 2025      |
+| ECG post-ROSC               | Immediate 12-lead                                                 | AHA 2025                 |
+| Coronary angiography        | Immediate if STEMI; delayed if no ST↑ (OHCA)                      | RCUK 2025, BMJ BP        |
+| Neuroprognostication timing | ≥72 hrs post-ROSC or post-rewarming                               | AHA 2025, ERC/ESICM 2021 |
+| Seizures (treatment)        | Levetiracetam or valproate; no prophylaxis                        | RCUK 2025                |
+| Antibiotics                 | Not routine; low threshold if pneumonia suspected                 | AHA 2025, RCUK 2025      |
 - Normoxia:
 	- Aim for a $P_\text{a}\ce{O2}$ of around 100 mmHg
 - Aim for normocapnoea
 - In the first 24 hours aim for a termpature of 32-36 degrees (targeted temperature management) except in:
 	- Those with obvious good neurology
 	- Those with uncontrollable bleeding (colder temperatures cause less platelet aggregation)
-- Aim for a MAP > 65 mmHg and a SBP > 90 mmHg
-	- MAP goals can later be adjusted and individualised for example:
-		- A higher MAP goal in a patient with oliguria and chronic hypertension
-		- A lower MAP goal in a patient with cardiogenic shock
+- Aim for a MAP ≥ 65 mmHg and a SBP > 100 mmHg
 - Aim for a BSL between 8-10
 	- NG feeding can commence during TTM
 - Sedation
 	- Avoid benzodiazepines as their clearance is decreased with hypothermia
 	- Propofol and ramifentanil may be the most suitable combination
+## Ventilator Management
+- Comatose patients post-ROSC should be intubated with waveform capnography confirmation
+- Use 100% $F_\text{i}\ce{O2}$ initially and once reliable $S_\text{p}\ce{O2}$/ABG available titrate for normoxia ($S_\text{p}\ce{O2}$ 94-98%, $P_\text{a}\ce{O2}$ 75-100 mmHg)
+- Aim for normocapnoea $P_\text{a}\ce{CO2}$ 35-45 mmHg with lung protective tidal volumes and avoid hypocapnoea (causes cerebral vasoconstriction) 
+	- Strategy
+		- Immediately after intubation, adjust the minute ventilation to achieve an end-tidal $\ce{CO2}$ of 30-25 mmHg
+			- Since $P_\text{a}\ce{CO2}$ > end-tidal $\ce{CO2}$, this will generally put $P_\text{a}\ce{CO2}$ in the safe range
+			- Then obtain an ABG/VBG to verify that $P_\text{a}\ce{CO2}$ is within the target range
+	- Exceptions
+		- Patients with chronic hypercapnoea may benefit from being maintained at their chronic baseline $P_\text{a}\ce{CO2}$
+		- Patients with severe metabolic acidosis may benefit from a degree of respiratory comepensation if necessary to maintain a safe pH
+- Nursing position 30° head up
+- If significant aspiration can consider early antibiotics
+## Haemodynamic Management
+- Target MAP ≥ 65 mmHg
+	- MAP goals can later be adjusted and individualised for example:
+		- A higher MAP goal in a patient with oliguria and chronic hypertension
+		- A lower MAP goal in a patient with cardiogenic shock
+- Initiate vasopressors and fluid resuscitation as needed
+- Obtain continues ECG monitoring, invasive arterial BP and central venous access in comatose patients
+- Avoid steroids routinely for post-arrest shock
 ## Coronary Investigation
 - ACS accounts for ~65% of out of hospital cardiac arrests with a shockable rhythm
 - Indications for emergent angiogram
@@ -113,6 +154,10 @@ Rotations:
 		- Unexplained left ventricular systolic dysfunction
 		- Evidence of severe myocardial ischaemia
 - Medical therapies may be indicated for patients with probably/definite type 1 MI
+## Temperature Control
+- Actively prevent fever by targeting temperature ≤37.5°C for comatose patients post-ROSC
+- Avoid fever ≥ 37.7°C for at least 72 hours post-ROSC in comatose patients
+- Duration of termpature control should be at least 24 hours from achieving target and fever prevention should continue for 36-72 hours
 ## Antiarrhythmic Therapy
 - For most patients observation without antiarrhythmic therapy is recommended however consider in:
 	- Recurrent arrhythmias
@@ -121,6 +166,9 @@ Rotations:
 - Electrolyte repletion
 	- Aggressive magnesium repletion may be useful for shivering prevention and for some arrhythmias
 	- Potassium repletion
+## Seizure Management
+- Use EEG to diagnose seizures
+- First line anti-epileptic medications are levetiracetam and sodium valproate but routine seizure prophylaxis is not recommended
 ## Neuromanagement
 - Patients who are able to follow commands only require supportive care, for those unable to follow commands the following applies
 - Temperature control
@@ -132,21 +180,11 @@ Rotations:
 - Avoid benzodiazepines or opioids as they may delay awakening and confound neuroprognostication
 - EEG monitoring
 ### Shivering Management
-## Ventilator Management
-- Aim for normocapnoea $P_\text{a}\ce{CO2}$ 35-45 mmHg and avoid hypocapnoea (causes cerebral vasoconstriction)
-	- Strategy
-		- Immediately after intubation, adjust the minute ventilation to achieve an end-tidal $\ce{CO2}$ of 30-25 mmHg
-			- Since $P_\text{a}\ce{CO2}$ > end-tidal $\ce{CO2}$, this will generally put $P_\text{a}\ce{CO2}$ in the safe range
-			- Then obtain an ABG/VBG to verify that $P_\text{a}\ce{CO2}$ is within the target range
-	- Exceptions
-		- Patients with chronic hypercapnoea may benefit from being maintained at their chronic baseline $P_\text{a}\ce{CO2}$
-		- Patients with severe metabolic acidosis may benefit from a degree of respiratory comepensation if necessary to maintain a safe pH
-- Aim for normoxia ($S_\text{p}\ce{O2}$ 94-98%, $P_\text{a}\ce{O2}$ 75-100 mmHg)
-- If significant aspiration can consider early antibiotics
 ## Gastrointestinal Management
 - Nutrition should be managed as usual
 - Patients are at high risk of stress ulcerations so prophylaxis is recommended
 # Neuroprognostication
+- Should not occur earlier than 72 hours post-ROSC or ≥72 hours from rewarming in cooled patients
 - Examination
 	- Pupillary and corneal reflexes
 		- Between 0-24 hours:
@@ -172,5 +210,9 @@ Rotations:
 	- [Mild therapeutic hypothermia for survivors of cardiac arrest](https://derangedphysiology.com/main/required-reading/cardiovascular-intensive-care/Chapter-224/mild-therapeutic-hypothermia-survivors-cardiac-arrest)
 - IBCC
 	- [Post-cardiac arrest management (including neuroprognostication) - EMCrit Project](https://emcrit.org/ibcc/post-arrest/)
+- Resuscitation Council (UK):
+	- [lms.resus.org.uk/modules/m30-v2-post-resuscitation/10346/resources/chapter\_13.pdf](https://lms.resus.org.uk/modules/m30-v2-post-resuscitation/10346/resources/chapter_13.pdf)
+- American Heart Association
+	- [cpr.heart.org/-/media/CPR-Files/CPR-Guidelines-Files/2025-Algorithms/PCAC-Algorithm-ACLS-PCAC-250527.pdf?sc\_lang=en](https://cpr.heart.org/-/media/CPR-Files/CPR-Guidelines-Files/2025-Algorithms/PCAC-Algorithm-ACLS-PCAC-250527.pdf?sc_lang=en)
 
 [^1]: i.e. If the pupillary reflex is absent, then there’s a 99% change the patient will have a poor neurological outcome. If the pupillary reflex is present, then it does not say much (only 20% of patients with poor outcomes show absent pupils at 72 hours)
