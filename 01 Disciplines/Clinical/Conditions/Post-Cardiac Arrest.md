@@ -135,12 +135,17 @@ Rotations:
 		- Patients with severe metabolic acidosis may benefit from a degree of respiratory comepensation if necessary to maintain a safe pH
 - Nursing position 30° head up
 - If significant aspiration can consider early antibiotics
+- Do not routinely give bicarbonate for all cardiac arrest as it may cause increased intracellular acidosis as the bicarbonate is converted to $\ce{CO2}$ with the release of $\ce{H+}$ ions
+	- Give bicarbonate in cardiac arrest associated with hyperkalaemia or tricyclic overdose
 ## Haemodynamic Management
 - Target MAP ≥ 65 mmHg
 	- MAP goals can later be adjusted and individualised for example:
 		- A higher MAP goal in a patient with oliguria and chronic hypertension
 		- A lower MAP goal in a patient with cardiogenic shock
+	- Additionally ARC guidelines recommends a MAP required to achieve a urine output > 1 mL/kg/hr and normal or decreasing plasma lactate
 - Initiate vasopressors and fluid resuscitation as needed
+	- Noradrenaline and fluid with/without dobutamine is usually most effective
+	- ARC ALS 2 guidelines suggest insertion of an IABP where the above is inadequate
 - Obtain continues ECG monitoring, invasive arterial BP and central venous access in comatose patients
 - Avoid steroids routinely for post-arrest shock
 ## Coronary Investigation
@@ -216,7 +221,6 @@ Rotations:
 	- [lms.resus.org.uk/modules/m30-v2-post-resuscitation/10346/resources/chapter\_13.pdf](https://lms.resus.org.uk/modules/m30-v2-post-resuscitation/10346/resources/chapter_13.pdf)
 - American Heart Association
 	- [cpr.heart.org/-/media/CPR-Files/CPR-Guidelines-Files/2025-Algorithms/PCAC-Algorithm-ACLS-PCAC-250527.pdf?sc\_lang=en](https://cpr.heart.org/-/media/CPR-Files/CPR-Guidelines-Files/2025-Algorithms/PCAC-Algorithm-ACLS-PCAC-250527.pdf?sc_lang=en)
-- Australia:
-	- Advanced Life Support Level 2. Third Australian Edition. Gale M. et. al. March 2016
+- Australia Resuscitation Guidelines: Advanced Life Support Level 2. Third Australian Edition. Gale M. et. al. March 2016
 
 [^1]: i.e. If the pupillary reflex is absent, then there’s a 99% change the patient will have a poor neurological outcome. If the pupillary reflex is present, then it does not say much (only 20% of patients with poor outcomes show absent pupils at 72 hours)
