@@ -173,6 +173,7 @@ Rotations:
 - Electrolyte repletion
 	- Aggressive magnesium repletion may be useful for shivering prevention and for some arrhythmias
 	- Potassium repletion
+- Refer all patients who had cardiac arrest in a shockable rhythm outside the context of STEMI or non-cardiac arrhythmogenic causes for ICD insertion prior to discharge
 ## Seizure Management
 - Use EEG to diagnose seizures
 - First line anti-epileptic medications are levetiracetam and sodium valproate but routine seizure prophylaxis is not recommended
