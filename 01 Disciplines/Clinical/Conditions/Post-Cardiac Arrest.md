@@ -216,5 +216,7 @@ Rotations:
 	- [lms.resus.org.uk/modules/m30-v2-post-resuscitation/10346/resources/chapter\_13.pdf](https://lms.resus.org.uk/modules/m30-v2-post-resuscitation/10346/resources/chapter_13.pdf)
 - American Heart Association
 	- [cpr.heart.org/-/media/CPR-Files/CPR-Guidelines-Files/2025-Algorithms/PCAC-Algorithm-ACLS-PCAC-250527.pdf?sc\_lang=en](https://cpr.heart.org/-/media/CPR-Files/CPR-Guidelines-Files/2025-Algorithms/PCAC-Algorithm-ACLS-PCAC-250527.pdf?sc_lang=en)
+- Australia:
+	- Advanced Life Support Level 2. Third Australian Edition. Gale M. et. al. March 2016
 
 [^1]: i.e. If the pupillary reflex is absent, then there’s a 99% change the patient will have a poor neurological outcome. If the pupillary reflex is present, then it does not say much (only 20% of patients with poor outcomes show absent pupils at 72 hours)
