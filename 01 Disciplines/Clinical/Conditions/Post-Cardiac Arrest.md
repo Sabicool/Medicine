@@ -179,8 +179,14 @@ Rotations:
 - First line anti-epileptic medications are levetiracetam and sodium valproate but routine seizure prophylaxis is not recommended
 ## Neuromanagement
 - Patients who are able to follow commands only require supportive care, for those unable to follow commands the following applies
+- Temperature control is recommended for:
+	- OOHCA with initially shockable rhythm who remain unresponsive after ROSC
+- Temperature control is suggested for:
+	- OOHCA with initial non-shockable rhythm who remain unresponsive after ROSC
+	- IHCA with any intiial rhythm who remain unresponsive after ROSC
 - Temperature control
 	- Target a temperature of 37.5°C in most patients especially if those who shiver when targeting lower temperatures (e.g. 36°C)
+- If temperature control is used it should continue for at least 24 hours
 - Paracetamol 1000 mg q6hrly as an antipyretic, analgesic and anti-shivering agent
 - Sedation:
 	- Typically propofol is the agent of choice initially; other alternatives include dexmedetomidine
