@@ -78,7 +78,7 @@ Rotations:
 		- Chest CT: Obtain CT angiography to exclude PE if this is a possibility
 		- CT abdomen/pelvis with contrast is usually adequate
 	- Timing
-		- After initial resuscitation and sdtabilisation
+		- After initial resuscitation and stabilisation
 		- 
 - EEG
 # Management
