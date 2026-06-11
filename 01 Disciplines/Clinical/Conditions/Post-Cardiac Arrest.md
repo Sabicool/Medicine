@@ -91,7 +91,10 @@ Rotations:
 - In the first 24 hours aim for a termpature of 32-36 degrees (targeted temperature management) except in:
 	- Those with obvious good neurology
 	- Those with uncontrollable bleeding (colder temperatures cause less platelet aggregation)
-- aim for a MAP > 65 mmHg and a SBP > 90 mmHg
+- Aim for a MAP > 65 mmHg and a SBP > 90 mmHg
+	- MAP goals can later be adjusted and individualised for example:
+		- A higher MAP goal in a patient with oliguria and chronic hypertension
+		- A lower MAP goal in a patient with cardiogenic shock
 - Aim for a BSL between 8-10
 	- NG feeding can commence during TTM
 - Sedation
@@ -99,8 +102,38 @@ Rotations:
 	- Propofol and ramifentanil may be the most suitable combination
 ## Coronary Investigation
 - ACS accounts for ~65% of out of hospital cardiac arrests with a shockable rhythm
+- Indications for emergent angiogram
+	- OMI on ECG
+	- Cardiogenic shock attributable to coronary artery disease
+	- Recurrent ventricular arrhythmias
+	- Evidence of significant ongoing myocardial ischaemia
+- Indications for delayed angiogram prior to discharge
+	- Those with suspected cardiac aetiology especially in the presence of 
+		- An initial shockable rhythm 
+		- Unexplained left ventricular systolic dysfunction
+		- Evidence of severe myocardial ischaemia
+- Medical therapies may be indicated for patients with probably/definite type 1 MI
+## Antiarrhythmic Therapy
+- For most patients observation without antiarrhythmic therapy is recommended however consider in:
+	- Recurrent arrhythmias
+	- VT/VF arrest pending catheterisation
+	- Persistent hypertension (e.g. propranolol)
+- Electrolyte repletion
+	- Aggressive magnesium repletion may be useful for shivering prevention and for some arrhythmias
+	- Potassium repletion
+## Neuromanagement
+- Patients who are able to follow commands only require supportive care, for those unable to follow commands the following applies
+- Temperature control
+	- Target a temperature of 37.5°C in most patients especially if those who shiver when targeting lower temperatures (e.g. 36°C)
+- Paracetamol 1000 mg q6hrly as an antipyretic, analgesic and anti-shivering agent
+- Sedation:
+	- Typically propofol is the agent of choice initially; other alternatives include dexmedetomidine
+- Ketamine infusion (0.1-0.3 mg/hr) is often helpful for both analgesia and shivering
+- Avoid benzodiazepines or opioids as they may delay awakening and confound neuroprognostication
+- EEG monitoring
+### Shivering Management
 - 
-- Consider angiogram especially in patients with ECG evidence of myocardial ischaemia
+
 # Post Arrest Prognostication
 - Somatosensory evoked potentials
 	- In short, the idea is that Per nerve stimulation should evoke a response in the cortical central neurons
