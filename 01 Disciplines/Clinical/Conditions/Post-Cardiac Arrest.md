@@ -132,11 +132,38 @@ Rotations:
 - Avoid benzodiazepines or opioids as they may delay awakening and confound neuroprognostication
 - EEG monitoring
 ### Shivering Management
-- 
-
-# Post Arrest Prognostication
+## Ventilator Management
+- Aim for normocapnoea $P_\text{a}\ce{CO2}$ 35-45 mmHg and avoid hypocapnoea (causes cerebral vasoconstriction)
+	- Strategy
+		- Immediately after intubation, adjust the minute ventilation to achieve an end-tidal $\ce{CO2}$ of 30-25 mmHg
+			- Since $P_\text{a}\ce{CO2}$ > end-tidal $\ce{CO2}$, this will generally put $P_\text{a}\ce{CO2}$ in the safe range
+			- Then obtain an ABG/VBG to verify that $P_\text{a}\ce{CO2}$ is within the target range
+	- Exceptions
+		- Patients with chronic hypercapnoea may benefit from being maintained at their chronic baseline $P_\text{a}\ce{CO2}$
+		- Patients with severe metabolic acidosis may benefit from a degree of respiratory comepensation if necessary to maintain a safe pH
+- Aim for normoxia ($S_\text{p}\ce{O2}$ 94-98%, $P_\text{a}\ce{O2}$ 75-100 mmHg)
+- If significant aspiration can consider early antibiotics
+## Gastrointestinal Management
+- Nutrition should be managed as usual
+- Patients are at high risk of stress ulcerations so prophylaxis is recommended
+# Neuroprognostication
+- Examination
+	- Pupillary and corneal reflexes
+		- Between 0-24 hours:
+		    - A lack of pupillary response is nonspecific.
+		    - The presence of pupillary responses may be an encouraging sign (especially if they occur rapidly after cardiac arrest).
+		    - If both pupillary and corneal reflexes are present soon after ROSC, this suggests a favorable outcome.
+		- After 72 hours:
+		    - The absence of any pupillary response is ~20% sensitive and ~99% specific for poor neurological outcome[^1]
+		    - The absence of any corneal reflex is ~30% sensitive and ~97-100% specific for poor neurologic outcome.
+		- After 96 hours:
+		    - The lack of any pupillary response bilaterally approaches 100% specificity for poor neurological outcome.
+		    - The absence of corneal reflexes may approach 100% specificity for a poor neurologic outcome.
 - Somatosensory evoked potentials
 	- In short, the idea is that Per nerve stimulation should evoke a response in the cortical central neurons
+- EEG at 24 hours after arrest
+	- Hold any sedative infusions
+	- Administer paralytics if necessary
 # Sources
 - Deranged Physiology
 	- [Post-cardiac arrest syndrome ("Post-Resuscitation Syndrome")](https://derangedphysiology.com/main/required-reading/cardiovascular-intensive-care/Chapter-211/post-cardiac-arrest-syndrome-post-resuscitation-syndrome)
@@ -145,3 +172,5 @@ Rotations:
 	- [Mild therapeutic hypothermia for survivors of cardiac arrest](https://derangedphysiology.com/main/required-reading/cardiovascular-intensive-care/Chapter-224/mild-therapeutic-hypothermia-survivors-cardiac-arrest)
 - IBCC
 	- [Post-cardiac arrest management (including neuroprognostication) - EMCrit Project](https://emcrit.org/ibcc/post-arrest/)
+
+[^1]: i.e. If the pupillary reflex is absent, then there’s a 99% change the patient will have a poor neurological outcome. If the pupillary reflex is present, then it does not say much (only 20% of patients with poor outcomes show absent pupils at 72 hours)
