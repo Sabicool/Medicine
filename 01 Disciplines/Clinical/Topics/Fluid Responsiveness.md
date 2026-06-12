@@ -1,5 +1,5 @@
 ---
-date: 2026-06-12
+date: 2026-06-13
 Rotations:
   - "[[Emergency Medicine]]"
   - "[[Intensive Care Unit]]"
@@ -13,27 +13,44 @@ Rotations:
 
 ![[Pasted image 20260502230540.png]]
 - Fluid responsiveness is 10-15% increase in cardiac output in response to a fluid challenge or pre-load augmentation manoeuvre
+- Fluid tolerance is the absence of harm (e.g. pulmonary oedema) when fluid is administered
 - Not the same as needing fluid:
 	- **Is the patient fluid responsive?** (Will CO rise with fluid?)
 	- **Does the patient need fluid?** (Is tissue perfusion inadequate and likely to improve with more preload?)
+- Clinical parameters (e.g. hourly urine output and MAP) tend to lag and do not reliably predict fluid responsiveness
+# Measures
+- There exists dynamic and static measures
+	- Dynamic measures rely on the respiratory cycle and how it effects changes with cardiac preload buy generally require mechanical ventilation
+		- Increasing intrathoracic pressure with positive pressure (mechanical ventilation) → ↓ venous return → ↑ RV afterload → ↓ LV filling
+	- Static measures do not require this
 - Generally dynamic predictors are better than static predictors (e.g. CVP[^2], PCWP, RAP/LVEDP)
-
-
-# Dynamic Indices
-- Rely on the respiratory cycle and how it effects changes with cardiac preload buy generally require mechanical ventilation
-- Increasing intrathoracic pressure with positive pressure (mechanical ventilation) → ↓ venous return → ↑ RV afterload → ↓ LV filling
+- Some measures can predict fluid responsiveness in isolation but some need to be combined with a challenge; with the level of evidence varying for each combination (see ICU one pager top right)
 ## Pulse Pressure Variation
 - Swing of the A-line
 - Requirements
-	- Sinus rhythm
+	- Sinus rhythm without significant ectopy
 	- Normal abdominal pressure
 	- No RV dysfunction
-	- Synchronous with the ventilator
+	- Synchronous with the ventilator (mechanically ventilated without spontaneous breaths)
 	- Receiving 8mL/kg of tidal volume
 	- PEEP of 5-10 cm of $\ce{H2O}$
-- PPV > 13% means the patient is probably fluid responsive
+	- Closed chest (open chest post-cardiotomy invalidates)
+- PPV > 12% means the patient is probably fluid responsive
 ![[Pasted image 20260612222728.png]]
 
+## Pulse Contour Cardiac Output
+- Computer does uses some proprietary formulas to analyse the waveform of the arterial line to estimate stroke volume variation or cardiac output (e.g. FloTrac, LiDCO, PiCCO)
+- Can be performed in spontaneously breathing patients
+- Optimal threshold to predict fluid responsiveness varies by device but generally good predictor
+## Thermodilution Measurement of Cardiac Output or Index
+- Pulmonary artery catheter used to inject cold saline proximally and measure temperature distally. Formulas are then used to calculate the amount of blood required to dilute the cold bolus based on the temperature to figure out cardiac output and index
+- A 10-15% increase in cardiac output/index before & after a challenge
+- Considered the gold standard but limited by potential causes of error:
+	- Catheter malposition
+	- Variation in injectate temperature
+	- Shunt
+	- Very low cardiac output
+	- Vavlulopathy
 ## Distensibility Index
 - Positive intrathoracic pressure during inhalation (mechanical ventilation) causes IVC to become larger and on releasing, IVC returns to normal size
 - Requirements
@@ -111,14 +128,6 @@ $$
 	- Cannot be performed if: raised intracranial pressure, unstable pelvic/femoral fractures, intra-abdominal hypertension (may not transfer adequate volume)
 	- Requires real-time CO measurement — qualitative BP change alone is insufficient
 	- Must measure CO response within 60–90 seconds (effect wanes)
-### Pulse pressure variation
-- Positive: PPV > 13% predicts fluid responsiveness
-- Limitations: requires all criteria to be met:
-	- Fully controlled mechanical ventilation (no spontaneous breathing efforts — even small triggered breaths invalidate the result)
-	- Regular cardiac rhythm (arrhythmias — particularly AF — invalidate the result)
-	- Tidal volume ≥8 mL/kg ideal body weight (low Vt ventilation, as in lung-protective strategies, reduces cyclic variation even in responsive patients → false negatives)
-	- No severe RV failure (RV failure independently causes high PPV regardless of volume status)
-	- Chest closed (open chest post-cardiotomy invalidates)
 ### Mini Fluid Challenge
 - Technique: Give 100 mL of crystalloid over 1 minute and assess CO response (via arterial PP or POCUS VTI)
 - Positive: ≥6% increase in PP or VTI → likely fluid responsive
