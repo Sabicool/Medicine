@@ -19,5 +19,30 @@ date: 2026-06-12
 ![[Pasted image 20260612204220.png]]
 ## Parasternal Long Axis
 - Set the field depth to 12-20 cm
+- Place the probe at the the left third or fourth intercostal space
+- Point the orientation marker toward the 10 o’clock position (right shoulder) with the probe perpendicular to the chest wall
+
+![[Pasted image 20260612205240.png]]
+
+## Parasternal Short Axis
+- First obtain the long axis view (above), then point the orientation marker toward the 2 o’clock position (left shoulder) and decrease the field of depth to 10-14 cm
+
+![[Pasted image 20260612205422.png]]
+
+# Echocardiographic Measures of Left Ventricular Systolic Function
+## Longitudinal Shortening
+![[Pasted image 20260612205913.png]]
+
+- Best evaluated int he apical 4 chamber view but should also be evaluated in the parasternal long axis view
+- Identify a segment between the base (lateral and septal mitral annulae used as reference) and the apex of the heart
+- Compare maximum length at end-diastole and end-systole
+- A difference of ≥1 cm indicates normal left ventricular systolic function
+## Anterior Mitral-Leaflet Motion
+- Can only be evaluated int he parasternal long-axis view
+- Imagine a line from the base to the apex of the heart along the midline fo the left ventricular cavity
+- In early diastole, the mitral valve leaflets separate widely
+## Thickening of Wall Segments
+
+## Change in the Area of the Cavity
 # Sources
 - Prada, G., Fritz, A.V., Restrepo-Holguín, M., Guru, P.K., Díaz-Gómez, J.L., 2019. Focused Cardiac Ultrasonography for Left Ventricular Systolic Function. New England Journal of Medicine 381, e36. [https://doi.org/10.1056/NEJMvcm1802841](https://doi.org/10.1056/NEJMvcm1802841)
