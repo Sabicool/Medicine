@@ -4,6 +4,8 @@ Rotations:
   - "[[Emergency Medicine]]"
   - "[[Intensive Care Unit]]"
 date: 2026-06-12
+tags:
+  - notes
 ---
 # Focused Cardiac Echocardiography
 - If possible place the patient in the left lateral decubitus position before beginning
