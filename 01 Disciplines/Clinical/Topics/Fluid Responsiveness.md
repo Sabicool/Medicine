@@ -1,6 +1,15 @@
 ---
 date: 2026-06-12
+Rotations:
+  - "[[Emergency Medicine]]"
+  - "[[Intensive Care Unit]]"
 ---
+- Most healthy individuals and stable hospitalized patients have native preload reserve and will show positive fluid responsiveness on a PLR or dynamic test
+- Being "responsive" does not automatically mean a patient _needs_ volume
+- **The Unified Framework**:
+	1. Use **Static Indices** (physical exam markers, lactate, basic static ultrasound) as a screening tool to establish a high **pre-test probability** of shock or tissue hypoperfusion
+	2. Once a perfusion deficit is confirmed, deploy **Dynamic Science** (PLR, EEOT, PPV, or echo stroke volume calculations) to confirm if a fluid bolus will successfully increase cardiac output or if you must switch to early vasoactive medications
+
 
 ![[Pasted image 20260502230540.png]]
 - Fluid responsiveness is 10-15% increase in cardiac output in response to a fluid challenge or pre-load augmentation manoeuvre
@@ -70,14 +79,17 @@ $$
 		- To determine the volume of this cylinder, the clinician must solve for two metrics: the **width** (diameter) of the cylinder and the **height** (stroke distance) of the blood column
 1. Measure cylinder width (LVOT diameter)
 	- Freeze the ultrasound frame precisely at **mid-systole** when the aortic valve leaflets are completely open
+	- ![[Pasted image 20260612234119.png|645]]
 	- Zoom in specifically on the LVOT area to optimise spatial resolution
 	- Carefully measure the diameter of the LVOT from the white inner edge to the opposite white inner edge (inner-to-inner border), parallel to the aortic valve plane
 2. Measure cylinder height (stroke distance via VIT)
 	- Obtain an apical 5 chamber view 
 	- Activate **Pulse Wave (PW) Doppler** and position the sample gate within the LVOT, just proximal to the aortic valve annulus
+		![[Pasted image 20260612234244.png]]
 	- Obtain a clean spectral Doppler tracing
 		- This will display a series of inverted, envelope-like waveforms reflecting blood flowing away from the probe
 	- Caliper-trace the perimeter of these waveforms across a few cardiac cycles
+		![[Pasted image 20260612234330.png]]
 	- The ultrasound machine automatically integrates the velocity over time to calculate the **Velocity Time Integral (VTI)**, which is displayed in centimetres
 		- This represents the total distance the red blood cells travel in one beat (cylinder height)
 3. Calculation and dynamic application
