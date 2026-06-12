@@ -38,11 +38,20 @@ date: 2026-06-12
 - Compare maximum length at end-diastole and end-systole
 - A difference of ≥1 cm indicates normal left ventricular systolic function
 ## Anterior Mitral-Leaflet Motion
-- Can only be evaluated int he parasternal long-axis view
-- Imagine a line from the base to the apex of the heart along the midline fo the left ventricular cavity
-- In early diastole, the mitral valve leaflets separate widely
-## Thickening of Wall Segments
+![[Pasted image 20260612210739.png]]
 
+- Can only be evaluated int he parasternal long-axis view
+- Imagine a line from the base to the apex of the heart along the midline of the left ventricular cavity
+	- In early diastole, the mitral valve leaflets separate widely
+	- When the anterior leaflet extends beyond the midline, it indicates normal left ventricular systolic function
+	- When it does not, it suggests severely reduced left ventricular systolic function
+## Thickening of Wall Segments
+![[Pasted image 20260612211103.png]]
+
+- Best assessed int he parasternal short axis view but should also be assessed int he parasternal long axis and apical four chamber views
+- Wall thickness is minimal at end-diastole; during systole contraction of the myocardium causes wall thickness to increase
+- Uniform wall thickening with an increase in wall thickness by at least ≥1/3 indicates normal left ventricular systolic function
 ## Change in the Area of the Cavity
+- 
 # Sources
 - Prada, G., Fritz, A.V., Restrepo-Holguín, M., Guru, P.K., Díaz-Gómez, J.L., 2019. Focused Cardiac Ultrasonography for Left Ventricular Systolic Function. New England Journal of Medicine 381, e36. [https://doi.org/10.1056/NEJMvcm1802841](https://doi.org/10.1056/NEJMvcm1802841)
