@@ -6,8 +6,10 @@ Rotations:
 date: 2026-06-12
 ---
 # Focused Cardiac Echocardiography
+- If possible place the patient in the left lateral decubitus position before beginning
 ![[Pasted image 20260612203647.png]]
-- If possible place the patient in the left lateral decubitus position
+
+![[Pasted image 20260612214348.png]]
 ## Apical Four Chamber View
 
 ![[Pasted image 20260612204128.png]]
@@ -17,6 +19,16 @@ date: 2026-06-12
 	- Anterior axillary line and move towards the nipple in a Z shape pattern
 - Keep the probe at 60 degrees relative to the chest wall with the orientation marker pointing towards the 3 o’clock position
 ![[Pasted image 20260612204220.png]]
+
+- Identify the structures of interest:
+	- Lateral and septal mitral annulae
+	- Apex
+	- Endocardial and epicardial borders
+![[Pasted image 20260612213046.png]]
+
+- Use this view to assess longitudinal shortening with a ruler or M-mode vector line
+- Then assess thickening of wall segments
+- Then assess change in left ventricular cavity area
 ## Parasternal Long Axis
 - Set the field depth to 12-20 cm
 - Place the probe at the the left third or fourth intercostal space
@@ -24,34 +36,48 @@ date: 2026-06-12
 
 ![[Pasted image 20260612205240.png]]
 
+- Identify the areas of interest including:
+	- Anterior mitral-valve leaflet
+	- Endocardial and epicardial borders
+	- Midline of the left ventricular cavity
+![[Pasted image 20260612213511.png]]
+
+- Assess anterior mitral valve leaflet motion, wall thickening, area of cavity change and longitudinal shortening
 ## Parasternal Short Axis
 - First obtain the long axis view (above), then point the orientation marker toward the 2 o’clock position (left shoulder) and decrease the field of depth to 10-14 cm
 
 ![[Pasted image 20260612205422.png]]
 
-# Echocardiographic Measures of Left Ventricular Systolic Function
-## Longitudinal Shortening
-![[Pasted image 20260612205913.png]]
+- Identify the structures of interest:
+	- Endocardial and epicardial borders
+![[Pasted image 20260612213734.png]]
 
+- Assess wall thickening and change in area of cavity
+# Echocardiographic Measures of Left Ventricular Systolic Function
+- If all 4 measures (below) are normal, it is reasonable to grade the estimated left ventricular systolic function as normal (with LVEF > 55%)
+- If all 4 measures (below) are abnromal, it is reasonable to grade the estimated left ventricular systolic function as abnormal (with LVEF < 30%)
+## Longitudinal Shortening
+![[Pasted image 20260612214436.png]]
 - Best evaluated int he apical 4 chamber view but should also be evaluated in the parasternal long axis view
 - Identify a segment between the base (lateral and septal mitral annulae used as reference) and the apex of the heart
-- Compare maximum length at end-diastole and end-systole
+- Compare maximum length at end-diastole and end-systole using a ruler or M-mode vector lien
 - A difference of ≥1 cm indicates normal left ventricular systolic function
 ## Anterior Mitral-Leaflet Motion
-![[Pasted image 20260612210739.png]]
-
+![[Pasted image 20260612214503.png]]
 - Can only be evaluated int he parasternal long-axis view
 - Imagine a line from the base to the apex of the heart along the midline of the left ventricular cavity
 	- In early diastole, the mitral valve leaflets separate widely
 	- When the anterior leaflet extends beyond the midline, it indicates normal left ventricular systolic function
 	- When it does not, it suggests severely reduced left ventricular systolic function
 ## Thickening of Wall Segments
-![[Pasted image 20260612211103.png]]
-
-- Best assessed int he parasternal short axis view but should also be assessed int he parasternal long axis and apical four chamber views
+![[Pasted image 20260612214524.png]]
+- Best assessed in the parasternal short axis view but should also be assessed in the parasternal long axis and apical four chamber views
 - Wall thickness is minimal at end-diastole; during systole contraction of the myocardium causes wall thickness to increase
 - Uniform wall thickening with an increase in wall thickness by at least ≥1/3 indicates normal left ventricular systolic function
 ## Change in the Area of the Cavity
-- 
+![[Pasted image 20260612214553.png]]
+- Best evaluated in the parasternal short axis view but should also be assessed in the parasternal long axis and apical four chamber views
+- Review the area enclosed by the endocardial border between end-diastole and end-systole
+- A decrease by ≥ 1/3 indicates normal left ventricular systolic function
 # Sources
 - Prada, G., Fritz, A.V., Restrepo-Holguín, M., Guru, P.K., Díaz-Gómez, J.L., 2019. Focused Cardiac Ultrasonography for Left Ventricular Systolic Function. New England Journal of Medicine 381, e36. [https://doi.org/10.1056/NEJMvcm1802841](https://doi.org/10.1056/NEJMvcm1802841)
