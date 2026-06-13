@@ -126,7 +126,12 @@ $$
 		- If the increase is **< 12%**, the patient is on the flat portion of the Frank-Starling curve; withhold fluids and look toward vasopressors or inotropes instead
 ## Carotid VTI
 - Can use a linear probe
-- Find the carotid bifurcation in short axis view
+- Find the common carotid artery in short axis view
+- Switch to the long axis view with the widening proximal to the common carotid bifurcation (carotid bulb) in view
+- Find a picture at systole (when the artery is at its widest diameter); freeze the view and scroll through the images
+- Measure the width of the carotid artery within 1cm proximal tot he carotid bulb
+![[Pasted image 20260613155441.png]]
+- Place the gate of the pulse wave doppler at the centre of the carotid artery
 
 ## End Expiratory Occlusion Test
 - Perform an expiratory pause for 15s
