@@ -56,7 +56,7 @@ Rotations:
 - Requirements
 	- Sinus rhythm
 	- Normal abdominal pressure
-	- No RV dysfunction
+	- No RV dysfunction or pulmonary hypertension 
 	- Synchronous with the ventilator
 	- Receiving 8mL/kg of tidal volume
 	- PEEP of 5-10 cm of $\ce{H2O}$
