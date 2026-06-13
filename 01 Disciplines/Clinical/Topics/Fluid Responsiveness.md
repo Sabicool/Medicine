@@ -213,3 +213,4 @@ $$
 - [Fluid Responsiveness • LITFL • CCC Resuscitation](https://litfl.com/fluid-responsiveness/)
 - [Fluid Responsiveness - Crit IQ](https://www.youtube.com/watch?v=hPobftCnOBA&t=18s)
 - [Fluid resuscitation and assessment of fluid responsiveness](https://derangedphysiology.com/main/required-reading/intensive-care-procedures/Chapter-2411/fluid-resuscitation-and-assessment-fluid-responsiveness)
+- Singh, A., Srinivasan, S. (2024). Understanding Heart-Lung Interactions: Concepts of Fluid Responsiveness. In: Malbrain, M.L., Wong, A., Nasa, P., Ghosh, S. (eds) Rational Use of Intravenous Fluids in Critically Ill Patients. Springer, Cham. https://doi.org/10.1007/978-3-031-42205-8_5
