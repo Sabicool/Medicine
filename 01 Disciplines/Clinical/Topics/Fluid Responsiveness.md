@@ -118,7 +118,9 @@ $$
 		![[Pasted image 20260612234244.png]]
 	- Obtain a clean spectral Doppler tracing
 		- This will display a series of inverted, envelope-like waveforms reflecting blood flowing away from the probe
-	- Caliper-trace the perimeter of these waveforms across a few cardiac cycles
+	- Caliper-trace the perimeter of these waveforms across a few cardiac cycles (not some machines can do auto VTI tracing and calculate the LVOT VTI for you); normal VTI measurement is 18-22 cm
+		- LVOT VTI < 18cm suggests reduced cardiac output shock (e.g. cardiogenic, obstructive, hypovolaemic)
+		- LVOT VTI ≥18cm suggests normal or increased cardiac output (e.g. early distributive or septic shock)
 		![[Pasted image 20260612234330.png]]
 	- The ultrasound machine automatically integrates the velocity over time to calculate the **Velocity Time Integral (VTI)**, which is displayed in centimetres
 		- This represents the total distance the red blood cells travel in one beat (cylinder height)
