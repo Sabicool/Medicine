@@ -132,7 +132,9 @@ $$
 - Measure the width of the carotid artery within 1cm proximal tot he carotid bulb
 ![[Pasted image 20260613155441.png]]
 - Place the gate of the pulse wave doppler at the centre of the carotid artery
-
+- Adjust the correction angle so that it is parallel to the carotid artery
+![[Pasted image 20260613161146.png]]
+- The 
 ## End Expiratory Occlusion Test
 - Perform an expiratory pause for 15s
 - Look for a pulse pressure variation >5%
