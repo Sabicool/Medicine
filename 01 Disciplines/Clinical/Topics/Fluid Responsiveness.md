@@ -131,10 +131,39 @@ $$
 - Find a picture at systole (when the artery is at its widest diameter); freeze the view and scroll through the images
 - Measure the width of the carotid artery within 1cm proximal tot he carotid bulb
 ![[Pasted image 20260613155441.png]]
+- Where there is significant plaque, you can use colour doppler to tell the boundaries of the lumen
+	![[Pasted image 20260613164254.png]]
 - Place the gate of the pulse wave doppler at the centre of the carotid artery
-- Adjust the correction angle so that it is parallel to the carotid artery
-![[Pasted image 20260613161146.png]]
-- The 
+- Adjust the correction angle so that it is parallel to the carotid artery, but the angle between the steering angle and the correction angle should be <60°
+	- If >60° should adjust the steering angle so the angle is <60°
+![[Pasted image 20260613163457.png]]
+![[Pasted image 20260613163945.png]]
+
+- Activate pulse wave doppler and determine VTI
+- Calculate carotid blood flow with the formula:
+$$
+\text{Carotid Blood Flow}=\text{VTI}\times \pi \times\left( \frac{\text{Carotid Diameter}}{2} \right)^2\times \text{Heart Rate}
+$$
+- A cut off of 20% increase with passive leg raise is used
+## Carotid Flow Time
+- Obtain pulse wave doppler of the carotid artery (as above in carotid VTI)
+- Find the start of systole, start of the dicrotic notch and where the cycle ends
+![[Pasted image 20260613164756.png]]
+![[Pasted image 20260613164815.png]]
+![[Pasted image 20260613164824.png]]
+
+- Calculate carotid flow time with the formula:
+$$
+\text{Carotid Flow Time}=\frac{\text{Systole Time}}{\sqrt{ \text{Cycle Time} }}
+$$
+## Respiration Variation in Carotid Peak Systolic Velocity
+![[Pasted image 20260613165653.png]]
+- Will need to change the sweep speed to capture more cycles with respiration and scale so that it is easier to measure the peak velocity
+- Given by equation:
+$$
+\frac{\text{Peak Systolic Velocity}_{\text{max}}-\text{Peak Systolic Velocity}_{\text{min}}}{\text{Mean}(\text{Peak Systolic Velocity}_{\text{max}},\text{Peak Systolic Velocity}_{\text{min}})}
+$$
+- A cut-off of 14% is used to predict fluid responsiveness
 ## End Expiratory Occlusion Test
 - Perform an expiratory pause for 15s
 - Look for a pulse pressure variation >5%
