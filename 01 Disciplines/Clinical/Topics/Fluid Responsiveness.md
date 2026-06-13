@@ -60,11 +60,14 @@ Rotations:
 	- Synchronous with the ventilator
 	- Receiving 8mL/kg of tidal volume
 	- PEEP of 5-10 cm of $\ce{H2O}$
-- Use M-mode to track the size of the IVC over time
+- Use a curvilinear or phased arraw probe placed in the subxiphopid area measuring the IVC in long-axis view
+- Use M-mode to track the size of the IVC over time at ~2cm caudal to the RA-IVC junction
 - In spontaneously breathing patients using the collapsibility index
 	- Measured in the subxiphoid view 
 	- Collapsibility > 50% suggests fluid responsiveness
 	- Collapsibility <15-20% suggests volume overload/non-responsiveness
+	- IVC < 2.1 cm with > 50% collapsibility suggests relative hypovolaemia
+	- IVC > 2.1 cm with < 50% collapsibility suggests volume overload or high right sided pressures
 $$
 \text{IVC collapsibility}=\frac{\text{IVC}_{\text{max}}-\text{IVC}_{\text{min}}}{\text{IVC}_{\text{max}}}\times 100\%
 $$
