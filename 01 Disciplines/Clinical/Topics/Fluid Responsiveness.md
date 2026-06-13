@@ -212,3 +212,4 @@ $$
 - [Ultrasound Podcast - CAROTID VTI PASSIVE LEG RAISE FOR VOLUME RESPONSIVENESS. - YouTube](https://www.youtube.com/watch?v=ML_3w7UUIls)
 - [Fluid Responsiveness • LITFL • CCC Resuscitation](https://litfl.com/fluid-responsiveness/)
 - [Fluid Responsiveness - Crit IQ](https://www.youtube.com/watch?v=hPobftCnOBA&t=18s)
+- [Fluid resuscitation and assessment of fluid responsiveness](https://derangedphysiology.com/main/required-reading/intensive-care-procedures/Chapter-2411/fluid-resuscitation-and-assessment-fluid-responsiveness)
