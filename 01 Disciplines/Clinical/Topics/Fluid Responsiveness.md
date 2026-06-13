@@ -101,7 +101,7 @@ $$
 $$
 \frac{\text{Maximum}-\text{Minimum}}{\text{Average}}>12 \%
 $$
-- >12% predicts fluid responsiveness
+- More than 12% predicts fluid responsiveness
 
 ## LVOT VTI
 - Conceptual framework
