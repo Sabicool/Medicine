@@ -95,14 +95,8 @@ $$
 \frac{\text{Maximum}-\text{Minimum}}{\text{Average}}>12 \%
 $$
 - >12% predicts fluid responsiveness
-## End Expiratory Occlusion Test
-- Perform an expiratory pause for 15s
-- Look for a pulse pressure variation >5%
-- Patients can be breathing above the ventilator and don’t have to be sinus rhythm
-## Passive Leg Raise
-- Don’t have to be in sinus rhythm and don’t have to be mechanically ventilated
-- Sit the patient upright at 45° and measure stroke volume then lie then flat and lift up their legs to 45° and measure stroke volume 
-### Measuring Stroke Volume
+
+## LVOT VTI
 - Conceptual framework
 	- The Left Ventricular Outflow Tract (LVOT) is modeled as a geometric cylinder
 	- The volume of blood propelled through this cylinder during a single systole represents one Stroke Volume (SV)
@@ -130,6 +124,16 @@ $$
 		- Calculate the baseline SV and re-evaluate it during a dynamic manoeuvre like a passive leg raise or a mini fluid challenge
 		- A **≥ 12% increase in Stroke Volume** indicates a positive response, demonstrating that the patient has preload reserve and will tolerate/benefit from fluid resuscitation
 		- If the increase is **< 12%**, the patient is on the flat portion of the Frank-Starling curve; withhold fluids and look toward vasopressors or inotropes instead
+
+## Carotid VTI
+## End Expiratory Occlusion Test
+- Perform an expiratory pause for 15s
+- Look for a pulse pressure variation >5%
+- Patients can be breathing above the ventilator and don’t have to be sinus rhythm
+## Passive Leg Raise
+- Don’t have to be in sinus rhythm and don’t have to be mechanically ventilated
+- Sit the patient upright at 45° and measure stroke volume then lie then flat and lift up their legs to 45° and measure stroke volume 
+
 ## Challenges
 ### Passive leg raise
 - Method
@@ -154,4 +158,6 @@ $$
 
 # Sources
 - [Haney Mallemat The Art and Science of Fluid Responsiveness - YouTube](https://www.youtube.com/watch?v=HdT6T65dUP0)
+- [How to use the LVOT VTI to determine fluid responsiveness for the critically ill patient - YouTube](http://www.youtube.com/watch?v=B4bt76CaZFk)
 - [LVOT VTI Explained Clearly \| Master Cardiac Output with Bedside Ultrasound POCUS \| 2026 - YouTube](https://www.youtube.com/watch?v=aRlTgP3BdYQ)
+- [Ultrasound Podcast - CAROTID VTI PASSIVE LEG RAISE FOR VOLUME RESPONSIVENESS. - YouTube](https://www.youtube.com/watch?v=ML_3w7UUIls)
