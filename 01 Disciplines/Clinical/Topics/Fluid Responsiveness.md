@@ -16,6 +16,7 @@ Rotations:
 	- **Is the patient fluid responsive?** (Will CO rise with fluid?)
 	- **Does the patient need fluid?** (Is tissue perfusion inadequate and likely to improve with more preload?)
 - Clinical parameters (e.g. hourly urine output and MAP) tend to lag and do not reliably predict fluid responsiveness
+- Do not be part of the blind who determines a patient is fluid responsive (using any of the measures below) and then gives a fluid bolus; does the patient actually get better
 # Fluid Tolerance
  - Fluid tolerance is the absence of harm (e.g. pulmonary oedema) when fluid is administered
 ## Pulmonary A vs B Line Pattern
