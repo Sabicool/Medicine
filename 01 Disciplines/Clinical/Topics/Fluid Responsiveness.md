@@ -154,3 +154,4 @@ $$
 
 # Sources
 - [Haney Mallemat The Art and Science of Fluid Responsiveness - YouTube](https://www.youtube.com/watch?v=HdT6T65dUP0)
+- [LVOT VTI Explained Clearly \| Master Cardiac Output with Bedside Ultrasound POCUS \| 2026 - YouTube](https://www.youtube.com/watch?v=aRlTgP3BdYQ)
