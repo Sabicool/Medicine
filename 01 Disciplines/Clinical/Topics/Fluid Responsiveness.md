@@ -10,9 +10,8 @@ Rotations:
 	1. Use **Static Indices** (physical exam markers, lactate, basic static ultrasound) as a screening tool to establish a high **pre-test probability** of shock or tissue hypoperfusion
 	2. Once a perfusion deficit is confirmed, deploy **Dynamic Science** (PLR, EEOT, PPV, or echo stroke volume calculations) to confirm if a fluid bolus will successfully increase cardiac output or if you must switch to early vasoactive medications
 
-
 ![[Pasted image 20260502230540.png]]
-- Fluid responsiveness is 10-15% increase in cardiac output in response to a fluid challenge or pre-load augmentation manoeuvre
+- Fluid responsiveness is 10-15% increase in cardiac output in response to a fluid challenge (500 mL of crystalloid over 10-15 minutes) or pre-load augmentation manoeuvre
 - Not the same as needing fluid:
 	- **Is the patient fluid responsive?** (Will CO rise with fluid?)
 	- **Does the patient need fluid?** (Is tissue perfusion inadequate and likely to improve with more preload?)
@@ -175,8 +174,6 @@ $$
 - An increase in cardiac output causes increased delivery of $\ce{CO2}$ to the lungs thereby increasing exhaled $\ce{CO2}$
 - A $\Delta \text{ET}\ce{CO2}$ ≥ 5% with passive leg raise predicts fluid responsiveness whereas a $\Delta \text{ET}\ce{CO2}$ < 2 mmHg suggests unlikely fluid responsive
 - Does not work well with the micro-bolus challenge
-
-
 # Challenges
 ## Passive leg raise
 - Method
@@ -195,21 +192,22 @@ $$
 ## Mini-Bolus & Micro Bolus
 - Technique: Give 100 mL of crystalloid over 1 minute and assess CO response (via arterial PP or POCUS VTI)
 - Positive: ≥6% increase in PP or VTI → likely fluid responsive
-
+## High PEEP Challenge
+- Increasing PEEP can identify fluid responsiveness by identifying a decrease in MAP
+- Increase PEEP from 10 to 20 cm $\ce{H2O}$ for 1 minute while continuously measuring cardiac output and MAP
+- A 8% decrease in MAP or 10% decrease in cardiac output suggests fluid responsiveness
 ## End Expiratory Occlusion Test
 - Perform an expiratory pause for 15s
-- Look for a pulse pressure variation >5%
+- Look for a pulse pressure variation >5% which predicts fluid responsiveness
+- Requires
+	- Mechanical ventilation at 8 mL/kg tidal volume
+	- A patient who is able to tolerate 15 seconds of apnoea
+	- Continuous cardiac output measurement
 - Patients can be breathing above the ventilator and don’t have to be sinus rhythm
-
-## Challenges
-## Measures
-- Best: POCUS VTI (left ventricular outflow tract velocity-time integral) — multiply by LVOT area for CO; serial VTI alone is sufficient for trending
-- Acceptable: arterial pulse pressure change (less precise but reasonable)
-- Pulse oximetry pleth waveform: some evidence but unreliable in vasoconstriction
-- Avoid: relying on BP alone — MAP change is an insensitive surrogate for CO change
-
 # Sources
 - [Haney Mallemat The Art and Science of Fluid Responsiveness - YouTube](https://www.youtube.com/watch?v=HdT6T65dUP0)
 - [How to use the LVOT VTI to determine fluid responsiveness for the critically ill patient - YouTube](http://www.youtube.com/watch?v=B4bt76CaZFk)
 - [LVOT VTI Explained Clearly \| Master Cardiac Output with Bedside Ultrasound POCUS \| 2026 - YouTube](https://www.youtube.com/watch?v=aRlTgP3BdYQ)
 - [Ultrasound Podcast - CAROTID VTI PASSIVE LEG RAISE FOR VOLUME RESPONSIVENESS. - YouTube](https://www.youtube.com/watch?v=ML_3w7UUIls)
+- [Fluid Responsiveness • LITFL • CCC Resuscitation](https://litfl.com/fluid-responsiveness/)
+- [Fluid Responsiveness - Crit IQ](https://www.youtube.com/watch?v=hPobftCnOBA&t=18s)
