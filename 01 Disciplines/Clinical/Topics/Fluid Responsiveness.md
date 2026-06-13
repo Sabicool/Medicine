@@ -13,11 +13,15 @@ Rotations:
 
 ![[Pasted image 20260502230540.png]]
 - Fluid responsiveness is 10-15% increase in cardiac output in response to a fluid challenge or pre-load augmentation manoeuvre
-- Fluid tolerance is the absence of harm (e.g. pulmonary oedema) when fluid is administered
 - Not the same as needing fluid:
 	- **Is the patient fluid responsive?** (Will CO rise with fluid?)
 	- **Does the patient need fluid?** (Is tissue perfusion inadequate and likely to improve with more preload?)
 - Clinical parameters (e.g. hourly urine output and MAP) tend to lag and do not reliably predict fluid responsiveness
+# Fluid Tolerance
+ - Fluid tolerance is the absence of harm (e.g. pulmonary oedema) when fluid is administered
+## Pulmonary A vs B Line Pattern
+- Sonographic lung changes precede other signs of volume overload
+- An A-line predominant lung US pattern suggests fluid tolerance (see [[Lung POCUS]])
 # Measures
 - There exists dynamic and static measures
 	- Dynamic measures rely on the respiratory cycle and how it effects changes with cardiac preload buy generally require mechanical ventilation
@@ -167,30 +171,37 @@ $$
 \frac{\text{Peak Systolic Velocity}_{\text{max}}-\text{Peak Systolic Velocity}_{\text{min}}}{\text{Mean}(\text{Peak Systolic Velocity}_{\text{max}},\text{Peak Systolic Velocity}_{\text{min}})}
 $$
 - A cut-off of 14% is used to predict fluid responsiveness
-## End Expiratory Occlusion Test
-- Perform an expiratory pause for 15s
-- Look for a pulse pressure variation >5%
-- Patients can be breathing above the ventilator and don’t have to be sinus rhythm
-## Passive Leg Raise
-- Don’t have to be in sinus rhythm and don’t have to be mechanically ventilated
-- Sit the patient upright at 45° and measure stroke volume then lie then flat and lift up their legs to 45° and measure stroke volume 
+## End Tidal $\ce{CO2}$
+- An increase in cardiac output causes increased delivery of $\ce{CO2}$ to the lungs thereby increasing exhaled $\ce{CO2}$
+- A $\Delta \text{ET}\ce{CO2}$ ≥ 5% with passive leg raise predicts fluid responsiveness whereas a $\Delta \text{ET}\ce{CO2}$ < 2 mmHg suggests unlikely fluid responsive
+- Does not work well with the micro-bolus challenge
 
-## Challenges
-### Passive leg raise
+
+# Challenges
+## Passive leg raise
 - Method
 	- Start with the patient semi-recumbent at 45°
 	- Raise legs to 45° while simultaneously lowering the torso to flat (or raise legs from flat if already supine)
 	- This transfers ~300 mL of venous blood from the lower limbs into the central circulation — an autologous, reversible fluid challenge
 	- Assess CO or a surrogate at baseline and at **60–90 seconds** after position change (effect is transient)
 	- Return patient to original position — the effect is fully reversible
-- Positive: ≥10% increase in cardiac output (or arterial pulse pressure as a surrogate)
+- Positive: ≥10% increase in cardiac output (e.g. measured with LVOT VTI, carotid VTI etc.)
 - Limitations
 	- Cannot be performed if: raised intracranial pressure, unstable pelvic/femoral fractures, intra-abdominal hypertension (may not transfer adequate volume)
 	- Requires real-time CO measurement — qualitative BP change alone is insufficient
 	- Must measure CO response within 60–90 seconds (effect wanes)
-### Mini Fluid Challenge
+- Advantages
+	- Don’t have to be in sinus rhythm and don’t have to be mechanically ventilated
+## Mini-Bolus & Micro Bolus
 - Technique: Give 100 mL of crystalloid over 1 minute and assess CO response (via arterial PP or POCUS VTI)
 - Positive: ≥6% increase in PP or VTI → likely fluid responsive
+
+## End Expiratory Occlusion Test
+- Perform an expiratory pause for 15s
+- Look for a pulse pressure variation >5%
+- Patients can be breathing above the ventilator and don’t have to be sinus rhythm
+
+## Challenges
 ## Measures
 - Best: POCUS VTI (left ventricular outflow tract velocity-time integral) — multiply by LVOT area for CO; serial VTI alone is sufficient for trending
 - Acceptable: arterial pulse pressure change (less precise but reasonable)
