@@ -124,8 +124,10 @@ $$
 		- Calculate the baseline SV and re-evaluate it during a dynamic manoeuvre like a passive leg raise or a mini fluid challenge
 		- A **≥ 12% increase in Stroke Volume** indicates a positive response, demonstrating that the patient has preload reserve and will tolerate/benefit from fluid resuscitation
 		- If the increase is **< 12%**, the patient is on the flat portion of the Frank-Starling curve; withhold fluids and look toward vasopressors or inotropes instead
-
 ## Carotid VTI
+- Can use a linear probe
+- Find the carotid bifurcation in short axis view
+
 ## End Expiratory Occlusion Test
 - Perform an expiratory pause for 15s
 - Look for a pulse pressure variation >5%
