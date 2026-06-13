@@ -51,7 +51,7 @@ Rotations:
 	- Shunt
 	- Very low cardiac output
 	- Vavlulopathy
-## Distensibility Index
+## IVC Size & Distensibility Index
 - Positive intrathoracic pressure during inhalation (mechanical ventilation) causes IVC to become larger and on releasing, IVC returns to normal size
 - Requirements
 	- Sinus rhythm
@@ -61,6 +61,19 @@ Rotations:
 	- Receiving 8mL/kg of tidal volume
 	- PEEP of 5-10 cm of $\ce{H2O}$
 - Use M-mode to track the size of the IVC over time
+- In spontaneously breathing patients using the collapsibility index
+	- Measured in the subxiphoid view 
+	- Collapsibility > 50% suggests fluid responsiveness
+	- Collapsibility <15-20% suggests volume overload/non-responsiveness
+$$
+\text{IVC collapsibility}=\frac{\text{IVC}_{\text{max}}-\text{IVC}_{\text{min}}}{\text{IVC}_{\text{max}}}\times 100\%
+$$
+- In mechanically ventilating patients use the distensibility index
+	- Distensibility >18% predicts fluid responsiveness
+$$
+\text{IVC distensibility}=\frac{\text{IVC}_{\text{max}}-\text{IVC}_{\text{min}}}{\text{IVC}_{\text{min}}}\times 100\%
+$$
+
 ![[Pasted image 20260612223237.png]]
 ## Sub-Aortic Peak Velocity
 - Obtain a apical 5 chamber view (4-chamber view tilted anteriorly to see the LVOT)
@@ -136,20 +149,6 @@ $$
 - Acceptable: arterial pulse pressure change (less precise but reasonable)
 - Pulse oximetry pleth waveform: some evidence but unreliable in vasoconstriction
 - Avoid: relying on BP alone — MAP change is an insensitive surrogate for CO change
-### IVC collapsibility/distensibility
-- Bedside POCUS assessment of the IVC
-- In spontaneously breathing patients using the collapsibility index
-	- Measured in the subxiphoid view 
-	- Collapsibility > 50% suggests fluid responsiveness
-	- Collapsibility <15-20% suggests volume overload/non-responsiveness
-$$
-\text{IVC collapsibility}=\frac{\text{IVC}_{\text{max}}-\text{IVC}_{\text{min}}}{\text{IVC}_{\text{max}}}\times 100\%
-$$
-- In mechanically ventilating patients use the distensibility index
-	- Distensibility >18% predicts fluid responsiveness
-$$
-\text{IVC distensibility}=\frac{\text{IVC}_{\text{max}}-\text{IVC}_{\text{min}}}{\text{IVC}_{\text{min}}}\times 100\%
-$$
 
 # Sources
 - [Haney Mallemat The Art and Science of Fluid Responsiveness - YouTube](https://www.youtube.com/watch?v=HdT6T65dUP0)
