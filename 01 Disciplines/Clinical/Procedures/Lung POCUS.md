@@ -11,10 +11,10 @@ figureCount: 2
 
 ![[Pasted image 20260614181635.png]]
 
-# Normal Lung Ultrasound Features
-- Lung sliding
+# Characteristics of the Normal or Fully Aerated Lung
+- Lung sliding: The visible, respiration-dependent movement of the pleural line
 - Smooth pleural line
-- A-lines (reverberations of the horizontal pleural line)
+- A-lines: Horizontal artifacts caused by the reflection of air at the tissue boundary. They appear at perfectly equal distances from one another. The distance between the pleural line and the first A line is exactly equal to the distance between the pleura and the transducer
 
 <figure style="text-align: left;">
   <img src="Pasted image 20260614181733.png">
@@ -22,10 +22,22 @@ figureCount: 2
 </figure>
 - Set depth to 10cm and the focal point at the pleural line
 
-# B-lines
+# Ultrasound Features of Lung Pathologies
+| **Condition**                    | **Common Ultrasound Findings**                                                                                                                                                                                                                                                | **Distribution / Behavior**                                                                                                                                                                                                                                                                                                                  |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Community-Acquired Pneumonia** | Focal pleural-line abnormalities, multiple/confluent B lines (white lung), subpleural or lobular/segmental consolidations, air or fluid bronchograms.                                                                                                                         | **Asymmetric** and initially localized to specific lung areas.                                                                                                                                                                                                                                                                               |
+| **Interstitial Pneumonia**       | Focal pleural-line abnormalities, multifocal B lines, white lung, multifocal subpleural consolidations.                                                                                                                                                                       | Typically **bilateral and inhomogeneous**. Inflamed areas are often separated by fully aerated **"spared areas"**.                                                                                                                                                                                                                           |
+| **Pulmonary Edema**              | B lines that can progress to a white lung pattern.                                                                                                                                                                                                                            | **Symmetric** distribution, typically localized at the lowest points of the lungs due to gravity. Symmetric involvement of the 4 lower chest quadrants is pathognomonic for cardiogenic edema.                                                                                                                                               |
+| **Pleural Effusion**             | Fluid collection in the pleural cavity. Relies on identifying the pleural cavity, diaphragm, and an abdominal organ (liver/spleen). The **"spine sign"** (visualizing the thoracic spine) indirectly indicates fluid.                                                         | Located at the lowest points due to gravity. Best assessed in a semirecumbent position. Can detect as little as **20 ml** of fluid.<br><br>  <br>  <br><br>_Volume Estimation:_ $(\text{Diaphragm to lung base distance in cm} + \text{Chest wall to lung distance in cm}) \times 70 = \text{Volume in mL}$.                                 |
+| **Pneumothorax**                 | **Absence of lung sliding**, absence of B lines/subpleural lesions, and absence of the lung pulse.<br><br>  <br><br>• **Seashore sign:** Normal M-mode (resembles sea and sand).<br><br>  <br><br>• **Stratosphere / Barcode sign:** M-mode signature of absent lung sliding. | **"Lung Point" is the only pathognomonic sign**. It is the exact transient boundary where a healthy lung (with sliding) meets the pneumothorax (no sliding).                                                                                                                                                                                 |
+| **COPD & Asthma**                | Typically presents with **completely normal** lung ultrasound findings, acting as a diagnosis of exclusion.                                                                                                                                                                   | Airway obstruction is diagnosed using M-mode to observe diaphragmatic kinetics (hyperechoic line rising on inspiration, falling on expiration).<br><br>  <br>  <br><br>_M-Mode Index of Obstruction:_ Ratio of excursion in the 1st second of forced expiration vs. total expiration. A value **$< 0.77$** indicates an obstructive pattern. |
+| **Pulmonary Embolism**           | Limited diagnostic value; primarily a diagnosis of exclusion. May occasionally reveal oval, round, or wedge-shaped consolidations.                                                                                                                                            | **The Vascular Sign:** Characterized by blood flow that cuts off proximally within the consolidation on Doppler. (Distinguishes it from inflammatory consolidations where blood flow spans the entire structure) .                                                                                                                           |
+
+## B-lines (interstitial Oedema)
 - B-lines are thickening of the interlobular septum
-- Arises from the pleural line, moves with lung sliding and heads towards the bottom of the screen and erases A-lines
-- The presence of 1-2 B-lines can be normal
+- **Appearance:** Hyperechoic, laser-like vertical artifacts arising directly from the pleural line. They move in unison with lung sliding, travel all the way to the bottom of the screen, and erase A lines
+- **Clinical Significance:** Healthy lungs may have 1–2 B lines per field. An increasing number signifies worsening edema. In severe cases, they merge to create a **"white lung"** pattern
+	- Increase depth to differentiate true B lines from Z lines (short, ill-defined, clinically irrelevant artifacts)
 
 ![[Pasted image 20260614182500.png]]
 
@@ -62,7 +74,7 @@ figureCount: 2
 - Absence of lung pulse
 - Presence of the lung point
 
-
+![[Pasted image 20260614184342.png]]
 # RADiUS Exam
 ![[Pasted image 20260223225312.png]]
 
