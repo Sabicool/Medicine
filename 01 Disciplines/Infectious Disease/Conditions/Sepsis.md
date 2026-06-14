@@ -139,6 +139,7 @@ Also see: [[Shock]] for the management of undifferentiated shock
 - [2026 SSC Adult Guidelines Updates: What Clinicians Need to Know - YouTube](https://www.youtube.com/watch?v=YGmytzW_yB0)
 - [Critical Care Medicine | Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026](https://journals.lww.com/ccmjournal/fulltext/2026/04000/surviving_sepsis_campaign__international.5.aspx)
 - [Septic cardiomyopathy • LITFL • CCC](https://litfl.com/septic-cardiomyopathy/)
+- https://www.nejm.org.acs.hcn.com.au/doi/full/10.1056/NEJMoa2516225
 
 [^1]: This remains as a conditional recommendation from the surviving sepsis campaign with low quality evidence
 [^2]: Surviving sepsis guidelines suggest against this
