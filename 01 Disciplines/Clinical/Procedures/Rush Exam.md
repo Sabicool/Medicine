@@ -1,5 +1,5 @@
 ---
-date: 2026-05-02
+date: 2026-06-14
 Rotations:
   - "[[Intensive Care Unit]]"
   - "[[Emergency Medicine]]"
@@ -15,6 +15,9 @@ Rotations:
 
 ^overview
 
+![[Pasted image 20260614213826.png]]
+
+![[Pasted image 20260614213847.png]]
 
 - Bedside ultrasound
 	- Place in subxiphoid/subcostal area and orient head to toe
@@ -24,3 +27,6 @@ Rotations:
 - Estimating CO
 	- Using LV function on ultrasound as a substitute for CO
 	- Use the ultrasound in the parasternal long axis view
+
+# Source
+- [RUSH: Undifferentiated Hypotension — TPA](https://www.thepocusatlas.com/shock)
