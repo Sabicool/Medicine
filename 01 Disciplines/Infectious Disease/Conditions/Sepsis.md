@@ -2,7 +2,7 @@
 Rotations:
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
-date: 2026-05-25
+date: 2026-06-14
 aliases:
   - Septicaemia
   - Septic Shock
@@ -91,6 +91,7 @@ Also see: [[Shock]] for the management of undifferentiated shock
 	- Lactate clearance is better than 10% over 2 hours
 	- Arteriovenous $\ce{CO2}$ difference < 6 mmHg
 	- Urine output > 1.0 mL/kg
+ - There does not appear to be a mortality benefit with using a restricted fluid approach and early vasopressors than the standard approach involving grater fluid volume and later administration of vasopressors (Vasopressors or Fluids in Early Septic Shock, The ARISE FLUIDS Investigators, June 2026 DOI: 10.1056/NEJMoa2516225)
 ## Vasopressors
 - If no further fluid resuscitation can be provided and haemodynamics still suboptimal start pressors
 - Noradrenaline remains first choice
