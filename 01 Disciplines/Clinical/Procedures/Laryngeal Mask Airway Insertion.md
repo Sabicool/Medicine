@@ -17,5 +17,6 @@ date: 2026-06-15
 ![[Pasted image 20260615163132.png]]
 4. Continue until resistance is felt
 5. As the cuff is insufflate, the LMA may move out of the mouth a few centimetres
+6. Secure the laryngeal mask airway with tape
 # Sources
 Lighthall, G., Harrison, T.K., Chu, L.F., 2013. Laryngeal Mask Airway in Medical Emergencies. New England Journal of Medicine 369, e26. [https://doi.org/10.1056/NEJMvcm0909669](https://doi.org/10.1056/NEJMvcm0909669)
