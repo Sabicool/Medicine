@@ -4,7 +4,7 @@ Rotations:
   - "[[02 Rotations/Respiratory|Respiratory]]"
   - "[[Intensive Care Unit]]"
   - "[[02 Rotations/Cardiology|Cardiology]]"
-date: 2026-06-15
+date: 2026-06-16
 figureCount: 2
 ---
 ![[Pasted image 20251109172629.png]]
@@ -45,6 +45,9 @@ figureCount: 2
 ![[Pasted image 20260614183019.png]]
 ![[Pasted image 20260614183031.png]]
 
+## Sea Shore Sign
+- Shows that lung sliding is present
+![[Pasted image 20260616184528.png]]
 # Community Acquired Pneumonia Findings
 - Focal pleural line abnormalities
 - Multiple B-lines
@@ -84,3 +87,4 @@ figureCount: 2
 </figure>
 # Sources
 - Buda, N., Mendrala, K., Skoczyński, S., Pasquier, M., Mazur, P., Garcia, E., Darocha, T., 2023. Basics of Point-of-Care Lung Ultrasonography. New England Journal of Medicine 389, e44. [https://doi.org/10.1056/NEJMvcm2108203](https://doi.org/10.1056/NEJMvcm2108203)
+- [Lung Ultrasound Explained (Point of Care, Bedside, Clinical) - YouTube](https://www.youtube.com/watch?v=_Q0cTG3ZlHk&list=TLPQMjMwNTIwMjbrZc6llVmp8A&index=3)
