@@ -48,6 +48,9 @@ figureCount: 2
 ## Sea Shore Sign
 - Shows that lung sliding is present
 ![[Pasted image 20260616184528.png]]
+## Barcode Sign
+- Absence of lung sliding
+![[Pasted image 20260616185146.png]]
 # Community Acquired Pneumonia Findings
 - Focal pleural line abnormalities
 - Multiple B-lines
