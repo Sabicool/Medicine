@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[Anaesthetics]]"
-date: 2026-04-06
+date: 2026-06-16
 aliases:
   - ABG Interpretation
 tags:
@@ -14,9 +14,6 @@ tags:
 # Useful information
 - With respiratory problems, $p\ce{CO2}$ and pH change in different directions
 - With metabolic problems, $p\ce{CO2}$ and pH change in the same direction
-# Introduction
-- Make sure you understand the difference between oxygenation and ventilation
-- Have a good understanding of [[Acute Respiratory Failure]]
 # Approach[^3]
 ![[Pasted image 20260316142617.png]]
 1. Determine the adequacy of oxygenation 
