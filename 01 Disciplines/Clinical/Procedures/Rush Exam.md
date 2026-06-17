@@ -22,6 +22,7 @@ Rotations:
 
 ![[Pasted image 20260614213847.png]]
 
+![[Pasted image 20260617195836.png]]
 # Heart
 - Begin in the parasternal long axis view (see [[Echocardiogram#Parasternal Long Axis|echo notes]]) and observe for:
 	- Pericardial effusion especially a circumfrential pericardial effusion
