@@ -3,10 +3,19 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
   - "[[Emergency Medicine]]"
   - "[[Intensive Care Unit]]"
-date: 2026-06-12
+date: 2026-06-17
 tags:
   - notes
 ---
+# Setup
+- Ensure probe marker is on the right of the image to indicate that the echocardiogram is in ‘cardiac mode’ and not ‘standard mode’
+	- The left ventricle should always be on the left of the screen in parasternal long-axis view
+- Can ask the patient to lay on the left lateral decubitus position
+# Approach
+1. Parasternal long axis
+2. Parasternal short axis
+3. Apical 4 chamber
+4. Sub-xiphoid
 # Focused Cardiac Echocardiography
 - If possible place the patient in the left lateral decubitus position before beginning
 ![[Pasted image 20260612203647.png]]
@@ -19,6 +28,7 @@ tags:
 - Place the probe at:
 	- The point of maximal impulse or
 	- Anterior axillary line and move towards the nipple in a Z shape pattern
+- Probably easier to go from the para-sternal short axis to the apical four chamber
 - Keep the probe at 60 degrees relative to the chest wall with the orientation marker pointing towards the 3 o’clock position
 ![[Pasted image 20260612204220.png]]
 
@@ -37,16 +47,37 @@ tags:
 - Point the orientation marker toward the 10 o’clock position (right shoulder) with the probe perpendicular to the chest wall
 
 ![[Pasted image 20260612205240.png]]
+![[Pasted image 20260617172950.png]]
 
 - Identify the areas of interest including:
 	- Anterior mitral-valve leaflet
 	- Endocardial and epicardial borders
 	- Midline of the left ventricular cavity
+
+![[Pasted image 20260617173044.png]]
+
 ![[Pasted image 20260612213511.png]]
 
 - Assess anterior mitral valve leaflet motion, wall thickening, area of cavity change and longitudinal shortening
+- One can quantify the EF in this view by taking the M-mode line across the mitral valve septum:
+	- ![[Pasted image 20260617173417.png]]
+	- Freeze the frame and identify:
+		- interventricular septum and mitral valve
+	- ![[Pasted image 20260617173508.png]]
+		- The distance between the mitral valve and the interventricular septum can be used to observe for LV dysfunction <7 mm is normal and >10 mm represents dysfunction
+	- This study is susceptible to aortic regurgitation and mitral stenosis which will falsely predict LV dysfunction
+- This view can be used to differentiate a pericardial effusion from a pleural effusion
+	- A pericardial effusion will show fluid build up anterior to the descending aorta
+		- ![[Pasted image 20260617173919.png]]
+	- A pleural effusion will show fluid build up posterior to the descending aorta
+		- ![[Pasted image 20260617173955.png]]
+- Pericardial tamponade
+	- Requires diastolic collapse of the right ventricle with clinical symptoms (e.g. hypotension, tachycardia, chest pain)
+		- Can identify that collapse of the RV occurs during diastole as during this point in time the mitral valve leaflets are open
+		- ![[Pasted image 20260617174509.png]]
+- RV strain
 ## Parasternal Short Axis
-- First obtain the long axis view (above), then point the orientation marker toward the 2 o’clock position (left shoulder) and decrease the field of depth to 10-14 cm
+- First obtain the long axis view (above), then point the orientation marker toward the 2 o’clock position (left shoulder), fan towards the apex and base and decrease the field of depth to 10-14 cm
 
 ![[Pasted image 20260612205422.png]]
 
@@ -55,6 +86,12 @@ tags:
 ![[Pasted image 20260612213734.png]]
 
 - Assess wall thickening and change in area of cavity
+- Can go more superiorly (towards the base) to see the aortic valve in its classic mercedes-benz sign configuration
+	- ![[Pasted image 20260617175022.png]]
+- ![[Pasted image 20260617175118.png]]
+- Can also assess for right ventricular strain
+	- In RV strain will see: enlarged RV and septal bowing causing the LV to take the appearance of a ‘D’
+	- ![[Pasted image 20260617175246.png]]
 # Echocardiographic Measures of Left Ventricular Systolic Function
 - If all 4 measures (below) are normal, it is reasonable to grade the estimated left ventricular systolic function as normal (with LVEF > 55%)
 - If all 4 measures (below) are abnromal, it is reasonable to grade the estimated left ventricular systolic function as abnormal (with LVEF < 30%)
@@ -83,3 +120,4 @@ tags:
 - A decrease by ≥ 1/3 indicates normal left ventricular systolic function
 # Sources
 - Prada, G., Fritz, A.V., Restrepo-Holguín, M., Guru, P.K., Díaz-Gómez, J.L., 2019. Focused Cardiac Ultrasonography for Left Ventricular Systolic Function. New England Journal of Medicine 381, e36. [https://doi.org/10.1056/NEJMvcm1802841](https://doi.org/10.1056/NEJMvcm1802841)
+- [Basic Transthoracic Echocardiography (Cardiac Ultrasound) - TTE Made Simple - YouTube](https://www.youtube.com/watch?v=1E4NSR6yjMw&t=212s)
