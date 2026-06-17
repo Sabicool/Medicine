@@ -1,9 +1,21 @@
 ---
 title: Home
-date: 2026-01-18
+description: Clinical notes maintained by a junior doctor in Australia, with a focus on acute and critical care medicine — emergency, intensive care and anaesthetics.
+date: 2026-06-18
 ---
-# About this Website
-This is the note database of a junior doctor in Australia. The information contained in these notes is for educational purposes only and should not be construed as medical advice. While I strive for accuracy, I make no guarantees regarding the completeness or reliability of the content provided. Additionally, I do not claim copyright for any images included herein unless explicitly stated. If you wish to request a correction, removal, or alteration of any content, please feel free to contact me or submit an issue via the associated [github repository](https://github.com/Sabicool/Medicine). The colour theme for this website is based off [catppuccin](https://github.com/catppuccin/catppuccin).
+# About these notes
+A working clinical reference maintained by a junior doctor in Australia, with a focus on **acute and critical care medicine** — emergency, intensive care and anaesthetics. The notes are written to be useful at the bedside: structured approaches to the unwell patient, the common after-hours calls, and the investigations and procedures that actually come up on the floor. They are formatted in markdown and kept as accurate and presentable as I can manage.
+
+> [!note] Disclaimer
+> This information is for educational purposes only and should not be construed as medical advice. While I strive for accuracy, I make no guarantees regarding the completeness or reliability of the content. I do not claim copyright for any images included unless explicitly stated. To request a correction, removal or alteration of any content, please contact me or submit an issue via the associated [GitHub repository](https://github.com/Sabicool/Medicine).
+
+# Acute & Critical Care
+The notes most relevant to the deteriorating and critically unwell patient:
+- **Resuscitation & emergencies** — [[Advanced Life Support]], [[Shock]], [[Sepsis]], and structured approaches to [[Acute Airway Failure]] and [[Acute Respiratory Failure]]
+- **Airway & ventilation** — [[Intubation]], the [[Post-Induction Checklist]], and a full [[Mechanical Ventilation]] series covering modes, settings, waveform interpretation, troubleshooting and weaning
+- **Bedside investigations** — [[Blood Gas Interpretation|ABG interpretation]], [[ECG Interpretation]], [[Echocardiogram]] and [[Lung POCUS]]
+- **By rotation** — [[Intensive Care Unit|ICU]], [[Emergency Medicine]], [[Anaesthetics]] and [[Common Ward Calls]]
+
 # Quick Reference
 Consider taking a look through my [[Intern Reference]] if you are an intern yourself, otherwise here is a list of notes in my rotations folder. Click on whatever rotation you might be on right now:
 ## Useful Notes
@@ -18,32 +30,32 @@ Mainly for the admin side of things as a junior doctor
 Some other administrative notes:
 <!-- QueryToSerialize: List from "00 Reference/Administrative" sort file.name asc -->
 <!-- SerializedQuery: List from "00 Reference/Administrative" sort file.name asc -->
-- [[00 Reference/Administrative/Administrative Notes on Radiology.md|Administrative Notes on Radiology]]
-- [[00 Reference/Administrative/Consults and Referrals.md|Consults and Referrals]]
-- [[00 Reference/Administrative/End-of-life orders.md|End-of-life orders]]
-- [[00 Reference/Administrative/Finding Notes and Documents.md|Finding Notes and Documents]]
-- [[00 Reference/Administrative/Home Screen.md|Home Screen]]
-- [[00 Reference/Administrative/Ordering Investigations.md|Ordering Investigations]]
-- [[00 Reference/Administrative/Patient Lists.md|Patient Lists]]
-- [[00 Reference/Administrative/Useful Numbers to Save on Your Phone.md|Useful Numbers to Save on Your Phone]]
-- [[00 Reference/Administrative/Viewing Investigations.md|Viewing Investigations]]
-- [[00 Reference/Administrative/Writing Discharge Summaries.md|Writing Discharge Summaries]]
+- [[Administrative Notes on Radiology]]
+- [[Consults and Referrals]]
+- [[End-of-life orders]]
+- [[Finding Notes and Documents]]
+- [[Home Screen]]
+- [[Ordering Investigations]]
+- [[Patient Lists]]
+- [[Useful Numbers to Save on Your Phone]]
+- [[Viewing Investigations]]
+- [[Writing Discharge Summaries]]
 <!-- SerializedQuery END -->
 ## Rotations
 If you'd rather just find notes on medicine relevant to the particular rotation you are on look below:
 <!-- QueryToSerialize: LIST FROM "02 Rotations" sort file.name asc -->
 <!-- SerializedQuery: LIST FROM "02 Rotations" sort file.name asc -->
-- [[02 Rotations/Anaesthetics.md|Anaesthetics]]
-- [[02 Rotations/Cardiology.md|Cardiology]]
-- [[02 Rotations/Common Ward Calls.md|Common Ward Calls]]
-- [[02 Rotations/Emergency Medicine.md|Emergency Medicine]]
-- [[02 Rotations/Gastroenterology.md|Gastroenterology]]
-- [[02 Rotations/Intensive Care Unit.md|Intensive Care Unit]]
-- [[02 Rotations/Nephrology.md|Nephrology]]
-- [[02 Rotations/Neurology.md|Neurology]]
-- [[02 Rotations/Paediatrics.md|Paediatrics]]
-- [[02 Rotations/Psychiatry.md|Psychiatry]]
-- [[02 Rotations/Respiratory.md|Respiratory]]
+- [[Anaesthetics]]
+- [[Cardiology]]
+- [[Common Ward Calls]]
+- [[Emergency Medicine]]
+- [[Gastroenterology]]
+- [[Intensive Care Unit]]
+- [[Nephrology]]
+- [[Neurology]]
+- [[Paediatrics]]
+- [[Psychiatry]]
+- [[Respiratory]]
 <!-- SerializedQuery END -->
 
 Otherwise have a look through the "01 Disciplines" on the left panel (on desktop).
@@ -65,9 +77,9 @@ I rarely made comprehensive notes. I mainly studied by doing pre-made flashcard 
 - Other national resources (e.g. eTG, AMH Online)
 - Other useful Australian resources: LITFL
 - Other useful resources: Teach Me Series (e.g. Teach me surgery, Teach me Obgyn), Amboss
-- Qbanks: I used emedici but there also exists passmedicine and armadex
+- Qbanks: I used eMedici but there also exists passmedicine and armadex
 # How I made these notes
-These notes are for the most part formatted in markdown and hopefully made to be quite presentable and accurate.
+These notes are for the most part formatted in markdown and hopefully made to be quite presentable and accurate. The colour theme for this website is based off [catppuccin](https://github.com/catppuccin/catppuccin).
 
 I use a mixture of Emacs and Obsidian to take these notes[^1][^3]. Emacs has been wonderful to use especially with [obsidian.el](https://github.com/licht1stein/obsidian.el). After a year of using Vanilla Emacs, I got tired of configuring everything myself and switched to [Doom Emacs](https://github.com/doomemacs/doomemacs) and have been quite happy with it.
 
@@ -105,7 +117,7 @@ list rows.file.link
             + ")") OR contains(Rotations, this.file.link) or 
         contains(file.path,this.file.name) 
     sort file.name asc 
-    group by reverse(split(file.folder, "/"))[0]
+    group by reverse(split(file.folder, "/"))[0] 
 ```
 
 
