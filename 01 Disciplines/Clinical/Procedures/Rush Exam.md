@@ -14,7 +14,7 @@ Rotations:
 > - **Aorta:** AAA
 > - **Lower limbs:** DVT (if PE suspected)
 > 
-> Can use the mnemonic HI-MAP (Heart, IVC, Morrison’s pouch, Aorta, Pneumothorax)
+> Can use the mnemonic HI-MAP (Heart, IVC, Morrison’s pouch, Aorta, Pneumothorax) or alternatively go in the approach of pump (heart), tank (IVC, Morison’s pouch), and pipes (aorta, DVT)
 
 ^overview
 
@@ -55,4 +55,6 @@ Rotations:
 - Once the aetiology of shock is found, to determine whether the patient’s hypotension would respond with fluids or pressors assess their [[Fluid Responsiveness]] with the LVOT VTI
 # Source
 - [RUSH: Undifferentiated Hypotension — TPA](https://www.thepocusatlas.com/shock)
-- [How to use the RUSH exam for shock - YouTube](https://www.youtube.com/watch?v=7EQ6RVD9n-k)
+- Youtube video
+	- [How to use the RUSH exam for shock - YouTube](https://www.youtube.com/watch?v=7EQ6RVD9n-k)
+	- [RUSH Exam Rapid Review - YouTube](https://www.youtube.com/watch?v=kVS-AJ6TgcM)
