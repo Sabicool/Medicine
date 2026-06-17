@@ -28,7 +28,10 @@ tags:
 - Place the probe at:
 	- The point of maximal impulse or
 	- Anterior axillary line and move towards the nipple in a Z shape pattern
-- Probably easier to go from the para-sternal short axis to the apical four chamber
+- Probably easier to go from the para-sternal short axis to the apical four chamber:
+	- Point the probe marker towards the left axilla
+	- Slide down toward the apex and you should see the chamber size getting smaller and smaller
+	- When you get to the apex, fan up towards the patient’s head
 - Keep the probe at 60 degrees relative to the chest wall with the orientation marker pointing towards the 3 o’clock position
 ![[Pasted image 20260612204220.png]]
 
