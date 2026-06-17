@@ -58,3 +58,4 @@ Rotations:
 - Youtube video
 	- [How to use the RUSH exam for shock - YouTube](https://www.youtube.com/watch?v=7EQ6RVD9n-k)
 	- [RUSH Exam Rapid Review - YouTube](https://www.youtube.com/watch?v=kVS-AJ6TgcM)
+	- [An Introduction to the Rapid Ultrasound for Shock and Hypotension RUSH Protocol - YouTube](https://www.youtube.com/watch?v=OVUmIIpG8kU)
