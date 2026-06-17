@@ -39,6 +39,8 @@ tags:
 	- Lateral and septal mitral annulae
 	- Apex
 	- Endocardial and epicardial borders
+- In this view the LV should take up 2/3 and the RV should take up 1/3
+
 ![[Pasted image 20260612213046.png]]
 
 - Use this view to assess longitudinal shortening with a ruler or M-mode vector line
@@ -95,6 +97,12 @@ tags:
 - Can also assess for right ventricular strain
 	- In RV strain will see: enlarged RV and septal bowing causing the LV to take the appearance of a ‘D’
 	- ![[Pasted image 20260617175246.png]]
+## Subxiphoid View
+- With patient’s knees bent place the probe in the subxiphoid region with the indicator to the left
+- Use an overhand grip on the probe to obtain a lower angle (probe is almost parallel to the skin)
+- Start on the patient’s right, identify the liver and sweep to the left using the liver as an acoustic window
+- ![[Pasted image 20260617181037.png]]
+- ![[Pasted image 20260617181136.png]]
 # Echocardiographic Measures of Left Ventricular Systolic Function
 - If all 4 measures (below) are normal, it is reasonable to grade the estimated left ventricular systolic function as normal (with LVEF > 55%)
 - If all 4 measures (below) are abnromal, it is reasonable to grade the estimated left ventricular systolic function as abnormal (with LVEF < 30%)
