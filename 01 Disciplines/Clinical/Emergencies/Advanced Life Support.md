@@ -7,7 +7,7 @@ Rotations:
 aliases:
   - ALS
   - Cardiac Arrest
-date: 2026-03-22
+date: 2026-06-17
 Down:
   - "[[Drugs in Cardiac Arrest]]"
   - "[[Acute Airway Failure]]"
@@ -270,6 +270,7 @@ tags:
 | Check back  | Recipient (Steve) | "You want me to draw up adrenaline 1mg in 10mL of sodium chloride" |
 | Closed loop | Team leader       | "Correct"                                                          |
 # Post Resuscitation Care
+- See [[Post-Cardiac Arrest]]
 - Continue respiratory support
 	- Give supplemental oxygen, even if the patient has rapidly returned to consciousness
 	- Monitor ABG and titrate inspired oxygen to achieve oxygen saturations of 94-98%; *hyperoxaemia after ROSC may be harmful*
