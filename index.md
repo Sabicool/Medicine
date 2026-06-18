@@ -3,6 +3,21 @@ title: Home
 description: Clinical notes maintained by a junior doctor in Australia, with a focus on acute and critical care medicine — emergency, intensive care and anaesthetics.
 date: 2026-06-18
 ---
+# Rotations and Disciplines
+<!-- QueryToSerialize: LIST FROM "02 Rotations" sort file.name asc -->
+<!-- SerializedQuery: LIST FROM "02 Rotations" sort file.name asc -->
+- [[Anaesthetics]]
+- [[Cardiology]]
+- [[Common Ward Calls]]
+- [[Emergency Medicine]]
+- [[Gastroenterology]]
+- [[Intensive Care Unit]]
+- [[Nephrology]]
+- [[Neurology]]
+- [[Paediatrics]]
+- [[Psychiatry]]
+- [[Respiratory]]
+<!-- SerializedQuery END -->
 # About these notes
 A working clinical reference maintained by a junior doctor in Australia, with a focus on **acute and critical care medicine** — emergency, intensive care and anaesthetics. The notes are written to be useful at the bedside: structured approaches to the unwell patient, the common after-hours calls, and the investigations and procedures that actually come up on the floor. They are formatted in markdown and kept as accurate and presentable as I can manage.
 
