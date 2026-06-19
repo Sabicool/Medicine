@@ -12,6 +12,14 @@ date: 2026-06-20
 - Relative:
 	- Bleeding disorders
 	- Coagulopathies
+# Complications
+- Bleeding
+- Organ perforation
+- Intercostal neuralgia
+- Tube blockage
+- Subcutaneous emphysema
+- Re-expansion pulmonary oedema
+- Local infection and empyema
 # Equipment
 - Sterilised chest-tube tray
 - Sterile gown, mask and gloves
@@ -49,6 +57,17 @@ date: 2026-06-20
 12. Stay on top of the rib to guide the blunt dissection
 	- ![[Pasted image 20260620004115.png]]
 13. Gently push the clamp into the parietal pleura or use your finger
-14. Ensure the lung is not adherent to the 
+14. Ensure the lung is not adherent to the pleura, some pleural fluid should trickle out
+15. Place the tube through (using the initially distal clamp) as a guide with your finger
+16. If meant to drain a pneumothorax, aim apically or if meant to drain fluid aim basally
+17. Make note of the depth of tube insertion based off the numerical markings on the side
+18. Suture the tube by wrapping the suture around the tube
+	- ![[Pasted image 20260620011630.png]]
+19. Apply a petroleum based gauze dressing around the tube
+20. Apply multiple sterile dressings
+21. Obtain a post-insertion chest X-ray
+22. Connect to the drainage system
+23. Unclamp the distal end of the drain; if pneumothorax air bubbles should appear in the pleural drain otherwise if pleural fluid is being drained, pleural fluid should appear int he drain
+24. Keep the pleural drainage system at least 100cm below the patient
 # Sources
 - Dev, S.P., Simone, C., 2007. Chest-Tube Insertion. n engl j med.
