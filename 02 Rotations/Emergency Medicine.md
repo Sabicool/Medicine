@@ -1,5 +1,5 @@
 ---
-date: 2026-04-28
+date: 2026-06-19
 ---
 Notes for the emergency department — the undifferentiated patient, time-critical presentations and the resuscitation of the acutely unwell. The lists below pull together the relevant conditions, emergencies and approaches from my discipline notes.
 # Common Conditions and Presentations
@@ -40,6 +40,7 @@ Notes for the emergency department — the undifferentiated patient, time-critic
     - [[Advanced Life Support]]
     - [[Anaphylaxis]]
     - [[Basic Life Support]]
+    - [[POCUS in Cardiac Arrest]]
     - [[Shock]]
     - [[Trauma]]
     - [[Unconsciousness]]

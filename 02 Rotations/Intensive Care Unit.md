@@ -30,6 +30,7 @@ Notes for the intensive care rotation, oriented around recognising and initiatin
     - [[Acute Airway Failure]]
     - [[Acute Respiratory Failure]]
     - [[Advanced Life Support]]
+    - [[POCUS in Cardiac Arrest]]
     - [[Shock]]
     - [[Unconsciousness]]
 

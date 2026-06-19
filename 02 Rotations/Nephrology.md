@@ -8,6 +8,7 @@ date: 2025-01-13
     - [[Acute Kidney Injury]]
     - [[Chronic Renal Failure]]
     - [[Kidney Stones]]
+    - [[Renal Tubular Acidosis]]
 
 - Presenting Complaints: 
     - [[Decreased Urine Output]]
