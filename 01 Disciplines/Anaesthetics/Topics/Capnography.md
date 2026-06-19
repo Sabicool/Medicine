@@ -5,6 +5,9 @@ Rotations:
 date: 2026-06-19
 ---
 ![[Pasted image 20260415225851.png]]
+# Sampling
+- Sampling of the exhaled gas can be doneby mainstram (in-line) detectors or side-stream detectors
+	- Side stream detectors may take a few seconds to change
 # Normal Capnometry Waveform
 ![[anatomy of the normal end tidal CO2 graph.jpg]]
 - Transitional part represents the rush of dead space gas from the airways where gas from the upper airways slowly gives way to mixed gas from the lower airways; its gradient is dependent on resistance to airflow in the airflows
