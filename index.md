@@ -11,6 +11,9 @@ Everything here is kept in markdown and edited to be as accurate and presentable
 > This information is for educational purposes only and should not be construed as medical advice. While I strive for accuracy, I make no guarantees regarding the completeness or reliability of the content. I do not claim copyright for any images included unless explicitly stated. To request a correction, removal or alteration of any content, please contact me or submit an issue via the associated [GitHub repository](https://github.com/Sabicool/Medicine).
 
 # Rotations and Disciplines
+
+<div class="two-col">
+
 <!-- QueryToSerialize: LIST FROM "02 Rotations" sort file.name asc -->
 <!-- SerializedQuery: LIST FROM "02 Rotations" sort file.name asc -->
 - [[Anaesthetics]]
@@ -25,6 +28,8 @@ Everything here is kept in markdown and edited to be as accurate and presentable
 - [[Psychiatry]]
 - [[Respiratory]]
 <!-- SerializedQuery END -->
+
+</div>
 
 - Otherwise have a look through the "01 Disciplines" folder on the left panel (on desktop).
 # Acute & Critical Care
