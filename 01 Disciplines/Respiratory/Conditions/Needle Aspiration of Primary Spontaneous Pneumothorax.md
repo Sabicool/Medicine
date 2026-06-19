@@ -18,6 +18,10 @@ date: 2026-06-19
 - Subcutaneous emphysema
 - Lung laceration
 - Air embolism
+- Infection
+- Bleeding
+- Technical failure
+- Persistent air leak
 # Equipment
 - A 16-gauge or 18-gauge iv cannula
 - Tubing with a three-way stopcock
@@ -47,6 +51,8 @@ date: 2026-06-19
 		- ![[Pasted image 20260619215847.png]]
 	- Locate the 2nd and 3rd rib; the 2nd rib is the first palpable rib under the clavicle
 	- Identify the middle of the clavicle
+	- Aim for insertion point just above the 3rd rib to prevent injury to the subcostal vessels and nerves
+		![[Pasted image 20260619222055.png]]
 	- Mark the site with a skin marker
 9. Gown up
 10. Use chlorhexidine to clean the area of aspiration
