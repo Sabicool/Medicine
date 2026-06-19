@@ -1,10 +1,11 @@
 ---
-title: Home
+title: Junior Doctor Notes
+eyebrow: "A working clinical reference · Acute & critical care"
+subtitle: "Structured approaches to the unwell patient, the common after-hours calls, and the investigations and procedures in between — maintained by a junior doctor in Australia, and written to be useful at the bedside."
 description: Clinical notes maintained by a junior doctor in Australia, with a focus on acute and critical care medicine — emergency, intensive care and anaesthetics.
 date: 2026-06-18
 ---
-# About these notes
-A working clinical reference maintained by a junior doctor in Australia, with a focus on **acute and critical care medicine** — emergency, intensive care and anaesthetics. The notes are written to be useful at the bedside: structured approaches to the unwell patient, the common after-hours calls, and other investigations and procedures. They are formatted in markdown and kept as accurate and presentable as I can manage.
+Everything here is kept in markdown and edited to be as accurate and presentable as I can manage, with a focus on **acute and critical care** — emergency, intensive care and anaesthetics.
 
 > [!note] Disclaimer
 > This information is for educational purposes only and should not be construed as medical advice. While I strive for accuracy, I make no guarantees regarding the completeness or reliability of the content. I do not claim copyright for any images included unless explicitly stated. To request a correction, removal or alteration of any content, please contact me or submit an issue via the associated [GitHub repository](https://github.com/Sabicool/Medicine).
