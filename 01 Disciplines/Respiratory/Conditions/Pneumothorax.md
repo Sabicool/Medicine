@@ -1,5 +1,5 @@
 ---
-date: 2026-06-19
+date: 2026-06-20
 tags:
   - cards
 ---
@@ -101,6 +101,7 @@ tags:
 ![[Pasted image 20241221183438.png]]
 
 - [[Needle Aspiration of Primary Spontaneous Pneumothorax]]
+- [[Chest Tube Insertion]]
 # Disposition and Follow Up
 - Patients should receive verbal and written advice to return immediately to ED if they develop further breathlessness
 - All patients should have follow up ideally by a respiratory physician to ensure resolution of pneumothorax and institute optimal care
