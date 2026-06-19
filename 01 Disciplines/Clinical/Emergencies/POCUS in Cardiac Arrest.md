@@ -1,5 +1,5 @@
 ---
-date: 2026-06-18
+date: 2026-06-19
 Rotations:
   - "[[Emergency Medicine]]"
   - "[[Intensive Care Unit]]"

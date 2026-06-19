@@ -2,7 +2,7 @@
 Rotations:
   - "[[Anaesthetics]]"
   - "[[Intensive Care Unit]]"
-date: 2026-04-15
+date: 2026-06-19
 ---
 ![[Pasted image 20260415225851.png]]
 # Normal Capnometry Waveform
@@ -62,3 +62,4 @@ date: 2026-04-15
 - [No trace, not always the wrong place - British Journal of Anaesthesia](https://www.bjanaesthesia.org/article/S0007-0912(24)00668-8/fulltext)
 - [Time to replace ‘No trace, wrong place’ with ‘Sustained exhaled carbon dioxide’. Comment on Br J Anaesth 2025; 134: 248–9 - British Journal of Anaesthesia](https://www.bjanaesthesia.org/article/S0007-0912(24)00782-7/fulltext)
 - [Capnography & ETCO2 — ICU One Pager](https://onepagericu.com/capnography)
+- Ortega, R., Connor, C., Kim, S., Djang, R., Patel, K., 2012. Monitoring Ventilation with Capnography. New England Journal of Medicine 367, e27. [https://doi.org/10.1056/NEJMvcm1105237](https://doi.org/10.1056/NEJMvcm1105237)

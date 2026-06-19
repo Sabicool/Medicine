@@ -1,5 +1,5 @@
 ---
-date: 2026-06-18
+date: 2026-06-19
 ---
 This is a non-exhaustive guide to studying in medical school. I do plan on making a more complete guide one day but until then here's some words of wisdom.
 
