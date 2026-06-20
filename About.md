@@ -1,7 +1,7 @@
 ---
-date: 2026-06-18
+date: 2026-06-20
 ---
-These notes are for the most part formatted in markdown and hopefully made to be quite presentable and accurate. The colour theme for this website is based off [catppuccin](https://github.com/catppuccin/catppuccin).
+These notes are for the most part formatted in markdown and hopefully made to be quite presentable and accurate.
 
 I use a mixture of Emacs and Obsidian to take these notes[^1][^3]. Emacs has been wonderful to use especially with [obsidian.el](https://github.com/licht1stein/obsidian.el). After a year of using Vanilla Emacs, I got tired of configuring everything myself and switched to [Doom Emacs](https://github.com/doomemacs/doomemacs) and have been quite happy with it.
 
