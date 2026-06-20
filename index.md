@@ -1,7 +1,7 @@
 ---
 title: Junior Doctor Notes
-eyebrow: A working clinical reference · Acute & critical care
-subtitle: Structured approaches to the unwell patient, the common after-hours calls, and the investigations and procedures in between — maintained by a junior doctor in Australia, and written to be useful at the bedside.
+eyebrow: Personal Clinical Notes · Acute & critical care
+subtitle: My notes on approaches to the unwell patient, the common after-hours calls, and the investigations and procedures in between — maintained by a junior doctor in Australia, and meant to be useful at the bedside.
 description: Clinical notes maintained by a junior doctor in Australia, with a focus on acute and critical care medicine — emergency, intensive care and anaesthetics.
 date: 2026-06-19
 ---
