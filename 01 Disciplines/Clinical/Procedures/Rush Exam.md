@@ -27,16 +27,25 @@ Rotations:
 - Begin in the parasternal long axis view (see [[Echocardiogram#Parasternal Long Axis|echo notes]]) and observe for:
 	- Pericardial effusion especially a circumfrential pericardial effusion
 	- Assessment of LV ejection fraction (can be just a visual qualitative assessment)
+		- Reduced LV function
+			- ![[image-asset.gif]]
+		- 
 - Move to the parasternal short axis view and assess for:
 	- Right ventricular dilation/strain
+		- RV strain with RV dilation on PSLA:
+			- ![[image-asset 1.gif]]
 - RV failure is suggested by:
 	- Abnormal RV size (RV normally 60% of the LV size in apical 4 chamber view)
 - McConnell’s sign (suggests pulmonary embolism)
+	- ![[image-asset-1.gif]]
 	- Decreased RV movement with apical sparing (apex moves normally)
+- Tamponade
 # IVC view
 - Review the IVC in the subcostal view with the probe marker pointing towards the patient’s head
 - Qualtiative assessment of IVC:
 	- A flat IVC suggests distributive or hypovolaemic shock
+	- Plethoric IVC (>2 cm in maximal diameter with minimal respiratory variation) suggests right or left ventricular failure or an obstructive process or volume overload
+		- ![[cardiogenic+shock+plethoric+ivc+jaclyn+walker.gif]]
 # Morrison’s Pouch
 - Right upper quadrant view is most sensitive so often start at this
 - Left upper qudrant view

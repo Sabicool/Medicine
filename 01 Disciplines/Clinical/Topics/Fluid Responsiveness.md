@@ -1,5 +1,5 @@
 ---
-date: 2026-06-13
+date: 2026-06-20
 Rotations:
   - "[[Emergency Medicine]]"
   - "[[Intensive Care Unit]]"
@@ -84,6 +84,10 @@ $$
 ![[Pasted image 20260612223237.png]]
 ## Sub-Aortic Peak Velocity
 - Obtain a apical 5 chamber view (4-chamber view tilted anteriorly to see the LVOT)
+
+![[apical+5+normal.gif]]
+
+
 - Requirements
 	- Sinus rhythm
 	- Normal abdominal pressure

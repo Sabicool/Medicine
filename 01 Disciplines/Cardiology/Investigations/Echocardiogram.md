@@ -56,6 +56,8 @@ tags:
 ![[Pasted image 20260612205240.png]]
 ![[Pasted image 20260617172950.png]]
 
+![[parasternal+long+axis+normal.gif]]
+
 - Identify the areas of interest including:
 	- Anterior mitral-valve leaflet
 	- Endocardial and epicardial borders
