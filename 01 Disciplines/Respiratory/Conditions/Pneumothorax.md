@@ -7,7 +7,7 @@ tags:
 > [!NOTE] Indications for Chest Drain
 > - Primary spontaneous pneumothorax that was initially treated with catheter aspiration but did not respond
 > - Secondary spontaneous pneumothorax, unless the pneumothorax is small and the patient is clinically stable
-> - Traumatic pneumothorax, unless the atient is small and the patient is stable
+> - Traumatic pneumothorax, unless the patient is small and the patient is stable
 > - Decompensated (tension) pneumothorax, following urgent needle decompression
 
 # Definitions
