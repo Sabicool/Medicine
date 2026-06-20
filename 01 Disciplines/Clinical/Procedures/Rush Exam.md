@@ -1,5 +1,5 @@
 ---
-date: 2026-06-17
+date: 2026-06-20
 Rotations:
   - "[[Intensive Care Unit]]"
   - "[[Emergency Medicine]]"
@@ -29,12 +29,18 @@ Rotations:
 	- Assessment of LV ejection fraction (can be just a visual qualitative assessment)
 - Move to the parasternal short axis view and assess for:
 	- Right ventricular dilation/strain
+- RV failure is suggested by:
+	- Abnormal RV size (RV normally 60% of the LV size in apical 4 chamber view)
+- McConnell’s sign (suggests pulmonary embolism)
+	- Decreased RV movement with apical sparing (apex moves normally)
 # IVC view
 - Review the IVC in the subcostal view with the probe marker pointing towards the patient’s head
 - Qualtiative assessment of IVC:
 	- A flat IVC suggests distributive or hypovolaemic shock
 # Morrison’s Pouch
 - Right upper quadrant view is most sensitive so often start at this
+- Left upper qudrant view
+- Supra-pubic view
 # Aorta
 - Look in the 3cm just above the umbilicus
 - If the infra-renal abdominal aorta is >3cm and the patient is hypotensive, assume it is ruptured as POCUS is not sensitive enough for retroperitoneal bleed
@@ -56,7 +62,8 @@ Rotations:
 - Once the aetiology of shock is found, to determine whether the patient’s hypotension would respond with fluids or pressors assess their [[Fluid Responsiveness]] with the LVOT VTI
 # Source
 - [RUSH: Undifferentiated Hypotension — TPA](https://www.thepocusatlas.com/shock)
-- Youtube video
+- Youtube videos
 	- [How to use the RUSH exam for shock - YouTube](https://www.youtube.com/watch?v=7EQ6RVD9n-k)
 	- [RUSH Exam Rapid Review - YouTube](https://www.youtube.com/watch?v=kVS-AJ6TgcM)
 	- [An Introduction to the Rapid Ultrasound for Shock and Hypotension RUSH Protocol - YouTube](https://www.youtube.com/watch?v=OVUmIIpG8kU)
+	- [Rapid Ultrasound in Shock and Hypotension - YouTube](https://www.youtube.com/watch?v=7eXDScf9St8)
