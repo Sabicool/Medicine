@@ -1,5 +1,5 @@
 ---
-date: 2026-06-20
+date: 2026-06-21
 Rotations:
   - "[[Intensive Care Unit]]"
   - "[[Emergency Medicine]]"
@@ -24,22 +24,22 @@ Rotations:
 
 ![[Pasted image 20260617195836.png]]
 # Heart
-- Begin in the parasternal long axis view (see [[Echocardiogram#Parasternal Long Axis|echo notes]]) and observe for:
-	- Pericardial effusion especially a circumfrential pericardial effusion
-	- Assessment of LV ejection fraction (can be just a visual qualitative assessment)
-		- Reduced LV function
+- Four standard views (PLAX, PSSA, A4C and subxiphoid)
+- Assess:
+	- LV contractility (can be just a visual qualitative assessment)
+		- Example of reduced LV function
 			- ![[image-asset.gif]]
-		- 
-- Move to the parasternal short axis view and assess for:
-	- Right ventricular dilation/strain
-		- RV strain with RV dilation on PSLA:
+	- RV strain and dysfunction
+		- Example of RV strain with RV dilation on PLAX:
 			- ![[image-asset 1.gif]]
-- RV failure is suggested by:
-	- Abnormal RV size (RV normally 60% of the LV size in apical 4 chamber view)
-- McConnell’s sign (suggests pulmonary embolism)
-	- ![[image-asset-1.gif]]
-	- Decreased RV movement with apical sparing (apex moves normally)
-- Tamponade
+		- McConnell’s sign (suggests pulmonary embolism)
+			- Decreased RV movement with apical sparing (apex moves normally)
+			- ![[image-asset-1.gif]]
+	- Pericardial tamponade
+		- Look for a circumferential anechoic fluid collection
+		- _Diagnostic Confirmation:_ Look for **right ventricular end-diastolic collapse** (highest specificity) or **right atrial systolic collapse** (highest sensitivity), paired with a plethoric IVC
+		- _Crucial Exception:_ A collapsed IVC in the presence of a pericardial effusion makes tamponade highly unlikely _unless_ severe concurrent volume depletion is present
+
 # IVC view
 - Review the IVC in the subcostal view with the probe marker pointing towards the patient’s head
 - Qualtiative assessment of IVC:
