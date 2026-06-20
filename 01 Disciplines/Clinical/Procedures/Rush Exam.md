@@ -67,3 +67,5 @@ Rotations:
 	- [RUSH Exam Rapid Review - YouTube](https://www.youtube.com/watch?v=kVS-AJ6TgcM)
 	- [An Introduction to the Rapid Ultrasound for Shock and Hypotension RUSH Protocol - YouTube](https://www.youtube.com/watch?v=OVUmIIpG8kU)
 	- [Rapid Ultrasound in Shock and Hypotension - YouTube](https://www.youtube.com/watch?v=7eXDScf9St8)
+- USS images from the pocus atlas (CC BY-NC 4.0) [The Pocus Atlas](https://www.thepocusatlas.com/)
+	- [RUSH: Undifferentiated Hypotension — TPA](https://www.thepocusatlas.com/shock)

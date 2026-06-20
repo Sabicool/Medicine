@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
   - "[[Emergency Medicine]]"
   - "[[Intensive Care Unit]]"
-date: 2026-06-17
+date: 2026-06-20
 tags:
   - notes
 ---
@@ -46,6 +46,8 @@ tags:
 - Use this view to assess longitudinal shortening with a ruler or M-mode vector line
 - Then assess thickening of wall segments
 - Then assess change in left ventricular cavity area
+
+![[apical+4+normal.gif]]
 ## Parasternal Long Axis
 - Set the field depth to 12-20 cm
 - Place the probe at the the left third or fourth intercostal space
