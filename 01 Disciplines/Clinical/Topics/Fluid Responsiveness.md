@@ -1,5 +1,5 @@
 ---
-date: 2026-06-20
+date: 2026-06-21
 Rotations:
   - "[[Emergency Medicine]]"
   - "[[Intensive Care Unit]]"
@@ -57,6 +57,7 @@ Rotations:
 	- Vavlulopathy
 ## IVC Size & Distensibility Index
 - Positive intrathoracic pressure during inhalation (mechanical ventilation) causes IVC to become larger and on releasing, IVC returns to normal size
+- [LITFL](https://litfl.com/the-dark-art-of-ivc-ultrasound/) seems to suggest that this is not a great measure despite how commonly it may be used
 - Requirements
 	- Sinus rhythm
 	- Normal abdominal pressure
