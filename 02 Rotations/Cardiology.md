@@ -23,6 +23,7 @@ date: 2025-12-25
     - [[Infective Endocarditis]]
     - [[Metabolic Syndrome]]
     - [[Obesity]]
+    - [[Pericardial Effusion]]
     - [[Pericarditis]]
     - [[Pulmonary Hypertension]]
     - [[Secondary Hypertension]]
@@ -51,6 +52,7 @@ date: 2025-12-25
 
 - Procedures: 
     - [[Angiography]]
+    - [[Emergency Pericardiocentesis]]
     - [[Lung POCUS]]
     - [[Transcutaneous Pacing]]
 

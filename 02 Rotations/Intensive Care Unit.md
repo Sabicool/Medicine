@@ -46,6 +46,7 @@ Notes for the intensive care rotation, oriented around recognising and initiatin
 
 - Procedures: 
     - [[Arterial Line]]
+    - [[Emergency Pericardiocentesis]]
     - [[Extubation]]
     - [[General Anaesthesia]]
     - [[Intubation]]

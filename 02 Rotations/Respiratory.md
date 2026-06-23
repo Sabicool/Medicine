@@ -10,6 +10,7 @@ date: 2025-01-13
     - [[Asthma Exacerbation]]
     - [[COPD]]
     - [[COPD Exacerbation]]
+    - [[Needle Aspiration of Primary Spontaneous Pneumothorax]]
     - [[Pneumonia]]
     - [[Pneumothorax]]
     - [[Pulmonary Embolism]]
@@ -28,6 +29,7 @@ date: 2025-01-13
     - [[Shortness of Breath, Cough and Haemopytsis]]
 
 - Procedures: 
+    - [[Chest Tube Insertion]]
     - [[Lung POCUS]]
 
 - Topics: 

@@ -26,6 +26,7 @@ Notes for the emergency department — the undifferentiated patient, time-critic
     - [[Hypotension]]
     - [[Kidney Stones]]
     - [[Necrotising Skin Infections]]
+    - [[Needle Aspiration of Primary Spontaneous Pneumothorax]]
     - [[Otitis Media]]
     - [[Pancreatitis]]
     - [[Post-Cardiac Arrest]]
@@ -64,6 +65,7 @@ Notes for the emergency department — the undifferentiated patient, time-critic
 
 - Procedures: 
     - [[Arterial Line]]
+    - [[Emergency Pericardiocentesis]]
     - [[General Anaesthesia]]
     - [[Intubation]]
     - [[Laryngeal Mask Airway Insertion]]
