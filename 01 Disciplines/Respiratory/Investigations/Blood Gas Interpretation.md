@@ -415,8 +415,12 @@ $$
 P_\text{a}\ce{CO2} &\approx P_\text{V}\ce{CO2}-4
 \end{align*}
 $$
-- While VBGs are not useful for oxygenation status, they can probably substitute for ABGs in most analyses of acid base
+- While VBGs are not useful for oxygenation status, they may substitute for ABGs in most analyses of acid base in well patients
 	- Treger, R., Pirouz, S., Kamangar, N., Corry, D., 2010. Agreement between Central Venous and Arterial Blood Gas Measurements in the Intensive Care Unit. Clin J Am Soc Nephrol 5, 390–394. [https://doi.org/10.2215/CJN.00330109](https://doi.org/10.2215/CJN.00330109)
+- In patients who are critically unwell, VBG does not appear to reliably predict arterial lactate, pH or $P_\text{a}\ce{CO2}$
+
+![[Pasted image 20260709144521.png]]
+![[Pasted image 20260709144752.png]]
 ## Effect of Temperature on ABG
 - Higher temperature → more gas dissolved in blood
 ## 12345 Rule
