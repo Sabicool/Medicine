@@ -16,6 +16,8 @@ tags:
 - With metabolic problems, $p\ce{CO2}$ and pH change in the same direction
 # Approach[^3]
 ![[Pasted image 20260316142617.png]]
+![[Pasted image 20260709150515.png]]
+
 1. Determine the adequacy of oxygenation 
 	- Refer to the $S_\text{p}\ce{O2}$ from the sats probe or $S_\text{a}\ce{O2}$ as calculated from the ABG or measured from co-oximetry to observe for hypoxaemia
 	- Calculate the A-a gradient
