@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
   - "[[Intensive Care Unit]]"
   - "[[Emergency Medicine]]"
-date: 2026-06-20
+date: 2026-07-10
 ---
 # Indications
 - Symptoms of cardiac tamponade such as Beck’s triad[^1]:
@@ -81,4 +81,6 @@ date: 2026-06-20
 - Ongoing monitoring
 # Sources
 - Fitch, M.T., McGinnis, H.D., 2012. Emergency Pericardiocentesis. n engl j med.
+- [Pericardiocentesis in cardiac tamponade: indications and practical aspects](https://www.escardio.org/communities/councils/cardiology-practice/scientific-documents-and-publications/ejournal/volume-15/Pericardiocentesis-in-cardiac-tamponade-indications-and-practical-aspects)
+
 [^1]: Note that all signs rarely appear together and when they do indicate a patient is peri-arrest
