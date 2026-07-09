@@ -102,7 +102,7 @@ tags:
 		- Low anion gap can be due to hypoalbuminaemia, ↑ $\ce{K+}$, ↑ $\ce{Ca^{2+}}$, ↑ $\ce{Mg^{2+}}$, Severe lithium toxicity, bromide ingestion (some machines mistake bromine for chlorine; [[Myaesthenia gravis]] medications can contain bromine)
 	- Adjust anion gap for hypoalbuminaemia[^4]:
 		$$
-		\text{AG}_\text{adjusted}=\text{AG}_\text{measured}+0.25\times(40-[\text{Alb}])
+		\text{AG}_\text{adjusted}=0.25\times(40-[\text{Alb}])+\text{AG}_\text{measured}
 		$$
 6. Delta ratio which should be calculated whenever the anion gap is elevated
 	- During a HAGMA there should be a 1:1 gap between the ↑ anion gap and ↓ $\ce{HCO3}$
@@ -220,6 +220,11 @@ $$
 	- Elevated anion gap in the presence of normal lactate, ketones and renal function
 	- Unexmplained altered mental status (particularly in an alcoholic or child)
 	- Periodic monitoring for patients on high doses of IV lorazepam
+
+![[Pasted image 20260709153014.png]]
+
+![[Pasted image 20260709153041.png]]
+
 ### Normal Anion Gap Metabolic Acidosis
 
 | Primary Issue                                     | GI Problem                                                                                             | Renal Problem                                       |
