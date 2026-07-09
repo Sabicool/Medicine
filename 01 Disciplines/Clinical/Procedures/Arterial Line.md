@@ -3,9 +3,15 @@ Rotations:
   - "[[Intensive Care Unit]]"
   - "[[Emergency Medicine]]"
   - "[[Anaesthetics]]"
-date: 2026-06-09
+date: 2026-07-09
 ---
-# Techniques
+# Contraindications
+- Coagulopathy
+- Advanced Atherosclerosis
+- Rynaud’s Phenomenon
+- Thromboangiitis obliterans
+# Method
+1. Assess collateral circulation with ultrasound and/or allen’s test
 ## Ultrasound Guidance
 ### Equipment
 
@@ -51,5 +57,5 @@ date: 2026-06-09
 ## Over the Wire
 ## Under the Wire
 # Sources
-- [New England Journal of Medicine - CIAP link](https://www.nejm.org.acs.hcn.com.au/doi/full/10.1056/NEJMvcm044149)
+- Tegtmeyer, K., Brady, G., Lai, S., Hodo, R., Braner, D., 2006. Placement of an Arterial Line. New England Journal of Medicine 354, e13. [https://doi.org/10.1056/NEJMvcm044149](https://doi.org/10.1056/NEJMvcm044149)
 - [New England Journal of Medicine - CIAP link](https://www.nejm.org.acs.hcn.com.au/doi/full/10.1056/NEJMvcm1213181)
