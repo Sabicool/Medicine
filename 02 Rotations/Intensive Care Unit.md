@@ -1,5 +1,5 @@
 ---
-date: 2026-05-25
+date: 2026-07-10
 aliases:
   - ICU
 ---
@@ -242,9 +242,9 @@ Notes for the intensive care rotation, oriented around recognising and initiatin
 	- Most critically ill patients will have elevated troponin levels. Checking troponin on every patient will generate false-positive results and lead to iatrogenic harm
 - Sedation
 	- Propofol
-		- Easily & rapidly titrated.
-		- May cause hypotension, but this can be counteracted with an infusion of low-dose norepinephrine (e.g. ~0-8 mcg/min).
-		- Use of high propofol doses for prolonged periods of time may cause hypertriglyceridemia and a risk of propofol infusion syndrome. Over extended periods of time, it's ideal to wean the dose down to <50 mcg/kg/min.
+		- Easily & rapidly titrated
+		- May cause hypotension, but this can be counteracted with an infusion of low-dose norepinephrine (e.g. ~0-8 mcg/min)
+		- Use of high propofol doses for prolonged periods of time may cause hypertriglyceridemia and a risk of propofol infusion syndrome. Over extended periods of time, it's ideal to wean the dose down to <50 mcg/kg/min
 	- Dexmedetomidine
 		 - The major advantage of dexmedetomidine is that it doesn't suppress respiration, making it safe to use in a non-intubated patient
 			 - Therefore, dexmedetomidine may be continued _throughout_ the weaning process (unlike propofol, which must be shut off prior to extubation)
