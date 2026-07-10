@@ -13,10 +13,38 @@ date: 2026-07-10
 - Fracture of the clavicle or proximal ribs
 - Coagulopathy - applying direct pressure at the subclavian artery or vein is difficult
 ## Method
+![[Pasted image 20260710214834.png]]
+
 1. Place the patient in a 10-15 trendelenburg position
 2. Turn the head so the chin points away from the vein and place a small role under the scapula to make the calvicle more prominent
 3. Identify the posterior deviation (middle third) of the clavicle
 4. Clean and drape the site
-5. 
+5. Flush the lines of the central line with heparin or saline
+6. Ensure the guidewire threads easily through the needle
+7. Remove the port through which the guidewire will be threaded (commonly the longer lumen)
+8. Use local anaesthetic to anaesthetise the area
+9. Approach the site at a 30 degree angle to the skin with the long axis of the needle aimed towards the sternal notch
+10. Track the needle just below the clavicle
+11. Feed the wire through the needle
+12. Have an assistant watch the monitor watching for signs of arrhythmia; if they occur, withdraw the needle until the cease
+13. Withdraw the needle leaving the guidewire in place
+14. Make a small superficial incision at the insertion site to facilitate entry of the dilator
+15. Place the dilator over the wire ensuring to have control over the wire at all times
+16. Advance the dilator 1-2cm with a rotating motion, being careful not to cause a bend or kink in the wire 
+17. Remove the guidewire and maintain a grip on the wire
+18. Feed the catheter over the guidewire making sure the end of the guidewire can be seen outside the catheter hub
+19. Grasp the external end of the guidewire, advance the catheter over the guidewire using a rotating motion
+20. If the catheter does not advance smoothly, the track may not have been adequately dilated; remove the catheter and insert the dilator
+21. If it is suspected that the catheter might be in the artery check by connecting to a pressure transducing system
+22. Remove the guidewire and check for blood return in all ports
+23. Flush all ports, place caps on the hub and secure the port before removing the drape
+24. Obtain a chest X-ray to assess for proper placement and ensure no haemothorax nor pneumothorax
+
+![[Pasted image 20260710213119.png]]
+# Aftercare
+- Minimise the number of times the lines is accessed
+- Access the line under sterile or clean conditions
+- Prepare access site with alcohol based solution
+- Reassess need for central line daily
 # Sources
 - Braner, D.A.V., Lai, S., Eman, S., Tegtmeyer, K., 2007. Central Venous Catheterization — Subclavian Vein. New England Journal of Medicine 357, e26. [https://doi.org/10.1056/NEJMvcm074357](https://doi.org/10.1056/NEJMvcm074357)
