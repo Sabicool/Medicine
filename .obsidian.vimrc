@@ -22,47 +22,47 @@ nmap <A-d> <C-d> " move 1/2 page down
 nmap <A-u> <C-u> " move 1/2 page up
 
 " Quickly remove search highlights
-nmap <F9> :nohl
+nmap <F9> :nohl<CR>
 
 " Yank to system clipboard
 set clipboard=unnamed
 
 " Maps pasteinto to Alt-p
-map <A-p> :pasteinto
+map <A-p> :pasteinto<CR>
 
 unmap <Space>
 exmap findfile obcommand switcher:open
 exmap omnisearchvault obcommand omnisearch:show-modal
 exmap omnisearchfile obcommand omnisearch:show-modal-infile
 exmap savefile obcommand editor:save-file
-map <Space>fF :findfile
-map <Space>fv :omnisearchvault
-map <Space>ff :omnisearchfile
-map <Space>fs :savefile
+map <Space>fF :findfile<CR>
+map <Space>fv :omnisearchvault<CR>
+map <Space>ff :omnisearchfile<CR>
+map <Space>fs :savefile<CR>
 
 exmap commandpalatte obcommand command-palette:open
-map <A-x> :commandpalatte
+map <A-x> :commandpalatte<CR>
 
 exmap focusRight obcommand editor:focus-right
-nmap <Space>wl :focusRight
+nmap <Space>wl :focusRight<CR>
 
 exmap focusLeft obcommand editor:focus-left
-nmap <Space>wh :focusLeft
+nmap <Space>wh :focusLeft<CR>
 
 exmap focusTop obcommand editor:focus-top
-nmap <Space>wk :focusTop
+nmap <Space>wk :focusTop<CR>
 
 exmap focusBottom obcommand editor:focus-bottom
-nmap <Space>wj :focusBottom
+nmap <Space>wj :focusBottom<CR>
 
 exmap splitVertical obcommand workspace:split-vertical
-nmap <Space>wv :splitVertical
+nmap <Space>wv :splitVertical<CR>
 
 exmap splitHorizontal obcommand workspace:split-horizontal
-nmap <Space>ws :splitHorizontal
+nmap <Space>ws :splitHorizontal<CR>
 
 exmap closewindow obcommand workspace:close-tab-group
-nmap <Space>wc :closewindow
+nmap <Space>wc :closewindow<CR>
 
 " undo/redo consistently on one key
 nnoremap U <C-r>
@@ -77,7 +77,7 @@ nnoremap U <C-r>
 " nmap o &b&i
 
 exmap toggleList obcommand editor:toggle-bullet-list
-nnoremap <Space>- :toggleList
+nnoremap <Space>- :toggleList<CR>
 
 " so repeated "V" selects more lines
 vnoremap V gj
