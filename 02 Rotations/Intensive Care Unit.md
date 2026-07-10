@@ -262,25 +262,25 @@ Notes for the intensive care rotation, oriented around recognising and initiatin
 	- Titrating NIV settings
 		- **Cardiogenic pulmonary edema**
 			- Key here is the _expiratory pressure_ (this increases the mean airway pressure and thereby decreases preload & afterload).
-			- Ramp up expiratory pressure until the patient improves (e.g. 10/5 ==> 15/10 ==> 18/15), It’s also fine to simply use continuous positive airway pressure (CPAP). In that case, escalate CPAP pressure from 5 ==> 10 ==> 15 cm.
+			- Ramp up expiratory pressure until the patient improves (e.g. 10/5 ==> 15/10 ==> 18/15), It’s also fine to simply use continuous positive airway pressure (CPAP). In that case, escalate CPAP pressure from 5 ==> 10 ==> 15 cm
 		- **Hypercapnia (e.g., COPD or obesity hypoventilation syndrome)**
-			- The key here is _driving pressure_ (inspiratory pressure _minus_ expiratory pressure), which supports the work of breathing.
+			- The key here is _driving pressure_ (inspiratory pressure _minus_ expiratory pressure), which supports the work of breathing
 			- Ramp up the driving pressure until the patient improves (e.g. 10/5 ==> 15/5 ==> 18/5)
 - Fevers
 	- Causes
 		- Infection: (~50% of cases)
-		    - Pneumonia.
-		    - C. difficile, Acalculous cholecystitis.
-		    - Line infection.
-		    - Surgical site infection.
+		    - Pneumonia
+		    - C. difficile, Acalculous cholecystitis
+		    - Line infection
+		    - Surgical site infection
 		- Non-infectious: (~50% of cases)
-		    - Procedure-related (hemodialysis, bronchoscopy, 1-3 days post-surgery).
-		    - Drug fever.
-		    - Febrile transfusion reaction.
-		    - Sterile inflammation (pancreatitis, aspiration pneumonitis, ARDS).
-		    - Pulmonary embolism.
-		    - Alcohol withdrawal.
-		    - Central fever (intracranial hemorrhage).
+		    - Procedure-related (hemodialysis, bronchoscopy, 1-3 days post-surgery)
+		    - Drug fever
+		    - Febrile transfusion reaction
+		    - Sterile inflammation (pancreatitis, aspiration pneumonitis, ARDS)
+		    - Pulmonary embolism
+		    - Alcohol withdrawal
+		    - Central fever (intracranial hemorrhage)
 	- Workup
 		- Physical examination, focusing on:
 		    - Sites of any intravascular catheter or surgical incision.
