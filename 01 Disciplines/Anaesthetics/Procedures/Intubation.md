@@ -3,7 +3,7 @@ Rotations:
   - "[[Intensive Care Unit]]"
   - "[[Anaesthetics]]"
   - "[[Emergency Medicine]]"
-date: 2026-06-19
+date: 2026-07-25
 ---
 # Indications
 - A – protection and patency (e.g. against aspiration or relief of upper airway obstruction as in anaphylaxis or head and neck trauma)
@@ -26,3 +26,4 @@ date: 2026-06-19
 # Sources
 - [Intubation and Mechanical Ventilation • LITFL • CCC Ventilation](https://litfl.com/intubation-and-mechanical-ventilation/)
 - [Above the Ears • LITFL • Emergency Procedures](https://litfl.com/above-the-ears/)
+- [Adult Intubation Checklist • LITFL • Resuscitation](https://litfl.com/adult-intubation-checklist/)
