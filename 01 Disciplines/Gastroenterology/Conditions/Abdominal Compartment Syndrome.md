@@ -92,6 +92,7 @@ $$
 - Prevention
 	- Controlled fluid resuscitation
 	- Consider leaving the abdomen open, for staged closure
+- Monitor intra-abdominal pressure when a patient has ≥2 risk factors or in the presence of new or progressive organ failure
 - Management
 	- Re-open the abdomen
 	- Decompress the ascites
