@@ -17,6 +17,14 @@ $$
 - Abdominal pressures > 35 mmHg result in compromised capillary perfusion of the intestine and bacterial translocation
 - A target abdominal perfusion pressure ≥60 mmHg has been demonstrated to improve survival
 # Measuring Intra-Abdominal Pressure
+- The intra-abdominal pressure equals the bladder pressure when the following criteria are fulfilled:
+	- End of expiration
+	- Supine
+	- Zeroed at the iliac crest in the mid-axillary line
+	- Instilation of 25 mL of saline into the bladder (1 mL/kg for children up to 25 kg, minimum of 3 mL)
+	- Measured 60 seconds after instillation to allow detrusor muscle relaxation
+	- In absence of active abdominal muscle contraction
+- Usually measured every 4 hours
 
 ![[intra-abdominal pressure measurement.jpg]]
 - A transducer set is attached to a side-port of the IDC
@@ -89,16 +97,33 @@ $$
 - Ileus
 - Lower limb venous thrombosis
 # Management
+ - Monitor intra-abdominal pressure when a patient has ≥2 risk factors or in the presence of new or progressive organ failure
 - Prevention
 	- Controlled fluid resuscitation
 	- Consider leaving the abdomen open, for staged closure
-- Monitor intra-abdominal pressure when a patient has ≥2 risk factors or in the presence of new or progressive organ failure
-- Management
-	- Re-open the abdomen
-	- Decompress the ascites
-	- Maintain an abdominal perfusion pressure of around 60mmHg
+- Improve abdominal wall compliance
+	- Sedation & analgesia
+	- Avoid head elevation > 30 degrees
+	- Remove constrictive dressing
+	- Eschars
+	- Neuromuscular blockade
+- Evacuate Intra-Luminal Contents
+	- Nasogastric decompression
+	- Rectal decompression
+	- Prokinetics
+	- Minimise enteral nutrition
+	- Enemas
+- Evacuate Abdominal Fluid Collections (e.g. paracentesis, percutaneous drainage, surgical evaluation)
+- Correct Positive Fluid Balance
+	- Avoid excessive fluid; aim for zero to negative fluid balance
+	- Colloids/hypertonic fluids
+- Organ support
+	- Maintain a abdominal perfusion pressure > 60 mmHg with vasopressors
+	- Optimise ventilation: use transmural airway pressure: $P_{\text{transmural}}=P_{\text{plateau}}-P_{\text{Intra-Abdominal}}$
 	- Titrate PEEP to maintain recruitment
-	- Use neuromuscular blockade to remove the abdominal muscles from the equation
+- Surgical Management
+	- If intra-abdominal pressure 25-35 mmHg and not responding to medical treatment → decompression with delayed closure
+		- On release be aware of hypotension (PEA arrest from reperfusion and a sudden decrease in systemic vascular resistance)
 # Sources
 - [Abdominal Compartment Syndrome • LITFL • CCC](https://litfl.com/abdominal-compartment-syndrome-and-intra-abdominal-hypertension/)
 - [Intra-Abdominal Pressure Monitor • LITFL • CCC Equipment](https://litfl.com/intra-abdominal-pressure-monitor/)
