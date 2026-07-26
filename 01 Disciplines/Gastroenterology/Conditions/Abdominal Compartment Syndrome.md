@@ -18,6 +18,9 @@ $$
 # Measuring Intra-Abdominal Pressure
 
 ![[intra-abdominal pressure measurement.jpg]]
+- A transducer set is attached to a side-port of the IDC
+- The bladder is emptied completely then clamped
+- 20 mL of saline is introduced into the bladder and after giving the detrusor 60 seconds to relax, the reading in the transducer is the intra-abdominal pressure
 # Sources
 - [Abdominal Compartment Syndrome • LITFL • CCC](https://litfl.com/abdominal-compartment-syndrome-and-intra-abdominal-hypertension/)
 - [Intra-Abdominal Pressure Monitor • LITFL • CCC Equipment](https://litfl.com/intra-abdominal-pressure-monitor/)
