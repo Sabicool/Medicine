@@ -15,7 +15,7 @@ $$
 \text{Abdominal Perfusion Pressure}=\text{MAP}-\text{Intra-Abdominal Pressure}
 $$
 - Abdominal pressures > 35 mmHg result in compromised capillary perfusion of the intestine and bacterial translocation
-- A target abdominal perfusion pressure ≥60 mmHg has been demonstrated to improve survival
+- A target abdominal perfusion pressure ≥ 60 mmHg has been demonstrated to improve survival
 # Measuring Intra-Abdominal Pressure
 - The intra-abdominal pressure equals the bladder pressure when the following criteria are fulfilled:
 	- End of expiration
@@ -30,6 +30,13 @@ $$
 - A transducer set is attached to a side-port of the IDC
 - The bladder is emptied completely then clamped
 - 20 mL of saline is introduced into the bladder and after giving the detrusor 60 seconds to relax, the reading in the transducer is the intra-abdominal pressure
+- Caveats
+	- Pressures may vary across individuals (with obese patients having higher baseline pressure values)
+	- As with all physiological phenomena, pressure _gradients_ are more important than _absolute_ pressure values
+		- Consequently, the intra-abdominal pressure value _in isolation_ is inadequate to define abdominal compartment syndrome
+	- Pressure measurements may be inaccurate in the context of pelvic pathology (e.g., hematoma directly compressing the bladder)
+	- Interpretation among patients who are not intubated and breathing passively on mechanical ventilation is challenging
+		- If analgesia/sedation causes normalization of the intra-abdominal pressure, this makes abdominal compartment syndrome less likely
 # Definitions
 - Raised intra-abdominal pressure (intra-abdominal hypertension) is defined by a sustained or repeated pathological elevation in intra-abdominal pressure ≥ 12 mmHg
 	- Normal = IAP 5-7 mmHg
@@ -37,7 +44,8 @@ $$
 	- Grade II = IAP 16–20 mmHg
 	- Grade III = IAP 21–25 mmHg
 	- Grade IV = IAP >25 mmHg
-- Abdominal compartment syndrome is defined as a sustained intra-abdominal pressure > 20 mmHg that is associated with new organ dysfunction
+- Abdominal compartment syndrome is defined as a sustained intra-abdominal pressure > 20 mmHg and new organ dysfunction that is attributable to elevated intra-abdominal pressure
+	- However, figuring out if organ failure is caused by abdominal compartment syndrome as opposed to other causes is subjective; the kidneys are quite sensitive to increased abdominal pressure (i.e. if urine output is adequate it’s unlikely the patient has abdominal compartment syndrome)
 - Polycompartment syndrome is a condition where two or more anatomical compartments have elevated compartmental pressures
 # Risk Factors
 - Decreased abdominal wall compliance
@@ -101,17 +109,27 @@ $$
 	- A patient with tenuous renal function could manifest with renal failure
 	- A patient with severe, chronic COPD might present with respiratory distress
 - Palpation is only ~50% sensitive for abdominal compartment syndrome (i.e. abdomen can still be soft)
+	- However a tense abdomen is ~80% specific for abdominal compartment syndrome
+- Abdominal pain and/or bloating are the commonly reported symptoms
+- Other symptoms/signs are often a result of complications
+	- Oliguric acute renal failure is generally one of the earliest manifestations of abdominal compartment syndrome
+	- Increased work of breathing or increased airway pressures on the ventilator
+	- Raised ICP can also cause delirium or coma (occurs due to elevations of central venous pressure)
 # Management
  - Monitor intra-abdominal pressure when a patient has ≥2 risk factors or in the presence of new or progressive organ failure
 - Prevention
 	- Controlled fluid resuscitation
 	- Consider leaving the abdomen open, for staged closure
-- Improve abdominal wall compliance
-	- Sedation & analgesia
-	- Avoid head elevation > 30 degrees
-	- Remove constrictive dressing
-	- Eschars
-	- Neuromuscular blockade
+## Haemodynamics
+- Maintain a abdominal perfusion pressure > 60 mmHg with vasopressors (as additional crystalloids may merely aggravate abdominal tissue oedema)
+	- Use a $\text{Target MAP} > 60\; \text{mmHg}+P_{\text{intra-abdominal}}$ to achieve this
+- In established abdominal compartment syndrome, the patient is often intravascularly volume-depleted (despite tissue oedema), making it difficult to remove fluids without worsening haemodynamics
+	- Abdominal compartment syndrome may compress the inferior vena cava making it look empty
+	- Avoid fluid administration as while this may help temporarily, fluid rapidly transudates into the tissues which worsens swelling and increases intra-abdominal pressure
+
+![[Pasted image 20260726213800.png]]
+
+## Decompress the Abdomen
 - Evacuate Intra-Luminal Contents
 	- Nasogastric decompression
 	- Rectal decompression
@@ -119,16 +137,21 @@ $$
 	- Minimise enteral nutrition
 	- Enemas
 - Evacuate Abdominal Fluid Collections (e.g. paracentesis, percutaneous drainage, surgical evaluation)
-- Correct Positive Fluid Balance
-	- Avoid excessive fluid; aim for zero to negative fluid balance
-	- Colloids/hypertonic fluids
-- Organ support
-	- Maintain a abdominal perfusion pressure > 60 mmHg with vasopressors
-	- Optimise ventilation: use transmural airway pressure: $P_{\text{transmural}}=P_{\text{plateau}}-P_{\text{Intra-Abdominal}}$
-	- Titrate PEEP to maintain recruitment
-- Surgical Management
-	- If intra-abdominal pressure 25-35 mmHg and not responding to medical treatment → decompression with delayed closure
-		- On release be aware of hypotension (PEA arrest from reperfusion and a sudden decrease in systemic vascular resistance)
+- Surgical decompression with delayed closure
+	- On release be aware of hypotension (PEA arrest from reperfusion and a sudden decrease in systemic vascular resistance)
+	- Following fascial release, patients may experience severe ischaemia-reperfusion event, requiring haemodynamic support
+	- Post-operatively, patients will be left with an open abdomen which may be closed after 1-2 weeks following the resolution of the primary process
+## Decompress the Thorax
+- Reduction of PEEP and plateau pressure on the ventilator may decrease intra-abdominal pressure
+- Drainage of a large pleural effusion if present
+- Intubation converts the thorax from a negative pressure system to a positive pressure system which may increase abdominal pressures, precipitating multi-organ failure with haemodynamic collapse
+## Sedation and Paralysis
+- Sedation and paralysis may relax the muscles of the abdominal wall and improve abdominal compliance thereby reducing abdominal pressure
+	- However, in patients who are spontaneously breathing, their work of breathing decreases the intrathoracic pressures; eliminating this will transition to purely, positive pressure ventilation increasing their intrathoracic pressure and increase the intra-abdominal pressure
+## Other Measures
+- Avoid head elevation > 30 degrees
+- Remove constrictive dressing
+- Eschars
 # Sources
 - [Abdominal Compartment Syndrome • LITFL • CCC](https://litfl.com/abdominal-compartment-syndrome-and-intra-abdominal-hypertension/)
 - [Intra-Abdominal Pressure Monitor • LITFL • CCC Equipment](https://litfl.com/intra-abdominal-pressure-monitor/)
