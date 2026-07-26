@@ -24,6 +24,11 @@ $$
 - 20 mL of saline is introduced into the bladder and after giving the detrusor 60 seconds to relax, the reading in the transducer is the intra-abdominal pressure
 # Definitions
 - Raised intra-abdominal pressure (intra-abdominal hypertension) is defined by a sustained or repeated pathological elevation in intra-abdominal pressure ≥ 12 mmHg
+	- Normal = IAP 5-7 mmHg
+	- Grade I = IAP 12–15 mmHg
+	- Grade II = IAP 16–20 mmHg
+	- Grade III = IAP 21–25 mmHg
+	- Grade IV = IAP >25 mmHg
 - Abdominal compartment syndrome is defined as a sustained intra-abdominal pressure > 20 mmHg that is associated with new organ dysfunction
 - Polycompartment syndrome is a condition where two or more anatomical compartments have elevated compartmental pressures
 # Aetiologies
