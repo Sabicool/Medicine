@@ -14,6 +14,7 @@ date: 2026-07-26
 $$
 \text{Abdominal Perfusion Pressure}=\text{MAP}-\text{Intra-Abdominal Pressure}
 $$
+- Abdominal pressures > 35 mmHg result in compromised capillary perfusion of the intestine and bacterial translocation
 - A target abdominal perfusion pressure ≥60 mmHg has been demonstrated to improve survival
 # Measuring Intra-Abdominal Pressure
 
@@ -21,6 +22,42 @@ $$
 - A transducer set is attached to a side-port of the IDC
 - The bladder is emptied completely then clamped
 - 20 mL of saline is introduced into the bladder and after giving the detrusor 60 seconds to relax, the reading in the transducer is the intra-abdominal pressure
+# Definitions
+- Raised intra-abdominal pressure (intra-abdominal hypertension) is defined by a sustained or repeated pathological elevation in intra-abdominal pressure ≥ 12 mmHg
+- Abdominal compartment syndrome is defined as a sustained intra-abdominal pressure > 20 mmHg that is associated with new organ dysfunction
+- Polycompartment syndrome is a condition where two or more anatomical compartments have elevated compartmental pressures
+# Aetiologies
+
+| Primary                                        | Secondary                   |
+| ---------------------------------------------- | --------------------------- |
+| Intra-abdominal infection                      | Massive transfusion         |
+| Abdominal trauma                               | Massive fluid resuscitation |
+| Ascites                                        | Sepsis                      |
+| Ileus                                          | Mechanical ventilation      |
+| Intra-abdominal haematoma                      | Abdominal wall burns        |
+| Laparoscopy with excessive inflation pressures | High body mass index        |
+| Acute [[Pancreatitis]]                         | Prone positioning           |
+| Peritoneal dialysis                            |                             |
+# Complications
+- Decreased respiratory compliance ⇒ ↑ peak airway pressures → ↑ risk of atelactasis and pneumonia
+- Decreased preload → hypotension
+- Increased intracranial pressure
+- Renal failure
+- Mesenteric ischaemia
+- Portal vein thrombosis
+- Ileus
+- Decreased gastric emptying
+- Lower limb venous thrombosis
+# Management
+- Prevention
+	- Control yourself when it comes to fluid resuscitation
+	- Consider leaving the abdomen open, for staged closure
+- Management
+	- Re-open the abdomen
+	- Decompress the ascites
+	- Maintain an abdominal perfusion pressure of around 60mmHg
+	- Titrate PEEP to maintain recruitment
+	- Use neuromuscular blockade to remove the abdominal muscles from the equation
 # Sources
 - [Abdominal Compartment Syndrome • LITFL • CCC](https://litfl.com/abdominal-compartment-syndrome-and-intra-abdominal-hypertension/)
 - [Intra-Abdominal Pressure Monitor • LITFL • CCC Equipment](https://litfl.com/intra-abdominal-pressure-monitor/)
