@@ -31,6 +31,33 @@ $$
 	- Grade IV = IAP >25 mmHg
 - Abdominal compartment syndrome is defined as a sustained intra-abdominal pressure > 20 mmHg that is associated with new organ dysfunction
 - Polycompartment syndrome is a condition where two or more anatomical compartments have elevated compartmental pressures
+# Risk Factors
+- Decreased abdominal wall compliance
+	- Acute respiratory failure with elevated intrathoracic pressure
+	- Abdominal surgery with fascial closure
+	- Major trauma/burns
+	- Prone positioning
+	- Head > 30°
+	- High BMI/central obesity
+- Increased intra-luminal contents
+	- Gastroparesis
+	- Ileus
+	- Colonic pseudo-obstruction
+- Increased abdominal contents
+	- Haemo/pneumoperitoneum
+	- Ascites
+	- Liver dysfunction
+- Capillary leak or fluid resuscitation
+	- Acidosis (pH < 7.2)
+	- Hypotension
+	- Hypothermia (T < 33°C)
+	- Massive transfusion (> 10 U in 24 hrs)
+	- Coagulopathy
+	- Massive fluid resuscitation
+	- Pancreatitis
+	- Sepsis
+	- Oliguria
+	- Damage control laparotomy
 # Aetiologies
 
 | Primary                                        | Secondary                   |
@@ -43,19 +70,27 @@ $$
 | Laparoscopy with excessive inflation pressures | High body mass index        |
 | Acute [[Pancreatitis]]                         | Prone positioning           |
 | Peritoneal dialysis                            |                             |
+
 # Complications
-- Decreased respiratory compliance ⇒ ↑ peak airway pressures → ↑ risk of atelactasis and pneumonia
-- Decreased preload → hypotension
+- Respiratory
+	- Decreased respiratory compliance ⇒ ↑ peak airway pressures → ↑ risk of atelactasis and pneumonia
+	- Decreased respiratory compliance ⇒ ↓ tidal volume
+- Cardiovascular
+	- Decreased preload → hypotension
+- Gastrointestinal
+	- Direct compression
+	- Thrombosis
+		- Bowel wall ischaemia and oedema
+		- Translocation of bacterial products
+		- Portal vein thrombosis
+	- Decreased gastric emptying
 - Increased intracranial pressure
 - Renal failure
-- Mesenteric ischaemia
-- Portal vein thrombosis
 - Ileus
-- Decreased gastric emptying
 - Lower limb venous thrombosis
 # Management
 - Prevention
-	- Control yourself when it comes to fluid resuscitation
+	- Controlled fluid resuscitation
 	- Consider leaving the abdomen open, for staged closure
 - Management
 	- Re-open the abdomen
