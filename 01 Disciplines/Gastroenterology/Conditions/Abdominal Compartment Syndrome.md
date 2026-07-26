@@ -68,17 +68,17 @@ $$
 	- Damage control laparotomy
 # Aetiologies
 
-| Primary                                        | Secondary                   |
-| ---------------------------------------------- | --------------------------- |
-| Intra-abdominal infection                      | Massive transfusion         |
-| Abdominal trauma                               | Massive fluid resuscitation |
-| Ascites                                        | Sepsis                      |
-| Ileus                                          | Mechanical ventilation      |
-| Intra-abdominal haematoma                      | Abdominal wall burns        |
-| Laparoscopy with excessive inflation pressures | High body mass index        |
-| Acute [[Pancreatitis]]                         | Prone positioning           |
-| Peritoneal dialysis                            |                             |
-
+| Primary                                                   | Secondary                   |
+| --------------------------------------------------------- | --------------------------- |
+| Intra-abdominal infection                                 | Massive transfusion         |
+| Abdominal trauma                                          | Massive fluid resuscitation |
+| Ascites                                                   | Sepsis                      |
+| Ileus                                                     | Mechanical ventilation      |
+| Intra-abdominal haematoma                                 | Abdominal wall burns        |
+| Laparoscopy with excessive inflation pressures            | High body mass index        |
+| Acute [[Pancreatitis]]                                    | Prone positioning           |
+| Peritoneal dialysis                                       |                             |
+| Dilated viscera (e.g. severe ileus, SBO, toxic megacolon) |                             |
 # Complications
 - Respiratory
 	- Decreased respiratory compliance ⇒ ↑ peak airway pressures → ↑ risk of atelactasis and pneumonia
@@ -96,6 +96,11 @@ $$
 - Renal failure
 - Ileus
 - Lower limb venous thrombosis
+# Clinical Features
+- Initial manifestations vary depending on patient’s underlying physiology, for example:
+	- A patient with tenuous renal function could manifest with renal failure
+	- A patient with severe, chronic COPD might present with respiratory distress
+- Palpation is only ~50% sensitive for abdominal compartment syndrome (i.e. abdomen can still be soft)
 # Management
  - Monitor intra-abdominal pressure when a patient has ≥2 risk factors or in the presence of new or progressive organ failure
 - Prevention
