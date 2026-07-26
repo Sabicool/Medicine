@@ -15,6 +15,9 @@ $$
 \text{Abdominal Perfusion Pressure}=\text{MAP}-\text{Intra-Abdominal Pressure}
 $$
 - A target abdominal perfusion pressure ≥60 mmHg has been demonstrated to improve survival
+# Measuring Intra-Abdominal Pressure
+
+![[intra-abdominal pressure measurement.jpg]]
 # Sources
 - [Abdominal Compartment Syndrome • LITFL • CCC](https://litfl.com/abdominal-compartment-syndrome-and-intra-abdominal-hypertension/)
 - [Intra-Abdominal Pressure Monitor • LITFL • CCC Equipment](https://litfl.com/intra-abdominal-pressure-monitor/)
