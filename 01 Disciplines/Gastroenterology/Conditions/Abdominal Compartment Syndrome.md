@@ -92,18 +92,19 @@ $$
 	- Decreased respiratory compliance ⇒ ↑ peak airway pressures → ↑ risk of atelactasis and pneumonia
 	- Decreased respiratory compliance ⇒ ↓ tidal volume
 - Cardiovascular
-	- Decreased preload → hypotension
+	- Decreased preload → decreased cardiac output
+		- Peripheral vascular resistance is elevated due to renal compression resultining in maintained systolic blood pressure
 - Gastrointestinal
 	- Direct compression
-	- Thrombosis
-		- Bowel wall ischaemia and oedema
-		- Translocation of bacterial products
-		- Portal vein thrombosis
+	- Portal vein thrombosis
 	- Decreased gastric emptying
+	- Bowel wall ischaemia and oedema
+		- Translocation of bacterial products
 - Increased intracranial pressure
 - Renal failure
 - Ileus
 - Lower limb venous thrombosis
+![[Pasted image 20260726224451.png]]
 # Clinical Features
 - Initial manifestations vary depending on patient’s underlying physiology, for example:
 	- A patient with tenuous renal function could manifest with renal failure
