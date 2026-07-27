@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1060 545" width="1060" height="545" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <rect width="1060" height="545" fill="#ffffff"/>
+  <defs>
+    <marker id="at" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M 0 1 L 9 5 L 0 9 z" fill="#c14a3f"/></marker>
+  </defs>
+
+  <text x="30" y="34" font-size="21" font-weight="700" fill="#14202b">Reading the monitor through a raised abdomen</text>
+  <text x="30" y="56" font-size="13" fill="#5c6a78">Worked example: measured IAP 24 mmHg. Roughly half of that is transmitted across the diaphragm.</text>
+
+  <!-- Card 1 -->
+  <rect x="30" y="76" width="1000" height="92" rx="8" fill="#ffffff" stroke="#ccd5dd" stroke-width="1.6"/>
+  <text x="50" y="110" font-size="13.5" font-weight="700" fill="#14202b">Central venous pressure</text>
+  <text x="50" y="134" font-size="11.5" fill="#5c6a78">CVP − IAP/2</text>
+  <rect x="280" y="96" width="150" height="52" rx="6" fill="#f0f3f6" stroke="#ccd5dd" stroke-width="1.4"/>
+  <text x="355" y="122" font-size="17" font-weight="700" fill="#5c6a78" text-anchor="middle">18 mmHg</text>
+  <text x="355" y="139" font-size="10" fill="#8b97a3" text-anchor="middle">monitor reads</text>
+  <path d="M 442 122 L 486 122" stroke="#c14a3f" stroke-width="2" fill="none" marker-end="url(#at)"/>
+  <rect x="496" y="96" width="165" height="52" rx="6" fill="#fdf0ee" stroke="#c14a3f" stroke-width="1.6"/>
+  <text x="578" y="122" font-size="17" font-weight="700" fill="#a81f18" text-anchor="middle">≈ 6 mmHg</text>
+  <text x="578" y="139" font-size="10" fill="#a81f18" text-anchor="middle">transmural</text>
+  <text x="690" y="116" font-size="11.5" fill="#14202b">Looks well filled. Is actually volume-depleted — and this</text>
+  <text x="690" y="136" font-size="11.5" fill="#14202b">is precisely the number that tempts you to give more fluid.</text>
+
+  <!-- Card 2 -->
+  <rect x="30" y="180" width="1000" height="92" rx="8" fill="#ffffff" stroke="#ccd5dd" stroke-width="1.6"/>
+  <text x="50" y="214" font-size="13.5" font-weight="700" fill="#14202b">Plateau pressure</text>
+  <text x="50" y="238" font-size="11.5" fill="#5c6a78">Pplat − IAP/2</text>
+  <rect x="280" y="200" width="150" height="52" rx="6" fill="#f0f3f6" stroke="#ccd5dd" stroke-width="1.4"/>
+  <text x="355" y="226" font-size="17" font-weight="700" fill="#5c6a78" text-anchor="middle">34 cmH₂O</text>
+  <text x="355" y="243" font-size="10" fill="#8b97a3" text-anchor="middle">monitor reads</text>
+  <path d="M 442 226 L 486 226" stroke="#c14a3f" stroke-width="2" fill="none" marker-end="url(#at)"/>
+  <rect x="496" y="200" width="165" height="52" rx="6" fill="#fdf0ee" stroke="#c14a3f" stroke-width="1.6"/>
+  <text x="578" y="226" font-size="17" font-weight="700" fill="#a81f18" text-anchor="middle">≈ 18 cmH₂O</text>
+  <text x="578" y="243" font-size="10" fill="#a81f18" text-anchor="middle">transmural</text>
+  <text x="690" y="220" font-size="11.5" fill="#14202b">Much of that is chest wall, not lung. Convert the units first:</text>
+  <text x="690" y="240" font-size="11.5" fill="#14202b">IAP 24 mmHg ≈ 33 cmH₂O, so subtract about 16 cmH₂O.</text>
+
+  <!-- Card 3 -->
+  <rect x="30" y="284" width="1000" height="92" rx="8" fill="#ffffff" stroke="#ccd5dd" stroke-width="1.6"/>
+  <text x="50" y="318" font-size="13.5" font-weight="700" fill="#14202b">Mean arterial pressure</text>
+  <text x="50" y="342" font-size="11.5" fill="#5c6a78">MAP − IAP = APP</text>
+  <rect x="280" y="304" width="150" height="52" rx="6" fill="#f0f3f6" stroke="#ccd5dd" stroke-width="1.4"/>
+  <text x="355" y="330" font-size="17" font-weight="700" fill="#5c6a78" text-anchor="middle">68 mmHg</text>
+  <text x="355" y="347" font-size="10" fill="#8b97a3" text-anchor="middle">monitor reads</text>
+  <path d="M 442 330 L 486 330" stroke="#c14a3f" stroke-width="2" fill="none" marker-end="url(#at)"/>
+  <rect x="496" y="304" width="165" height="52" rx="6" fill="#fdf0ee" stroke="#c14a3f" stroke-width="1.6"/>
+  <text x="578" y="330" font-size="17" font-weight="700" fill="#a81f18" text-anchor="middle">APP 44 mmHg</text>
+  <text x="578" y="347" font-size="10" fill="#a81f18" text-anchor="middle">perfusion pressure</text>
+  <text x="690" y="324" font-size="11.5" fill="#14202b">A &#8220;normal&#8221; MAP sitting over a poorly perfused abdomen.</text>
+  <text x="690" y="344" font-size="11.5" fill="#14202b">Use APP to think with — WSACS 2013 sets no target to titrate to.</text>
+
+  <!-- Rules -->
+  <rect x="30" y="396" width="1000" height="58" rx="8" fill="#eef4f9" stroke="#2b6ca3" stroke-width="1.6"/>
+  <text x="50" y="420" font-size="12" fill="#14202b"><tspan font-weight="700" fill="#2b6ca3">Rule of thumb: </tspan>about 50% of the IAP is transmitted across the diaphragm — an approximation, not a measured constant.</text>
+  <text x="50" y="442" font-size="12" fill="#14202b"><tspan font-weight="700" fill="#a81f18">Unit trap: </tspan>1 mmHg = 1.36 cmH₂O. IAP is measured in mmHg; plateau pressure in cmH₂O. Convert before you subtract.</text>
+
+  <text x="30" y="486" font-size="12" font-weight="700" fill="#14202b">The point is not to titrate to a corrected number — it is to stop trusting the raw one.</text>
+  <text x="30" y="508" font-size="11.5" fill="#5c6a78">A high CVP and a high plateau pressure in a swollen abdomen mean something different from the same numbers in a normal one.</text>
+  <text x="30" y="528" font-size="11.5" fill="#5c6a78">Follow the trend, and let decompression — not fluid — be what brings the numbers down.</text>
+</svg>

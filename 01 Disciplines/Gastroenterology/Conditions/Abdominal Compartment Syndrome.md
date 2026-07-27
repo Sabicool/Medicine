@@ -129,6 +129,13 @@ $$
 - Prevention
 	- Controlled fluid resuscitation
 	- Consider leaving the abdomen open, for staged closure
+
+![[ACS - five medical measures.svg]]
+![[ACS - management algorithm.svg]]
+![[ACS - decompression reperfusion.svg]]
+![[ACS - transmural pressures.svg]]
+![[ACS - open abdomen.svg]]
+
 ## Haemodynamics
 - Maintain a abdominal perfusion pressure > 60 mmHg with vasopressors (as additional crystalloids may merely aggravate abdominal tissue oedema)
 	- Use a $\text{Target MAP} > 60\; \text{mmHg}+P_{\text{intra-abdominal}}$ to achieve this

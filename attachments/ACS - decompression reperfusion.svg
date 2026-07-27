@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1110 500" width="1110" height="500" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <rect width="1110" height="500" fill="#ffffff"/>
+  <defs>
+    <marker id="ad" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M 0 1 L 9 5 L 0 9 z" fill="#5c6a78"/></marker>
+  </defs>
+
+  <text x="20" y="36" font-size="21" font-weight="700" fill="#14202b">The moment of decompression</text>
+  <text x="20" y="58" font-size="13" fill="#5c6a78">Releasing the fascia is the most dangerous minute of the operation — and it is entirely predictable, so prepare for it.</text>
+
+  <!-- Panel 1 -->
+  <rect x="20" y="108" width="320" height="300" rx="8" fill="#ffffff" stroke="#2b6ca3" stroke-width="1.6"/>
+  <path d="M 20 116 a 8 8 0 0 1 8 -8 h 304 a 8 8 0 0 1 8 8 v 36 h -320 z" fill="#2b6ca3"/>
+  <text x="180" y="133" font-size="13.5" font-weight="700" fill="#ffffff" text-anchor="middle">BEFORE — prepare</text>
+  <g font-size="12" fill="#14202b">
+    <text x="36" y="188">• They are intravascularly depleted:</text>
+    <text x="46" y="208">volume load before release</text>
+    <text x="36" y="238">• Vasopressors drawn up and running</text>
+    <text x="36" y="268">• Correct K⁺ and acidosis</text>
+    <text x="36" y="298">• Blood available, large-bore access</text>
+    <text x="36" y="328">• Brief the team out loud: expect</text>
+    <text x="46" y="348">sudden hypotension on release</text>
+  </g>
+  <path d="M 348 258 L 386 258" stroke="#5c6a78" stroke-width="2" fill="none" marker-end="url(#ad)"/>
+
+  <!-- Panel 2 -->
+  <rect x="395" y="108" width="320" height="300" rx="8" fill="#ffffff" stroke="#c14a3f" stroke-width="1.6"/>
+  <path d="M 395 116 a 8 8 0 0 1 8 -8 h 304 a 8 8 0 0 1 8 8 v 36 h -320 z" fill="#c14a3f"/>
+  <text x="555" y="133" font-size="13.5" font-weight="700" fill="#ffffff" text-anchor="middle">ON RELEASE — what happens</text>
+  <g font-size="12" fill="#14202b">
+    <text x="411" y="188">• Systemic vascular resistance falls</text>
+    <text x="421" y="208">abruptly → hypotension</text>
+    <text x="411" y="238">• Venous capacitance opens → preload</text>
+    <text x="421" y="258">drops further</text>
+    <text x="411" y="288">• Washout of K⁺, H⁺ and lactate from</text>
+    <text x="421" y="308">the ischaemic gut</text>
+    <text x="411" y="338">• Risk of PEA arrest at the moment</text>
+    <text x="421" y="358">the fascia is divided</text>
+  </g>
+  <path d="M 723 258 L 761 258" stroke="#5c6a78" stroke-width="2" fill="none" marker-end="url(#ad)"/>
+
+  <!-- Panel 3 -->
+  <rect x="770" y="108" width="320" height="300" rx="8" fill="#ffffff" stroke="#3f8f6f" stroke-width="1.6"/>
+  <path d="M 770 116 a 8 8 0 0 1 8 -8 h 304 a 8 8 0 0 1 8 8 v 36 h -320 z" fill="#3f8f6f"/>
+  <text x="930" y="133" font-size="13.5" font-weight="700" fill="#ffffff" text-anchor="middle">AFTER — consolidate</text>
+  <g font-size="12" fill="#14202b">
+    <text x="786" y="188">• Recheck the IAP — it should fall</text>
+    <text x="796" y="208">substantially; if not, think again</text>
+    <text x="786" y="238">• Temporary closure with negative</text>
+    <text x="796" y="258">pressure wound therapy (1C)</text>
+    <text x="786" y="288">• Expect large ongoing fluid and</text>
+    <text x="796" y="308">protein losses</text>
+    <text x="786" y="338">• Plan early or same-admission</text>
+    <text x="796" y="358">fascial closure (1D)</text>
+  </g>
+
+  <rect x="20" y="428" width="1070" height="52" rx="8" fill="#f5f2e8" stroke="#b58b2a" stroke-width="1.6"/>
+  <text x="40" y="450" font-size="12" fill="#14202b"><tspan font-weight="700" fill="#8a6817">Worth saying out loud: </tspan>the historical &#8220;reperfusion cocktail&#8221; (mannitol and bicarbonate before release) rests on weak evidence.</text>
+  <text x="40" y="470" font-size="12" fill="#14202b">Prepare the haemodynamics and the electrolytes instead — that is what actually changes the next five minutes.</text>
+</svg>

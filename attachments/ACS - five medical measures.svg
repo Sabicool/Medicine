@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 590" width="1240" height="590" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <rect width="1240" height="590" fill="#ffffff"/>
+  <defs>
+    <marker id="a5" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto"><path d="M 0 0.5 L 8 4.5 L 0 8.5 z" fill="#5c6a78"/></marker>
+  </defs>
+
+  <text x="20" y="36" font-size="21" font-weight="700" fill="#14202b">The five medical measures — try all of them before the knife</text>
+  <text x="20" y="58" font-size="13" fill="#5c6a78">WSACS 2013 non-operative management. GRADE strength shown in brackets; most of this evidence is weak, which is itself the point.</text>
+
+  <!-- 1 -->
+  <rect x="20" y="84" width="224" height="320" rx="8" fill="#ffffff" stroke="#2f8f8a" stroke-width="1.6"/>
+  <path d="M 20 92 a 8 8 0 0 1 8 -8 h 208 a 8 8 0 0 1 8 8 v 44 h -224 z" fill="#2f8f8a"/>
+  <circle cx="46" cy="110" r="14" fill="#ffffff"/>
+  <text x="46" y="115" font-size="14" font-weight="700" fill="#2f8f8a" text-anchor="middle">1</text>
+  <text x="155" y="105" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="middle">Evacuate intraluminal</text>
+  <text x="155" y="122" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="middle">contents</text>
+  <g font-size="11.5" fill="#14202b">
+    <text x="36" y="172">• Nasogastric decompression</text>
+    <text x="36" y="200">• Rectal / flatus tube</text>
+    <text x="36" y="228">• Stop or reduce enteral feed</text>
+    <text x="36" y="256">• Prokinetics and enemas</text>
+    <text x="36" y="284">• Neostigmine for colonic ileus</text>
+  </g>
+  <text x="36" y="360" font-size="10.5" fill="#2f8f8a" font-style="italic">Liberal enteral decompression</text>
+  <text x="36" y="376" font-size="10.5" fill="#2f8f8a" font-style="italic">is suggested; neostigmine 2D</text>
+
+  <!-- 2 -->
+  <rect x="264" y="84" width="224" height="320" rx="8" fill="#ffffff" stroke="#2b6ca3" stroke-width="1.6"/>
+  <path d="M 264 92 a 8 8 0 0 1 8 -8 h 208 a 8 8 0 0 1 8 8 v 44 h -224 z" fill="#2b6ca3"/>
+  <circle cx="290" cy="110" r="14" fill="#ffffff"/>
+  <text x="290" y="115" font-size="14" font-weight="700" fill="#2b6ca3" text-anchor="middle">2</text>
+  <text x="399" y="105" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="middle">Evacuate space-</text>
+  <text x="399" y="122" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="middle">occupying lesions</text>
+  <g font-size="11.5" fill="#14202b">
+    <text x="280" y="172">• Paracentesis for ascites</text>
+    <text x="280" y="200">• Percutaneous drainage (PCD)</text>
+    <text x="280" y="228">• Drain abscess or haematoma</text>
+    <text x="280" y="256">• Image-guided where possible</text>
+    <text x="280" y="284">• Remove surgical packs</text>
+  </g>
+  <text x="280" y="360" font-size="10.5" fill="#2b6ca3" font-style="italic">PCD suggested (2C) and may</text>
+  <text x="280" y="376" font-size="10.5" fill="#2b6ca3" font-style="italic">avert laparotomy entirely (2D)</text>
+
+  <!-- 3 -->
+  <rect x="508" y="84" width="224" height="320" rx="8" fill="#ffffff" stroke="#97527e" stroke-width="1.6"/>
+  <path d="M 508 92 a 8 8 0 0 1 8 -8 h 208 a 8 8 0 0 1 8 8 v 44 h -224 z" fill="#97527e"/>
+  <circle cx="534" cy="110" r="14" fill="#ffffff"/>
+  <text x="534" y="115" font-size="14" font-weight="700" fill="#97527e" text-anchor="middle">3</text>
+  <text x="643" y="105" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="middle">Improve abdominal</text>
+  <text x="643" y="122" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="middle">wall compliance</text>
+  <g font-size="11.5" fill="#14202b">
+    <text x="524" y="172">• Optimal analgesia, sedation</text>
+    <text x="524" y="200">• Brief trial of NM blockade</text>
+    <text x="524" y="228">• Reverse prone; head-up ≤ 30°</text>
+    <text x="524" y="256">• Remove tight dressings</text>
+    <text x="524" y="284">• Escharotomy for burn eschar</text>
+  </g>
+  <text x="524" y="360" font-size="10.5" fill="#97527e" font-style="italic">All GRADE 2D — trial it, then</text>
+  <text x="524" y="376" font-size="10.5" fill="#97527e" font-style="italic">re-measure before committing</text>
+
+  <!-- 4 -->
+  <rect x="752" y="84" width="224" height="320" rx="8" fill="#ffffff" stroke="#b58b2a" stroke-width="1.6"/>
+  <path d="M 752 92 a 8 8 0 0 1 8 -8 h 208 a 8 8 0 0 1 8 8 v 44 h -224 z" fill="#b58b2a"/>
+  <circle cx="778" cy="110" r="14" fill="#ffffff"/>
+  <text x="778" y="115" font-size="14" font-weight="700" fill="#b58b2a" text-anchor="middle">4</text>
+  <text x="887" y="105" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="middle">Optimise fluid</text>
+  <text x="887" y="122" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="middle">balance</text>
+  <g font-size="11.5" fill="#14202b">
+    <text x="768" y="172">• Avoid positive fluid balance</text>
+    <text x="768" y="200">• Damage-control resuscitation</text>
+    <text x="768" y="228">• De-resuscitate once shock ends</text>
+    <text x="768" y="256">• Consider hypertonic saline</text>
+    <text x="768" y="284">• More fluid makes it worse</text>
+  </g>
+  <text x="768" y="360" font-size="10.5" fill="#b58b2a" font-style="italic">Avoid positive balance (2C).</text>
+  <text x="768" y="376" font-size="10.5" fill="#b58b2a" font-style="italic">Diuretics, RRT, albumin: no rec.</text>
+
+  <!-- 5 -->
+  <rect x="996" y="84" width="224" height="320" rx="8" fill="#ffffff" stroke="#3f8f6f" stroke-width="1.6"/>
+  <path d="M 996 92 a 8 8 0 0 1 8 -8 h 208 a 8 8 0 0 1 8 8 v 44 h -224 z" fill="#3f8f6f"/>
+  <circle cx="1022" cy="110" r="14" fill="#ffffff"/>
+  <text x="1022" y="115" font-size="14" font-weight="700" fill="#3f8f6f" text-anchor="middle">5</text>
+  <text x="1131" y="105" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="middle">Optimise systemic</text>
+  <text x="1131" y="122" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="middle">perfusion</text>
+  <g font-size="11.5" fill="#14202b">
+    <text x="1012" y="172">• Goal-directed resuscitation</text>
+    <text x="1012" y="200">• Vasopressors, not crystalloid</text>
+    <text x="1012" y="228">• Use transmural pressures</text>
+    <text x="1012" y="256">• Recheck IAP after changes</text>
+    <text x="1012" y="284">• Treat the underlying cause</text>
+  </g>
+  <text x="1012" y="360" font-size="10.5" fill="#3f8f6f" font-style="italic">APP as a resuscitation target:</text>
+  <text x="1012" y="376" font-size="10.5" fill="#3f8f6f" font-style="italic">no recommendation (WSACS 2013)</text>
+
+  <!-- Rail -->
+  <g stroke="#5c6a78" stroke-width="1.8" fill="none">
+    <path d="M 132 404 L 132 428"/>
+    <path d="M 376 404 L 376 428"/>
+    <path d="M 620 404 L 620 428"/>
+    <path d="M 864 404 L 864 428"/>
+    <path d="M 1108 404 L 1108 428"/>
+    <path d="M 132 428 L 1108 428"/>
+    <path d="M 620 428 L 620 452" marker-end="url(#a5)"/>
+  </g>
+
+  <rect x="220" y="458" width="800" height="58" rx="29" fill="#c14a3f"/>
+  <text x="620" y="482" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Re-measure the IAP after every intervention</text>
+  <text x="620" y="502" font-size="13" fill="#f7dedb" text-anchor="middle">ACS refractory to all of the above → decompressive laparotomy (GRADE 1D)</text>
+
+  <text x="20" y="546" font-size="11.5" fill="#5c6a78">Note the grades: the strongest statement in the whole guideline — decompress overt ACS — rests on the weakest evidence (1D). No RCT exists, and none is coming.</text>
+  <text x="20" y="566" font-size="11.5" fill="#5c6a78">Targets of IAP &lt; 15 and APP &gt; 60 mmHg are pragmatic bedside conventions, not WSACS-specified thresholds.</text>
+</svg>

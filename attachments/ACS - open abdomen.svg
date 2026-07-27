@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1060 580" width="1060" height="580" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <rect width="1060" height="580" fill="#ffffff"/>
+
+  <text x="30" y="34" font-size="21" font-weight="700" fill="#14202b">After decompression: the open abdomen</text>
+  <text x="30" y="56" font-size="13" fill="#5c6a78">Decompressing solves the emergency and creates a new problem. Closure is a plan from day one, not an afterthought.</text>
+
+  <!-- Left: closure pathway -->
+  <rect x="30" y="80" width="500" height="404" rx="8" fill="#ffffff" stroke="#3f8f6f" stroke-width="1.6"/>
+  <path d="M 30 88 a 8 8 0 0 1 8 -8 h 484 a 8 8 0 0 1 8 8 v 38 h -500 z" fill="#3f8f6f"/>
+  <text x="280" y="107" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">Getting it closed</text>
+
+  <line x1="72" y1="164" x2="72" y2="446" stroke="#cfe0d8" stroke-width="2.5"/>
+
+  <circle cx="72" cy="164" r="13" fill="#3f8f6f"/>
+  <text x="72" y="169" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+  <text x="102" y="162" font-size="12.5" font-weight="700" fill="#14202b">Temporary abdominal closure</text>
+  <text x="102" y="180" font-size="11.5" fill="#5c6a78">Negative pressure wound therapy (1C)</text>
+
+  <circle cx="72" cy="220" r="13" fill="#3f8f6f"/>
+  <text x="72" y="225" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+  <text x="102" y="218" font-size="12.5" font-weight="700" fill="#14202b">Serial re-look and washout</text>
+  <text x="102" y="236" font-size="11.5" fill="#5c6a78">Reassess the source; the primary problem drives everything</text>
+
+  <circle cx="72" cy="276" r="13" fill="#3f8f6f"/>
+  <text x="72" y="281" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+  <text x="102" y="274" font-size="12.5" font-weight="700" fill="#14202b">± Mesh-mediated fascial traction</text>
+  <text x="102" y="292" font-size="11.5" fill="#5c6a78">Progressive approximation rather than one attempt</text>
+
+  <circle cx="72" cy="332" r="13" fill="#3f8f6f"/>
+  <text x="72" y="337" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+  <text x="102" y="330" font-size="12.5" font-weight="700" fill="#14202b">Early — or at least same-admission — closure</text>
+  <text x="102" y="348" font-size="11.5" fill="#5c6a78">Recommended, and protocolised effort matters (1D)</text>
+
+  <circle cx="72" cy="388" r="13" fill="#3f8f6f"/>
+  <text x="72" y="393" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+  <text x="102" y="386" font-size="12.5" font-weight="700" fill="#14202b">If the fascia will not come together</text>
+  <text x="102" y="404" font-size="11.5" fill="#5c6a78">Planned ventral hernia, delayed reconstruction</text>
+
+  <circle cx="72" cy="446" r="13" fill="#b58b2a"/>
+  <text x="72" y="451" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">!</text>
+  <text x="102" y="444" font-size="12.5" font-weight="700" fill="#8a6817">Bioprosthetic mesh is not routine</text>
+  <text x="102" y="462" font-size="11.5" fill="#5c6a78">Should not be used routinely for early closure (2D)</text>
+
+  <!-- Right: complications -->
+  <rect x="560" y="80" width="470" height="404" rx="8" fill="#ffffff" stroke="#c14a3f" stroke-width="1.6"/>
+  <path d="M 560 88 a 8 8 0 0 1 8 -8 h 454 a 8 8 0 0 1 8 8 v 38 h -470 z" fill="#c14a3f"/>
+  <text x="795" y="107" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">What goes wrong</text>
+
+  <g font-size="12.5" fill="#14202b">
+    <text x="584" y="160" font-weight="700">Enteroatmospheric fistula</text>
+    <text x="584" y="212" font-weight="700">Loss of domain</text>
+    <text x="584" y="264" font-weight="700">Large fluid and protein losses</text>
+    <text x="584" y="316" font-weight="700">Recurrent (tertiary) ACS</text>
+    <text x="584" y="368" font-weight="700">Ventral hernia</text>
+    <text x="584" y="420" font-weight="700">Prolonged ventilation and ICU stay</text>
+  </g>
+  <g font-size="11.5" fill="#5c6a78">
+    <text x="584" y="178">The one that ruins the admission — no covering skin, no tract</text>
+    <text x="584" y="230">The longer it stays open, the less likely the fascia meets</text>
+    <text x="584" y="282">Effluent carries protein; nutrition needs escalating</text>
+    <text x="584" y="334">An open abdomen does not abolish the compartment</text>
+    <text x="584" y="386">The accepted price when closure fails</text>
+    <text x="584" y="438">Sedation, immobility and repeated theatre trips compound</text>
+  </g>
+
+  <!-- Footer -->
+  <rect x="30" y="500" width="1000" height="58" rx="8" fill="#f5f2e8" stroke="#b58b2a" stroke-width="1.6"/>
+  <text x="50" y="524" font-size="12" fill="#14202b"><tspan font-weight="700" fill="#8a6817">Do not open prophylactically by reflex: </tspan>WSACS suggests against routinely using the open abdomen for severe</text>
+  <text x="50" y="546" font-size="12" fill="#14202b">intraperitoneal contamination at emergency laparotomy unless IAH is a specific concern (2B) — the strongest evidence in the guideline.</text>
+</svg>
