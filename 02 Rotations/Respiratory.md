@@ -21,6 +21,7 @@ date: 2025-01-13
 
 - Investigations: 
     - [[Blood Gas Interpretation]]
+    - [[Bronchoscopy]]
     - [[Chest X-ray]]
     - [[Spirometry]]
 

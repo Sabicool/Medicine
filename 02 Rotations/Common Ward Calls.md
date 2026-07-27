@@ -31,6 +31,7 @@ date: 2025-08-14
     - [[Collapse, Syncope, Mechanical Falls]]
     - [[Decreased Urine Output]]
     - [[Febrile Patient]]
+    - [[Fever]]
     - [[Haematuria]]
     - [[Nausea and Vomiting]]
     - [[Shortness of Breath, Cough and Haemopytsis]]

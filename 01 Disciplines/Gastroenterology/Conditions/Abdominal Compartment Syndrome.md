@@ -110,6 +110,7 @@ $$
 - Renal failure
 - Ileus
 - Lower limb venous thrombosis
+
 ![[Pasted image 20260726224451.png]]
 
 ![[ACS - organ effects.svg]]

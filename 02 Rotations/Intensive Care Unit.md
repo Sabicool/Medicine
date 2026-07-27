@@ -8,6 +8,7 @@ Notes for the intensive care rotation, oriented around recognising and initiatin
 <!-- QueryToSerialize: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) sort file.name asc group by reverse(split(file.folder, "/"))[0] -->
 <!-- SerializedQuery: list rows.file.link from "01 Disciplines" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) sort file.name asc group by reverse(split(file.folder, "/"))[0] -->
 - Conditions: 
+    - [[Abdominal Compartment Syndrome]]
     - [[Acute Kidney Injury]]
     - [[Acute Pulmonary Oedema]]
     - [[Acute Respiratory Distress Syndrome]]
@@ -36,6 +37,7 @@ Notes for the intensive care rotation, oriented around recognising and initiatin
 
 - Investigations: 
     - [[Blood Gas Interpretation]]
+    - [[Bronchoscopy]]
     - [[Chest X-ray]]
     - [[ECG Interpretation]]
     - [[Echocardiogram]]
@@ -43,9 +45,11 @@ Notes for the intensive care rotation, oriented around recognising and initiatin
 
 - Presenting Complaints: 
     - [[Altered Mental Status]]
+    - [[Fever]]
 
 - Procedures: 
     - [[Arterial Line]]
+    - [[Central Line Insertion]]
     - [[Emergency Pericardiocentesis]]
     - [[Extubation]]
     - [[General Anaesthesia]]

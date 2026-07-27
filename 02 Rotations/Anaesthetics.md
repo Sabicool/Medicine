@@ -13,9 +13,11 @@ Notes for the anaesthetics rotation, with an emphasis on airway management, indu
 
 - Investigations: 
     - [[Blood Gas Interpretation]]
+    - [[Bronchoscopy]]
 
 - Procedures: 
     - [[Arterial Line]]
+    - [[Central Line Insertion]]
     - [[Extubation]]
     - [[General Anaesthesia]]
     - [[Intubation]]
