@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 660" width="980" height="660" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <rect width="980" height="660" fill="#ffffff"/>
+
+  <text x="30" y="34" font-size="21" font-weight="700" fill="#14202b">Measuring intra-abdominal pressure via the bladder</text>
+  <text x="30" y="56" font-size="13" fill="#5c6a78">The bladder is a passive diaphragm — it only reports IAP if the technique is right</text>
+
+  <!-- Zero reference plane (drawn first, behind) -->
+  <line x1="60" y1="250" x2="940" y2="250" stroke="#a81f18" stroke-width="1.6" stroke-dasharray="7 5"/>
+
+  <!-- Bed -->
+  <rect x="60" y="300" width="510" height="14" rx="3" fill="#dde4ea"/>
+  <rect x="60" y="314" width="510" height="6" fill="#c7d1d9"/>
+
+  <!-- Patient -->
+  <circle cx="115" cy="250" r="30" fill="#f4f7fa" stroke="#5c6a78" stroke-width="2"/>
+  <rect x="150" y="205" width="410" height="90" rx="45" fill="#f4f7fa" stroke="#5c6a78" stroke-width="2"/>
+  <ellipse cx="330" cy="250" rx="85" ry="34" fill="#eef4f9" stroke="#8fb4d1" stroke-width="1.5"/>
+  <ellipse cx="398" cy="267" rx="24" ry="17" fill="#cfe2f0" stroke="#2b6ca3" stroke-width="2"/>
+
+  <!-- Landmark crosshair -->
+  <circle cx="430" cy="250" r="8" fill="none" stroke="#a81f18" stroke-width="2.2"/>
+  <line x1="430" y1="238" x2="430" y2="262" stroke="#a81f18" stroke-width="1.4"/>
+  <line x1="418" y1="250" x2="442" y2="250" stroke="#a81f18" stroke-width="1.4"/>
+  <path d="M 430 240 L 430 122 L 340 122" fill="none" stroke="#a81f18" stroke-width="1.2"/>
+  <text x="334" y="126" font-size="12" font-weight="600" fill="#a81f18" text-anchor="end">iliac crest, mid-axillary line</text>
+
+  <!-- Bladder label -->
+  <path d="M 416 279 L 470 330 L 536 330" fill="none" stroke="#5c6a78" stroke-width="1.2"/>
+  <text x="542" y="334" font-size="12" fill="#5c6a78">bladder</text>
+
+  <!-- Catheter -->
+  <path d="M 422 267 C 510 292 560 302 660 320" fill="none" stroke="#2b6ca3" stroke-width="3.5"/>
+
+  <!-- Sampling port -->
+  <circle cx="660" cy="320" r="6" fill="#2b6ca3"/>
+  <line x1="660" y1="314" x2="660" y2="262" stroke="#2b6ca3" stroke-width="3.5"/>
+
+  <!-- 3-way tap -->
+  <rect x="648" y="238" width="24" height="24" rx="3" fill="#ffffff" stroke="#2b6ca3" stroke-width="2.4"/>
+  <line x1="654" y1="250" x2="666" y2="250" stroke="#2b6ca3" stroke-width="2.4"/>
+  <line x1="660" y1="244" x2="660" y2="256" stroke="#2b6ca3" stroke-width="2.4"/>
+  <text x="640" y="292" font-size="11.5" fill="#5c6a78" text-anchor="end">3-way tap</text>
+  <path d="M 645 288 L 656 288" fill="none" stroke="#5c6a78" stroke-width="1.2"/>
+
+  <!-- Transducer -->
+  <line x1="672" y1="250" x2="740" y2="250" stroke="#2b6ca3" stroke-width="3.5"/>
+  <rect x="740" y="226" width="124" height="48" rx="6" fill="#eef4f9" stroke="#2b6ca3" stroke-width="2"/>
+  <text x="802" y="246" font-size="12.5" font-weight="700" fill="#2b6ca3" text-anchor="middle">pressure</text>
+  <text x="802" y="263" font-size="12.5" font-weight="700" fill="#2b6ca3" text-anchor="middle">transducer</text>
+  <text x="802" y="294" font-size="11.5" fill="#a81f18" font-weight="600" text-anchor="middle">zero to this plane — not to the bed</text>
+
+  <!-- Syringe -->
+  <rect x="630" y="104" width="60" height="9" rx="2" fill="#5c6a78"/>
+  <line x1="660" y1="113" x2="660" y2="140" stroke="#5c6a78" stroke-width="4"/>
+  <rect x="620" y="140" width="80" height="54" rx="3" fill="#ffffff" stroke="#5c6a78" stroke-width="2"/>
+  <rect x="622" y="160" width="76" height="32" fill="#cfe2f0"/>
+  <rect x="654" y="194" width="12" height="8" fill="#5c6a78"/>
+  <line x1="660" y1="202" x2="660" y2="238" stroke="#2b6ca3" stroke-width="3.5"/>
+  <text x="606" y="164" font-size="12" font-weight="600" fill="#14202b" text-anchor="end">≤ 25 mL sterile saline</text>
+  <text x="606" y="182" font-size="11" fill="#5c6a78" text-anchor="end">1 mL/kg in children, min 3 mL</text>
+
+  <!-- Drainage limb + clamp + bag -->
+  <path d="M 666 320 L 760 320 L 760 396" fill="none" stroke="#2b6ca3" stroke-width="3.5"/>
+  <line x1="746" y1="348" x2="774" y2="348" stroke="#a81f18" stroke-width="3.5"/>
+  <line x1="746" y1="360" x2="774" y2="360" stroke="#a81f18" stroke-width="3.5"/>
+  <text x="784" y="358" font-size="11.5" font-weight="600" fill="#a81f18">clamp distal to the port</text>
+  <rect x="722" y="396" width="76" height="58" rx="6" fill="#f4f7fa" stroke="#5c6a78" stroke-width="1.8"/>
+  <rect x="724" y="424" width="72" height="28" rx="4" fill="#f0e4b8"/>
+  <text x="760" y="470" font-size="11.5" fill="#5c6a78" text-anchor="middle">drainage bag</text>
+
+  <!-- Checklist -->
+  <rect x="30" y="486" width="920" height="96" rx="8" fill="#eef4f9" stroke="#2b6ca3" stroke-width="1.6"/>
+  <text x="48" y="510" font-size="13.5" font-weight="700" fill="#2b6ca3">Bladder pressure equals IAP only if all of these hold</text>
+  <g font-size="12.5" fill="#14202b">
+    <text x="48" y="534">✓  Supine, measured at end-expiration</text>
+    <text x="48" y="556">✓  Zeroed at the iliac crest in the mid-axillary line</text>
+    <text x="500" y="534">✓  Read 30–60 s after instillation (detrusor relaxation)</text>
+    <text x="500" y="556">✓  No active abdominal muscle contraction</text>
+  </g>
+  <text x="48" y="572" font-size="11.5" fill="#5c6a78">Empty the bladder first. Express in mmHg, measure 4-hourly, and trend it — a single value tells you very little.</text>
+
+  <!-- Caution -->
+  <rect x="30" y="594" width="920" height="50" rx="8" fill="#f5f2e8" stroke="#b58b2a" stroke-width="1.6"/>
+  <text x="48" y="615" font-size="12.5" fill="#14202b"><tspan font-weight="700" fill="#8a6817">Unreliable when: </tspan>pelvic haematoma, surgical packs, a contracted or neurogenic bladder.</text>
+  <text x="48" y="634" font-size="12.5" fill="#14202b">If sedation ± paralysis normalises the reading, the pressure was abdominal wall tone — ACS is much less likely.</text>
+</svg>

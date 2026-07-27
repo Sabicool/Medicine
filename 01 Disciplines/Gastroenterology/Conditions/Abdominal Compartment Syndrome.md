@@ -37,6 +37,7 @@ $$
 	- Pressure measurements may be inaccurate in the context of pelvic pathology (e.g., hematoma directly compressing the bladder)
 	- Interpretation among patients who are not intubated and breathing passively on mechanical ventilation is challenging
 		- If analgesia/sedation causes normalization of the intra-abdominal pressure, this makes abdominal compartment syndrome less likely
+![[ACS - bladder pressure technique.svg]]
 # Definitions
 - Raised intra-abdominal pressure (intra-abdominal hypertension) is defined by a sustained or repeated pathological elevation in intra-abdominal pressure ≥ 12 mmHg
 	- Normal = IAP 5-7 mmHg
@@ -47,6 +48,8 @@ $$
 - Abdominal compartment syndrome is defined as a sustained intra-abdominal pressure > 20 mmHg and new organ dysfunction that is attributable to elevated intra-abdominal pressure
 	- However, figuring out if organ failure is caused by abdominal compartment syndrome as opposed to other causes is subjective; the kidneys are quite sensitive to increased abdominal pressure (i.e. if urine output is adequate it’s unlikely the patient has abdominal compartment syndrome)
 - Polycompartment syndrome is a condition where two or more anatomical compartments have elevated compartmental pressures
+
+![[ACS - IAH grading bar.svg]]
 # Risk Factors
 - Decreased abdominal wall compliance
 	- Acute respiratory failure with elevated intrathoracic pressure
@@ -74,6 +77,8 @@ $$
 	- Sepsis
 	- Oliguria
 	- Damage control laparotomy
+
+![[ACS - risk factor mechanisms.svg]]
 # Aetiologies
 
 | Primary                                                   | Secondary                   |
@@ -87,6 +92,7 @@ $$
 | Acute [[Pancreatitis]]                                    | Prone positioning           |
 | Peritoneal dialysis                                       |                             |
 | Dilated viscera (e.g. severe ileus, SBO, toxic megacolon) |                             |
+![[ACS - primary vs secondary causes.svg]]
 # Complications
 - Respiratory
 	- Decreased respiratory compliance ⇒ ↑ peak airway pressures → ↑ risk of atelactasis and pneumonia
@@ -105,6 +111,8 @@ $$
 - Ileus
 - Lower limb venous thrombosis
 ![[Pasted image 20260726224451.png]]
+
+![[ACS - organ effects.svg]]
 # Clinical Features
 - Initial manifestations vary depending on patient’s underlying physiology, for example:
 	- A patient with tenuous renal function could manifest with renal failure

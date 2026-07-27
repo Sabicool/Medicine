@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 650" width="960" height="650" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+  <rect width="960" height="650" fill="#ffffff"/>
+  <defs>
+    <marker id="arrIn" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto">
+      <path d="M 0 0.5 L 8 4.5 L 0 8.5 z" fill="#97527e"/>
+    </marker>
+  </defs>
+
+  <text x="40" y="38" font-size="21" font-weight="700" fill="#14202b">Aetiology of abdominal compartment syndrome</text>
+  <text x="40" y="60" font-size="13" fill="#5c6a78">Primary arises <tspan font-weight="700">inside</tspan> the box and needs source control · Secondary arises <tspan font-weight="700">outside</tspan> it and pushes in</text>
+
+  <!-- Abdomen -->
+  <ellipse cx="480" cy="330" rx="200" ry="150" fill="#eef4f9" stroke="#2b6ca3" stroke-width="7"/>
+  <ellipse cx="480" cy="330" rx="188" ry="139" fill="none" stroke="#8fb4d1" stroke-width="1.5"/>
+
+  <text x="480" y="224" font-size="14" font-weight="700" fill="#2b6ca3" text-anchor="middle" letter-spacing="1.5">PRIMARY</text>
+  <text x="480" y="243" font-size="11.5" fill="#5c6a78" text-anchor="middle">within the abdomen or pelvis</text>
+
+  <g font-size="13" fill="#14202b" text-anchor="middle">
+    <text x="480" y="272">Trauma, haemoperitoneum</text>
+    <text x="480" y="295">Ruptured AAA</text>
+    <text x="480" y="318">Peritonitis, abdominal sepsis</text>
+    <text x="480" y="341">Obstruction, ileus, toxic megacolon</text>
+    <text x="480" y="364">Severe acute pancreatitis</text>
+    <text x="480" y="387">Retroperitoneal haematoma</text>
+    <text x="480" y="410">Ascites, packed abdomen</text>
+  </g>
+
+  <!-- Secondary chips -->
+  <g>
+    <rect x="52" y="126" width="196" height="50" rx="7" fill="#f8eff5" stroke="#97527e" stroke-width="1.6"/>
+    <text x="150" y="147" font-size="12.5" font-weight="700" fill="#97527e" text-anchor="middle">Massive fluid</text>
+    <text x="150" y="164" font-size="12.5" font-weight="700" fill="#97527e" text-anchor="middle">resuscitation</text>
+    <path d="M 215 190 L 305 228" stroke="#97527e" stroke-width="2" fill="none" marker-end="url(#arrIn)"/>
+  </g>
+  <g>
+    <rect x="712" y="126" width="196" height="50" rx="7" fill="#f8eff5" stroke="#97527e" stroke-width="1.6"/>
+    <text x="810" y="147" font-size="12.5" font-weight="700" fill="#97527e" text-anchor="middle">Massive transfusion</text>
+    <text x="810" y="164" font-size="12.5" font-weight="700" fill="#97527e" text-anchor="middle">(&gt; 10 U / 24 h)</text>
+    <path d="M 745 190 L 655 228" stroke="#97527e" stroke-width="2" fill="none" marker-end="url(#arrIn)"/>
+  </g>
+  <g>
+    <rect x="46" y="306" width="196" height="50" rx="7" fill="#f8eff5" stroke="#97527e" stroke-width="1.6"/>
+    <text x="144" y="327" font-size="12.5" font-weight="700" fill="#97527e" text-anchor="middle">Sepsis,</text>
+    <text x="144" y="344" font-size="12.5" font-weight="700" fill="#97527e" text-anchor="middle">capillary leak</text>
+    <path d="M 250 331 L 272 331" stroke="#97527e" stroke-width="2" fill="none" marker-end="url(#arrIn)"/>
+  </g>
+  <g>
+    <rect x="718" y="306" width="196" height="50" rx="7" fill="#f8eff5" stroke="#97527e" stroke-width="1.6"/>
+    <text x="816" y="327" font-size="12.5" font-weight="700" fill="#97527e" text-anchor="middle">Major burns,</text>
+    <text x="816" y="344" font-size="12.5" font-weight="700" fill="#97527e" text-anchor="middle">abdominal wall eschar</text>
+    <path d="M 710 331 L 688 331" stroke="#97527e" stroke-width="2" fill="none" marker-end="url(#arrIn)"/>
+  </g>
+  <g>
+    <rect x="52" y="484" width="196" height="50" rx="7" fill="#f8eff5" stroke="#97527e" stroke-width="1.6"/>
+    <text x="150" y="505" font-size="12.5" font-weight="700" fill="#97527e" text-anchor="middle">Prone positioning,</text>
+    <text x="150" y="522" font-size="12.5" font-weight="700" fill="#97527e" text-anchor="middle">high BMI</text>
+    <path d="M 215 470 L 305 432" stroke="#97527e" stroke-width="2" fill="none" marker-end="url(#arrIn)"/>
+  </g>
+  <g>
+    <rect x="712" y="484" width="196" height="50" rx="7" fill="#f8eff5" stroke="#97527e" stroke-width="1.6"/>
+    <text x="810" y="505" font-size="12.5" font-weight="700" fill="#97527e" text-anchor="middle">Positive pressure</text>
+    <text x="810" y="522" font-size="12.5" font-weight="700" fill="#97527e" text-anchor="middle">ventilation, high PEEP</text>
+    <path d="M 745 470 L 655 432" stroke="#97527e" stroke-width="2" fill="none" marker-end="url(#arrIn)"/>
+  </g>
+
+  <text x="480" y="507" font-size="14" font-weight="700" fill="#97527e" text-anchor="middle" letter-spacing="1.5">SECONDARY</text>
+  <text x="480" y="527" font-size="11.5" fill="#5c6a78" text-anchor="middle">no abdominopelvic source — largely iatrogenic, largely preventable</text>
+
+  <!-- Recurrent band -->
+  <rect x="40" y="562" width="880" height="56" rx="7" fill="#f5f2e8" stroke="#b58b2a" stroke-width="1.6"/>
+  <text x="62" y="586" font-size="13" font-weight="700" fill="#8a6817">RECURRENT (tertiary)</text>
+  <text x="62" y="605" font-size="12.5" fill="#5c6a78">ACS that recurs after medical or surgical treatment of primary or secondary ACS — including in the open abdomen.</text>
+  <text x="898" y="596" font-size="12.5" fill="#8a6817" text-anchor="end" font-weight="600">Laparostomy is not protective</text>
+</svg>
