@@ -2,6 +2,9 @@
 date: 2026-07-29
 ---
 RNS ICU: multi-trauma patients and challenging cases and a burns centre
+- Purely adults
+
+Echo training. Vascular access service can teach lines
 
 
 Unique trauma term. Admitting service
