@@ -8,3 +8,6 @@ The LOGICAL Investigators and the Australian and New Zealand Intensive Care Soci
 - Related: [[Advanced Life Support|Cardiac Arrest]], [[Post-Cardiac Arrest]]
 # Clinical Question
 - In patients who are unresponsive after cardiac arrest, does limiting oxygen exposure to achieve acceptable oxygenation increase the likelihood of surviving with a favourable functional outcome?
+	- Rationale: animal models suggest that hyperoxia contributes to neuronal death from overwhelming antioxidant defences
+# Results
+![[Pasted image 20260803222132.png]]
