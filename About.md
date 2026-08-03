@@ -42,6 +42,8 @@ list rows.file.link
     group by reverse(split(file.folder, "/"))[0] 
 ```
 
+This site is built with [Quartz](https://quartz.jzhao.xyz/), a static site generator that publishes a folder of markdown notes as a website. The [site itself](https://github.com/Sabicool/A-junior-doctor-s-notes) is a fork of Quartz with my own design and a few extra components on top.
+
 
 [^1]: Both are great applications for note taking but unfortunately there might be some barrier to using either application because of the initial learning to use either program. If that is the case for you, I'd recommend something like notion or remnote to take notes on
 [^3]: Man vim support in obsidian sucks. Just use emacs with evil mode and obsidian.el.
