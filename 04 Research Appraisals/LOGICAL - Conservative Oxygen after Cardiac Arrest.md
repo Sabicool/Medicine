@@ -2,7 +2,7 @@
 Rotations:
   - "[[Intensive Care Unit]]"
   - "[[Emergency Medicine]]"
-date: 2026-08-03
+date: 2026-08-09
 ---
 The LOGICAL Investigators and the Australian and New Zealand Intensive Care Society Clinical Trials Group. NEJM. 2026. doi: 10.1056/NEJMoa2513814
 - Related: [[Advanced Life Support|Cardiac Arrest]], [[Post-Cardiac Arrest]]
