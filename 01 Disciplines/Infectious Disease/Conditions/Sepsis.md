@@ -2,7 +2,7 @@
 Rotations:
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
-date: 2026-07-26
+date: 2026-08-11
 aliases:
   - Septicaemia
   - Septic Shock
@@ -105,7 +105,7 @@ Also see: [[Shock]] for the management of undifferentiated shock
 	- Absence of regional dysfunction (distinct from Takotsubo cardiomyopathy and myocardial ischaemia)
 - Consider inotropes in patients:
 	- Low cardiac output that is being monitored
-	- Patients whose fluid resuscitation remains inadequate (as above: $\text{Scv}\ce{O2}$, lactate clearance etc.) despite adequate MAP
+	- Patients whose fluid resuscitation                                                                                             remains inadequate (as above: $\text{Scv}\ce{O2}$, lactate clearance etc.) despite adequate MAP
 - Dobutamine appears to be most recommended followed by adrenaline?
 ## Refractory Hypotension
 - Refractory shock is suggested by:
