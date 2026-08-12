@@ -1,7 +1,8 @@
 ---
 Rotations:
   - "[[Intensive Care Unit]]"
-date: 2026-05-30
+date: 2026-08-12
+slides: true
 ---
 # Aetiologies
 - [[Diabetes insipidus]]

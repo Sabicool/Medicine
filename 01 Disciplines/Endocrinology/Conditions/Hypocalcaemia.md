@@ -1,7 +1,8 @@
 ---
-date: 2026-05-26
+date: 2026-08-12
 tags:
   - notes
+slides: true
 ---
 # Aetiologies
 - Increased binding of calcium to protein

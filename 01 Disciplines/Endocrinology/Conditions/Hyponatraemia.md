@@ -1,9 +1,10 @@
 ---
 Rotations:
   - "[[Intensive Care Unit]]"
-date: 2026-05-30
+date: 2026-08-12
 tags:
   - cards
+slides: true
 ---
 # Pathophysiology
 - Hyponatraemia generally causes low extracellular osmolality causing fluid shift into the intracellular space

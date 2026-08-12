@@ -3,9 +3,10 @@ Rotations:
   - "[[Intensive Care Unit]]"
   - "[[02 Rotations/Cardiology|Cardiology]]"
   - "[[Emergency Medicine]]"
-date: 2026-01-07
+date: 2026-08-12
 tags:
   - cards
+slides: true
 ---
 # Aetiology
 - Most common causes:
