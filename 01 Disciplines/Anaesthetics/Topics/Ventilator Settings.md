@@ -1,5 +1,6 @@
 ---
 date: 2026-04-24
+slides: true
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
