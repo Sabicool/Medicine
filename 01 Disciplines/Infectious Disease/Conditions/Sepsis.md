@@ -2,12 +2,13 @@
 Rotations:
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
-date: 2026-08-11
+date: 2026-08-12
 aliases:
   - Septicaemia
   - Septic Shock
 tags:
   - cards
+slides: true
 ---
 Also see: [[Shock]] for the management of undifferentiated shock
 

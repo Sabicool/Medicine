@@ -2,7 +2,8 @@
 Rotations:
   - "[[Intensive Care Unit]]"
   - "[[Emergency Medicine]]"
-date: 2026-07-27
+date: 2026-08-12
+slides: true
 ---
 # Physiology
 - Contents of the abdomen are predominantly non-compressible fluid

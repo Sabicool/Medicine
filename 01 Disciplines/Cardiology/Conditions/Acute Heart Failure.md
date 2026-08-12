@@ -1,12 +1,13 @@
 ---
 Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
-date: 2026-06-14
+date: 2026-08-12
 tags:
   - cards
 aliases:
   - Cardiogenic Shock
 figureCount: 1
+slides: true
 ---
 # Aetiologies
 - Acute drop in LV function
