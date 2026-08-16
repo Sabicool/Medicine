@@ -1,5 +1,5 @@
 ---
-date: 2026-05-06
+date: 2026-08-17
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
@@ -121,7 +121,7 @@ tags:
 	- Patients who are at a particularly high risk of barotrauma (i.e. those with low compliance)
 - Little control over the minute volume
 
-# Pressure Support Ventilation (PSV)
+# Pressure Support Ventilation (PSV/SPONT)
 - The ventilator only controls the pressure support level and the rate, volume, cycling time etc are controlled by the patient
 	- You can only control the the pressure support value (indirectly controlling the tidal volume) and the flow cycling trigger (decreasing it will make the breath last longer)
 - There are no mandatory breaths; every breath must be triggered by the patient
