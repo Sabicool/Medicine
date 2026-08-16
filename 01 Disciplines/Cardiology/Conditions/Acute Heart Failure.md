@@ -1,7 +1,7 @@
 ---
 Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
-date: 2026-08-12
+date: 2026-08-17
 tags:
   - cards
 aliases:
