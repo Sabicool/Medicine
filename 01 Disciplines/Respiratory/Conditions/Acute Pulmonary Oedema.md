@@ -10,6 +10,7 @@ aliases:
 date: 2026-04-16
 tags:
   - complete
+slides: true
 ---
 # Presentation
 - Develops over minutes with severe breathlnessness, coughing frothy pink sputum, orthopnoea and PND
