@@ -125,7 +125,7 @@ Patients who are normotensive with a tachycardia or arrhythmia may look deceptiv
 		- Thyroid disease
 		- Illicit drug use such as cocaine or amphetamines
 	- Family history of palpitations, syncope or sudden cardiac death?
-		- Premature sudden death consider [[Wolf-Parkinson-White syndrome|WPW]], [[Brugada syndrome]], [[long QT syndrome]] or [[Hypertrophic Cardiomyopathy|HCM]]
+		- Premature sudden death consider [[Wolf-Parkinson-White syndrome|WPW]], [[Brugada syndrome]], [[Long QT syndrome]] or [[Hypertrophic Cardiomyopathy|HCM]]
 - Charts
 	- Previous ECGs
 	- Medications causing tachycardias (e.g. salbutamol, terbutaline, pseudoephedrine or anticholinergics)

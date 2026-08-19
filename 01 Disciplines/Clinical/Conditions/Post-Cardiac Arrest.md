@@ -59,7 +59,7 @@ tags:
 	- Ischaemia
 	- Brugada pattern
 	- ARVC
-	- QT interval ([[long QT syndrome]])
+	- QT interval ([[Long QT syndrome]])
 	- Early repolarisation
 	- Wolff-Parkinson-White pattern
 	- [[Hypertrophic Cardiomyopathy]]
