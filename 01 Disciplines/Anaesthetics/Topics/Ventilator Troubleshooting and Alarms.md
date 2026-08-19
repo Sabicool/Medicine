@@ -1,13 +1,11 @@
 ---
-date: 2026-04-16
+date: 2026-08-19
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[Anaesthetics]]"
 ---
 > Part of: [[Mechanical Ventilation]]
-
-> [!WARNING] Ventilation alarms should be treated with great attention — often demanding the same attention as a code blue.
 
 # Crashing Patient on the Ventilator
 
@@ -33,6 +31,12 @@ Rotations:
 | **P** | **P**neumothorax | USS → finger thoracostomy if confirmed |
 | **E** | **E**quipment failure | Disconnect from ventilator → try BMV |
 | **S** | **S**tacked breathing (auto-PEEP) | Disconnect and allow full exhalation |
+
+# MSS-CV Framework
+- Chest movements
+- Saturations
+- Chest sounds
+- Cardiovascular system
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-date: 2026-04-24
+date: 2026-08-19
 slides: true
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
@@ -7,6 +7,14 @@ Rotations:
   - "[[Anaesthetics]]"
 ---
 > Part of: [[Mechanical Ventilation]]
+
+
+> [!NOTE] MSS Assessment
+> Perform an MSS assessment after changing ventilator settings or modes:
+> - Chest *m*ovement and capnography
+> - Breath *s*ounds
+> - *S*aturation
+
 
 - Mode
 - Fraction of inspired oxygen $F_\text{i}\ce{O2}$
