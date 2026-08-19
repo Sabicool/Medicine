@@ -1,7 +1,7 @@
 ---
 Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
-date: 2026-08-17
+date: 2026-08-19
 tags:
   - cards
 aliases:
@@ -124,6 +124,7 @@ slides: true
 	- Ideal first-line ionotrope is yet to be determined by RCTs
 	- [[Pressors#^dobutamine|Dobutamine]] appears to be commonly used and is recommended in ACI health guidelines
 		- Dobutamine may cause hypotension due to vasodilatory effects and should be used in combination with noradrenaline to support a MAP > 65 mmHg
+			- i.e. in the normotensive patient with poor peripheral perfusion start a dobutamin infusion but in the hypotensive patient start a noradrenalin infusion to improve the MAP (and diastolic pressure for coronary perfusion) first then start a dobutamine infusion if necessary
 	- Where refractory, levosimendan and phosphodiesterase 3 inhbitors such as milrinone can be used
 	- Consider digoxin in patients with long-standing atrial fibrillation and systolic heart failure[^2]
 - [[Pressors#^Adrenaline|Adrenaline]] is reasonable as a first line single agent in an emergency as a bridge to improved central venous access or retrieval to percutaneous intervention procedures
