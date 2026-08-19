@@ -4,7 +4,7 @@ aliases:
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
-date: 2026-08-12
+date: 2026-08-19
 tags:
   - cards
 slides: true
@@ -36,6 +36,8 @@ $$
 	- Low systemic vascular resistance ⇒ distributive (e.g. sepsis, anaphylaxis, spinal cord trauma)
 	- Other types:
 		- Toxin-mediated shock (e.g. cyanide and carbon monoxide)
+
+![[Pasted image 20260819191450.png]]
 # Classification
 ![[Pasted image 20260228192323.png|358]]
 
@@ -133,6 +135,13 @@ $$
         - Exclude cardiac tamponade
         - Exclude massive PE
 
+
+> [!NOTE] Main Assessment Factors to Differentiate Shock Types
+> - Peripheral perfusion (as a measure of TPR)
+> - Heart rate
+> - Preload status using JVP, CVP, PPV or response to passive leg raise
+
+
 ![[Rush Exam#^overview]]
 
 - Establish venous access
@@ -155,6 +164,7 @@ $$
 	- Albumin
 		- Albumin 4% reasonable alternative to crystalloid in large-volume resuscitation in septic shock
 		- Albumin 20% used in hepatic failure/spontaneous bacterial peritonitis, hepatorenal syndrome
+- If the patient appears peri-arrest with life threatening hypotension give adrenaline 0.1 mg boluses to buy time and set up a vasopressor infusion
 - Commence/escalate vasopressor infusion (see below)
 	- The optimal initial vasopressor is unknown as is the optimal MAP
 		- In septic shock, it appears the initial pressor of choice is noradrenaline
