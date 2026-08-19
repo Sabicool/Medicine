@@ -1,5 +1,5 @@
 ---
-date: 2026-06-21
+date: 2026-08-19
 Rotations:
   - "[[Emergency Medicine]]"
   - "[[Intensive Care Unit]]"
@@ -176,6 +176,13 @@ $$
 \frac{\text{Peak Systolic Velocity}_{\text{max}}-\text{Peak Systolic Velocity}_{\text{min}}}{\text{Mean}(\text{Peak Systolic Velocity}_{\text{max}},\text{Peak Systolic Velocity}_{\text{min}})}
 $$
 - A cut-off of 14% is used to predict fluid responsiveness
+## Change in CVP
+![[Pasted image 20260819190716.png|549]]
+
+- Measure the change in CVP before and 5 minutes after a bolus of fluid, a change of
+	- 0-3 mmHg suggests preload is low (i.e. underfilled, high compliance)
+	- 3-5 mmHg suggests preload is normal
+	- 5-7 mmHg suggests preload is high (i.e. overfilled, low compliance)
 ## End Tidal $\ce{CO2}$
 - An increase in cardiac output causes increased delivery of $\ce{CO2}$ to the lungs thereby increasing exhaled $\ce{CO2}$
 - A $\Delta \text{ET}\ce{CO2}$ ≥ 5% with passive leg raise predicts fluid responsiveness whereas a $\Delta \text{ET}\ce{CO2}$ < 2 mmHg suggests unlikely fluid responsive
