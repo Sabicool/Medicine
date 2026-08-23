@@ -2,7 +2,7 @@
 Rotations:
   - "[[Intensive Care Unit]]"
   - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
-date: 2026-05-25
+date: 2026-08-23
 tags:
   - cards
 aliases:
