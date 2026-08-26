@@ -5,6 +5,8 @@ Rotations:
   - "[[Anaesthetics]]"
 date: 2026-08-26
 ---
+# Site Selection
+![[Pasted image 20260826204551.png]]
 # Subclavian Vein
 - Line related infections appear to be lower with the subclavian approach
 ## Contraindications
@@ -44,6 +46,40 @@ date: 2026-08-26
 24. Obtain a chest X-ray to assess for proper placement and ensure no haemothorax nor pneumothorax
 
 ![[Pasted image 20260710213119.png]]
+# Internal Jugular Vein
+## Method
+- The internal jugular vein can be found at the apex of the triangle formed by the sternal and clavicular muscles of the sternoclavicular muscle
+![[Pasted image 20260826204930.png]]
+1. Place the patient in a 10-15° trendelenburg position to prevent air embolism and to engorge the vein
+2. Turn the patient’s head away from the vein
+3. Determine the location of the carotid pulse, noting that the jugular vein runs just lateral to the carotid artery - the needle should enter at the apex of the triangle identified above and should be aimed towards the ipsilateral nipple
+	![[Pasted image 20260826205347.png]]
+4. Place the ultrasound probe at the site of insertion (identified in previous step) and identify the vein and artery
+5. Clean the skin with sterile solution and drape the patient
+6. Explain to the patient that they can signal for attention by raising their hand and their breathing will not be obstructed
+7. Place the microclaves on the end and flush the catheter (do not place the microclave on the largest lumen as this is where the guidewire will thread through)
+8. Ensure the guidewire threads easily through the needle
+9. Ensure the guidewire threads easily through the catheter
+10. Prepare the ultrasound cover
+11. Confirm the needle insertion site again
+12. Apply local anaesthetic
+13. Insert the insertion needle at a 45 degree angle to the coronal plane angled towards the ipsilateral nipple
+14. Advance the needle while applying gentle suction; typically the vein is accessed at a depth of <1.3 cm
+15. Typically flash of venous blood typically occurs when the needle is withdrawan due to the collapsibility of the vein
+	![[Pasted image 20260826210047.png]]
+16. Once steady flow is achieved, with the non-dominant hand place down the ultrasound and obtain a steady hold of the needle (and remove the syringe)
+17. Check with a transducer
+18. Thread through the guidewire - an assistant should watch the monitor and watch for PVCs during advancement of the guidewire
+19. Withdraw the needle leaving the guidewire in situ and grasp the guidewire at the skin
+20. Make a small superficial incision at the entry point of the wire
+21. Pass the dilator over the guidewire being certain to maintain control of the wire and insert it into the skin by holding it close to the tip and entering with a rotatory motion
+22. Remove the dilator anticipating increased bleeding using a gauze pad
+23. Feed the catheter over the guidewire being certain to maintain control over the external end of the wire before being advanced into the patient
+24. While grasping the external end of the guidewire advance the catheter over the wire using a rotatory motion; if resistance is met, the tract may not have been adequately dilated → repeat from step 21
+25. Check that all ports withdraw blood and flush and ensure to place the caps/microclaves on the ends
+26. Secure the line in place with suturing
+27. Apply a sterile dressing
+28. Obtain a chest X-ray
 # Aftercare
 - Minimise the number of times the lines is accessed
 - Access the line under sterile or clean conditions
@@ -51,3 +87,5 @@ date: 2026-08-26
 - Reassess need for central line daily
 # Sources
 - Braner, D.A.V., Lai, S., Eman, S., Tegtmeyer, K., 2007. Central Venous Catheterization — Subclavian Vein. New England Journal of Medicine 357, e26. [https://doi.org/10.1056/NEJMvcm074357](https://doi.org/10.1056/NEJMvcm074357)
+- Schulman, P.M., Gerstein, N.S., Merkel, M.J., Braner, D.A., Tegtmeyer, K., 2018. Ultrasound-Guided Cannulation of the Subclavian Vein. New England Journal of Medicine 379, e1. [https://doi.org/10.1056/NEJMvcm1406114](https://doi.org/10.1056/NEJMvcm1406114)
+- Graham, A.S., Lai, S., n.d. Central Venous Catheterization. DOI: 10.1056/NEJMvcm055053 
