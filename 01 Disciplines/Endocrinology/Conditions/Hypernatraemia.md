@@ -1,7 +1,7 @@
 ---
 Rotations:
   - "[[Intensive Care Unit]]"
-date: 2026-08-12
+date: 2026-08-26
 slides: true
 ---
 # Aetiologies
