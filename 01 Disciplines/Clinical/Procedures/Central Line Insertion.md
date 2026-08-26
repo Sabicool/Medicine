@@ -47,10 +47,11 @@ date: 2026-08-26
 
 ![[Pasted image 20260710213119.png]]
 # Internal Jugular Vein
+- Right internal jugular vein is preferred because it provides more direct access to the right atrium, avoids the thoracic duct and reduces procedure time
 ## Method
 - The internal jugular vein can be found at the apex of the triangle formed by the sternal and clavicular muscles of the sternoclavicular muscle
 ![[Pasted image 20260826204930.png]]
-1. Place the patient in a 10-15° trendelenburg position to prevent air embolism and to engorge the vein
+1. Place the patient in a 10-15° trendelenburg position to prevent air embolism and to engorge the vein or alternatively place a wedge between the patient’s legs if not contraindicated (e.g. high intracranial pressure or congestive heart failure)
 2. Turn the patient’s head away from the vein
 3. Determine the location of the carotid pulse, noting that the jugular vein runs just lateral to the carotid artery - the needle should enter at the apex of the triangle identified above and should be aimed towards the ipsilateral nipple
 	![[Pasted image 20260826205347.png]]
@@ -88,4 +89,5 @@ date: 2026-08-26
 # Sources
 - Braner, D.A.V., Lai, S., Eman, S., Tegtmeyer, K., 2007. Central Venous Catheterization — Subclavian Vein. New England Journal of Medicine 357, e26. [https://doi.org/10.1056/NEJMvcm074357](https://doi.org/10.1056/NEJMvcm074357)
 - Schulman, P.M., Gerstein, N.S., Merkel, M.J., Braner, D.A., Tegtmeyer, K., 2018. Ultrasound-Guided Cannulation of the Subclavian Vein. New England Journal of Medicine 379, e1. [https://doi.org/10.1056/NEJMvcm1406114](https://doi.org/10.1056/NEJMvcm1406114)
-- Graham, A.S., Lai, S., n.d. Central Venous Catheterization. DOI: 10.1056/NEJMvcm055053 
+- Ortega, R., Song, M., Hansen, C.J., Barash, P., 2010. Ultrasound-Guided Internal Jugular Vein Cannulation. New England Journal of Medicine 362, e57. [https://doi.org/10.1056/NEJMvcm0810156](https://doi.org/10.1056/NEJMvcm0810156)
+- Graham, A.S., Ozment, C., Tegtmeyer, K., Lai, S., Braner, D.A.V., 2007. Central Venous Catheterization. New England Journal of Medicine 356, e21. [https://doi.org/10.1056/NEJMvcm055053](https://doi.org/10.1056/NEJMvcm055053)
