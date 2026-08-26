@@ -1,5 +1,7 @@
 ---
 date: 2025-01-15
+tags:
+  - notes
 ---
 - The diagnosis of AM is based on post auricular inflammatory signs (erythema, oedema, tenderness or fluctuance), a protruding auricle often with external auditory canal oedema and signs of AOM
 # Management

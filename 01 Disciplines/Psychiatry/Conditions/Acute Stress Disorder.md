@@ -1,5 +1,7 @@
 ---
 date: 2025-04-11
+tags:
+  - notes
 ---
 # Clinical Features
 - Acute stress disorder (ASD) typically presents with severe levels of re-experiencing and anxiety in response to reminders of the recent trauma

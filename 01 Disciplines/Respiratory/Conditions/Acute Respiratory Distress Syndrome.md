@@ -8,6 +8,8 @@ Rotations:
   - "[[Emergency Medicine]]"
   - "[[02 Rotations/Respiratory|Respiratory]]"
 date: 2026-03-31
+tags:
+  - notes
 ---
 # Definition
 

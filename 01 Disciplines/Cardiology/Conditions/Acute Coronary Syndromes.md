@@ -5,6 +5,8 @@ Rotations:
 aliases:
   - ACS
 date: 2026-02-21
+tags:
+  - notes
 ---
 # Risk factors
 - Increased risk of ACS with central obesity, autoimmune conditions, chronic renal disease, diabetes and HIV

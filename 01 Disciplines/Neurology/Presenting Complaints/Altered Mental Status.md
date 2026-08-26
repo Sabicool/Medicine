@@ -7,6 +7,8 @@ date: 2026-02-28
 aliases:
   - Depressed Consciousness
   - Delirium
+tags:
+  - cards
 ---
 # Phone Call/Presentation Questions
 - In what way is the patient acutely confused?

@@ -1,5 +1,7 @@
 ---
 date: 2025-11-03
+tags:
+  - cards
 ---
 ![[Pasted image 20251028191824.png]]
 # Angiogram Views

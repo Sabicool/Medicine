@@ -1,5 +1,8 @@
 ---
 date: 2026-05-31
+tags:
+  - cards
+slides: true
 ---
 - Hypermagnesaemia is associated with [[Hyperkalaemia]] and [[Hypocalcaemia]]
 # Aetiologies

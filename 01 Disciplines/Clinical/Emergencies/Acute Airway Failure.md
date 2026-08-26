@@ -7,6 +7,8 @@ Related:
   - "[[Choking]]"
 Next:
   - "[[Acute Respiratory Failure]]"
+tags:
+  - notes
 ---
 # Overview
 - In summary:

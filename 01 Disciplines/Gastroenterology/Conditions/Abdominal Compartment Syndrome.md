@@ -4,6 +4,8 @@ Rotations:
   - "[[Emergency Medicine]]"
 date: 2026-08-12
 slides: true
+tags:
+  - cards
 ---
 # Physiology
 - Contents of the abdomen are predominantly non-compressible fluid
