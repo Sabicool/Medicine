@@ -3,15 +3,18 @@ Rotations:
   - "[[Intensive Care Unit]]"
   - "[[Emergency Medicine]]"
   - "[[Anaesthetics]]"
-date: 2026-07-10
+date: 2026-08-26
 ---
 # Subclavian Vein
 - Line related infections appear to be lower with the subclavian approach
 ## Contraindications
 - Infection of area overlying the target vein
 - Thrombosis of the target vein
-- Fracture of the clavicle or proximal ribs
+- Fracture or suspected of the clavicle or proximal ribs
 - Coagulopathy - applying direct pressure at the subclavian artery or vein is difficult
+- Relative
+	- Chronic kidney disease because of the increased risk of subclavian venous stenosis associated with this technique may compromise future venous access for dialysis
+	- Patients with severe hypoxia or apical bullous lung disease owing to the risk of [[Pneumothorax]] which may lead to further respiratory compromise
 ## Method
 ![[Pasted image 20260710214834.png]]
 
