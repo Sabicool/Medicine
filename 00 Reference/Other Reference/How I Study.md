@@ -1,5 +1,5 @@
 ---
-date: 2026-06-19
+date: 2026-08-27
 ---
 This is a non-exhaustive guide to studying in medical school. I do plan on making a more complete guide one day but until then here's some words of wisdom.
 
@@ -16,3 +16,4 @@ I rarely made comprehensive notes. I mainly studied by doing pre-made flashcard 
 - Other useful Australian resources: LITFL, deranged physiology
 - Other useful resources: Teach Me Series (e.g. Teach me surgery, Teach me Obgyn), Amboss
 - Qbanks: I used eMedici but there also exists passmedicine and armadex
+- Research: [Critical Care Reviews](https://criticalcarereviews.com/meetings/ccr26), [The Bottom Line](https://www.thebottomline.org.uk/)
