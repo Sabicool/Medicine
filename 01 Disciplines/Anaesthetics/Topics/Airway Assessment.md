@@ -16,6 +16,15 @@ date: 2026-08-28
 - Whenever possible identify:
 	- The patient’s previous intubation grade and previous difficulties with airway management
 	- Determine what techniques and manoeuvres were required to optimise airway management conditions
-- 
+## History
+- General history elements:
+	- Reason for airway protection/management
+	- AMPLE history (allergies, medications, past medical history, last meal, events)
+	- Exercise capacity
+	- Smoker
+- Symptoms or risk factors for airway compromise:
+	- Stridor, hoarse voice, orthopnoea, drooling, dysphagia
+	- Risk factors - suspecterd airway burn, neck trauma, goitre
+- Risk factors for difficult airway management
 # Sources
 - [Airway Assessment • LITFL Medical Blog • CCC Airway](https://litfl.com/airway-assessment/) - Chris Nickson - Updated July 1 2024 - Accessed 28 August 2026
