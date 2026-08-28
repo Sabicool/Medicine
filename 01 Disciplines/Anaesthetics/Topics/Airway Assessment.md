@@ -28,5 +28,18 @@ date: 2026-08-28
 	- The patient’s previous intubation grade and previous difficulties with airway management
 	- Determine what techniques and manoeuvres were required to optimise airway management conditions
 ## Examination
+- General
+	- Level of consciousness and co-operation
+	- BMI
+- Face: facial hair, craniofacial deformities
+- Mouth
+	- Mallampati grade
+	- Mouth opening (inter incisor distance)
+	- Shape of palate
+	- Jaw protrusion
+- Teeth
+	- Teeth prominence
+	- Relaxation of maxillary to mandibular incisors during normal jaw closure
+	- 
 # Sources
 - [Airway Assessment • LITFL Medical Blog • CCC Airway](https://litfl.com/airway-assessment/) - Chris Nickson - Updated July 1 2024 - Accessed 28 August 2026
