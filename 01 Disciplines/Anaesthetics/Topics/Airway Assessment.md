@@ -1,11 +1,11 @@
 ---
 tags:
   - notes
-date: 2026-08-28
+date: 2026-08-29
 ---
 # Definition
 - The purpose of an airway assessment is to predict and plan for a difficult airway
-- The definition of a difficult airway is: “the clinical situation in which a conventionally trained Anaesthesiologist experiences difficulty with facemask ventilation, difficulty in supraglottic device ventilation, difficulty in tracheal intubation or all three” where:
+- The definition of a difficult airway[^1] is: “the clinical situation in which a conventionally trained Anaesthesiologist experiences difficulty with facemask ventilation, difficulty in supraglottic device ventilation, difficulty in tracheal intubation or all three” where:
 	- Difficulty with facemask ventilation is the inability of an unassisted anaesthesiologist:
 	    1. to maintain oxygen saturation, measured by pulse oximetry, 92%; or
 	    2. to prevent or reverse signs of inadequate ventilation during positive-pressure mask ventilation under general anaesthesia
@@ -97,3 +97,5 @@ date: 2026-08-28
 # Sources
 - [Airway Assessment • LITFL Medical Blog • CCC Airway](https://litfl.com/airway-assessment/) - Chris Nickson - Updated July 1 2024 - Accessed 28 August 2026
 - [Airway Assessment](https://www.anzca.edu.au/getContentAsset/c50e48ef-cbb8-4093-b2af-eff208c07a48/80feb437-d24d-46b8-a858-4a2a28b9b970/PU-Airway-Assessment-20160916v1.pdf?language=en&view=1) - ANZCA - Bradley, P., Chapman, G., Crooke, B., Greenland, K August 2016 - Accessed 28 August 2026
+
+[^1]: More on the definition of the anatomically difficult airway can be read at [Recognition of the anatomically difficult airway](https://derangedphysiology.com/main/required-reading/airway-management/Chapter-111/recognition-anatomically-difficult-airway)
