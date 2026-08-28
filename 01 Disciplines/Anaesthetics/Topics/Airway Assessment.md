@@ -40,6 +40,60 @@ date: 2026-08-28
 - Teeth
 	- Teeth prominence
 	- Relaxation of maxillary to mandibular incisors during normal jaw closure
-	- 
+	- Dentures/caps/grows/loose teeth
+- Neck
+	- Range of motion of head and neck
+	- Thyro-mental distance <6cm
+	- Neck length and circumference/thickness
+	- Compliance of mandibular space
+	- Sternomental distance
+# Investigations
+- Investigations to consider:
+	- Nasal endoscopy
+	- Awake laryngoscopy
+	- Lateral neck x-ray
+	- Chest X-ray
+	- CT/MRI neck
+- Mallampati score
+	- Class I: Soft palate, uvula, fauces, pillars visible
+	- Class II: Soft palate, uvula, fauces visible
+	- Class III: Soft palate, base of uvula visible
+	- Class IV: Only hard palate visible
+- Cormack-Lehane Classification
+	- Grade 1: Full view of glottis
+	- Grade 2a: Partial view of glottis
+	- Grade 2b: Only posterior extremity of glottis seen or only arytenoid cartilages
+	- Grade 3: Only epiglottis seen, none of glottis seen
+	- Grade 4: Neither glottis nor epiglottis seen
+
+![Airway-grades](https://litfl.com/wp-content/uploads/2019/01/Airway-grades.gif)
+- Percentage of visible glottic opening (POGO)
+	- It requires the observer to estimate how much of the glottis is not visualised
+![[Pasted image 20260828150058.png]]
+# Mnemonics
+- Difficult intubation = LEMON
+	- Look externally
+	- Evaluate 3-3-2 rule
+	- Mallampati score
+	- Obstruction
+	- Neck Mobility
+- Difficult BVM = BONES
+	- Beard
+	- Obese
+	- No teeth
+	- Elderly
+	- Sleep Apnea / Snoring
+- Difficult LMA = RODS
+	- Restricted mouth opening
+	- Obstruction
+	- Distorted airway
+	- Stiff lungs or c-spine
+- Difficult surgical airway = SHORT
+	- Surgery
+	- Hematoma
+	- Obesity
+	- Radiation distortion or other deformity
+	- Tumor
 # Sources
 - [Airway Assessment • LITFL Medical Blog • CCC Airway](https://litfl.com/airway-assessment/) - Chris Nickson - Updated July 1 2024 - Accessed 28 August 2026
+- [Airway Assessment](https://www.anzca.edu.au/getContentAsset/c50e48ef-cbb8-4093-b2af-eff208c07a48/80feb437-d24d-46b8-a858-4a2a28b9b970/PU-Airway-Assessment-20160916v1.pdf?language=en&view=1) - ANZCA - Bradley, P., Chapman, G., Crooke, B., Greenland, K August 2016 - Accessed 28 August 2026
