@@ -4,6 +4,8 @@ Rotations:
   - "[[Emergency Medicine]]"
   - "[[Intensive Care Unit]]"
   - "[[Anaesthetics]]"
+aliases:
+  - VAFI
 ---
 # Indications
 - Cannot be used in awake patients; therefore used when [[Awake Intubation]] is not appropriate or infeasible (e.g. agitated, non-cooperative or obtunded patient) and:
