@@ -1,5 +1,5 @@
 ---
-date: 2026-08-31
+date: 2026-09-01
 ---
 - For analgesia:
 	- 0.25 mg/kg IV or 5-10 mg IV boluses titrated to effect
