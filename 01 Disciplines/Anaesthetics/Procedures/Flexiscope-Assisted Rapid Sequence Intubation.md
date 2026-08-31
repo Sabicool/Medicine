@@ -6,6 +6,8 @@ Rotations:
   - "[[Emergency Medicine]]"
   - "[[Intensive Care Unit]]"
 date: 2026-08-31
+tags:
+  - notes
 ---
 # Indications
 - Patients requiring [[Rapid Sequence Induction|RSI]] with controlled tube placement *below* the vocal cords for example in:

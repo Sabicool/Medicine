@@ -6,6 +6,8 @@ Rotations:
   - "[[Anaesthetics]]"
 aliases:
   - VAFI
+tags:
+  - notes
 ---
 # Indications
 - Cannot be used in awake patients; therefore used when [[Awake Intubation]] is not appropriate or infeasible (e.g. agitated, non-cooperative or obtunded patient) and:
