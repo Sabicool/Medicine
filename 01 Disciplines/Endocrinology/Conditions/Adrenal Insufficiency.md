@@ -2,7 +2,7 @@
 Rotations:
   - "[[Emergency Medicine]]"
   - "[[Intensive Care Unit]]"
-date: 2026-01-21
+date: 2026-09-08
 aliases:
   - Addison disease
 tags:
