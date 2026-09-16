@@ -23,6 +23,7 @@ $$
 > Placeholder answer with maths, $k = Cl / V_d$, and a second line.
 >
 > - A list inside the answer
+> %% anki: 1789579803677 %%
 
 # Test section with a TikZ figure
 
@@ -30,6 +31,7 @@ $$
 
 > [!cloze]
 > Placeholder cloze: the ==first blank== and the ==second blank== are tested here.
+> %% anki: 1789579803733 %%
 
 > [!note] Ordinary callout
 > Placeholder content in a normal note callout.
