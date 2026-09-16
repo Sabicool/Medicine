@@ -1,0 +1,78 @@
+% CICM Primary Textbook — shared figure style.
+%
+% Loaded by every TikZ figure in this folder and by the book preamble, so
+% colours, line weights and arrows match across figures. Keep the colours in
+% step with the Inkscape palette (dotfiles: home/common/inkscape/cicm-palette.gpl).
+%
+% A figure file looks like:
+%   \documentclass[11pt]{standalone}
+%   \usepackage{cicm-figure}
+%   \begin{document}
+%   \begin{tikzpicture} ... \end{tikzpicture}
+%   \end{document}
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{cicm-figure}[2026/09/17 CICM textbook figure style]
+
+\RequirePackage{xcolor}
+\definecolor{cicmink}{HTML}{15203B}
+\definecolor{cicmaccent}{HTML}{9E1B37}
+\definecolor{cicmblue}{HTML}{3F6E8C}
+\definecolor{cicmochre}{HTML}{C08A2B}
+\definecolor{cicmsage}{HTML}{5F8A5B}
+\definecolor{cicmgrey}{HTML}{8A8F99}
+\definecolor{cicmaccenttint}{HTML}{F3DFE3}
+\definecolor{cicmbluetint}{HTML}{DDE7EE}
+\definecolor{cicmpaper}{HTML}{EFE9DD}
+
+% Fonts are shared with the book so figure labels match the body text.
+\newcommand\cicmsetfonts{%
+  \RequirePackage{fontspec}%
+  \RequirePackage{unicode-math}%
+  \setmainfont{EBGaramond}[
+    Extension      = .otf,
+    UprightFont    = *-Regular,
+    ItalicFont     = *-Italic,
+    BoldFont       = *-SemiBold,
+    BoldItalicFont = *-SemiBoldItalic,
+    Numbers        = Lining,
+  ]%
+  \setmathfont{Garamond-Math.otf}%
+}
+\@ifclassloaded{standalone}{\cicmsetfonts}{}
+
+\RequirePackage{tikz}
+\usetikzlibrary{arrows.meta, calc, positioning, decorations.pathreplacing}
+\RequirePackage{pgfplots}
+\pgfplotsset{compat=1.18}
+
+% 0.4 / 0.8 / 1.2 pt — the same weights as the Inkscape template.
+\tikzset{
+  every picture/.style = {line width=0.8pt, color=cicmink, >={Stealth[length=2.4mm, width=1.8mm]}},
+  thin/.style          = {line width=0.4pt},
+  thick/.style         = {line width=1.2pt},
+  label/.style         = {font=\small},
+  box/.style           = {draw, rounded corners=0.6mm, fill=cicmbluetint, minimum width=20mm,
+                          minimum height=11mm, align=center, font=\small},
+  accent box/.style    = {box, draw=cicmaccent, fill=cicmaccenttint},
+}
+
+% Graphs: \begin{axis}[cicm, ...]
+\pgfplotsset{
+  cicm/.style = {
+    axis lines = left,
+    axis line style = {line width=0.8pt, -{Stealth[length=2.2mm, width=1.6mm]}},
+    every tick/.style = {line width=0.4pt, cicmink},
+    tick label style = {font=\footnotesize},
+    label style = {font=\small},
+    legend style = {font=\small, draw=none, fill=none},
+    width = 110mm, height = 65mm,
+    samples = 200,
+    cycle list = {
+      {cicmaccent, line width=1.2pt},
+      {cicmblue, line width=1.2pt, dashed},
+      {cicmochre, line width=1.2pt, dotted},
+      {cicmsage, line width=1.2pt, dashdotted},
+    },
+  },
+}
+\endinput

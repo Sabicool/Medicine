@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Placeholder figure for the pipeline trial, made from the CICM figure template. Delete after the trial. -->
+<svg
+   width="150mm"
+   height="50mm"
+   viewBox="0 0 150 50"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+  <sodipodi:namedview id="namedview" pagecolor="#ffffff" inkscape:document-units="mm" inkscape:current-layer="layer-figure" />
+  <defs id="defs">
+    <marker id="cicm-arrow" inkscape:stockid="CICM arrow" inkscape:isstock="true" orient="auto-start-reverse"
+       markerUnits="strokeWidth" markerWidth="8" markerHeight="6" refX="7" refY="3" viewBox="0 0 8 6" style="overflow:visible">
+      <path d="M 0,0 L 8,3 L 0,6 L 2,3 Z" style="fill:context-stroke;stroke:none" />
+    </marker>
+  </defs>
+  <g inkscape:label="Style guide (hidden)" inkscape:groupmode="layer" id="layer-style-guide" style="display:none" sodipodi:insensitive="true">
+    <text x="4" y="8" style="font-family:'EB Garamond';font-size:3.5px;fill:#15203b">Hidden layer: must not appear or affect the crop</text>
+    <rect x="-40" y="-40" width="10" height="10" style="fill:#9e1b37" />
+  </g>
+  <g inkscape:label="Figure" inkscape:groupmode="layer" id="layer-figure">
+    <rect x="20" y="15" width="32" height="20" rx="0.6" style="fill:#dde7ee;stroke:#15203b;stroke-width:0.28" />
+    <text x="36" y="26.2" style="font-family:'EB Garamond';font-size:3.5px;fill:#15203b;text-anchor:middle">Box A</text>
+    <rect x="98" y="15" width="32" height="20" rx="0.6" style="fill:#f3dfe3;stroke:#9e1b37;stroke-width:0.28" />
+    <text x="114" y="26.2" style="font-family:'EB Garamond';font-size:3.5px;fill:#15203b;text-anchor:middle">Box B</text>
+    <path d="M 53,21 H 97" style="fill:none;stroke:#15203b;stroke-width:0.28;marker-end:url(#cicm-arrow)" />
+    <path d="M 97,29 H 53" style="fill:none;stroke:#15203b;stroke-width:0.28;marker-end:url(#cicm-arrow)" />
+    <text x="75" y="18.5" style="font-family:'EB Garamond';font-size:3.5px;fill:#15203b;text-anchor:middle">$k_{12}$ (maths label)</text>
+    <text x="75" y="34.5" style="font-family:'EB Garamond';font-size:3.5px;fill:#15203b;text-anchor:middle">k₂₁ (Unicode label)</text>
+    <path d="M 36,45 V 36" style="fill:none;stroke:#3f6e8c;stroke-width:0.42;stroke-dasharray:1.2,0.8;marker-end:url(#cicm-arrow)" />
+    <text x="38" y="46" style="font-family:'EB Garamond';font-size:3.5px;fill:#15203b">Left-aligned placeholder label</text>
+  </g>
+</svg>

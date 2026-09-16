@@ -1,0 +1,22 @@
+% Placeholder figure for the pipeline trial — delete after the trial.
+\documentclass[11pt]{standalone}
+\usepackage{cicm-figure}
+\begin{document}
+\begin{tikzpicture}
+  \begin{axis}[
+    cicm,
+    xlabel = {Time (placeholder units)},
+    ylabel = {Concentration},
+    xmin = 0, xmax = 10, ymin = 0, ymax = 11,
+    ytick = \empty,
+    legend pos = north east,
+  ]
+    \addplot+[domain=0:10, mark=none] {10*exp(-0.35*x)};
+    \addlegendentry{$C = C_0 e^{-kt}$}
+    \addplot+[domain=0:10, mark=none] {6*exp(-0.8*x) + 4*exp(-0.12*x)};
+    \addlegendentry{Placeholder two-phase curve}
+    \draw[thin, dashed, cicmgrey] (axis cs:2,0) -- (axis cs:2,{10*exp(-0.7)});
+    \node[label, anchor=south west] at (axis cs:2,{10*exp(-0.7)}) {Placeholder label};
+  \end{axis}
+\end{tikzpicture}
+\end{document}
