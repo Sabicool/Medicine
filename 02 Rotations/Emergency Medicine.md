@@ -1,5 +1,5 @@
 ---
-date: 2026-06-19
+date: 2026-09-17
 ---
 Notes for the emergency department — the undifferentiated patient, time-critical presentations and the resuscitation of the acutely unwell. The lists below pull together the relevant conditions, emergencies and approaches from my discipline notes.
 # Common Conditions and Presentations
@@ -69,6 +69,7 @@ Notes for the emergency department — the undifferentiated patient, time-critic
     - [[Arterial Line]]
     - [[Central Line Insertion]]
     - [[Emergency Pericardiocentesis]]
+    - [[Flexiscope-Assisted Rapid Sequence Intubation]]
     - [[General Anaesthesia]]
     - [[Intubation]]
     - [[Laryngeal Mask Airway Insertion]]
@@ -76,6 +77,7 @@ Notes for the emergency department — the undifferentiated patient, time-critic
     - [[Lung POCUS]]
     - [[Rapid Sequence Induction]]
     - [[Rush Exam]]
+    - [[Video-Assisted Flexible Intubation]]
 
 - Topics: 
     - [[Fluid Responsiveness]]
@@ -109,4 +111,5 @@ Notes for the emergency department — the undifferentiated patient, time-critic
 - Notes on training: [Emergency Medicine Training](00%20Reference/Training/Emergency%20Medicine%20Training.md)
 - NSW ECI/ACI clinical guidelines
 - Toxicology guidelines: [Austin Health Toxicology Guidelines](https://www.austin.org.au/clinical-toxicology-guidelines/) *one pager Australian guidelines on toxicology for most medications that people overdose on and come through the ED with*
+- Fracture imaging findings: [Know Your Lines • LITFL](https://litfl.com/know-your-lines/)
   
