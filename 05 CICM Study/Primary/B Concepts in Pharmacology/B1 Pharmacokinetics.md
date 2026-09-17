@@ -1,6 +1,5 @@
 ---
-cicm-code: B1
-syllabus: CICM First Part Syllabus, 5th edition (2025)
+date: 2026-09-17
 ---
 # B1.i Explain the single and multiple compartment pharmacokinetic models
 
