@@ -1,7 +1,7 @@
 ---
 tags:
   - notes
-date: 2026-08-29
+date: 2026-09-24
 ---
 # Definition
 - The purpose of an airway assessment is to predict and plan for a difficult airway
@@ -27,16 +27,19 @@ date: 2026-08-29
 - Whenever possible identify:
 	- The patient’s previous intubation grade and previous difficulties with airway management
 	- Determine what techniques and manoeuvres were required to optimise airway management conditions
+	- History of airway-altering changes since the last anaesthetic (e.g. significant weight gain, C-spine surgery, head and neck radiotherapy etc.)
 ## Examination
 - General
 	- Level of consciousness and co-operation
+	- Level of comfort (i.e. can the patient be positioned properly, or are they too short of breath)
 	- BMI
+	- Pregnancy
 - Face: facial hair, craniofacial deformities
 - Mouth
-	- Mallampati grade
+	- Mallampati grade (>2 predicts difficult airway)
 	- Mouth opening (inter incisor distance)
-	- Shape of palate
-	- Jaw protrusion
+	- Shape of palate (e.g. arched or narrow)
+	- Jaw protrusion and patient’s ability to prognath (voluntarily protrude the mandible)
 - Teeth
 	- Teeth prominence
 	- Relaxation of maxillary to mandibular incisors during normal jaw closure
@@ -44,9 +47,10 @@ date: 2026-08-29
 - Neck
 	- Range of motion of head and neck
 	- Thyro-mental distance <6cm
+	- Mandibulo-hyoid distance <4cm
+	- Sternomental distance <12cm
 	- Neck length and circumference/thickness
 	- Compliance of mandibular space
-	- Sternomental distance
 # Investigations
 - Investigations to consider:
 	- Nasal endoscopy
