@@ -1,6 +1,8 @@
 ---
 date: 2026-09-23
 figureCount: 1
+Rotations:
+  - "[[Emergency Medicine]]"
 ---
 
 <figure style="text-align: center;">
