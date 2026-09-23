@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+  POGO score: the percentage of the glottic opening that is seen, from the
+  anterior commissure of the cords to the interarytenoid notch.
+  Edit in Inkscape; `make figures` writes the .svg that notes embed.
+-->
+<svg width="122mm" height="50mm" viewBox="0 0 122 50" version="1.1"
+   xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+  <sodipodi:namedview id="namedview" pagecolor="#ffffff" bordercolor="#15203b"
+     inkscape:document-units="mm" inkscape:current-layer="layer-figure" />
+  <defs id="defs">
+    <clipPath id="clip-field" clipPathUnits="userSpaceOnUse"><path d="M 0,0 C 8.4,0 15,5.8 15,13 C 15,20.2 8.4,26 0,26 C -8.4,26 -15,20.2 -15,13 C -15,5.8 -8.4,0 0,0 Z" /></clipPath>
+  </defs>
+  <g inkscape:label="Figure" inkscape:groupmode="layer" id="layer-figure">
+
+    <g id="panel-1" inkscape:label="100 per cent" transform="translate(20,14)">
+      <path d="M 0,0 C 8.4,0 15,5.8 15,13 C 15,20.2 8.4,26 0,26 C -8.4,26 -15,20.2 -15,13 C -15,5.8 -8.4,0 0,0 Z" style="fill:#f9f0f1;stroke:#15203b;stroke-width:0.28" />
+      <g clip-path="url(#clip-field)">
+        <!-- aryepiglottic folds -->
+        <path d="M -6.6,8.5 C -8.4,13 -8.2,17.5 -6.6,21.4 L -3.2,21.4 C -4.6,17 -4.6,12.5 -3.4,8.6 Z"
+              style="fill:#f3dfe3;stroke:#15203b;stroke-width:0.14" />
+        <path d="M 6.6,8.5 C 8.4,13 8.2,17.5 6.6,21.4 L 3.2,21.4 C 4.6,17 4.6,12.5 3.4,8.6 Z"
+              style="fill:#f3dfe3;stroke:#15203b;stroke-width:0.14" />
+        <!-- glottic aperture -->
+        <path id="glottis" d="M 0,7.2 L 3.5,19.6 C 2.2,21.4 -2.2,21.4 -3.5,19.6 Z"
+              style="fill:#2b3242;stroke:none" />
+        <!-- vocal cords -->
+        <path d="M 0,7.2 L 3.5,19.6 L 5.9,19.2 C 4.6,14.6 2.6,10.4 0.9,7.1 Z"
+              style="fill:#fdfbfb;stroke:#15203b;stroke-width:0.28" />
+        <path d="M 0,7.2 L -3.5,19.6 L -5.9,19.2 C -4.6,14.6 -2.6,10.4 -0.9,7.1 Z"
+              style="fill:#fdfbfb;stroke:#15203b;stroke-width:0.28" />
+        <!-- arytenoid and corniculate prominences -->
+        <path d="M 3.4,19.8 C 5,20.4 5.6,22 4.6,23 C 3.4,24 1.6,23.2 1.5,21.4 Z"
+              style="fill:#f3dfe3;stroke:#15203b;stroke-width:0.28" />
+        <path d="M -3.4,19.8 C -5,20.4 -5.6,22 -4.6,23 C -3.4,24 -1.6,23.2 -1.5,21.4 Z"
+              style="fill:#f3dfe3;stroke:#15203b;stroke-width:0.28" />
+        <!-- interarytenoid notch -->
+        <path d="M -1.5,21.6 C -0.6,22.4 0.6,22.4 1.5,21.6" style="fill:none;stroke:#15203b;stroke-width:0.14" />
+        <path id="tongue-base" d="M -15.5,-1 H 15.5 V 3.2 C 8,4.6 -8,4.6 -15.5,3.2 Z" style="fill:#f9f0f1;stroke:#15203b;stroke-width:0.28" />
+        <path id="epiglottis" d="M 0,1.6 C -8.8,1.6 -9.8,3.8 -9.8,6 C -9.8,4.2 -5.6,6.8 0,6.8 C 5.6,6.8 9.8,4.2 9.8,6 C 9.8,3.8 8.8,1.6 0,1.6 Z" style="fill:#f3dfe3;stroke:#15203b;stroke-width:0.28" />
+      </g>
+      <path d="M 16,7.2 H 19.2 M 16,21.6 H 19.2" style="fill:none;stroke:#15203b;stroke-width:0.28" />
+      
+      <path d="M 17.6,7.2 V 21.6" style="fill:none;stroke:#15203b;stroke-width:0.28" />
+      <text x="20.8" y="15.6" style="font-family:'EB Garamond';font-size:3.5px;fill:#15203b">100\%</text>
+      <text x="0" y="-4" style="font-family:'EB Garamond';font-size:3.5px;fill:#15203b;text-anchor:middle">100 per cent</text>
+    </g>
+    <g id="panel-2" inkscape:label="40 per cent" transform="translate(84,14)">
+      <path d="M 0,0 C 8.4,0 15,5.8 15,13 C 15,20.2 8.4,26 0,26 C -8.4,26 -15,20.2 -15,13 C -15,5.8 -8.4,0 0,0 Z" style="fill:#f9f0f1;stroke:#15203b;stroke-width:0.28" />
+      <g clip-path="url(#clip-field)">
+        <!-- aryepiglottic folds -->
+        <path d="M -6.6,8.5 C -8.4,13 -8.2,17.5 -6.6,21.4 L -3.2,21.4 C -4.6,17 -4.6,12.5 -3.4,8.6 Z"
+              style="fill:#f3dfe3;stroke:#15203b;stroke-width:0.14" />
+        <path d="M 6.6,8.5 C 8.4,13 8.2,17.5 6.6,21.4 L 3.2,21.4 C 4.6,17 4.6,12.5 3.4,8.6 Z"
+              style="fill:#f3dfe3;stroke:#15203b;stroke-width:0.14" />
+        <!-- glottic aperture -->
+        <path id="glottis" d="M 0,7.2 L 3.5,19.6 C 2.2,21.4 -2.2,21.4 -3.5,19.6 Z"
+              style="fill:#2b3242;stroke:none" />
+        <!-- vocal cords -->
+        <path d="M 0,7.2 L 3.5,19.6 L 5.9,19.2 C 4.6,14.6 2.6,10.4 0.9,7.1 Z"
+              style="fill:#fdfbfb;stroke:#15203b;stroke-width:0.28" />
+        <path d="M 0,7.2 L -3.5,19.6 L -5.9,19.2 C -4.6,14.6 -2.6,10.4 -0.9,7.1 Z"
+              style="fill:#fdfbfb;stroke:#15203b;stroke-width:0.28" />
+        <!-- arytenoid and corniculate prominences -->
+        <path d="M 3.4,19.8 C 5,20.4 5.6,22 4.6,23 C 3.4,24 1.6,23.2 1.5,21.4 Z"
+              style="fill:#f3dfe3;stroke:#15203b;stroke-width:0.28" />
+        <path d="M -3.4,19.8 C -5,20.4 -5.6,22 -4.6,23 C -3.4,24 -1.6,23.2 -1.5,21.4 Z"
+              style="fill:#f3dfe3;stroke:#15203b;stroke-width:0.28" />
+        <!-- interarytenoid notch -->
+        <path d="M -1.5,21.6 C -0.6,22.4 0.6,22.4 1.5,21.6" style="fill:none;stroke:#15203b;stroke-width:0.14" />
+        <path id="tongue-base" d="M -15.5,-1 H 15.5 V 3.2 C 8,4.6 -8,4.6 -15.5,3.2 Z" style="fill:#f9f0f1;stroke:#15203b;stroke-width:0.28" />
+        <path id="epiglottis" d="M 0,1.6 C -8.8,1.6 -9.8,3.8 -9.8,6 C -9.8,13.2 -5.6,15.8 0,15.8 C 5.6,15.8 9.8,13.2 9.8,6 C 9.8,3.8 8.8,1.6 0,1.6 Z" style="fill:#f3dfe3;stroke:#15203b;stroke-width:0.28" />
+      </g>
+      <path d="M 16,7.2 H 19.2 M 16,21.6 H 19.2" style="fill:none;stroke:#15203b;stroke-width:0.28" />
+      <path d="M 17.6,7.2 V 15.8" style="fill:none;stroke:#15203b;stroke-width:0.14;stroke-dasharray:0.9,0.7" />
+      <path d="M 17.6,15.8 V 21.6" style="fill:none;stroke:#15203b;stroke-width:0.28" />
+      <text x="20.8" y="19.9" style="font-family:'EB Garamond';font-size:3.5px;fill:#15203b">40\%</text>
+      <text x="0" y="-4" style="font-family:'EB Garamond';font-size:3.5px;fill:#15203b;text-anchor:middle">40 per cent</text>
+    </g>
+  </g>
+</svg>

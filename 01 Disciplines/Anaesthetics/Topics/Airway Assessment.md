@@ -13,6 +13,35 @@ date: 2026-09-24
 		- This typically corresponds to a Cormack and Lehane Grade IV laryngoscopy view
 	- Difficult endotracheal intubation occurs when “proper insertion of the tracheal tube with conventional laryngoscopy requires more than three attempts or more than 10 minutes”
 # Pre-Operative Airway Assessment
+
+> [!NOTE] LEMON Screening Tool to Predict Difficult Laryngoscopy
+> - **L**ook:
+> 	- Dose the patient look like the stereotypical difficult intubation
+> - **E**valuate: 3:3:2 rule:
+> 	- 3 fingers width of mouth opening
+> 	- 3 fingers width of thyromental distance (from the thyroid cartilage to the mental process of the mandible)
+> 	- 2 fingers width of distance from the hyoid to the thyroid
+> - **M**allampati score
+> - **O**besity and **o**bstruction
+> 	- Is the patient morbidly obese
+> 	- Is there some sort of obstruction (e.g. abscess)
+> - **N**eck mobility
+
+
+> [!NOTE] BONES to Predict Difficult Bag Valve Mask Ventilation
+> - **B**eard
+> - **O**besity
+> - **N**o teeth
+> - **S**leep apnoea or **S**noring
+
+
+> [!NOTE] SHORT to Predict Difficult Surgical Airway
+> - **S**urgery of the neck
+> - **H**aematoma at the neck
+> - **O**besity at the neck
+> - **R**adiation distortion or other deformity
+> - **T**umour
+
 ## History
 - General history elements:
 	- Reason for airway protection/management
@@ -70,10 +99,13 @@ date: 2026-09-24
 	- Grade 3: Only epiglottis seen, none of glottis seen
 	- Grade 4: Neither glottis nor epiglottis seen
 
-![Airway-grades](https://litfl.com/wp-content/uploads/2019/01/Airway-grades.gif)
+![[mallampati-classification.svg]]
 - Percentage of visible glottic opening (POGO)
 	- It requires the observer to estimate how much of the glottis is not visualised
-![[Pasted image 20260828150058.png]]
+
+![[cormack-lehane-grades.svg]]
+![[pogo-score.svg]]
+
 # Mnemonics
 - Difficult intubation = LEMON
 	- Look externally
@@ -101,5 +133,6 @@ date: 2026-09-24
 # Sources
 - [Airway Assessment • LITFL Medical Blog • CCC Airway](https://litfl.com/airway-assessment/) - Chris Nickson - Updated July 1 2024 - Accessed 28 August 2026
 - [Airway Assessment](https://www.anzca.edu.au/getContentAsset/c50e48ef-cbb8-4093-b2af-eff208c07a48/80feb437-d24d-46b8-a858-4a2a28b9b970/PU-Airway-Assessment-20160916v1.pdf?language=en&view=1) - ANZCA - Bradley, P., Chapman, G., Crooke, B., Greenland, K August 2016 - Accessed 28 August 2026
+- [Recognition of the anatomically difficult airway](https://derangedphysiology.com/main/required-reading/airway-management/Chapter-111/recognition-anatomically-difficult-airway) - Deranged Physiology - Alex Yartsev - Last Updated 17/07/2026 - Accessed 24 September 2026
 
 [^1]: More on the definition of the anatomically difficult airway can be read at [Recognition of the anatomically difficult airway](https://derangedphysiology.com/main/required-reading/airway-management/Chapter-111/recognition-anatomically-difficult-airway)
