@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+  Modified Mallampati classification (Samsoon and Young), drawn for the CICM
+  primary notes. Seen from in front with the patient sitting, mouth fully open
+  and tongue protruded, without phonation.
+
+  Each panel is the same mouth; only the tongue path rises, hiding the
+  structures in turn:
+    Class I    soft palate, uvula and both tonsillar pillars
+    Class II   soft palate and uvula; pillars hidden
+    Class III  soft palate and the base of the uvula only
+    Class IV   hard palate only
+
+  Edit this file in Inkscape, then `make figures` writes
+  mallampati-classification.svg, which is what notes embed.
+-->
+<svg
+   width="150mm"
+   height="58mm"
+   viewBox="0 0 150 58"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+  <sodipodi:namedview id="namedview" pagecolor="#ffffff" bordercolor="#15203b"
+     inkscape:document-units="mm" inkscape:current-layer="layer-figure" />
+  <defs id="defs">
+    <clipPath id="clip-cavity" clipPathUnits="userSpaceOnUse">
+      <path d="M 0,3.5 C 6,3.5 10.5,9 10.5,17 C 10.5,25 6,30.5 0,30.5 C -6,30.5 -10.5,25 -10.5,17 C -10.5,9 -6,3.5 0,3.5 Z" />
+    </clipPath>
+  </defs>
+  <g inkscape:label="Figure" inkscape:groupmode="layer" id="layer-figure">
+
+    <!-- ── Class I ──────────────────────────────────────────────────────── -->
+    <g id="panel-1" inkscape:label="Class I" transform="translate(18,18)">
+      <path id="lips-1" d="M 0,1 C 7,1 13,8 13,17 C 13,26 7,33 0,33 C -7,33 -13,26 -13,17 C -13,8 -7,1 0,1 Z" style="fill:#ffffff;stroke:#15203b;stroke-width:0.28" />
+      <path id="cavity-1" d="M 0,3.5 C 6,3.5 10.5,9 10.5,17 C 10.5,25 6,30.5 0,30.5 C -6,30.5 -10.5,25 -10.5,17 C -10.5,9 -6,3.5 0,3.5 Z" style="fill:#f3dfe3;stroke:#15203b;stroke-width:0.14" />
+      <g clip-path="url(#clip-cavity)">
+        <!-- oropharynx seen behind the palate -->
+        <path d="M -8.6,7 H 8.6 V 29 H -8.6 Z" style="fill:#e0c3ca;stroke:none" />
+        <!-- soft palate, its free edge dipping to the uvula -->
+        <path d="M -10.6,2.5 H 10.6 V 14 C 6.6,13 2.6,10.4 0,10.4 C -2.6,10.4 -6.6,13 -10.6,14 Z"
+              style="fill:#f3dfe3;stroke:#15203b;stroke-width:0.28" />
+        <!-- tonsillar pillars -->
+        <path d="M -8.4,13.6 C -8.8,16.5 -8.5,19.5 -7.6,22.8" style="fill:none;stroke:#15203b;stroke-width:0.28" />
+        <path d="M 8.4,13.6 C 8.8,16.5 8.5,19.5 7.6,22.8" style="fill:none;stroke:#15203b;stroke-width:0.28" />
+        <!-- uvula -->
+        <path d="M 0,9.8 C -1.35,11.8 -1.45,14.8 0,17.4 C 1.45,14.8 1.35,11.8 0,9.8 Z"
+              style="fill:#f3dfe3;stroke:#15203b;stroke-width:0.28" />
+        <!-- upper teeth -->
+        <path d="M -9.4,5.9 C -6,3.2 6,3.2 9.4,5.9 L 8.4,7.3 C 5.6,5.1 -5.6,5.1 -8.4,7.3 Z"
+              style="fill:#ffffff;stroke:#15203b;stroke-width:0.14" />
+        <path d="M -4.5,4.35 L -4.2,6 M 0,3.95 L 0,5.6 M 4.5,4.35 L 4.2,6"
+              style="fill:none;stroke:#15203b;stroke-width:0.14" />
+        <!-- tongue: the only path that differs between classes -->
+        <path id="tongue-1" d="M -11,26.20 C -7,23.10 7,23.10 11,26.20 L 11,31.5 L -11,31.5 Z" style="fill:#f9f0f1;stroke:#15203b;stroke-width:0.28" />
+      </g>
+      <text x="0" y="-4" style="font-family:'EB Garamond';font-size:3.5px;fill:#15203b;text-anchor:middle">Class I</text>
+    </g>
+    <!-- ── Class II ──────────────────────────────────────────────────────── -->
+    <g id="panel-2" inkscape:label="Class II" transform="translate(56,18)">
+      <path id="lips-2" d="M 0,1 C 7,1 13,8 13,17 C 13,26 7,33 0,33 C -7,33 -13,26 -13,17 C -13,8 -7,1 0,1 Z" style="fill:#ffffff;stroke:#15203b;stroke-width:0.28" />
+      <path id="cavity-2" d="M 0,3.5 C 6,3.5 10.5,9 10.5,17 C 10.5,25 6,30.5 0,30.5 C -6,30.5 -10.5,25 -10.5,17 C -10.5,9 -6,3.5 0,3.5 Z" style="fill:#f3dfe3;stroke:#15203b;stroke-width:0.14" />
+      <g clip-path="url(#clip-cavity)">
+        <!-- oropharynx seen behind the palate -->
+        <path d="M -8.6,7 H 8.6 V 29 H -8.6 Z" style="fill:#e0c3ca;stroke:none" />
+        <!-- soft palate, its free edge dipping to the uvula -->
+        <path d="M -10.6,2.5 H 10.6 V 14 C 6.6,13 2.6,10.4 0,10.4 C -2.6,10.4 -6.6,13 -10.6,14 Z"
+              style="fill:#f3dfe3;stroke:#15203b;stroke-width:0.28" />
+        <!-- tonsillar pillars -->
+        <path d="M -8.4,13.6 C -8.8,16.5 -8.5,19.5 -7.6,22.8" style="fill:none;stroke:#15203b;stroke-width:0.28" />
+        <path d="M 8.4,13.6 C 8.8,16.5 8.5,19.5 7.6,22.8" style="fill:none;stroke:#15203b;stroke-width:0.28" />
+        <!-- uvula -->
+        <path d="M 0,9.8 C -1.35,11.8 -1.45,14.8 0,17.4 C 1.45,14.8 1.35,11.8 0,9.8 Z"
+              style="fill:#f3dfe3;stroke:#15203b;stroke-width:0.28" />
+        <!-- upper teeth -->
+        <path d="M -9.4,5.9 C -6,3.2 6,3.2 9.4,5.9 L 8.4,7.3 C 5.6,5.1 -5.6,5.1 -8.4,7.3 Z"
+              style="fill:#ffffff;stroke:#15203b;stroke-width:0.14" />
+        <path d="M -4.5,4.35 L -4.2,6 M 0,3.95 L 0,5.6 M 4.5,4.35 L 4.2,6"
+              style="fill:none;stroke:#15203b;stroke-width:0.14" />
+        <!-- tongue: the only path that differs between classes -->
+        <path id="tongue-2" d="M -11,18.40 C -7,15.30 7,15.30 11,18.40 L 11,31.5 L -11,31.5 Z" style="fill:#f9f0f1;stroke:#15203b;stroke-width:0.28" />
+      </g>
+      <text x="0" y="-4" style="font-family:'EB Garamond';font-size:3.5px;fill:#15203b;text-anchor:middle">Class II</text>
+    </g>
+    <!-- ── Class III ──────────────────────────────────────────────────────── -->
+    <g id="panel-3" inkscape:label="Class III" transform="translate(94,18)">
+      <path id="lips-3" d="M 0,1 C 7,1 13,8 13,17 C 13,26 7,33 0,33 C -7,33 -13,26 -13,17 C -13,8 -7,1 0,1 Z" style="fill:#ffffff;stroke:#15203b;stroke-width:0.28" />
+      <path id="cavity-3" d="M 0,3.5 C 6,3.5 10.5,9 10.5,17 C 10.5,25 6,30.5 0,30.5 C -6,30.5 -10.5,25 -10.5,17 C -10.5,9 -6,3.5 0,3.5 Z" style="fill:#f3dfe3;stroke:#15203b;stroke-width:0.14" />
+      <g clip-path="url(#clip-cavity)">
+        <!-- oropharynx seen behind the palate -->
+        <path d="M -8.6,7 H 8.6 V 29 H -8.6 Z" style="fill:#e0c3ca;stroke:none" />
+        <!-- soft palate, its free edge dipping to the uvula -->
+        <path d="M -10.6,2.5 H 10.6 V 14 C 6.6,13 2.6,10.4 0,10.4 C -2.6,10.4 -6.6,13 -10.6,14 Z"
+              style="fill:#f3dfe3;stroke:#15203b;stroke-width:0.28" />
+        <!-- tonsillar pillars -->
+        <path d="M -8.4,13.6 C -8.8,16.5 -8.5,19.5 -7.6,22.8" style="fill:none;stroke:#15203b;stroke-width:0.28" />
+        <path d="M 8.4,13.6 C 8.8,16.5 8.5,19.5 7.6,22.8" style="fill:none;stroke:#15203b;stroke-width:0.28" />
+        <!-- uvula -->
+        <path d="M 0,9.8 C -1.35,11.8 -1.45,14.8 0,17.4 C 1.45,14.8 1.35,11.8 0,9.8 Z"
+              style="fill:#f3dfe3;stroke:#15203b;stroke-width:0.28" />
+        <!-- upper teeth -->
+        <path d="M -9.4,5.9 C -6,3.2 6,3.2 9.4,5.9 L 8.4,7.3 C 5.6,5.1 -5.6,5.1 -8.4,7.3 Z"
+              style="fill:#ffffff;stroke:#15203b;stroke-width:0.14" />
+        <path d="M -4.5,4.35 L -4.2,6 M 0,3.95 L 0,5.6 M 4.5,4.35 L 4.2,6"
+              style="fill:none;stroke:#15203b;stroke-width:0.14" />
+        <!-- tongue: the only path that differs between classes -->
+        <path id="tongue-3" d="M -11,13.60 C -7,10.50 7,10.50 11,13.60 L 11,31.5 L -11,31.5 Z" style="fill:#f9f0f1;stroke:#15203b;stroke-width:0.28" />
+      </g>
+      <text x="0" y="-4" style="font-family:'EB Garamond';font-size:3.5px;fill:#15203b;text-anchor:middle">Class III</text>
+    </g>
+    <!-- ── Class IV ──────────────────────────────────────────────────────── -->
+    <g id="panel-4" inkscape:label="Class IV" transform="translate(132,18)">
+      <path id="lips-4" d="M 0,1 C 7,1 13,8 13,17 C 13,26 7,33 0,33 C -7,33 -13,26 -13,17 C -13,8 -7,1 0,1 Z" style="fill:#ffffff;stroke:#15203b;stroke-width:0.28" />
+      <path id="cavity-4" d="M 0,3.5 C 6,3.5 10.5,9 10.5,17 C 10.5,25 6,30.5 0,30.5 C -6,30.5 -10.5,25 -10.5,17 C -10.5,9 -6,3.5 0,3.5 Z" style="fill:#f3dfe3;stroke:#15203b;stroke-width:0.14" />
+      <g clip-path="url(#clip-cavity)">
+        <!-- oropharynx seen behind the palate -->
+        <path d="M -8.6,7 H 8.6 V 29 H -8.6 Z" style="fill:#e0c3ca;stroke:none" />
+        <!-- soft palate, its free edge dipping to the uvula -->
+        <path d="M -10.6,2.5 H 10.6 V 14 C 6.6,13 2.6,10.4 0,10.4 C -2.6,10.4 -6.6,13 -10.6,14 Z"
+              style="fill:#f3dfe3;stroke:#15203b;stroke-width:0.28" />
+        <!-- tonsillar pillars -->
+        <path d="M -8.4,13.6 C -8.8,16.5 -8.5,19.5 -7.6,22.8" style="fill:none;stroke:#15203b;stroke-width:0.28" />
+        <path d="M 8.4,13.6 C 8.8,16.5 8.5,19.5 7.6,22.8" style="fill:none;stroke:#15203b;stroke-width:0.28" />
+        <!-- uvula -->
+        <path d="M 0,9.8 C -1.35,11.8 -1.45,14.8 0,17.4 C 1.45,14.8 1.35,11.8 0,9.8 Z"
+              style="fill:#f3dfe3;stroke:#15203b;stroke-width:0.28" />
+        <!-- upper teeth -->
+        <path d="M -9.4,5.9 C -6,3.2 6,3.2 9.4,5.9 L 8.4,7.3 C 5.6,5.1 -5.6,5.1 -8.4,7.3 Z"
+              style="fill:#ffffff;stroke:#15203b;stroke-width:0.14" />
+        <path d="M -4.5,4.35 L -4.2,6 M 0,3.95 L 0,5.6 M 4.5,4.35 L 4.2,6"
+              style="fill:none;stroke:#15203b;stroke-width:0.14" />
+        <!-- tongue: the only path that differs between classes -->
+        <path id="tongue-4" d="M -11,10.40 C -7,7.30 7,7.30 11,10.40 L 11,31.5 L -11,31.5 Z" style="fill:#f9f0f1;stroke:#15203b;stroke-width:0.28" />
+      </g>
+      <text x="0" y="-4" style="font-family:'EB Garamond';font-size:3.5px;fill:#15203b;text-anchor:middle">Class IV</text>
+    </g>
+  </g>
+</svg>
