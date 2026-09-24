@@ -117,7 +117,8 @@ The ANZCA document outlines the essential components of the routine airway asses
 	- Grade 1: Full view of glottis
 	- Grade 2a: Partial view of glottis
 	- Grade 2b: Only posterior extremity of glottis seen or only arytenoid cartilages
-	- Grade 3: Only epiglottis seen, none of glottis seen
+	- Grade 3a: Epiglottis can be lifted from the posterior pharyngeal wall
+	- Grade 3b: Epiglottis cannot be lifted from the posterior pharyngeal wall
 	- Grade 4: Neither glottis nor epiglottis seen
 
 ![[cormack-lehane-grades.svg]]
