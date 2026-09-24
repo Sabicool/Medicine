@@ -35,6 +35,12 @@ date: 2026-09-24
 > - **S**leep apnoea or **S**noring
 
 
+> [!NOTE] RODS to Predict Difficult Laryngeal Mask Airway Insertion
+> - **R**estricted mouth opening 
+> - **O**bstruction
+> - **D**istorted airway
+> - **S**tiff lungs or c-spine
+
 > [!NOTE] SHORT to Predict Difficult Surgical Airway
 > - **S**urgery of the neck
 > - **H**aematoma at the neck
@@ -42,6 +48,17 @@ date: 2026-09-24
 > - **R**adiation distortion or other deformity
 > - **T**umour
 
+The ANZCA document outlines the essential components of the routine airway assessment:
+1. Presence of any previous anaesthesia issues
+2. Presence of any gastric reflux
+3. Presence of any obstructive sleep apnoea
+4. Body mass index
+5. Mouth opening
+6. Modified Mallampati score
+7. Dental status
+8. Thyro-mental distance
+9. Jaw protrusion
+10. Cervical spine movemen
 ## History
 - General history elements:
 	- Reason for airway protection/management
@@ -122,17 +139,25 @@ date: 2026-09-24
 	- No teeth
 	- Elderly
 	- Sleep Apnea / Snoring
-- Difficult LMA = RODS
-	- Restricted mouth opening
-	- Obstruction
-	- Distorted airway
-	- Stiff lungs or c-spine
 - Difficult surgical airway = SHORT
 	- Surgery
 	- Hematoma
 	- Obesity
 	- Radiation distortion or other deformity
 	- Tumor
+# Other Notes
+The ANZCA document outlining airway assessment describes it being mandatory to provide written information to the patient and their medical practitioner when a difficult airway is encountered as well as advice for them to get a medical alert bracelet.
+# Determining an Airway Management Plan
+There are nine core airway management considerations:
+1. Is there information about any previous airway difficulties?
+2. Is there any altered cardiorespiratory physiology?
+3. What is the impact of the surgery on the airway?
+4. How difficult will it be to bag-and mask ventilate?
+5. How difficult is it to place a supraglottic airway?
+6. How difficult will it be to intubate the patient?
+7. How difficult will it be to perform an infraglottic airway?
+8. What is the risk of aspiration?
+9. How easy will they be to extubate safely?
 # Sources
 - [Airway Assessment • LITFL Medical Blog • CCC Airway](https://litfl.com/airway-assessment/) - Chris Nickson - Updated July 1 2024 - Accessed 28 August 2026
 - [Airway Assessment](https://www.anzca.edu.au/getContentAsset/c50e48ef-cbb8-4093-b2af-eff208c07a48/80feb437-d24d-46b8-a858-4a2a28b9b970/PU-Airway-Assessment-20160916v1.pdf?language=en&view=1) - ANZCA - Bradley, P., Chapman, G., Crooke, B., Greenland, K August 2016 - Accessed 28 August 2026
