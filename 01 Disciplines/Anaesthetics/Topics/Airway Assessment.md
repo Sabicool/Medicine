@@ -27,20 +27,20 @@ date: 2026-09-24
 > 	- Is there some sort of obstruction (e.g. abscess)
 > - **N**eck mobility
 
-
 > [!NOTE] BONES to Predict Difficult Bag Valve Mask Ventilation
 > - **B**eard
 > - **O**besity
 > - **N**o teeth
 > - **S**leep apnoea or **S**noring
 > 
-> Although the most valuable independent predictors of difficult mask ventilation as per RCoA analysis are: Age > 55 years, BMI > 26, lack of definition, facial hair, history of snoring
+> Although the most valuable independent predictors of difficult mask ventilation as per RCoA analysis are: Age > 55 years, BMI > 26, lack of definition, facial hair, history of snoring.
+> Alternatively MOANS can be used instead — **m**ask seal features (e.g. beards, saliva or blood or anatomical features such as facial fractures or retrognathia), **o**besity, **a**ge > 55 years, **n**o teeth, **s**noring or **s**tiff
 
 > [!NOTE] RODS to Predict Difficult Laryngeal Mask Airway Insertion
 > - **R**estricted mouth opening 
-> - **O**bstruction
-> - **D**istorted airway
-> - **S**tiff lungs or c-spine
+> - **O**bstruction; airway obstruction at or below the level of the glottis will not be relieved by the insertion of a supraglottic device
+> - **D**istorted airway: unusual airway anatomy may prevent the supraglottic device from seating properly
+> - **S**tiff lungs or c-spine/neck: decreased lung compliance (e.g. asthma) may make ventilation with a supraglottic device impossible and in patients with limited neck movement, the supraglottic device may form a poor seal
 
 > [!NOTE] SHORT to Predict Difficult Surgical Airway
 > - **S**urgery of the neck
