@@ -106,9 +106,9 @@ The ANZCA document outlines the essential components of the routine airway asses
 	- Chest X-ray
 	- CT/MRI neck
 - Mallampati score
-	- Class I: Soft palate, uvula, fauces, pillars visible
-	- Class II: Soft palate, uvula, fauces visible
-	- Class III: Soft palate, base of uvula visible
+	- Class I: Soft palate, uvula and faucial pillars visible
+	- Class II: Soft palate and faucial pillars visible with the uvula partially obscured by tongue 
+	- Class III: Soft palate and base of uvula visible
 	- Class IV: Only hard palate visible
 
 ![[mallampati-classification.svg]]
