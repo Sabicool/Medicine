@@ -1,6 +1,6 @@
 ---
 tags:
-  - notes
+  - cards
 date: 2026-09-24
 ---
 # Definition
