@@ -33,7 +33,8 @@ date: 2026-09-24
 > - **O**besity
 > - **N**o teeth
 > - **S**leep apnoea or **S**noring
-
+> 
+> Although the most valuable independent predictors of difficult mask ventilation as per RCoA analysis are: Age > 55 years, BMI > 26, lack of definition, facial hair, history of snoring
 
 > [!NOTE] RODS to Predict Difficult Laryngeal Mask Airway Insertion
 > - **R**estricted mouth opening 
