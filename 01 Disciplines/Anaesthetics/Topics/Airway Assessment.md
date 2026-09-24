@@ -92,6 +92,9 @@ date: 2026-09-24
 	- Class II: Soft palate, uvula, fauces visible
 	- Class III: Soft palate, base of uvula visible
 	- Class IV: Only hard palate visible
+
+![[mallampati-classification.svg]]
+
 - Cormack-Lehane Classification
 	- Grade 1: Full view of glottis
 	- Grade 2a: Partial view of glottis
@@ -99,11 +102,11 @@ date: 2026-09-24
 	- Grade 3: Only epiglottis seen, none of glottis seen
 	- Grade 4: Neither glottis nor epiglottis seen
 
-![[mallampati-classification.svg]]
+![[cormack-lehane-grades.svg]]
+
 - Percentage of visible glottic opening (POGO)
 	- It requires the observer to estimate how much of the glottis is not visualised
 
-![[cormack-lehane-grades.svg]]
 ![[pogo-score.svg]]
 
 # Mnemonics
