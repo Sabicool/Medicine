@@ -100,6 +100,7 @@ The ANZCA document outlines the essential components of the routine airway asses
 	- Compliance of mandibular space
 # Investigations
 - Investigations to consider:
+	- Neck ultrasound
 	- Nasal endoscopy
 	- Awake laryngoscopy
 	- Lateral neck x-ray
