@@ -1,5 +1,5 @@
 ---
-date: 2026-09-17
+date: 2026-09-26
 ---
 Notes for the emergency department — the undifferentiated patient, time-critical presentations and the resuscitation of the acutely unwell. The lists below pull together the relevant conditions, emergencies and approaches from my discipline notes.
 # Common Conditions and Presentations
@@ -52,6 +52,7 @@ Notes for the emergency department — the undifferentiated patient, time-critic
     - [[Chest X-ray]]
     - [[ECG Interpretation]]
     - [[Echocardiogram]]
+    - [[Hip X-ray]]
     - [[Neuroimaging]]
 
 - Presenting Complaints: 
@@ -111,5 +112,7 @@ Notes for the emergency department — the undifferentiated patient, time-critic
 - Notes on training: [Emergency Medicine Training](00%20Reference/Training/Emergency%20Medicine%20Training.md)
 - NSW ECI/ACI clinical guidelines
 - Toxicology guidelines: [Austin Health Toxicology Guidelines](https://www.austin.org.au/clinical-toxicology-guidelines/) *one pager Australian guidelines on toxicology for most medications that people overdose on and come through the ED with*
-- Fracture imaging findings: [Know Your Lines • LITFL](https://litfl.com/know-your-lines/)
+- Fracture 
+	- Fracture management: [Basic Fracture Treatment • LITFL • Trauma Library](https://litfl.com/basic-fracture-treatment/)
+	- Imaging findings: [Know Your Lines • LITFL](https://litfl.com/know-your-lines/)
   
