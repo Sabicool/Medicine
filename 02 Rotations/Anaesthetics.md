@@ -19,13 +19,16 @@ Notes for the anaesthetics rotation, with an emphasis on airway management, indu
     - [[Arterial Line]]
     - [[Central Line Insertion]]
     - [[Extubation]]
+    - [[Flexiscope-Assisted Rapid Sequence Intubation]]
     - [[General Anaesthesia]]
     - [[Intubation]]
     - [[Laryngeal Mask Airway Insertion]]
     - [[Post-Induction Checklist]]
     - [[Rapid Sequence Induction]]
+    - [[Video-Assisted Flexible Intubation]]
 
 - Topics: 
+    - [[Airway Assessment]]
     - [[Capnography]]
     - [[Lung Protective Ventilation]]
     - [[Mechanical Ventilation]]
@@ -45,6 +48,7 @@ Notes for the anaesthetics rotation, with an emphasis on airway management, indu
  <!-- QueryToSerialize: list from "03 Medications" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) sort file.name asc -->
 <!-- SerializedQuery: list from "03 Medications" where  contains(Rotations, "[" + this.file.name + "](" + replace(this.file.folder + "/" + this.file.name + "." + this.file.ext, " ", "%20")   + ")") OR contains(Rotations, this.file.link) or contains(file.path,this.file.name) sort file.name asc -->
 - [[Acetylcholinesterase Inhibitor]]
+- [[Ketamine]]
 <!-- SerializedQuery END -->
 # Other
 - [[Anaesthetics Training]]

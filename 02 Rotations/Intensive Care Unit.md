@@ -52,11 +52,13 @@ Notes for the intensive care rotation, oriented around recognising and initiatin
     - [[Central Line Insertion]]
     - [[Emergency Pericardiocentesis]]
     - [[Extubation]]
+    - [[Flexiscope-Assisted Rapid Sequence Intubation]]
     - [[General Anaesthesia]]
     - [[Intubation]]
     - [[Lung POCUS]]
     - [[Rapid Sequence Induction]]
     - [[Rush Exam]]
+    - [[Video-Assisted Flexible Intubation]]
 
 - Topics: 
     - [[Capnography]]
