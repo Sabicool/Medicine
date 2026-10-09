@@ -35,13 +35,13 @@ Also see: [[Shock]] for the management of undifferentiated shock
 # Investigations
 - Bedside
 	- ECG - ischaemia, arrhythmias
-	  UA and urine culture
+	- UA and urine culture
 - Bloods
 	- Blood cultures x2
 	- FBC - anaemia, thrombocytopaenia
 	- DIC panel (e.g. INR, aPTT, fibrinogen)
 	- EUC - AKI
-	- ABG - quantify P/F ratio, hypercapnoea, pH status and lactate
+	- ABG - quantify P/F ratio, hypercapnoea, pH status and lactate (and repeated at 2 hours)
 	- LFTs - ischaemic hepatitis, hyperbilirubinaemia
 	- Troponin 
 - Imaging
