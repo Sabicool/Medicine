@@ -24,11 +24,9 @@ $$
 ## Clearance
 - Clearance is defined as the elimination rate divided by the plasma concentration, which rearranges to the familiar form:
 $$
-\begin{align}
-\underset{ \text{(mg/hour)} }{ \text{Elimination Rate} } &=
-\underset{ \text{(L/hour)} }{ \text{Clearance }(CL) }\times \underset{ \text{(mg/L)} }{ \text{Drug Concentration }(C) } \\
-CL &=\frac{\text{Elimination Rate}}{C}
-\end{align}
+\underset{ \text{(L/hour)} }{ \text{Clearance }(CL) } = 
+\underset{ \text{(mg/L)} }{ \text{Drug Concentration }(C) } \div
+\underset{ \text{(mg/hour)} }{ \text{Elimination Rate} } 
 $$
 - The reason clearance is defined as a ratio is that in first-order (linear) kinetics the elimination rate is proportional to concentration, so the ratio stays constant regardless of dose or concentration and describes the drug and the patient rather than the moment
 	- Doubling the concentration doubles the elimination rate in mg/hour, but the same volume of plasma is still cleared each hour
