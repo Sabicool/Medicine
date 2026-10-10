@@ -33,3 +33,31 @@ $$
 &=\frac{\text{Urine Concentration }(U)\times \text{Urine Flow }(V)}{\text{Plasma Concentration}}
 \end{align*}
 $$
+- An IV bolus can be used to determine clearance where after given enough time, all of it is eliminated therefore (see [[#Mathematical Derivation]]):
+$$
+\begin{align}
+\text{Dose} & = CL \cdot \text{AUC}  \\
+CL & = \frac{\text{Dose}}{\text{AUC}}
+\end{align}
+$$
+# Mathematical Derivation
+- Let $A(t)$ be the amount of drug eliminated by time $t$, its rate of change is the elimination rate:
+$$
+\frac{dA(t)}{dt}=CL\cdot C(t)
+$$
+- To get the total amount ever eliminated, integrate from 0 to infinity:
+$$
+\begin{align}
+A_{\text{total}} &=\int_{0}^\infty CL\cdot C(t)\cdot dt  \\
+ & =CL \cdot \int_{0}^\infty C(t)\cdot dt \\
+  & =CL\cdot \text{AUC}
+\end{align}
+$$
+- For a one-compartment IV bolus, $C(t)=C_{0}e^{-kt}$ where $C_{0}=\text{Dose} / V_{D}$ and $k$ is the elimination rate constant
+$$
+\begin{align}
+\text{AUC} &= \int_{0}^\infty C_{0}e^{-kt}\cdot dt=C_{0} \left[ -\frac{e^{-kt}}{k} \right]_{0}^{\infty}=\frac{C_{0}}{k} \\
+\therefore\quad CL & =\frac{\text{Dose}}{C_{0} / k} = k \cdot \left( \frac{\text{Dose}}{C_{0}} \right) \\
+ & = k \cdot V_{D}
+\end{align}
+$$
