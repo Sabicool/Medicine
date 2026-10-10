@@ -1,0 +1,29 @@
+% Well-stirred model of hepatic extraction: two competing exits from the liver
+\documentclass[11pt, border=2mm]{standalone}
+\usepackage{cicm-figure}
+\begin{document}
+\begin{tikzpicture}
+  % Liver as a single well-mixed tank
+  \node[box, minimum width=40mm, minimum height=26mm] (liver) at (0,0) {};
+  \node[font=\small, anchor=north] at (liver.north) {Liver (well-stirred)};
+  \node[font=\small, align=center] at (0,-0.2) {Concentration everywhere\\$=C_{\text{out}}$};
+
+  % Inflow
+  \draw[->, thick, cicmaccent] (-5.4,0) -- (liver.west);
+  \node[label, above] at (-3.55,0.05) {In: $Q_{H}\cdot C_{\text{in}}$};
+
+  % Exit 1: washout in hepatic venous blood
+  \draw[->, thick, cicmaccent] (liver.east) -- (5.4,0);
+  \node[label, above, align=center] at (3.55,0.05) {Exit 1: washout};
+  \node[label, below] at (3.55,-0.05) {$Q_{H}\cdot C_{\text{out}}$};
+
+  % Exit 2: metabolism of unbound drug
+  \draw[->, thick, cicmblue] (liver.south) -- ++(0,-1.4) node[below, label, align=center]
+    {Exit 2: metabolism\\$f_{u}\cdot CL_{\text{int}}\cdot C_{\text{out}}$};
+
+  % Interpretation
+  \node[label, align=center, anchor=north] at (0,-4.0)
+    {$E_{H}=\dfrac{\text{exit 2}}{\text{exit 1}+\text{exit 2}}
+      =\dfrac{f_{u}\cdot CL_{\text{int}}}{Q_{H}+f_{u}\cdot CL_{\text{int}}}$};
+\end{tikzpicture}
+\end{document}

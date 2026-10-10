@@ -1,0 +1,33 @@
+% Organ clearance from the Fick principle: CL = Q · E
+\documentclass[11pt, border=2mm]{standalone}
+\usepackage{cicm-figure}
+\begin{document}
+\begin{tikzpicture}
+  % Blood vessel running through the organ
+  \fill[cicmaccenttint] (-5.2,-0.35) rectangle (5.2,0.35);
+  \draw[thin, cicmaccent] (-5.2,0.35) -- (5.2,0.35) (-5.2,-0.35) -- (5.2,-0.35);
+
+  % Organ
+  \node[box, minimum width=34mm, minimum height=22mm, fill=cicmbluetint, fill opacity=0.85,
+        text opacity=1] (organ) at (0,0) {};
+  \node[font=\small, anchor=north] at (organ.north) {Eliminating organ};
+
+  % Flow in and out
+  \draw[->, thick, cicmaccent] (-5.0,0) -- (-1.9,0);
+  \draw[->, thick, cicmaccent] (1.9,0) -- (5.0,0);
+  \node[label, above] at (-3.45,0.4) {Blood in};
+  \node[label, below] at (-3.45,-0.4) {$Q\cdot C_{\text{in}}$};
+  \node[label, above] at (3.45,0.4) {Blood out};
+  \node[label, below] at (3.45,-0.4) {$Q\cdot C_{\text{out}}$};
+
+  % Removal
+  \draw[->, thick, cicmblue] (organ.south) -- (0,-2.1);
+  \node[label, align=center, anchor=north] at (0,-2.15)
+    {Elimination rate $=Q\,(C_{\text{in}}-C_{\text{out}})$};
+
+  % Result
+  \node[label, align=center, anchor=north] at (0,-2.95)
+    {$CL=\dfrac{\text{Elimination rate}}{C_{\text{in}}}
+      =Q\cdot\dfrac{C_{\text{in}}-C_{\text{out}}}{C_{\text{in}}}=Q\cdot E$};
+\end{tikzpicture}
+\end{document}

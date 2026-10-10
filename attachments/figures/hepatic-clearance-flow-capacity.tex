@@ -1,0 +1,34 @@
+% Hepatic clearance against intrinsic clearance (well-stirred model), at a
+% normal and a halved hepatic blood flow. Log–log, so CL_H = f_u·CL_int is a
+% straight line on the left and CL_H = Q_H is flat on the right.
+\documentclass[11pt, border=2mm]{standalone}
+\usepackage{cicm-figure}
+\begin{document}
+\begin{tikzpicture}
+  \begin{axis}[cicm,
+      xmode=log, ymode=log,
+      xmin=1, xmax=10000, ymin=1, ymax=300,
+      xlabel={Unbound intrinsic clearance $f_{u}\cdot CL_{\text{int}}$ (L/hour)},
+      ylabel={Hepatic clearance $CL_{H}$ (L/hour)},
+      log ticks with fixed point,
+      legend pos=south east,
+      clip=false]
+    \addplot+[domain=1:10000] {90*x/(90+x)};
+    \addlegendentry{$Q_{H}=90$ L/hour (normal)}
+    \addplot+[domain=1:10000] {45*x/(45+x)};
+    \addlegendentry{$Q_{H}=45$ L/hour (low cardiac output)}
+
+    % Limits
+    \addplot[thin, cicmgrey, dashed, domain=1:300, forget plot] {x};
+    \node[label, cicmgrey, rotate=39, anchor=south] at (axis cs:110,110) {$CL_{H}=f_{u}\cdot CL_{\text{int}}$};
+
+    % Regions
+    \node[label, align=center, anchor=north] at (axis cs:4,120)
+      {Capacity-limited\\(low extraction)};
+    \node[label, align=center, anchor=north] at (axis cs:2500,30)
+      {Flow-limited\\(high extraction)};
+    \node[label, align=center, cicmaccent, anchor=south] at (axis cs:2500,95)
+      {$CL_{H}\approx Q_{H}$};
+  \end{axis}
+\end{tikzpicture}
+\end{document}

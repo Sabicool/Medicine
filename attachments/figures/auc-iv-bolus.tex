@@ -1,0 +1,40 @@
+% Clearance from a single IV bolus: CL = Dose / AUC, with AUC from the
+% trapezoidal rule up to the last sample plus the extrapolated tail C_last / k
+\documentclass[11pt, border=2mm]{standalone}
+\usepackage{cicm-figure}
+\begin{document}
+\begin{tikzpicture}
+  \pgfmathsetmacro{\Czero}{10}
+  \pgfmathsetmacro{\k}{0.3}
+  \begin{axis}[cicm,
+      xmin=0, xmax=15, ymin=0, ymax=11,
+      xlabel={Time}, ylabel={Plasma concentration $C(t)$},
+      xtick=\empty, ytick=\empty,
+      clip=false]
+    % Extrapolated tail beyond the last sample
+    \addplot[draw=none, fill=cicmaccenttint, domain=8:14.6] {\Czero*exp(-\k*x)} \closedcycle;
+    % Trapezoids between samples
+    \addplot[thin, cicmblue, fill=cicmbluetint] coordinates {
+      (0,{\Czero}) (1,{\Czero*exp(-\k*1)}) (2,{\Czero*exp(-\k*2)}) (4,{\Czero*exp(-\k*4)})
+      (6,{\Czero*exp(-\k*6)}) (8,{\Czero*exp(-\k*8)}) (8,0) (0,0)} -- cycle;
+    \foreach \t in {1,2,4,6} {
+      \edef\temp{\noexpand\draw[thin, cicmblue] (axis cs:\t,0) -- (axis cs:\t,{\Czero*exp(-\k*\t)});}
+      \temp
+    }
+    % True curve
+    \addplot[thick, cicmink, domain=0:14.6] {\Czero*exp(-\k*x)};
+    % Samples
+    \addplot[only marks, mark=*, mark size=1.6pt, cicmaccent] coordinates {
+      (0,{\Czero}) (1,{\Czero*exp(-\k*1)}) (2,{\Czero*exp(-\k*2)}) (4,{\Czero*exp(-\k*4)})
+      (6,{\Czero*exp(-\k*6)}) (8,{\Czero*exp(-\k*8)})};
+
+    \node[label, align=center, anchor=south west] (auclab) at (axis cs:4.6,4.6) {$\text{AUC}_{0\to t_{\text{last}}}$ (trapezoids)};
+    \draw[thin, ->] (auclab.south west) -- (axis cs:3,1.6);
+    \node[label, align=center, anchor=south] at (axis cs:11.3,1.4) {Tail $=\dfrac{C_{\text{last}}}{k}$};
+    \node[label, anchor=west] at (axis cs:0.35,10) {IV dose given at $t=0$};
+    \node[label, align=left, anchor=north west] at (axis cs:7.2,10.5)
+      {$\text{AUC}=\displaystyle\int_{0}^{\infty}C(t)\,dt$\\[1.2ex]
+       $CL=\dfrac{\text{Dose}}{\text{AUC}}$};
+  \end{axis}
+\end{tikzpicture}
+\end{document}

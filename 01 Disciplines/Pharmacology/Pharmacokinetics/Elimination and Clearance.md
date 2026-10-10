@@ -2,8 +2,7 @@
 date: 2026-10-11
 ---
 - Elimination refers to the irreversible excretion of unchanged drug or conversion to a metabolically inactive product
-- Clearance refers to the efficiency of elimination and is broadly defined as a volume of blood that is cleared of the drug per unit time (L/hr or mL/min)
-	- Clearance of an organ is therefore dependent on the blood flow to that organ
+- Clearance refers to the efficiency of elimination and is broadly defined as a volume of plasma that is cleared of the drug per unit time (L/hr or mL/min)
 
 | Quantity | Definition | Units |
 | --- | --- | --- |
@@ -33,11 +32,11 @@ $$
 - The "volume cleared per unit time" description is just the interpretation of the units (mg/hour ÷ mg/L = L/hour), i.e. the volume of plasma that would need to be completely emptied of drug each hour to account for the elimination rate
 
 > [!card]- Describe what clearance is?
-> Clearance is the efficiency of elimination and is broadly defined as the volume of blood that is cleared of the drug per unit time and therefore has units like L/hr or mL/min
+> The volume of plasma completely cleared of drug per unit time (L/hr or mL/min), i.e. elimination rate divided by plasma concentration. In first-order kinetics it is constant, as elimination rate is proportional to concentration.
 
-> [!card]- What is the mathematical definition of elimination rate?
+> [!card]- What is the mathematical definition of clearance?
 > $$
-> \underset{ \text{(mg/hour)} }{ \text{Elimination Rate} }=\underset{ \text{(mL/hour)} }{ \text{Clearance }(CL) }\times \underset{ \text{(mg/mL)} }{ \text{Drug Concentration }(C) }
+> \text{Clearance }(CL)=\frac{\text{Elimination Rate}}{\text{Drug Concentration }(C)}\qquad\text{(mg/hour ÷ mg/L = L/hour)}
 > $$
 ## Extraction Ratio
 - The extraction ratio refers to ratio of elimination of the drug through the organ of interest and is given by:
@@ -49,8 +48,9 @@ $$
 	- It is converted into a clearance by multiplying by organ blood flow (see [[#Organ Clearance]])
 
 > [!card]- What is the mathematical definition of extraction ratio?
+> The fraction of drug entering an organ that is removed in a single pass:
 > $$
-> \text{Extraction Ratio }(E_{H})=\frac{C_{\text{in}}-C_{\text{out}}}{C_{\text{in}}}=1-\frac{\text{Concentration Out}}{\text{Concentration In}}
+> E=\frac{C_{\text{in}}-C_{\text{out}}}{C_{\text{in}}}=1-\frac{C_{\text{out}}}{C_{\text{in}}}
 > $$
 ## Elimination Rate Constant
 - The elimination rate constant ($k$) is the fraction of the drug in the body removed per unit time, i.e. the elimination rate divided by the amount of drug in the body ($A_{\text{body}}$):
@@ -59,10 +59,10 @@ k=\frac{\text{Elimination Rate}}{A_{\text{body}}}\quad\text{(hour}^{-1}\text{)}
 $$
 - Since $A_{\text{body}}=V_{D}\cdot C$ (the definition of volume of distribution), clearance and $k$ are linked directly:
 $$
-\begin{align}
+\begin{aligned}
 \text{Elimination Rate} & = CL\cdot C=k\cdot A_{\text{body}}=k\cdot V_{D}\cdot C \\
 \therefore\quad CL & =k\cdot V_{D}
-\end{align}
+\end{aligned}
 $$
 - This is also why half-life depends on both clearance and volume of distribution, as $t_{1/2}=\ln 2/k$:
 $$
@@ -79,11 +79,11 @@ $$
 $$
 - At steady state the amount in the body is no longer changing, so $dA_{\text{body}}/dt=0$ and the dose rate in equals the elimination rate out:
 $$
-\begin{align*}
+\begin{aligned}
 \text{Maintenance Dose Rate }(DR)&=\text{Elimination Rate}\\
 &=\text{Clearance }(CL)\times \text{Steady State Drug Concentration }(C_{SS})\\
 \therefore\quad C_{SS}&\propto \frac{1}{CL} \quad\text{(where }DR\text{ is constant)}
-\end{align*}
+\end{aligned}
 $$
 # Measuring Clearance
 - Every method below is the definition $CL=\text{Elimination Rate}/C$ applied to a situation where the elimination rate can be worked out
@@ -100,18 +100,19 @@ $$
 ## Renal Clearance
 - Renal clearance can be derived from the definition of clearance based on elimination rate, where the elimination rate is the amount of drug appearing in urine per unit time:
 $$
-\begin{align*}
+\begin{aligned}
 \text{Clearance }(CL)&=\frac{\text{Elimination Rate}}{\text{Drug Concentration}}\\
 &=\frac{\text{Urine Concentration }(U)\times \text{Urine Flow }(V)}{\text{Plasma Concentration}}
-\end{align*}
+\end{aligned}
 $$
 ## Single IV Bolus and AUC
+![[auc-iv-bolus.svg|Clearance from a single IV bolus]]
 - An IV bolus can be used to determine clearance where after given enough time, all of it is eliminated therefore:
 $$
-\begin{align}
+\begin{aligned}
 \text{Dose} & = CL \cdot \text{AUC}  \\
 CL & = \frac{\text{Dose}}{\text{AUC}}
-\end{align}
+\end{aligned}
 $$
 > [!card]- How is clearance calculated from a single IV dose?
 > $CL = \dfrac{\text{Dose}}{\text{AUC}_{0\to\infty}}$, because total amount eliminated $= \int_0^\infty CL \cdot C(t)\,dt = CL \cdot \text{AUC}$, and after an IV dose that equals the dose.
@@ -122,22 +123,22 @@ $$
 $$
 - To get the total amount ever eliminated, integrate from 0 to infinity:
 $$
-\begin{align}
+\begin{aligned}
 A_{\text{total}} &=\int_{0}^\infty CL\cdot C(t)\cdot dt  \\
  & =CL \cdot \int_{0}^\infty C(t)\cdot dt \\
   & =CL\cdot \text{AUC}
-\end{align}
+\end{aligned}
 $$
 - After an IV dose all of the drug is eventually eliminated, so $A_{\text{total}}=\text{Dose}$
 	- This doesn't assume any compartment model, only that $CL$ is constant so it can come out of the integral, hence it is the "model-independent" way of measuring clearance
 	- For an oral dose only the bioavailable fraction ever reaches the plasma, so $F\cdot\text{Dose}=CL\cdot\text{AUC}$
 - For a one-compartment IV bolus, $C(t)=C_{0}e^{-kt}$ where $C_{0}=\text{Dose} / V_{D}$ and $k$ is the elimination rate constant, which gives the same $CL=k\cdot V_{D}$ result as [[#Elimination Rate Constant]]:
 $$
-\begin{align}
+\begin{aligned}
 \text{AUC} &= \int_{0}^\infty C_{0}e^{-kt}\cdot dt=C_{0} \left[ -\frac{e^{-kt}}{k} \right]_{0}^{\infty}=\frac{C_{0}}{k} \\
 \therefore\quad CL & =\frac{\text{Dose}}{C_{0} / k} = k \cdot \left( \frac{\text{Dose}}{C_{0}} \right) \\
  & = k \cdot V_{D}
-\end{align}
+\end{aligned}
 $$
 # Organ Clearance
 - Whole body clearance is the sum of the clearances of each eliminating organ, since each organ's elimination rate adds to the total and they all divide by the same plasma concentration:
@@ -151,11 +152,13 @@ $$
 $$
 - Dividing by the concentration delivered to the organ (the definition of clearance) gives:
 $$
-\begin{align}
+\begin{aligned}
 CL_{\text{organ}} &= \frac{Q\,(C_{\text{in}}-C_{\text{out}})}{C_{\text{in}}} \\
  &= Q\cdot E
-\end{align}
+\end{aligned}
 $$
+![[organ-clearance-fick.svg|Organ clearance from the Fick principle]]
+- Clearance of an organ is dependent on the blood flow to that organ
 - So the maximum possible clearance of an organ is its blood flow ($E=1$), which for the liver is roughly 1.5 L/min (about 90 L/hour)
 - Strictly $Q\cdot E$ is a blood clearance ($CL_{b}$), since it uses blood flow and blood concentrations. The elimination rate is the same whichever concentration it is divided by, so using the blood:plasma ratio ($\lambda$, see [[Pharmacology Basics]]):
 $$
@@ -170,19 +173,20 @@ $$
 	- Washed out in hepatic venous blood at a rate of $Q_{H}\cdot C_{\text{out}}$
 	- Metabolised by hepatocytes, which only see unbound drug ($f_{u}\cdot C_{\text{out}}$) and clear it at their intrinsic clearance ($CL_{\text{int}}$, the clearance of the liver if blood flow were not limiting), at a rate of $f_{u}\cdot CL_{\text{int}}\cdot C_{\text{out}}$
 $$
-\begin{align}
+\begin{aligned}
 Q_{H}\cdot C_{\text{in}} & =Q_{H}\cdot C_{\text{out}}+f_{u}\cdot CL_{\text{int}}\cdot C_{\text{out}} \\
 \therefore\quad C_{\text{out}} & =\frac{Q_{H}\cdot C_{\text{in}}}{Q_{H}+f_{u}\cdot CL_{\text{int}}}
-\end{align}
+\end{aligned}
 $$
 - Substituting into the definition of extraction ratio:
 $$
-\begin{align}
+\begin{aligned}
 E_{H} &= 1 - \frac{C_{\text{out}}}{C_{\text{in}}} = 1 - \frac{Q_{H}}{Q_{H} + f_{u}\cdot CL_{\text{int}}} \\
 &= \frac{f_{u}\cdot CL_{\text{int}}}{Q_{H} + f_{u}\cdot CL_{\text{int}}} \\
 \therefore\quad CL_{H} &= Q_{H}\cdot E_{H}=\frac{Q_{H}\cdot f_{u}\cdot CL_{\text{int}}}{Q_{H}+f_{u}\cdot CL_{\text{int}}}
-\end{align}
+\end{aligned}
 $$
+![[well-stirred-liver.svg|Well-stirred model of the liver]]
 - The denominator is not hepatic blood flow, it is the sum of the two exits from the liver
 	- Each exit is a rate divided by $C_{\text{out}}$, so both have units of L/hour and can be added: $Q_{H}$ is the volume of liver blood emptied of drug per hour by being carried away, $f_{u}\cdot CL_{\text{int}}$ is the volume emptied per hour by metabolism
 	- $E_{H}$ is therefore the share of drug that takes the metabolism exit rather than the washout exit
@@ -207,6 +211,7 @@ $$
 | First-pass metabolism | Large, so low oral bioavailability ($F_{H}=1-E_{H}$) | Small, so high oral bioavailability |
 | Examples | Propofol, lignocaine, morphine, fentanyl, GTN, propranolol, verapamil | Phenytoin, warfarin, diazepam, theophylline |
 
+![[hepatic-clearance-flow-capacity.svg|Hepatic clearance against unbound intrinsic clearance]]
 - e.g. lignocaine can accumulate in low cardiac output states as its clearance follows hepatic blood flow, whereas enzyme induction (e.g. rifampicin) speeds up the clearance of warfarin but makes little difference to high extraction drugs
 > [!cloze]
 > High extraction drugs have ==flow-limited== hepatic clearance, whereas low extraction drugs have ==capacity-limited== hepatic clearance
