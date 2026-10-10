@@ -40,6 +40,8 @@ $$
 CL & = \frac{\text{Dose}}{\text{AUC}}
 \end{align}
 $$
+> [!card]- How is clearance calculated from a single IV dose?
+> $CL = \dfrac{\text{Dose}}{\text{AUC}_{0\to\infty}}$, because total amount eliminated $= \int_0^\infty CL \cdot C(t)\,dt = CL \cdot \text{AUC}$, and after an IV dose that equals the dose.
 # Mathematical Derivation
 - Let $A(t)$ be the amount of drug eliminated by time $t$, its rate of change is the elimination rate:
 $$
