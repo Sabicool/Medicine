@@ -1,5 +1,5 @@
 ---
-date: 2026-10-10
+date: 2026-10-11
 ---
 - Elimination refers to the irreversible excretion of unchanged drug or conversion to a metabolically inactive product
 - Clearance refers to the efficiency of elimination and is broadly defined as a volume of blood that is cleared of the drug per unit time (L/hr or mL/min)
@@ -20,7 +20,7 @@ $$
 \text{Elimination Rate}=\frac{dA(t)}{dt}\quad\text{(mg/hour)}
 $$
 ## Clearance
-- Clearance is defined as the elimination rate divided by the plasma concentration, which rearranges to the familiar form:
+- Clearance is defined as the elimination rate divided by the plasma concentration:
 $$
 \underset{ \text{(L/hour)} }{ \text{Clearance }(CL) } = 
 \underset{ \text{(mg/hour)} }{ \text{Elimination Rate} } 
@@ -31,6 +31,7 @@ $$
 	- Doubling the concentration doubles the elimination rate in mg/hour, but the same volume of plasma is still cleared each hour
 	- When elimination saturates (zero-order kinetics, e.g. phenytoin, ethanol) the elimination rate stops rising with concentration, so clearance falls as concentration rises and is no longer a constant
 - The "volume cleared per unit time" description is just the interpretation of the units (mg/hour ÷ mg/L = L/hour), i.e. the volume of plasma that would need to be completely emptied of drug each hour to account for the elimination rate
+
 > [!card]- Describe what clearance is?
 > Clearance is the efficiency of elimination and is broadly defined as the volume of blood that is cleared of the drug per unit time and therefore has units like L/hr or mL/min
 
@@ -46,12 +47,13 @@ $$
 - Unlike clearance, the extraction ratio belongs to a single organ and has no units, it is the fraction of drug delivered to the organ that does not come back out in the venous blood
 	- $E=0$ means the organ removes nothing, $E=1$ means the organ removes everything delivered to it
 	- It is converted into a clearance by multiplying by organ blood flow (see [[#Organ Clearance]])
+
 > [!card]- What is the mathematical definition of extraction ratio?
 > $$
-> \text{Extraction Ratio }(E_{H})=1-\frac{\text{Concentration Out}}{\text{Concentration In}} 
+> \text{Extraction Ratio }(E_{H})=\frac{C_{\text{in}}-C_{\text{out}}}{C_{\text{in}}}=1-\frac{\text{Concentration Out}}{\text{Concentration In}}
 > $$
 ## Elimination Rate Constant
-- The elimination rate constant is the fraction of the drug in the body removed per unit time, i.e. the elimination rate divided by the amount of drug in the body ($A_{\text{body}}$):
+- The elimination rate constant ($k$) is the fraction of the drug in the body removed per unit time, i.e. the elimination rate divided by the amount of drug in the body ($A_{\text{body}}$):
 $$
 k=\frac{\text{Elimination Rate}}{A_{\text{body}}}\quad\text{(hour}^{-1}\text{)}
 $$
@@ -66,7 +68,8 @@ $$
 $$
 t_{1/2}=\frac{0.693\cdot V_{D}}{CL}
 $$
-	- So a drug can have a long half-life either because it is cleared slowly or because most of it sits outside the plasma where the clearing organs can't get to it
+- So a drug can have a long half-life either because it is cleared slowly or because most of it sits outside the plasma where the clearing organs can't get to it
+
 > [!card]- Derive the relationship between clearance, elimination rate constant and volume of distribution
 > Elimination rate $=CL\cdot C=k\cdot A_{\text{body}}$, and $A_{\text{body}}=V_{D}\cdot C$, so $CL=k\cdot V_{D}$ (and therefore $t_{1/2}=0.693\cdot V_{D}/CL$)
 # Clearance at Steady State
