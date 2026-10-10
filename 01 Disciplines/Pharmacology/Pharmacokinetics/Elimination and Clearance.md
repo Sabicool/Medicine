@@ -4,7 +4,6 @@ date: 2026-10-10
 - Elimination refers to the irreversible excretion of unchanged drug or conversion to a metabolically inactive product
 - Clearance refers to the efficiency of elimination and is broadly defined as a volume of blood that is cleared of the drug per unit time (L/hr or mL/min)
 	- Clearance of an organ is therefore dependent on the blood flow to that organ
-- Most of the confusion around these terms comes from the same few quantities being written in different ways, so the definitions below are the ones everything else is derived from
 
 | Quantity | Definition | Units |
 | --- | --- | --- |
