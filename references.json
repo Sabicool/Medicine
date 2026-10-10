@@ -1,1 +1,167 @@
-[]
+[
+ {
+  "id": "americanpsychiatricassociationDiagnosticStatisticalManual2022",
+  "author": [
+   {
+    "literal": "American Psychiatric Association"
+   }
+  ],
+  "citation-key": "americanpsychiatricassociationDiagnosticStatisticalManual2022",
+  "edition": "5th edition, text revision.",
+  "ISBN": "978-0-89042-578-7",
+  "issued": {
+   "date-parts": [
+    [
+     "2022"
+    ]
+   ]
+  },
+  "language": "en",
+  "publisher": "American Psychiatric Association Publishing",
+  "publisher-place": "Washington, DC",
+  "title": "Diagnostic and statistical manual of mental disorders: DSM-5-TR",
+  "title-short": "Diagnostic and statistical manual of mental disorders",
+  "type": "book"
+ },
+ {
+  "id": "hiltonAvoidingCommonProblems2008",
+  "accessed": {
+   "date-parts": [
+    [
+     "2023",
+     9,
+     18
+    ]
+   ]
+  },
+  "author": [
+   {
+    "family": "Hilton",
+    "given": "Andrew K"
+   },
+   {
+    "family": "Pellegrino",
+    "given": "Vincent A"
+   },
+   {
+    "family": "Scheinkestel",
+    "given": "Carlos D"
+   }
+  ],
+  "citation-key": "hiltonAvoidingCommonProblems2008",
+  "container-title": "Medical Journal of Australia",
+  "container-title-short": "Med. J. Aust.",
+  "DOI": "10.5694/j.1326-5377.2008.tb02147.x",
+  "ISSN": "1326-5377",
+  "issue": "9",
+  "issued": {
+   "date-parts": [
+    [
+     "2008"
+    ]
+   ]
+  },
+  "language": "en",
+  "license": "© 2008 AMPCo Pty Ltd. All rights reserved",
+  "page": "509–513",
+  "title": "Avoiding common problems associated with intravenous fluid therapy",
+  "type": "article-journal",
+  "URL": "https://onlinelibrary.wiley.com/doi/abs/10.5694/j.1326-5377.2008.tb02147.x",
+  "volume": "189"
+ },
+ {
+  "id": "montoFutureSARSCoV2Vaccination2021",
+  "accessed": {
+   "date-parts": [
+    [
+     "2021",
+     11,
+     10
+    ]
+   ]
+  },
+  "author": [
+   {
+    "family": "Monto",
+    "given": "Arnold S."
+   }
+  ],
+  "citation-key": "montoFutureSARSCoV2Vaccination2021",
+  "container-title": "New England Journal of Medicine",
+  "container-title-short": "N. Engl. J. Med.",
+  "DOI": "10.1056/NEJMp2113403",
+  "ISSN": "0028-4793",
+  "issue": "0",
+  "issued": {
+   "date-parts": [
+    [
+     "2021",
+     11,
+     6
+    ]
+   ]
+  },
+  "page": "null",
+  "title": "The Future of SARS-CoV-2 Vaccination — Lessons from Influenza",
+  "type": "article-journal",
+  "URL": "https://doi.org/10.1056/NEJMp2113403",
+  "volume": "0"
+ },
+ {
+  "id": "sprigingsAcuteMedicinePractical2017",
+  "author": [
+   {
+    "family": "Sprigings",
+    "given": "David C."
+   },
+   {
+    "family": "Chambers",
+    "given": "John B."
+   }
+  ],
+  "citation-key": "sprigingsAcuteMedicinePractical2017",
+  "ISBN": "978-1-118-64428-7",
+  "issued": {
+   "date-parts": [
+    [
+     "2017",
+     7,
+     11
+    ]
+   ]
+  },
+  "language": "en",
+  "number-of-pages": "782",
+  "publisher": "John Wiley & Sons",
+  "title": "Acute Medicine: A Practical Guide to the Management of Medical Emergencies",
+  "title-short": "Acute Medicine",
+  "type": "book"
+ },
+ {
+  "id": "talley2017clinical",
+  "author": [
+   {
+    "family": "Talley",
+    "given": "N.J."
+   },
+   {
+    "family": "O'Connor",
+    "given": "S."
+   }
+  ],
+  "citation-key": "talley2017clinical",
+  "collection-title": "Student consult",
+  "ISBN": "978-0-7295-4259-3",
+  "issued": {
+   "date-parts": [
+    [
+     "2017"
+    ]
+   ]
+  },
+  "publisher": "Elsevier",
+  "title": "Clinical examination: A systematic guide to physical diagnosis",
+  "type": "book",
+  "URL": "https://books.google.com.au/books?id=8CjlAQAACAAJ"
+ }
+]
