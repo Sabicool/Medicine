@@ -1,5 +1,5 @@
 ---
-date: 2026-09-17
+date: 2026-10-10
 ---
 # B1.i Explain the single and multiple compartment pharmacokinetic models
 
@@ -8,7 +8,7 @@ date: 2026-09-17
 # B1.iii Describe the distribution of drugs and factors that influence this
 
 # B1.iv Describe the mechanisms of drug metabolism and clearance
-
+![[Clearance]]
 # B1.v Describe the concept of effect-site concentration
 
 # B1.vi Describe the concept of context sensitive half-time

@@ -8,10 +8,38 @@ date: 2026-10-10
 $$
 \underset{ \text{(mg/hour)} }{ \text{Elimination Rate} }=\underset{ \text{(mL/hour)} }{ \text{Clearance }(CL) }\times \underset{ \text{(mg/mL)} }{ \text{Drug Concentration }(C) }
 $$
+
+
+> [!card]- Describe what clearance is?
+> Clearance is the efficiency of elimination and is broadly defined as the volume of blood that is cleared of the drug per unit time and therefore has units like L/hr or mL/min
+
+> [!card]- How are elimination rate and clearance related mathematically?
+> $$
+> \underset{ \text{(mg/hour)} }{ \text{Elimination Rate} }=\underset{ \text{(mL/hour)} }{ \text{Clearance }(CL) }\times \underset{ \text{(mg/mL)} }{ \text{Drug Concentration }(C) }
+> $$
 - The extraction ratio refers to ratio of elimination of the drug through the organ of interest and is given by:
 $$
 \text{Extraction Ratio }(E_{H})=1-\frac{\text{Concentration Out}}{\text{Concentration In}}
 $$
+- The extraction ratio can be related to the clearance of an organ by the following derivation:
+$$
+\begin{align}
+\text{Elimination Rate} & = Q\cdot C_{\text{in}}-Q\cdot C_{\text{out}}=Q (C_{in}-C_{out}) \\
+CL = \frac{\text{Elimination Rate}}{C_{\text{in}}} & =\frac{Q(C_{\text{in}}-C_{\text{out}})}{C_{\text{in}}} \\
+ & =Q\left( 1-\frac{C_{\text{out}}}{C_{\text{in}}} \right) \\
+  & =Q\cdot E
+\end{align}
+$$
+
+> [!card]- What is the mathematical definition of extraction ratio?
+> $$
+> \text{Extraction Ratio }(E_{H})=1-\frac{\text{Concentration Out}}{\text{Concentration In}} 
+> $$
+
+> [!card]- How is clearance and extraction ratio for an organ related?
+> $$
+> CL = Q\cdot E
+> $$
 # Clearance at Steady State
 - At steady state infusions:
 $$
@@ -26,6 +54,12 @@ $$
 $$
 CL=\frac{DR}{C_{SS}}
 $$
+
+> [!card]- How is clearance mathematically defined at steady state?
+> $$
+> \text{Clearance }(CL)=\frac{\text{Maintenance Dose Rate }(DR)}{\text{Steady State Drug Concentration }(C_{SS})}
+> $$
+
 - Renal clearance can be derived from the definition of clearance based on elimination rate:
 $$
 \begin{align*}
@@ -40,6 +74,7 @@ $$
 CL & = \frac{\text{Dose}}{\text{AUC}}
 \end{align}
 $$
+
 > [!card]- How is clearance calculated from a single IV dose?
 > $CL = \dfrac{\text{Dose}}{\text{AUC}_{0\to\infty}}$, because total amount eliminated $= \int_0^\infty CL \cdot C(t)\,dt = CL \cdot \text{AUC}$, and after an IV dose that equals the dose.
 # Mathematical Derivation
