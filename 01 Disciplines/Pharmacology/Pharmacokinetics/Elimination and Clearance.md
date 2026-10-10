@@ -33,11 +33,13 @@ $$
 
 > [!card]- Describe what clearance is?
 > The volume of plasma completely cleared of drug per unit time (L/hr or mL/min), i.e. elimination rate divided by plasma concentration. In first-order kinetics it is constant, as elimination rate is proportional to concentration.
+> %% anki: 1791646840531 %%
 
 > [!card]- What is the mathematical definition of clearance?
 > $$
 > \text{Clearance }(CL)=\frac{\text{Elimination Rate}}{\text{Drug Concentration }(C)}\qquad\text{(mg/hour ÷ mg/L = L/hour)}
 > $$
+> %% anki: 1791646840627 %%
 ## Extraction Ratio
 - The extraction ratio refers to ratio of elimination of the drug through the organ of interest and is given by:
 $$
@@ -52,6 +54,7 @@ $$
 > $$
 > E=\frac{C_{\text{in}}-C_{\text{out}}}{C_{\text{in}}}=1-\frac{C_{\text{out}}}{C_{\text{in}}}
 > $$
+> %% anki: 1791646840673 %%
 ## Elimination Rate Constant
 - The elimination rate constant ($k$) is the fraction of the drug in the body removed per unit time, i.e. the elimination rate divided by the amount of drug in the body ($A_{\text{body}}$):
 $$
@@ -72,6 +75,7 @@ $$
 
 > [!card]- Derive the relationship between clearance, elimination rate constant and volume of distribution
 > Elimination rate $=CL\cdot C=k\cdot A_{\text{body}}$, and $A_{\text{body}}=V_{D}\cdot C$, so $CL=k\cdot V_{D}$ (and therefore $t_{1/2}=0.693\cdot V_{D}/CL$)
+> %% anki: 1791646840729 %%
 # Clearance at Steady State
 - The amount of drug in the body changes by whatever goes in minus whatever is eliminated:
 $$
@@ -96,6 +100,7 @@ $$
 > $$
 > \text{Clearance }(CL)=\frac{\text{Maintenance Dose Rate }(DR)}{\text{Steady State Drug Concentration }(C_{SS})}
 > $$
+> %% anki: 1791646840772 %%
 
 ## Renal Clearance
 - Renal clearance can be derived from the definition of clearance based on elimination rate, where the elimination rate is the amount of drug appearing in urine per unit time:
@@ -116,6 +121,7 @@ CL & = \frac{\text{Dose}}{\text{AUC}}
 $$
 > [!card]- How is clearance calculated from a single IV dose?
 > $CL = \dfrac{\text{Dose}}{\text{AUC}_{0\to\infty}}$, because total amount eliminated $= \int_0^\infty CL \cdot C(t)\,dt = CL \cdot \text{AUC}$, and after an IV dose that equals the dose.
+> %% anki: 1791646840820 %%
 ### Mathematical Derivation
 - Let $A(t)$ be the amount of drug eliminated by time $t$, its rate of change is the elimination rate:
 $$
@@ -164,9 +170,10 @@ $$
 $$
 CL\cdot C=CL_{b}\cdot C_{b}=CL_{b}\cdot\lambda\cdot C\qquad\therefore\qquad CL=\lambda\cdot CL_{b}
 $$
-	- Hence plasma clearance can appear to exceed hepatic blood flow for drugs that concentrate in red cells ($\lambda>1$)
+- Hence plasma clearance can appear to exceed hepatic blood flow for drugs that concentrate in red cells ($\lambda>1$)
 > [!card]- Derive organ clearance in terms of blood flow and extraction ratio
 > Elimination rate $=Q(C_{\text{in}}-C_{\text{out}})$ (Fick principle), so $CL=\dfrac{Q(C_{\text{in}}-C_{\text{out}})}{C_{\text{in}}}=Q\cdot E$
+> %% anki: 1791646840951 %%
 ## Hepatic Extraction Ratio (Well-Stirred Model)
 - The well-stirred model treats the liver as a single well-mixed compartment, so the concentration the hepatocytes see is the same as the concentration leaving in the hepatic vein ($C_{\text{out}}$)
 - At steady state, drug entering the liver must leave by one of two routes:
@@ -200,6 +207,7 @@ $$
 > E_{H}=\frac{f_{u}\cdot CL_{\text{int}}}{Q_{H}+f_{u}\cdot CL_{\text{int}}}
 > $$
 > The denominator is the two competing routes for drug to leave the liver: washout in hepatic venous blood ($Q_{H}$) and metabolism of unbound drug ($f_{u}\cdot CL_{\text{int}}$)
+> %% anki: 1791646840995 %%
 ## Flow-Limited vs Capacity-Limited Clearance
 - The two extremes of the well-stirred model are where it becomes clinically useful:
 
@@ -215,3 +223,4 @@ $$
 - e.g. lignocaine can accumulate in low cardiac output states as its clearance follows hepatic blood flow, whereas enzyme induction (e.g. rifampicin) speeds up the clearance of warfarin but makes little difference to high extraction drugs
 > [!cloze]
 > High extraction drugs have ==flow-limited== hepatic clearance, whereas low extraction drugs have ==capacity-limited== hepatic clearance
+> %% anki: 1791646841050 %%
