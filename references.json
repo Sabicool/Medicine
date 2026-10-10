@@ -24,6 +24,31 @@
   "type": "book"
  },
  {
+  "id": "birkettPharmacokineticsMadeEasy2005",
+  "author": [
+   {
+    "family": "Birkett",
+    "given": "D. J."
+   }
+  ],
+  "citation-key": "birkettPharmacokineticsMadeEasy2005",
+  "edition": "2.ed., rev. ed",
+  "ISBN": "978-0-07-471072-2",
+  "issued": {
+   "date-parts": [
+    [
+     "2005"
+    ]
+   ]
+  },
+  "language": "en",
+  "number-of-pages": "131",
+  "publisher": "McGraw-Hill",
+  "publisher-place": "Sydney London",
+  "title": "Pharmacokinetics made easy",
+  "type": "book"
+ },
+ {
   "id": "hiltonAvoidingCommonProblems2008",
   "accessed": {
    "date-parts": [
