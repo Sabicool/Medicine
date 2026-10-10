@@ -19,13 +19,13 @@ date: 2026-10-10
 $$
 \text{Elimination Rate}=\frac{dA(t)}{dt}\quad\text{(mg/hour)}
 $$
-- This is the only quantity in the table that is an actual amount per time, the rest are ratios built from it
 ## Clearance
 - Clearance is defined as the elimination rate divided by the plasma concentration, which rearranges to the familiar form:
 $$
 \underset{ \text{(L/hour)} }{ \text{Clearance }(CL) } = 
-\underset{ \text{(mg/L)} }{ \text{Drug Concentration }(C) } \div
 \underset{ \text{(mg/hour)} }{ \text{Elimination Rate} } 
+\div
+\underset{ \text{(mg/L)} }{ \text{Drug Concentration }(C) }
 $$
 - The reason clearance is defined as a ratio is that in first-order (linear) kinetics the elimination rate is proportional to concentration, so the ratio stays constant regardless of dose or concentration and describes the drug and the patient rather than the moment
 	- Doubling the concentration doubles the elimination rate in mg/hour, but the same volume of plasma is still cleared each hour
