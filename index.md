@@ -10,6 +10,9 @@ Everything here is kept in markdown and edited to be as accurate and presentable
 > [!note] Disclaimer
 > This information is for educational purposes only and should not be construed as medical advice. While I strive for accuracy, I make no guarantees regarding the completeness or reliability of the content. I do not claim copyright for any images included unless explicitly stated. To request a correction, removal or alteration of any content, please contact me or submit an issue via the associated [GitHub repository](https://github.com/Sabicool/Medicine).
 
+> [!info] Licence
+> My notes and figures are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), so you're welcome to share and adapt them, including commercially, as long as you credit me (Sabiqul Hoque) and link back here. Images I don't own are excluded, as above. The small amount of code in the vault (the scripts in `tex/`, `cicm-figure.sty` and the interactive HTML in `attachments/`) is licensed separately under the [AGPL-3.0](https://github.com/Sabicool/Medicine/blob/main/LICENSE-CODE).
+
 # Rotations and Disciplines
 
 <div class="two-col">
