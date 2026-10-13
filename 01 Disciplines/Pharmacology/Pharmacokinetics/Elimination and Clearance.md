@@ -1,5 +1,5 @@
 ---
-date: 2026-10-11
+date: 2026-10-14
 ---
 *Main source: Birkett, Pharmacokinetics Made Easy* [@birkettPharmacokineticsMadeEasy2005, pp. 1–8]
 - Elimination refers to the irreversible excretion of unchanged drug or conversion to a metabolically inactive product
