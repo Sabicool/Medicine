@@ -24,7 +24,7 @@ $$
 > The amount of drug in the body divided by the plasma drug concentration ($V_{D}=A_{\text{body}}/C$). It is an apparent volume, so it can exceed total body water.
 
 > [!cloze]
-> A drug highly bound to ==plasma proteins== (e.g. warfarin) has a small volume of distribution, whereas a drug highly bound to ==tissue== (e.g. digoxin) has a large volume of distribution
+> A drug highly bound to ==plasma proteins (e.g. warfarin)== has a small volume of distribution, whereas a drug highly bound to ==tissue (e.g. digoxin)== has a large volume of distribution
 ## Plasma and Tissue Binding
 - The components of volume of distribution are the plasma volume and the tissue volume, weighted by the ratio of the fraction of the drug unbound in plasma to the fraction of the drug unbound in tissue:
 $$
