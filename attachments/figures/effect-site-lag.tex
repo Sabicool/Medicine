@@ -1,0 +1,39 @@
+% Plasma vs effect-site concentration after an IV bolus (two-compartment
+% plasma curve, effect site dC_e/dt = k_e0 (C_p - C_e)). A fast site follows
+% plasma down through redistribution; a slow site is still rising while
+% plasma falls and peaks where the curves cross.
+\documentclass[11pt, border=2mm]{standalone}
+\usepackage{cicm-figure}
+\begin{document}
+\begin{tikzpicture}
+  \pgfmathsetmacro{\A}{8}
+  \pgfmathsetmacro{\a}{0.8}
+  \pgfmathsetmacro{\B}{2}
+  \pgfmathsetmacro{\b}{0.03}
+  \pgfmathsetmacro{\kf}{6}
+  \pgfmathsetmacro{\ks}{0.15}
+  \begin{axis}[cicm,
+      xmin=0, xmax=16, ymin=0, ymax=10.5, height=75mm,
+      xlabel={Time (hours)}, ylabel={Concentration},
+      xtick={0,2,4,6,8,10,12,14,16}, ytick=\empty,
+      legend pos=north east,
+      clip=false]
+    \addplot+[cicmink, line width=1.2pt, solid, domain=0:16]
+      {\A*exp(-\a*x)+\B*exp(-\b*x)};
+    \addlegendentry{Plasma, $C_{p}$}
+    \addplot+[cicmaccent, line width=1.2pt, dashed, domain=0:16]
+      {\kf*(\A/(\kf-\a)*(exp(-\a*x)-exp(-\kf*x))+\B/(\kf-\b)*(exp(-\b*x)-exp(-\kf*x)))};
+    \addlegendentry{Fast effect site (e.g.\ diazepam in brain)}
+    \addplot+[cicmblue, line width=1.6pt, solid, domain=0:16]
+      {\ks*(\A/(\ks-\a)*(exp(-\a*x)-exp(-\ks*x))+\B/(\ks-\b)*(exp(-\b*x)-exp(-\ks*x)))};
+    \addlegendentry{Slow effect site (e.g.\ digoxin in myocardium)}
+
+    % Slow site peaks where it meets the plasma curve (about 5.4 h here)
+    \draw[thin, cicmgrey] (axis cs:5.4,0) -- (axis cs:5.4,1.81);
+    \node[label, align=center, anchor=south, cicmblue] at (axis cs:5.4,2.3)
+      {peak $C_{e}$ when $C_{e}=C_{p}$};
+    \node[label, align=left, anchor=west] at (axis cs:1.3,5.6)
+      {effect falls with\\redistribution, not elimination};
+  \end{axis}
+\end{tikzpicture}
+\end{document}

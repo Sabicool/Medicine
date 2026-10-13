@@ -1,0 +1,39 @@
+% Two-compartment IV bolus on a log scale: back-extrapolating the terminal
+% (elimination) phase gives its intercept B, not the true C_0 = A + B
+\documentclass[11pt, border=2mm]{standalone}
+\usepackage{cicm-figure}
+\begin{document}
+\begin{tikzpicture}
+  \pgfmathsetmacro{\A}{8}
+  \pgfmathsetmacro{\a}{1.2}
+  \pgfmathsetmacro{\B}{4}
+  \pgfmathsetmacro{\b}{0.15}
+  \begin{axis}[cicm,
+      ymode=log, xmin=0, xmax=14, ymin=0.3, ymax=20,
+      xlabel={Time}, ylabel={Plasma concentration (log scale)},
+      xtick=\empty, ytick=\empty,
+      clip=false]
+    % Distribution and elimination phases
+    \fill[cicmbluetint, opacity=0.6] (axis cs:0,0.3) rectangle (axis cs:2.5,20);
+    \node[label, anchor=south] at (axis cs:1.25,20) {Distribution};
+    \node[label, anchor=south] at (axis cs:8.25,20) {Elimination};
+
+    % Back-extrapolated terminal phase
+    \addplot[thin, cicmgrey, dashed, domain=0:14] {\B*exp(-\b*x)};
+    % True curve
+    \addplot[thick, cicmink, domain=0:14] {\A*exp(-\a*x)+\B*exp(-\b*x)};
+    % Samples, all taken after distribution
+    \addplot[only marks, mark=*, mark size=1.6pt, cicmaccent, samples at={3,4.5,6,8,10,12}] {\A*exp(-\a*x)+\B*exp(-\b*x)};
+
+    % Intercepts
+    \addplot[only marks, mark=*, mark size=1.6pt, cicmink] coordinates {(0,12)};
+    \node[label, anchor=west] (true) at (axis cs:4,11) {True $C_{0}=A+B$, so $V_{1}=\dfrac{\text{Dose}}{A+B}$};
+    \draw[thin, ->] (true.west) -- (axis cs:0.15,12);
+    \addplot[only marks, mark=o, mark size=1.8pt, cicmgrey] coordinates {(0,4)};
+    \node[label, anchor=west] (extrap) at (axis cs:4,5.2) {Extrapolated $C_{0}=B$, so $V_{\text{extrap}}=\dfrac{\text{Dose}}{B}$};
+    \draw[thin, ->] (extrap.west) -- (axis cs:0.15,4.05);
+
+    \node[label, anchor=north] at (axis cs:9,0.95) {terminal slope $=-\beta$};
+  \end{axis}
+\end{tikzpicture}
+\end{document}

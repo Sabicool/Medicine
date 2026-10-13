@@ -1,0 +1,31 @@
+% Two-compartment model with an effect compartment hanging off the central one
+\documentclass[11pt, border=2mm]{standalone}
+\usepackage{cicm-figure}
+\begin{document}
+\begin{tikzpicture}
+  % Compartments
+  \node[box, minimum width=34mm, minimum height=20mm, align=center] (central) at (0,0)
+    {Central, $V_{1}$\\[0.4ex]{\footnotesize plasma and well-perfused}\\[-0.4ex]{\footnotesize organs (brain, heart)}};
+  \node[box, minimum width=34mm, minimum height=20mm, align=center, fill=cicmpaper] (peripheral) at (6,0)
+    {Peripheral, $V_{2}$\\[0.4ex]{\footnotesize poorly perfused}\\[-0.4ex]{\footnotesize tissue (muscle, fat)}};
+  \node[accent box, minimum width=22mm, minimum height=10mm, align=center] (effect) at (0,3)
+    {Effect site\\[-0.4ex]{\footnotesize $C_{e}$, negligible volume}};
+
+  % Dose
+  \draw[->, thick] (-4.2,0) -- (central.west) node[pos=0.4, above, label] {IV dose};
+
+  % Distribution
+  \draw[->, thick, cicmblue] ([yshift=3mm]central.east) -- ([yshift=3mm]peripheral.west)
+    node[midway, above, label] {$k_{12}$};
+  \draw[->, thick, cicmblue] ([yshift=-3mm]peripheral.west) -- ([yshift=-3mm]central.east)
+    node[midway, below, label] {$k_{21}$};
+
+  % Effect site equilibration
+  \draw[<->, thick, cicmaccent] (central.north) -- (effect.south)
+    node[midway, right, label] {$k_{e0}$};
+
+  % Elimination
+  \draw[->, thick] (central.south) -- ++(0,-1.4) node[below, label, align=center]
+    {Elimination\\$k_{10}=CL/V_{1}$};
+\end{tikzpicture}
+\end{document}
