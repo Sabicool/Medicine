@@ -10,6 +10,7 @@ description: A case-based tutorial for final year medical students
 draft: true
 slides: true
 ---
+<!-- slide: skip -->
 > [!info] Outline status
 > This is the outline for review, not the finished deck. Each `##` is one slide (`###` is a branch beneath it), `---` forces a slide break, `> [!notes]` is what I'd say (speaker notes: press S) and `> [!question]` is what I'd put to the group. `[GAP: …]` marks something still to sort out. `draft: true` keeps it off the site until we're happy with it.
 >
@@ -24,9 +25,9 @@ slides: true
 > - Putting it together and quick-fire (5 min)
 > - Wrap-up: your first 15 minutes (2 min)
 >
-> The cases are headed by patient rather than by shock type, so the slide title doesn't give the answer away. Each case opens on a live monitor and a board of face-down findings: tiles only turn over (click, or press 1–9) when someone asks for that finding. Each case then has one decision slide; clicking a choice jumps to that branch, where the monitor trends to the new numbers, and "Continue →" rejoins the main path (right arrow skips the branches). Press A to turn on the QRS tone, whose pitch falls with the SpO₂.
+> The cases are headed by patient rather than by shock type, so the slide title doesn't give the answer away. Each case opens on a live monitor and a board of face-down findings: tiles only turn over (click, or press 1–9) when someone asks for that finding. Each case then has one decision slide; clicking a choice jumps to that branch, where the monitor trends to the new numbers, and "Continue →" rejoins the main path (right arrow skips the branches). Press A to turn on the QRS tone, whose pitch falls with the SpO₂, and L to capture a 12-lead (turning over a finding labelled "12-lead" does the same).
 >
-> Syntax: `> [!monitor] Patient` with `- HR:`, `- BP:`, `- SpO2:`, `- RR:`, `- Temp:`, and optionally `- ART:`, `- EtCO2:`, `- Rhythm: AF`, `- ST: elevated`, `- Time: 02:04`, `- Over: 20` (seconds to trend from the last slide for the same patient). `> [!findings] Prompt` with `- Label: finding`. `> [!choice] Prompt` with a list of `[[#Heading|Label]]` links.
+> Syntax: `> [!monitor] Patient` with `- HR:`, `- BP:`, `- SpO2:`, `- RR:`, `- Temp:`, and optionally `- ART:`, `- EtCO2:`, `- Rhythm: AF`, `- ST: anterior` (or `inferior`), `- PVCs: occasional`, `- Time: 02:04`, `- Over: 20` (seconds to trend from the last slide for the same patient). `> [!findings] Prompt` with `- Label: finding`. `> [!choice] Prompt` with a list of `[[#Heading|Label]]` links.
 
 # Opening
 
@@ -634,7 +635,7 @@ ED. Two hours of central chest pain, and he's sweaty.
 > - Chest: bibasal crackles
 > - Legs: pitting oedema to the shins
 > - Heart sounds: soft, no murmur
-> - 12-lead ECG: anterior ST elevation
+> - 12-lead ECG: captured on the monitor
 > - VBG: lactate 5.2
 
 > [!monitor] Mr K, 66
@@ -642,10 +643,12 @@ ED. Two hours of central chest pain, and he's sweaty.
 > - BP: 84/60
 > - SpO2: 89
 > - RR: 30
+> - ST: anterior
+> - PVCs: occasional
 > - Time: 10:15
 
 > [!notes]
-> Same again: they ask, you turn tiles over.
+> Same again: they ask, you turn tiles over. Turning over the 12-lead tile runs a capture on the monitor (anterior ST elevation, reciprocal depression inferiorly); click it or press L to go back to the live screen, and L again to bring it back. To see an inferior MI instead, change `ST: anterior` to `ST: inferior`, but that brings RV infarction into play, which would make the fluid branch arguably right and change the POCUS findings.
 
 ## Cold, fast, full
 
@@ -671,6 +674,8 @@ ED. Two hours of central chest pain, and he's sweaty.
 > - BP: 82/58
 > - SpO2: 88
 > - RR: 30
+> - ST: anterior
+> - PVCs: occasional
 > - Over: 30
 
 ### A bolus for Mr K
