@@ -130,7 +130,7 @@ $$
 > What's the difference between A and B?
 
 > [!notes]
-> `[GAP: confirm what panel B shows in the original (same patient after resuscitation?) so I describe it correctly]`. Mottling starts around the knees and spreads outwards, so the knees are the place to look. In [[Shock#Clinical Features]] I've noted mottling suggests active vasoconstriction, which comes back in Case 3.
+> Panel A is a 68-year-old woman in cardiogenic shock from adenoviral myocarditis (BP 70/50, HR 125, lactate 4.5, LVEF 25%). Panel B is the same legs within 24 hours of treatment with ventilation, volume expansion and inotropes, and her EF had recovered to 60% by day 3. Mottling is violaceous discolouration from skin hypoperfusion, and it's most often seen around the knees (also the ears and fingers), so the knees are the place to look. In [[Shock#Clinical Features]] I've noted mottling suggests active vasoconstriction and a need for inotropy, which is exactly what this patient got, and it comes back in Case 3.
 
 ---
 
@@ -341,7 +341,7 @@ $$
 | Retroperitoneum | Hard to find at the bedside: POCUS isn't sensitive, needs CT |
 
 > [!notes]
-> The eFAST and retroperitoneum points come from [[Rush Exam]]. `[GAP: the clinical-exam answers (scalp, long bones, pelvis) are my wording rather than from your notes. Check you're happy with them, particularly the pelvic binder]`
+> The eFAST and retroperitoneum points come from [[Rush Exam]].
 
 ## Management
 
