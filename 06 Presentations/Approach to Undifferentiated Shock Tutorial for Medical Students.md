@@ -1,5 +1,4 @@
 ---
-title: Approach to Undifferentiated Shock
 aliases:
   - Shock Teaching
 Rotations:
