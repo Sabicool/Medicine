@@ -1,0 +1,29 @@
+% Bedside haemodynamic profiles: peripheral perfusion against filling, with
+% each shock type placed where it usually sits
+\documentclass[11pt, border=2mm]{standalone}
+\usepackage{cicm-figure}
+\begin{document}
+\begin{tikzpicture}[
+    cell/.style = {box, minimum width=58mm, minimum height=30mm, text width=52mm},
+  ]
+  % Quadrants: columns are filling, rows are peripheries
+  \node[cell, fill=cicmpaper] (wd) at (0,0)
+    {\textbf{Warm and dry}\\[0.6ex]Distributive\\{\footnotesize sepsis, anaphylaxis}\\{\footnotesize neurogenic (with a \emph{slow} HR)}};
+  \node[cell, fill=cicmbluetint] (ww) at (6.2,0)
+    {\textbf{Warm and wet}\\[0.6ex]Congested but perfused\\{\footnotesize not yet shock, e.g. early}\\{\footnotesize (SCAI B) cardiogenic}};
+  \node[cell, fill=cicmbluetint] (cd) at (0,-3.2)
+    {\textbf{Cold and dry}\\[0.6ex]Hypovolaemic\\{\footnotesize bleeding, GI losses}};
+  \node[cell, draw=cicmaccent, fill=cicmaccenttint] (cw) at (6.2,-3.2)
+    {\textbf{Cold and wet}\\[0.6ex]Cardiogenic {\footnotesize (crackles)}\\Obstructive {\footnotesize (clear chest)}\\{\footnotesize POCUS tells them apart}};
+
+  % Axes
+  \node[label, above=1mm] at (wd.north) {Dry};
+  \node[label, above=1mm] at (ww.north) {Wet};
+  \draw[->, thick] ([yshift=8mm]wd.north west) -- ([yshift=8mm]ww.north east)
+    node[pos=0.5, above, label] {Filling (PUMPS): empty $\rightarrow$ full};
+  \node[label, rotate=90, above=1mm] at (wd.west) {Warm};
+  \node[label, rotate=90, above=1mm] at (cd.west) {Cold};
+  \draw[->, thick] ([xshift=-8mm]wd.north west) -- ([xshift=-8mm]cd.south west)
+    node[pos=0.5, below, sloped, label] {Peripheries: warm $\rightarrow$ cold};
+\end{tikzpicture}
+\end{document}

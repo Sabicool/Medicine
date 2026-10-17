@@ -1,0 +1,46 @@
+% Perfusion pressure broken into its determinants, with the shock type that
+% follows from a fall in each one
+\documentclass[11pt, border=2mm]{standalone}
+\usepackage{cicm-figure}
+\begin{document}
+\begin{tikzpicture}[
+    term/.style = {box, minimum width=24mm},
+    type/.style = {accent box, text width=27mm, minimum height=14mm},
+    link/.style = {->, thick, cicmgrey},
+  ]
+  % Determinants
+  \node[box, minimum width=52mm, minimum height=13mm, fill=cicmpaper] (pp) at (0.2,0)
+    {Perfusion pressure\\[0.3ex]$\mathrm{MAP}-\mathrm{CVP}=\mathrm{CO}\times\mathrm{SVR}$};
+  \node[term] (co) at (-4.5,-2.2) {Cardiac output\\[0.2ex]$\mathrm{HR}\times\mathrm{SV}$};
+  \node[term] (svr) at (4.95,-2.2) {SVR};
+  \node[term] (hr) at (-8.25,-4.4) {Heart rate};
+  \node[term] (sv) at (-0.8,-4.4) {Stroke volume};
+  \node[term] (preload) at (-3.3,-6.6) {Preload};
+  \node[term] (contract) at (1.65,-6.6) {Contractility};
+
+  % Shock types
+  \node[type] (arrhythmic) at (-8.25,-8.9) {Arrhythmic\\[-0.2ex]{\footnotesize brady- or tachycardia}};
+  \node[type] (hypo) at (-4.95,-8.9) {Hypovolaemic\\[-0.2ex]{\footnotesize bleeding, GI losses}};
+  \node[type] (obstr) at (-1.65,-8.9) {Obstructive\\[-0.2ex]{\footnotesize PE, tamponade, tension PTX}};
+  \node[type] (cardio) at (1.65,-8.9) {Cardiogenic\\[-0.2ex]{\footnotesize MI, myocarditis}};
+  \node[type] (distrib) at (4.95,-8.9) {Distributive\\[-0.2ex]{\footnotesize sepsis,\\[-0.6ex] anaphylaxis, spinal}};
+
+  % Tree
+  \draw[link] (pp.south) -- ++(0,-0.5) -| (co.north);
+  \draw[link] (pp.south) -- ++(0,-0.5) -| (svr.north);
+  \draw[link] (co.south) -- ++(0,-0.5) -| (hr.north);
+  \draw[link] (co.south) -- ++(0,-0.5) -| (sv.north);
+  \draw[link] (sv.south) -- ++(0,-0.5) -| (preload.north);
+  \draw[link] (sv.south) -- ++(0,-0.5) -| (contract.north);
+
+  % A fall in each determinant
+  \draw[->, thick, cicmaccent] (hr.south) -- (arrhythmic.north);
+  \draw[->, thick, cicmaccent] (preload.south) -- ++(0,-0.6) -| (hypo.north);
+  \draw[->, thick, cicmaccent] (preload.south) -- ++(0,-0.6) -| (obstr.north);
+  \draw[->, thick, cicmaccent] (contract.south) -- (cardio.north);
+  \draw[->, thick, cicmaccent] (svr.south) -- (distrib.north);
+
+  \node[label, cicmgrey, align=center] at (-1.65,-10.4)
+    {A fall in any term lowers perfusion pressure; the red arrows lead to the shock type it causes};
+\end{tikzpicture}
+\end{document}

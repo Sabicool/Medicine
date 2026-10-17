@@ -77,10 +77,15 @@ $$
 - $\text{CO}=\text{HR}\times \text{SV}$
 - SV depends on preload, contractility and afterload
 
-`[FIGURE: shock-equation.svg, TikZ. The equation with each term branching to the shock type it causes: ↓preload → hypovolaemic/obstructive, ↓contractility → cardiogenic, ↓/↑HR → arrhythmic, ↓SVR → distributive]`
-
 > [!question]
 > If perfusion pressure is low, which terms could be responsible?
+
+## Where it can fail
+
+![[shock-equation.svg]]
+
+> [!notes]
+> This is the answer to the last question drawn out. Each red arrow is a fall in one term and the shock type it produces. Tachycardia sits under heart rate here, but it really causes shock by shortening diastolic filling time, so it's a preload problem too ([[Shock#Pathophysiology]]).
 
 ## Four mechanisms
 
@@ -403,7 +408,7 @@ Only give fluid if all of these are true:
 
 ## Cold and wet
 
-`[FIGURE: haemodynamic-profiles.svg, TikZ. 2×2 grid, warm/cold (perfusion) × dry/wet (congestion), with each shock type placed on it]`
+![[haemodynamic-profiles.svg]]
 
 > [!notes]
 > I'd use this to compare him with Mrs P: she was warm and dry, he's cold and wet. That contrast is most of the bedside differentiation they need.
@@ -474,7 +479,7 @@ Only give fluid if all of these are true:
 | Neurogenic | Warm | **Slow** | Empty | Spinal injury |
 
 > [!notes]
-> This is just the four cases laid side by side, plus neurogenic since it's the one where heart rate is the giveaway. Cardiogenic and obstructive look the same on the three questions, which is why POCUS and the clear chest matter in Mrs D. Real patients are messier than this table, and mixed shock is common, so I'd present it as a starting point rather than a rule. `[FIGURE: this could replace the haemodynamic-profiles.svg placeholder in Case 3 rather than being a separate figure]`
+> This is just the four cases laid side by side, plus neurogenic since it's the one where heart rate is the giveaway. Cardiogenic and obstructive look the same on the three questions, which is why POCUS and the clear chest matter in Mrs D. Real patients are messier than this table, and mixed shock is common, so I'd present it as a starting point rather than a rule.
 
 ## Don't miss these
 
