@@ -817,3 +817,27 @@ Only give fluid if all of these are true:
 - Resuscitate while you differentiate, and reassess after everything you give
 - More than one type can co-exist (e.g. sepsis + hypovolaemia)
 - Full notes: [[Shock]]
+
+## Sources: guidelines and trials
+<!-- slide: fragments=none -->
+
+- Singer M, et al. The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3). *JAMA*. 2016;315(8):801–10
+- [Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026](https://journals.lww.com/ccmjournal/fulltext/2026/04000/surviving_sepsis_campaign__international.5.aspx). *Crit Care Med*. 2026
+- Asfar P, et al. High versus low blood-pressure target in patients with septic shock (SEPSISPAM). *N Engl J Med*. 2014;370:1583–93
+- ARISE FLUIDS Investigators. Vasopressors or fluids in early septic shock. *N Engl J Med*. 2026. doi:[10.1056/NEJMoa2516225](https://doi.org/10.1056/NEJMoa2516225)
+- National Blood Authority. [Patient blood management guideline for adults with critical bleeding](https://www.blood.gov.au/patient-blood-management-guideline-adults-critical-bleeding), v2.0. 2025
+- Rossaint R, et al. The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition. *Crit Care*. 2023;27:80. doi:[10.1186/s13054-023-04327-7](https://doi.org/10.1186/s13054-023-04327-7)
+- CRASH-2 trial collaborators. Effects of tranexamic acid in trauma patients with significant haemorrhage. *Lancet*. 2010;376:23–32. doi:[10.1016/S0140-6736(10)60835-5](https://doi.org/10.1016/S0140-6736(10)60835-5)
+- NSW Agency for Clinical Innovation. [Management of cardiogenic shock](https://aci.health.nsw.gov.au/__data/assets/pdf_file/0018/1043370/Management-of-Cardiogenic-Shock-CPG.pdf)
+
+## Sources: reviews and further reading
+<!-- slide: fragments=none -->
+
+- Thiele H, Hassager C. Cardiogenic shock. *N Engl J Med*. 2025;394(1):62–77. doi:[10.1056/NEJMra2312086](https://doi.org/10.1056/NEJMra2312086)
+- Puttur Rajkumar K, et al. Blood pressure goals in critically ill patients. *Methodist DeBakey Cardiovasc J*. 2023;19(4):24. doi:[10.14797/mdcvj.1260](https://doi.org/10.14797/mdcvj.1260)
+- Queensland Spinal Cord Injuries Service. [Spinal and neurogenic shock](https://qscis.health.qld.gov.au/resources/cardiovascular/spinal-and-neurogenic-shock/)
+- Contou D, de Prost N. Skin mottling. *N Engl J Med*. 2016;375:2187. doi:[10.1056/NEJMicm1602055](https://doi.org/10.1056/NEJMicm1602055) (mottling image)
+- [The POCUS Atlas: RUSH, undifferentiated hypotension](https://www.thepocusatlas.com/shock)
+- Deranged Physiology: [Approach to the undifferentiated shock patient](https://derangedphysiology.com/main/required-reading/cardiovascular-intensive-care/Chapter-112/approach-undifferentiated-shock-patient)
+- LITFL: [Shock](https://litfl.com/shock/) · ICU One Pager: [Undifferentiated shock](https://onepagericu.com/undifferentiated-shock)
+- Figures drawn for this tutorial; full notes and references in [[Shock]]
