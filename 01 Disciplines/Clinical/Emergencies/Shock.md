@@ -12,6 +12,7 @@ slides: true
 - See:
 	- [[Sepsis]]
 	- [[Acute Heart Failure]]
+	- [[Shock Tutorial (Final Year)|Approach to Undifferentiated Shock]]: a case-based tutorial for final year medical students
 # Definition
 - Physiologic state characterised by a systemic impairment in oxygen delivery as a result of reduced tissue perfusion, almost universally mediated by low blood pressure ($DO_{2}<\dot{V}O_{2}$)
 

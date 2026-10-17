@@ -7,28 +7,8 @@ Rotations:
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
 date: 2026-10-17
 description: A case-based tutorial for final year medical students
-draft: true
 slides: true
 ---
-<!-- slide: skip -->
-> [!info] Outline status
-> This is the outline for review, not the finished deck. Each `##` is one slide (`###` is a branch beneath it), `---` forces a slide break, `> [!notes]` is what I'd say (speaker notes: press S) and `> [!question]` is what I'd put to the group. `[GAP: …]` marks something still to sort out. `draft: true` keeps it off the site until we're happy with it.
->
-> **Session plan (~85 min)**
-> - Opening and objectives (5 min)
-> - The framework: one equation, four mechanisms (8 min)
-> - Recognising shock (5 min)
-> - The approach: resuscitate while you differentiate (10 min)
-> - Case 1: Mrs P (18 min)
-> - Case 2: Mr T (16 min)
-> - Case 3: Mr K, including the obstructive mimic (16 min)
-> - Putting it together and quick-fire (5 min)
-> - Wrap-up: your first 15 minutes (2 min)
->
-> The cases are headed by patient rather than by shock type, so the slide title doesn't give the answer away. Each case opens on a live monitor and a board of face-down findings: tiles only turn over (click, or press 1–9) when someone asks for that finding. Each case then has one decision slide; clicking a choice jumps to that branch, where the monitor trends to the new numbers, and "Continue →" rejoins the main path (right arrow skips the branches). Press A to turn on the QRS tone, whose pitch falls with the SpO₂, and L to capture a 12-lead (turning over a finding labelled "12-lead" does the same).
->
-> Syntax: `> [!monitor] Patient` with `- HR:`, `- BP:`, `- SpO2:`, `- RR:`, `- Temp:`, and optionally `- ART:`, `- EtCO2:`, `- Rhythm: AF`, `- ST: anterior` (or `inferior`), `- PVCs: occasional`, `- Time: 02:04`, `- Over: 20` (seconds to trend from the last slide for the same patient). `> [!findings] Prompt` with `- Label: finding`. `> [!choice] Prompt` with a list of `[[#Heading|Label]]` links.
-
 # Opening
 
 ## Rapid response call, 0200
@@ -593,7 +573,7 @@ $$
 [[#Managing haemorrhagic shock|Continue →]]
 
 > [!notes]
-> `[GAP: "CT is for the stable patient" is my wording, from general trauma teaching rather than your notes. Check you're happy with it]`
+> The scanner is the wrong place for a patient who is still bleeding and unstable: there's no one at the bedside and no blood running.
 
 ## Managing haemorrhagic shock
 
