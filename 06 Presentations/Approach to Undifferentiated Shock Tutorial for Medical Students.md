@@ -754,14 +754,14 @@ Only give fluid if all of these are true:
 
 - 12-lead ECG and POCUS early
 - Support the lungs: CPAP/BiPAP
-- Noradrenaline first to restore MAP (and coronary perfusion)
+- Noradrenaline first to restore MAP, and keep an eye on the DBP (≥ 60 mmHg) for coronary perfusion
 - Then dobutamine if still poorly perfused (cold, mottled)
 - Adrenaline alone is reasonable as a short-term bridge
 - Treat the cause: revascularisation for ACS
 - Escalate early: ICU and cardiology
 
 > [!notes]
-> From [[Acute Heart Failure#Management]]. I'd name IABP, Impella and ECMO only so they've heard of them, and mention that IABP-SHOCK II showed an IABP isn't for everyone.
+> From [[Acute Heart Failure#Management]]. On the DBP: the LV fills its coronaries in diastole, so a MAP of 65 built on a DBP of 45 isn't reassuring. DBP ≥ 60 is common practice rather than a guideline target; low DBP (< 60) is associated with myocardial injury. I'd name IABP, Impella and ECMO only so they've heard of them, and mention that IABP-SHOCK II showed an IABP isn't for everyone.
 
 ---
 

@@ -103,6 +103,7 @@ slides: true
 				- Milrinone
 		- Hypotension: consider inopressor
 			- Noradrenaline is widely recommended as the front-line agent for cardiogenic shock: improves SVR and elevates diastolic pressure to improve coronary perfusion
+			- Watch the diastolic pressure as well as the MAP: the LV is perfused in diastole, and many units aim for DBP ≥ 60 mmHg, but this is common practice rather than a guideline target (DBP < 60 mmHg is associated with myocardial injury)[^4]
 			- Dobutamine or milrinone to vasodilate systemically and reduce LV afterload
 			- Consider pulmonary vasodilators to decrease RV afterload
 	- Optimise volume status
@@ -200,3 +201,4 @@ slides: true
 [^1]: Earlier initiation of renal replacement therapy in the absence of these conventional emergent indications has been shown to have no effect on outcome
 [^2]: Patients with new-onset atrial fibrillation might benefit from cardioversion to sinus rhythym instead
 [^3]: There is a NSW health policy directive on IABP and ECMO retrieval
+[^4]: Puttur Rajkumar K, Henley Hicks M, Marchant B, Khanna AK. Blood Pressure Goals in Critically Ill Patients. _Methodist DeBakey Cardiovasc J_. 2023;19(4):24. doi:[10.14797/mdcvj.1260](https://doi.org/10.14797/mdcvj.1260)
