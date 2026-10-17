@@ -1,4 +1,5 @@
 ---
+title: Approach to Undifferentiated Shock
 aliases:
   - Shock Teaching
 Rotations:
@@ -13,15 +14,18 @@ slides: true
 > This is the outline for review, not the finished deck. Each `##` is one slide, `---` forces a slide break, `> [!notes]` is what I'd say (speaker notes, once the emitter supports them) and `> [!question]` is what I'd put to the group. `[GAP: …]` marks something still to sort out. `draft: true` keeps it off the site until we're happy with it.
 >
 > **Session plan (~80 min)**
-> - Opening and objectives (7 min)
-> - The framework: one equation, four mechanisms (10 min)
+> - Opening and objectives (5 min)
+> - The framework: one equation, four mechanisms (8 min)
 > - Recognising shock (5 min)
-> - Case 1: septic shock (18 min)
-> - Case 2: haemorrhagic shock (14 min)
-> - Case 3: cardiogenic shock (12 min)
-> - Case 4: obstructive shock, the twist (8 min)
-> - Quick-fire: the ones you can't miss (4 min)
+> - The approach: resuscitate while you differentiate (10 min)
+> - Case 1: Mrs P (15 min)
+> - Case 2: Mr T (12 min)
+> - Case 3: Mr K (10 min)
+> - Case 4: Mrs D (8 min)
+> - Putting it together and quick-fire (5 min)
 > - Wrap-up: your first 15 minutes (2 min)
+>
+> The cases are headed by patient rather than by shock type, so the slide title doesn't give the answer away. Each case runs through the same approach, and the type is only named once the group has worked it out.
 
 # Opening
 
@@ -49,10 +53,10 @@ slides: true
 
 ## By the end of this session you should be able to
 
-- Define shock in terms of oxygen delivery, not blood pressure
+- Recognise shock before the blood pressure falls
 - Classify shock by mechanism using one equation
-- Tell the types apart at the bedside with three questions
-- Start resuscitation in the first 15 minutes, and know when to escalate
+- Use a structured approach to the undifferentiated shocked patient: resuscitate while you work out the type
+- Tell the types apart at the bedside, and know when to escalate
 
 # The Framework
 
@@ -130,36 +134,93 @@ $$
 
 ---
 
-# Case 1: Septic Shock
+# The Approach
+
+## Resuscitate while you differentiate
+
+1. **Recognise** it's shock and call for help
+2. **Primary survey:** ABC, monitoring, exclude the immediate killers
+3. **Differentiate at the bedside:** peripheries, heart rate, filling (PUMPS), POCUS
+4. **Empirical resuscitation:** fluid challenge, vasopressor, specific treatment
+5. **Secondary survey:** history, examination and investigations for the cause
+6. **Reassess and escalate**
+
+> [!notes]
+> This is the structure of [[Shock#Approach to Undifferentiated Shock]] and every case from here follows it. The point I'd make is that steps 2–4 happen at the same time: you don't wait to know the type before starting to resuscitate, but you also don't keep pouring fluid in without asking why they're shocked.
+
+## The primary survey
+
+- Call for senior help early
+- A, B, C with monitoring on
+- Exclude the things that kill quickly: tension pneumothorax, massive haemothorax, external haemorrhage, anaphylaxis, tamponade, massive PE
+- IV access, bloods including cultures, ABG/VBG with lactate, 12-lead ECG
+- Peri-arrest? Adrenaline 0.1 mg boluses to buy time while setting up an infusion
+
+> [!notes]
+> Condensed from [[Shock#Primary Survey]] and [[Shock#Empirical Resuscitation]]. For final years I'd leave out ETCO₂ and the equipment checks and keep the "exclude the reversible killers" framing.
+
+## Three bedside questions
+
+- **Peripheries:** warm or cold? (SVR)
+- **Heart rate:** fast, slow or normal?
+- **Filling:** full or empty?
+
+> [!notes]
+> This is the callout in [[Shock#Primary Survey]] and I'd like it to be the spine of every case from here on. The first two are quick; filling is the one people struggle with, hence the next slide.
+
+## Assessing filling: PUMPS
+
+- **P**eripheral perfusion: capillary refill time, systolic BP, pulse pressure
+- **U**rine output
+- **M**ucous membranes and skin turgor
+- **P**ressure in the neck: JVP
+- **S**igns of volume overload: peripheral oedema, hepatojugular reflux, S3 gallop, lung crackles
+
+> [!question]
+> Which of these can you check in the first two minutes?
+
+> [!notes]
+> This is the mnemonic I use myself. None of these are good at predicting whether a bolus will help on their own, which comes up again in Case 1, but together they give you a reasonable idea of whether the patient is dry or overloaded. Passive leg raise is the dynamic test they can do on the ward.
+
+## History that points to the type
+
+| Ask about | Think |
+| --- | --- |
+| Chest pain, diaphoresis, known cardiac disease | Cardiogenic |
+| Fevers, rigors, immunosuppression | Septic |
+| Allergen exposure | Anaphylaxis |
+| Trauma, blood loss | Hypovolaemic |
+| Recent chest procedure, malignancy | Obstructive |
+| Exogenous steroids, adrenal disease | Adrenal crisis |
+
+> [!notes]
+> From the important history points in [[Shock#Secondary Survey]]. Also worth reminding them to look at the drug chart and what's happened in the last few hours (recent procedures, new drugs, collateral from the nurse), since on the ward that's often where the answer is.
+
+---
+
+# Case 1: Mrs P
 
 ## Mrs P, 78
 
 - Day 2 of admission for a UTI, nurse calls because she's "not herself"
 - HR 118, BP 82/45 (MAP 57), RR 26, T 38.9 °C, SpO₂ 94% on room air
 - Confused, warm peripheries, CRT 2 s
+- Dry mucous membranes, JVP not visible, chest clear
+- 40 mL in her catheter bag over the last 4 hours (weight 60 kg)
 - VBG: lactate 4.6
 
 > [!question]
-> Is she shocked? What type? What's your next move?
+> Is she shocked? Run the approach: what are the peripheries, heart rate and filling telling you?
 
-## Approach: the primary survey
+## Warm, fast, empty: distributive
 
-- Call for senior help early
-- A, B, C with monitoring on
-- Exclude the things that kill quickly: tension pneumothorax, haemorrhage, anaphylaxis, tamponade
-- IV access, bloods including cultures, ABG/VBG with lactate, ECG
-
-> [!notes]
-> Condensed from [[Shock#Primary Survey]]. For final years I'd leave out ETCO₂ and the equipment checks and keep the "exclude the reversible killers" framing.
-
-## Three bedside questions
-
-- **Peripheries:** warm or cold? (SVR)
-- **Heart rate:** fast, slow or normal?
-- **Filling:** JVP, response to passive leg raise
+- **Peripheries:** warm, CRT 2 s → low SVR
+- **Heart rate:** 118 → fast
+- **Filling (PUMPS):** dry mucous membranes, JVP not visible, no signs of overload, urine output ≈ 0.17 mL/kg/h → empty
+- With a fever and a known UTI, this is septic shock until proven otherwise
 
 > [!notes]
-> This is the callout in [[Shock#Primary Survey]] and I'd like it to be the spine of every case from here on. Warm peripheries, tachycardia and low filling fits distributive.
+> Worth pointing out that she's both vasodilated *and* dry, probably from not drinking much while unwell. That's the "more than one type can co-exist" point from [[Shock#Secondary Survey]], and it's why she'll respond to some fluid before she needs a pressor.
 
 ## Sepsis and septic shock (Sepsis-3)
 
@@ -220,17 +281,28 @@ $$
 
 ---
 
-# Case 2: Haemorrhagic Shock
+# Case 2: Mr T
 
 ## Mr T, 34
 
 - Motorbike vs car at 60 km/h, brought in by ambulance
 - HR 124, BP 108/84, RR 28, SpO₂ 97%
-- Pale, cool to the knees, anxious
+- Pale, cool to the knees, CRT 4 s, anxious
+- JVP not visible, chest clear
 - Obvious deformity of the left thigh
 
 > [!question]
 > His BP is normal. Is he shocked?
+
+## Cold, fast, empty: hypovolaemic
+
+- **Peripheries:** cool to the knees, CRT 4 s → vasoconstricted
+- **Heart rate:** 124 → fast
+- **Filling (PUMPS):** narrow pulse pressure, JVP not visible → empty
+- In trauma, that's haemorrhage until proven otherwise
+
+> [!notes]
+> The thing I want them to notice is that he's cold and empty, which looks the same as Mrs P on the filling question but the opposite on the peripheries. That's the SVR question doing the work.
 
 ## The shock index
 
@@ -299,17 +371,24 @@ $$
 
 ---
 
-# Case 3: Cardiogenic Shock
+# Case 3: Mr K
 
 ## Mr K, 66
 
 - 2 hours of central chest pain, sweaty
 - HR 108, BP 84/60, RR 30, SpO₂ 89% on room air
 - Cold, clammy, mottled knees
-- JVP up, bibasal crackles
+- JVP up, bibasal crackles, pitting oedema to the shins
 
 > [!question]
-> Would you give him a fluid bolus?
+> Run the approach. Would you give him a fluid bolus?
+
+## Cold, fast, full: cardiogenic
+
+- **Peripheries:** cold, mottled → vasoconstricted, low output
+- **Heart rate:** 108 → fast
+- **Filling (PUMPS):** JVP up, crackles, oedema → full
+- With chest pain, that's cardiogenic shock from an ACS until proven otherwise
 
 ## Probably not
 
@@ -344,16 +423,16 @@ Only give fluid if all of these are true:
 
 ---
 
-# Case 4: The Twist
+# Case 4: Mrs D
 
 ## Mrs D, 58
 
 - Day 4 after a hip replacement, sudden breathlessness
 - HR 128, BP 80/50, RR 32, SpO₂ 86% on 6 L
-- Cool peripheries, JVP up, chest clear
+- Cool peripheries, JVP up, chest clear, no peripheral oedema
 
 > [!question]
-> Cold, raised JVP. Is this cardiogenic?
+> Cold, fast, full. Is this cardiogenic?
 
 ## Obstructive shock mimics pump failure
 
@@ -382,7 +461,20 @@ Only give fluid if all of these are true:
 
 ---
 
-# Quick-Fire
+# Putting It Together
+
+## Same three questions, four answers
+
+| | Peripheries | Heart rate | Filling | Clue |
+| --- | --- | --- | --- | --- |
+| Mrs P: distributive | Warm | Fast | Empty | Fever, source |
+| Mr T: hypovolaemic | Cold | Fast | Empty | Trauma, blood loss |
+| Mr K: cardiogenic | Cold | Fast | Full | Chest pain, crackles |
+| Mrs D: obstructive | Cold | Fast | Full | Clear chest, POCUS |
+| Neurogenic | Warm | **Slow** | Empty | Spinal injury |
+
+> [!notes]
+> This is just the four cases laid side by side, plus neurogenic since it's the one where heart rate is the giveaway. Cardiogenic and obstructive look the same on the three questions, which is why POCUS and the clear chest matter in Mrs D. Real patients are messier than this table, and mixed shock is common, so I'd present it as a starting point rather than a rule. `[FIGURE: this could replace the haemodynamic-profiles.svg placeholder in Case 3 rather than being a separate figure]`
 
 ## Don't miss these
 
@@ -403,11 +495,12 @@ Only give fluid if all of these are true:
 
 ## Your first 15 minutes
 
-1. Call for help
-2. ABC, monitoring, access, VBG with lactate
-3. Three questions: peripheries, heart rate, filling
-4. Treat the type: fluid challenge, pressor, inotrope, blood, or fix the obstruction
-5. Reassess, and escalate
+1. Recognise it and call for help
+2. Primary survey: ABC, monitoring, access, VBG with lactate, ECG
+3. Differentiate: peripheries, heart rate, filling (PUMPS), POCUS
+4. Resuscitate: fluid challenge, pressor, inotrope, blood, or fix the obstruction
+5. Secondary survey: history, examination, investigations
+6. Reassess, and escalate
 
 > [!notes]
 > Back to the opening question: compare this list with what they said at 0200.
@@ -416,6 +509,7 @@ Only give fluid if all of these are true:
 
 - Shock is a failure of oxygen delivery; BP falls late
 - $\text{MAP} - \text{CVP} = \text{CO} \times \text{SVR}$ tells you where to look
-- Warm vs cold, fast vs slow, full vs empty
+- Warm vs cold, fast vs slow, full vs empty (PUMPS)
+- Resuscitate while you differentiate, and reassess after everything you give
 - More than one type can co-exist (e.g. sepsis + hypovolaemia)
 - Full notes: [[Shock]]
