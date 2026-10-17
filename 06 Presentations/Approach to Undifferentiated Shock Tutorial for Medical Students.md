@@ -261,7 +261,7 @@ Rapid response call, ward 7. Day 2 of an admission for a UTI, and the nurse says
 > - SpO2: 95
 > - RR: 23
 > - Temp: 38.9
-> - Over: 20
+> - Over: 10
 
 - MAP 67, CRT faster, a bit more alert
 - That's a fluid challenge: give it, then look at the patient again
@@ -280,7 +280,7 @@ Rapid response call, ward 7. Day 2 of an admission for a UTI, and the nurse says
 > - SpO2: 89
 > - RR: 32
 > - Temp: 38.9
-> - Over: 25
+> - Over: 12
 
 - MAP up a little, but she's now short of breath
 - Crackles at both bases, SpO₂ 89%
@@ -300,7 +300,7 @@ Rapid response call, ward 7. Day 2 of an admission for a UTI, and the nurse says
 > - SpO2: 94
 > - RR: 26
 > - Temp: 38.9
-> - Over: 20
+> - Over: 10
 
 - Not wrong: start noradrenaline early, and peripherally is fine short-term
 - But she's dry as well as vasodilated, so she needs some fluid too
@@ -319,7 +319,7 @@ Rapid response call, ward 7. Day 2 of an admission for a UTI, and the nurse says
 > - SpO2: 91
 > - RR: 32
 > - Temp: 39.2
-> - Over: 25
+> - Over: 12
 
 - 40 minutes later: more confused, MAP 50
 - You already had a lactate from the VBG
@@ -393,7 +393,7 @@ Rapid response call, ward 7. Day 2 of an admission for a UTI, and the nurse says
 > - SpO2: 95
 > - RR: 22
 > - Temp: 38.5
-> - Over: 30
+> - Over: 15
 
 - MAP 71: at target
 - Now reassess perfusion: CRT, mental state, urine output, repeat lactate
@@ -494,7 +494,7 @@ $$
 > - BP: 102/82
 > - SpO2: 97
 > - RR: 28
-> - Over: 40
+> - Over: 20
 
 > [!notes]
 > His numbers drift while they argue, which is the point.
@@ -507,7 +507,7 @@ $$
 > - SpO2: 96
 > - RR: 30
 > - Temp: 35.4
-> - Over: 30
+> - Over: 15
 
 - BP rose for ten minutes, then fell further
 - Now 35.4 °C, and his INR is 1.6
@@ -526,7 +526,7 @@ $$
 > - BP: 92/64
 > - SpO2: 98
 > - RR: 24
-> - Over: 30
+> - Over: 15
 
 - Blood products in a ratio no lower than 2:1:1, through a warmer
 - TXA within 3 hours of injury
@@ -545,7 +545,7 @@ $$
 > - BP: 112/88
 > - SpO2: 97
 > - RR: 28
-> - Over: 15
+> - Over: 8
 
 - The BP looks better…
 - …but he's still bleeding and still empty: HR 130, pulse pressure 24
@@ -564,7 +564,7 @@ $$
 > - BP: 76/58
 > - SpO2: 95
 > - RR: 32
-> - Over: 30
+> - Over: 15
 
 - Halfway through the scan, the radiographer calls: BP 76/58
 - He's in a corridor with no blood running
@@ -656,7 +656,7 @@ ED. Two hours of central chest pain, and he's sweaty.
 > - RR: 30
 > - ST: anterior
 > - PVCs: occasional
-> - Over: 30
+> - Over: 15
 
 ### A bolus for Mr K
 
@@ -665,7 +665,7 @@ ED. Two hours of central chest pain, and he's sweaty.
 > - BP: 82/58
 > - SpO2: 82
 > - RR: 36
-> - Over: 20
+> - Over: 10
 
 - No change in BP
 - Crackles now to the mid zones, SpO₂ 82%
@@ -680,7 +680,7 @@ ED. Two hours of central chest pain, and he's sweaty.
 > - BP: 98/64
 > - SpO2: 91
 > - RR: 28
-> - Over: 25
+> - Over: 12
 
 - MAP up first with noradrenaline, then dobutamine for perfusion
 - Right drugs, right order
