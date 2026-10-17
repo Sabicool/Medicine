@@ -277,6 +277,56 @@ $$
 # Trauma Related Shock
 ![[Pasted image 20260426103530.png]]
 
+## Haemorrhagic Shock
+- Assessing severity
+	- Hypotension is a late sign, particularly in young patients who compensate with tachycardia and vasoconstriction
+	- Shock index (HR/SBP) and pulse pressure can be used to assess the degree of hypovolaemic shock[^4]
+- Stop the bleeding
+	- Identifying the cause of bleeding and controlling it as soon as possible is essential[^5]; fluids and blood products only buy time until this happens
+- Permissive hypotension
+	- Restricted volume replacement with a target SBP of 80–90 mmHg until major bleeding has stopped, in patients without clinical evidence of brain injury[^4]
+	- Severe TBI (GCS ≤ 8): maintain MAP ≥ 80 mmHg[^4]
+	- If restricted volume replacement doesn't achieve the target, add noradrenaline to fluids[^4]
+- Fluids
+	- 0.9% saline or balanced crystalloid can be started[^4]
+	- Avoid hypotonic solutions such as Ringer's lactate (i.e. Hartmann's) in severe head trauma[^4]
+	- Restrict colloids due to their adverse effects on haemostasis[^4]
+- Major haemorrhage protocol (MHP)[^5]
+	- Institutions should use an MHP that covers haemorrhage control, correction of coagulopathy and normalisation of physiological derangement
+	- A high ratio of RBC:FFP:PLT may be beneficial, but there is insufficient evidence for 1:1:1 over 2:1:1
+		- Ratio should be no lower than 2:1:1, achieved as soon as possible and maintained until bleeding is controlled
+		- Initial doses: at least 1 unit FFP with every 2 units RBC, and at least 1 adult unit of platelets with every 8 units RBC
+		- 1 adult unit of platelets in Australia = platelets from 4 whole blood donors, so 1:1:1 = 4 RBC : 4 FFP : 1 adult platelets
+	- Fibrinogen replacement: 3–4 g as fibrinogen concentrate or cryoprecipitate (e.g. 3 units of apheresis cryoprecipitate)
+	- Measure early and frequently: temperature, acid–base status, ionised calcium, Hb, platelets, PT/INR, APTT and fibrinogen; consider repeating after every 4 units of RBC
+	- Values indicating critical physiological derangement:
+		- Temperature < 35 °C
+		- pH < 7.2, base excess < –6 mmol/L, lactate > 4 mmol/L
+		- Ionised calcium < 1 mmol/L
+		- INR > 1.5, PT or APTT > 1.5 × ULN
+		- Fibrinogen < 2.0 g/L
+	- Give RBC through a blood warmer and keep core temperature ≥ 35 °C
+	- Correct hypocalcaemia with calcium chloride[^4]
+	- Switch to group-specific blood components as soon as possible, and cease the MHP once critical bleeding is controlled
+- Tranexamic acid
+	- 1 g IV over 10 minutes, then 1 g over 8 hours[^4]
+	- Give as soon as possible and within 3 hours of injury[^4][^5]; don't wait for viscoelastic testing[^4]
+	- CRASH-2 showed a reduction in all-cause mortality (14.5% vs 16.0%)[^6]; the benefit appears confined to patients treated within 3 hours of injury, with possible harm after this[^7]
+	- Insufficient evidence to recommend it in critical GI bleeding[^5]
+
+^haemorrhage
+
+## Neurogenic Shock
+- Loss of sympathetic tone, typically after spinal cord injury at or above T6[^8]
+	- Hypotension (SBP < 90 mmHg) from loss of vascular tone and pooling of blood in the limbs
+	- Bradycardia and reduced contractility from unopposed vagal activity
+- In multitrauma, consider other causes of shock (particularly haemorrhage) before attributing hypotension to the spinal injury[^8]
+- Management[^8]
+	- Fluid resuscitation, balanced against the risk of fluid overload
+	- Vasopressors/inotropes second line, targeting MAP 85–90 mmHg in the acute phase
+
+^neurogenic
+
 # Vasopressors and Ionotropes
 - Start noradrenaline early — don't wait for large volumes of fluid; fluid overload is harmful
 - Peripheral vasopressor use (short-term, large proximal vein) is acceptable to avoid delaying treatment while CVC inserted
@@ -381,3 +431,8 @@ $$
 
 [^2]: CVP is a poor predictor of fluid responsiveness
 [^3]: Dexamethasone does not interfere with the cortisol level allowing one to perform an ACTH stimulation test later if indicated
+[^4]: Rossaint R, Afshari A, Bouillon B, et al. The European guideline on management of major bleeding and coagulopathy following trauma: sixth edition. _Critical Care_. 2023;27:80. doi:[10.1186/s13054-023-04327-7](https://doi.org/10.1186/s13054-023-04327-7)
+[^5]: National Blood Authority. [Patient blood management guideline for adults with critical bleeding](https://www.blood.gov.au/patient-blood-management-guideline-adults-critical-bleeding) (v2.0, September 2025)
+[^6]: CRASH-2 trial collaborators. Effects of tranexamic acid on death, vascular occlusive events, and blood transfusion in trauma patients with significant haemorrhage (CRASH-2). _Lancet_. 2010;376(9734):23-32. doi:[10.1016/S0140-6736(10)60835-5](https://doi.org/10.1016/S0140-6736(10)60835-5)
+[^7]: Roberts I, Prieto-Merino D, Manno D. Mechanism of action of tranexamic acid in bleeding trauma patients: an exploratory analysis of data from the CRASH-2 trial. _Critical Care_. 2014;18:685. doi:[10.1186/s13054-014-0685-8](https://doi.org/10.1186/s13054-014-0685-8)
+[^8]: Queensland Spinal Cord Injuries Service. [Spinal and neurogenic shock](https://qscis.health.qld.gov.au/resources/cardiovascular/spinal-and-neurogenic-shock/)
