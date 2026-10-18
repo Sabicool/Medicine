@@ -1,5 +1,5 @@
 ---
-date: 2026-10-17
+date: 2026-10-18
 ---
 - Compartment models describe the body as one or more well-mixed spaces the drug moves between, so that plasma concentrations over time can be described mathematically
 	- The compartments are mathematical rather than anatomical, although they loosely correspond to groups of tissues with similar blood flow
