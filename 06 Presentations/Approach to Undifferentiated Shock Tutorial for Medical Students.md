@@ -6,6 +6,7 @@ Rotations:
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
 date: 2026-10-17
 description: A case-based tutorial for final year medical students
+author: Sabiqul Hoque
 slides: true
 ---
 # Opening
