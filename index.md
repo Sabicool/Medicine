@@ -3,7 +3,7 @@ title: Junior Doctor Notes
 eyebrow: Personal Clinical Notes · Acute & critical care
 subtitle: My notes on approaches to the unwell patient, the common after-hours calls, and the investigations and procedures in between — maintained by a junior doctor in Australia, and meant to be useful at the bedside.
 description: Clinical notes maintained by a junior doctor in Australia, with a focus on acute and critical care medicine — emergency, intensive care and anaesthetics.
-date: 2026-06-19
+date: 2026-10-19
 ---
 Everything here is kept in markdown and edited to be as accurate and presentable as I can manage, with a focus on **acute and critical care** — emergency, intensive care and anaesthetics.
 
@@ -50,27 +50,10 @@ Mainly for the admin side of things as a junior doctor
 - [[Pronouncing Death]]
 - [[Writing Discharge Summaries]]
 - [[Advanced Life Support]]
-- [[Blood Gas Interpretation|ABG Interpretation]]
-
-Some other administrative notes:
-<!-- QueryToSerialize: List from "00 Reference/Administrative" sort file.name asc -->
-<!-- SerializedQuery: List from "00 Reference/Administrative" sort file.name asc -->
-- [[Administrative Notes on Radiology]]
-- [[Consults and Referrals]]
-- [[End-of-life orders]]
-- [[Finding Notes and Documents]]
-- [[Home Screen]]
-- [[Ordering Investigations]]
-- [[Patient Lists]]
-- [[Useful Numbers to Save on Your Phone]]
-- [[Viewing Investigations]]
-- [[Writing Discharge Summaries]]
-<!-- SerializedQuery END -->
 
 ## Medications
 Non-exhaustive list of medications that are commonly prescribed. Consider navigating for more medications using the file browser on the left (on desktop).
 ![[03 Medications/index#^handy-medications|index]]
 
-# Other Notes
-- [[About]]
-- [[How I Study]]
+# CICM Study
+- I also have my CICM primary study notes at [[05 CICM Study/Primary]] (e.g. [[B1 Pharmacokinetics]])
