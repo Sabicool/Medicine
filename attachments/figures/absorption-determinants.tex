@@ -1,0 +1,57 @@
+% Determinants of oral absorption and first-pass clearance. The dose is a band
+% whose width is the fraction still intact: it narrows where drug is lost in the
+% gut (1 - f_g) and on the first pass through the liver (E_H), leaving F (Birkett)
+% Capsule, stomach, small intestine, villus and liver: Servier Medical Art
+% (smart.servier.com), CC BY 4.0 (art/servier-*.pdf)
+\documentclass[11pt, border=2mm]{standalone}
+\usepackage{cicm-figure}
+\newcommand\organ[2]{\includegraphics[height=#1]{servier-#2.pdf}}
+\tikzset{
+  badge/.style = {circle, fill=cicmaccent, text=white, font=\scriptsize\bfseries, inner sep=0pt,
+                  minimum size=4mm},
+  tag/.style   = {rounded corners=1.2mm, draw=cicmaccent!45, fill=white, thin, font=\footnotesize,
+                  minimum width=22mm, minimum height=4.6mm, inner sep=1.5pt},
+  loss/.style  = {font=\footnotesize, align=center, anchor=north, text=cicmink},
+}
+% \stopat{x}{n}{title}{tag 1}{tag 2}{tag 3}: numbered title and tags above a stop
+\newcommand\stopat[6]{%
+  \node[badge] at (#1,3.95) {#2};
+  \node[font=\small, text=cicmaccent] at (#1,3.38) {#3};
+  \node[tag] at (#1,2.75) {#4};
+  \node[tag] at (#1,2.18) {#5};
+  \node[tag] at (#1,1.61) {#6};}
+\begin{document}
+\begin{tikzpicture}
+  % The dose: full width through the gut, narrower after the gut wall, narrower
+  % again after the liver
+  \fill[cicmbluetint, rounded corners=1.5mm] (-0.75,-0.6) rectangle (9.0,0.6);
+  \fill[cicmbluetint] (8.9,-0.25) rectangle (12.2,0.6);
+  \fill[cicmbluetint] (12.1,0.2) rectangle (13.9,0.6);
+  \fill[cicmbluetint] (13.85,0.02) -- (14.4,0.4) -- (13.85,0.78) -- cycle;
+
+  % Lost in the gut (1 - f_g) and on the first pass (E_H)
+  \fill[cicmgrey!28] (8.9,-0.25) .. controls (9.55,-0.25) and (9.75,-0.8) .. (9.75,-2.15)
+    -- (9.4,-2.15) .. controls (9.4,-0.95) and (9.3,-0.6) .. (8.9,-0.6) -- cycle;
+  \fill[cicmgrey!28] (12.1,0.2) .. controls (12.85,0.2) and (13.05,-0.5) .. (13.05,-2.15)
+    -- (12.6,-2.15) .. controls (12.6,-0.7) and (12.5,-0.25) .. (12.1,-0.25) -- cycle;
+  \node[loss] at (9.58,-2.25) {Not absorbed, or metabolised\\by the gut wall: \ $1-f_{g}$};
+  \node[loss] at (12.83,-2.25) {First-pass\\metabolism: \ $E_{H}$};
+
+  % Stops along the way
+  \node at (0,0) {\organ{6mm}{capsule}};
+  \node at (2.65,0) {\organ{15mm}{stomach}};
+  \node at (5.3,0) {\organ{15mm}{small-intestine}};
+  \node at (7.95,0) {\organ{15mm}{villus}};
+  \node at (11.05,0.1) {\organ{14mm}{liver}};
+  \node[font=\scriptsize, text=cicmaccent] at (9.75,0.82) {portal vein};
+  \node[font=\footnotesize, text=cicmaccent] at (13.25,0.98) {$F=f_{g}\cdot f_{H}$};
+  \node[font=\scriptsize, align=center, anchor=west] at (14.45,0.4) {systemic\\circulation};
+
+  % What each stop depends on
+  \stopat{0}{1}{Dissolution}{particle size}{formulation}{gut pH}
+  \stopat{2.65}{2}{Gastric emptying}{liquids faster}{opioids $\downarrow$}{metoclopramide $\uparrow$}
+  \stopat{5.3}{3}{Motility, lumen}{transit time}{chelation, resins}{food}
+  \stopat{7.95}{4}{Gut wall}{ionisation}{lipid solubility}{wall metabolism}
+  \stopat{11.05}{5}{First pass}{extraction ratio}{enzyme induction}{liver shunts}
+\end{tikzpicture}
+\end{document}

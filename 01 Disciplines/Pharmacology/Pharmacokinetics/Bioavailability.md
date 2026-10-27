@@ -43,6 +43,8 @@ $$
 > F=\frac{\text{AUC}_{\text{oral}}}{\text{AUC}_{\text{IV}}}
 > $$
 # Determinants of Drug Absorption
+![[absorption-determinants.svg|Determinants of oral absorption and first-pass clearance along the path of a dose. Capsule, stomach, gut and liver adapted from Servier Medical Art, CC BY 4.0]] ^fig-absorption-determinants
+
 - **Dissolution:** properties of the drug including particle size and form, excipients, special dosage forms (e.g. sustained release), and stomach and small intestine pH
 - **Gastric emptying rate:** affects how long the drug sits in acid (which matters for drugs unstable at acid pH) and how soon it reaches the small intestine; liquids and small particles empty more quickly than solid dosage forms, and emptying is slowed or sped up by antacids, drugs (opioids and anticholinergics slow it, metoclopramide speeds it up) and disease (e.g. autonomic neuropathy)
 - **Intestinal motility:** affects how long slowly soluble drugs (e.g. digoxin, sustained release formulations) have to dissolve, and how long the drug is exposed to chemical degradation or metabolism by gut flora
@@ -51,6 +53,8 @@ $$
 
 > [!card]- What determines how well a drug is absorbed from the gut?
 > Dissolution, gastric emptying rate, intestinal motility, interactions in the gut lumen (complexation, adsorption, food) and passage through the gut wall (physicochemical properties of the drug and metabolism by the intestinal epithelium)
+>
+> ![[absorption-determinants.svg|Determinants of oral absorption and first-pass clearance along the path of a dose. Capsule, stomach, gut and liver adapted from Servier Medical Art, CC BY 4.0]]
 # Determinants of First-Pass Clearance
 - In low hepatic extraction ratio drugs (e.g. theophylline), nearly all of the dose gets through the liver on its first pass ($f_{H}\approx 1$), so $F\approx f_{g}$
 	- Doubling or halving the small fraction the liver extracts makes little difference to $F$, e.g. $E_{H}$ rising from 0.1 to 0.2 only lowers $f_{H}$ from 0.9 to 0.8
