@@ -14,6 +14,7 @@ $$
 ![[effect-site-lag.svg|Plasma and effect-site concentrations after an IV bolus]]
 > [!card]- What equation links plasma and effect-site concentration, and when does effect-site concentration peak?
 > $\dfrac{dC_{e}}{dt}=k_{e0}(C_{p}-C_{e})$. After a bolus, $C_{e}$ rises while $C_{p}>C_{e}$ and peaks when $C_{e}=C_{p}$.
+> %% anki: 1793136947291 %%
 # Rapidly Equilibrating Effect Site
 - e.g. diazepam used intravenously in status epilepticus:
 	- The brain is highly perfused, so brain concentrations and the anticonvulsant effect follow plasma concentrations
@@ -23,6 +24,7 @@ $$
 	- The injection is given slowly so distribution happens while the drug is being given, e.g. intravenous theophylline and lignocaine
 > [!cloze]
 > After a single IV dose of diazepam, the anticonvulsant effect wears off due to ==redistribution==, not elimination, so fitting can recur within ==2–4 hours==
+> %% anki: 1793136947390 %%
 # Slowly Equilibrating Effect Site
 - e.g. digoxin given intravenously:
 	- Digoxin distributes slowly to its site of action (the inotropic effect) in cardiac muscle, so the effect increases while plasma concentrations are decreasing, both being driven by the same movement of drug from plasma into tissue
@@ -30,3 +32,4 @@ $$
 	- In the first 6–8 hours after a dose, plasma concentrations bear no relationship to effect, so levels must be taken at least 6 hours after a dose, preferably as a trough just before the next dose
 > [!card]- Why must digoxin levels be taken at least 6 hours after a dose?
 > Digoxin equilibrates slowly with its site of action in cardiac muscle, so for the first 6–8 hours plasma concentrations are high while the effect is still rising and bear no relationship to effect. Ideally take a trough level just before the next dose.
+> %% anki: 1793136947489 %%

@@ -22,9 +22,11 @@ $$
 
 > [!card]- What is the definition of volume of distribution?
 > The amount of drug in the body divided by the plasma drug concentration ($V_{D}=A_{\text{body}}/C$). It is an apparent volume, so it can exceed total body water.
+> %% anki: 1793136948636 %%
 
 > [!cloze]
 > A drug highly bound to ==plasma proteins (e.g. warfarin)== has a small volume of distribution, whereas a drug highly bound to ==tissue (e.g. digoxin)== has a large volume of distribution
+> %% anki: 1793136948738 %%
 ## Plasma and Tissue Binding
 - The components of volume of distribution are the plasma volume and the tissue volume, weighted by the ratio of the fraction of the drug unbound in plasma to the fraction of the drug unbound in tissue:
 $$
@@ -43,6 +45,7 @@ $$
 	- More tissue binding (lower $f_{u_{T}}$) makes $V_{D}$ larger, without limit
 > [!card]- Derive volume of distribution in terms of plasma and tissue binding
 > Only unbound drug equilibrates, so $f_{u}\cdot C=f_{u_{T}}\cdot C_{T}$. Then $V_{D}=\dfrac{C\cdot V_{P}+C_{T}\cdot V_{T}}{C}=V_{P}+\dfrac{f_{u}}{f_{u_{T}}}\cdot V_{T}$
+> %% anki: 1793136948841 %%
 ## Factors Affecting Volume of Distribution
 - Drug factors:
 	- Lipid solubility: lipid soluble drugs cross membranes and distribute into fat, polar drugs stay largely extracellular
@@ -80,6 +83,8 @@ $$
 - **Critical illness:** fluid shifts and hypoalbuminaemia increase $V_{D}$ for hydrophilic drugs, so a larger loading dose is often needed even though the maintenance dose depends on clearance
 > [!card]- How is a loading dose calculated, and why does it not depend on clearance?
 > $\text{Loading Dose}=V_{D}\times\text{Target Concentration}$ (divided by $F$ if oral). It only has to fill the volume of distribution to the target once; clearance determines the maintenance dose needed to replace what is eliminated.
+> %% anki: 1793136948940 %%
 
 > [!card]- Why are drugs with a large volume of distribution poorly removed by dialysis?
 > Only a small fraction of the total amount in the body is in the plasma, which is all that dialysis can reach. Concentrations can also rebound afterwards as drug redistributes from the tissues.
+> %% anki: 1793136949040 %%

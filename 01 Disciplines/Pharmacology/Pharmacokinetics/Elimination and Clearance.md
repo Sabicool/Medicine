@@ -99,6 +99,7 @@ $$
 
 > [!card]- Derive the relationship between half life and the elimination rate constant
 > $C(t)=C_{0}e^{-kt}$. Setting $C(t)=0.5\cdot C_{0}$ gives $\tfrac{1}{2}=e^{-kt_{1/2}}$, so $kt_{1/2}=\ln 2$ and $t_{1/2}=\dfrac{\ln 2}{k}\approx\dfrac{0.693}{k}$
+> %% anki: 1793136947583 %%
 ## Determinants of Half Life
 - Substituting $k=CL/V_{D}$ (see [[#Elimination Rate Constant]]):
 $$
@@ -116,6 +117,7 @@ $$
 
 > [!card]- What does half life determine clinically?
 > Duration of action after a single dose, time to reach steady state (about 4–5 half lives), time to eliminate the drug once stopped, and the dosing interval needed to limit peak–trough fluctuation
+> %% anki: 1793136947690 %%
 # Clearance at Steady State
 - The amount of drug in the body changes by whatever goes in minus whatever is eliminated:
 $$
@@ -206,6 +208,7 @@ $$
 > $$
 > \text{Fraction excreted unchanged}=\frac{CL_{R}}{CL_{\text{total}}},\qquad\text{Fraction metabolised}=\frac{CL_{H}}{CL_{\text{total}}}
 > $$
+> %% anki: 1793136947788 %%
 ## Clearance = Blood Flow × Extraction Ratio
 - For blood ($Q$) flowing through an organ, the organ's elimination rate is the drug delivered minus the drug leaving (Fick principle), and blood flow in equals blood flow out as blood isn't stored in the organ:
 $$

@@ -28,6 +28,7 @@ $$
 	- **Elimination phase ($\beta$, slow):** once the compartments have equilibrated, plasma concentration falls at a rate set by clearance; the elimination (terminal) half-life is $0.693/\beta$
 > [!card]- What equation describes plasma concentration after an IV bolus in a two-compartment model, and what does each phase represent?
 > $C(t)=A\,e^{-\alpha t}+B\,e^{-\beta t}$. The fast $\alpha$ phase is distribution from the central to the peripheral compartment; the slow $\beta$ phase is elimination after the compartments have equilibrated (terminal half-life $=0.693/\beta$).
+> %% anki: 1793136947088 %%
 ## Volumes in a Two-Compartment Model
 - With two compartments, "the" volume of distribution depends on when it is measured, since the ratio of amount in the body to plasma concentration changes as the drug distributes:
 
@@ -53,3 +54,4 @@ $$
 - The central volume determines the peak concentration straight after a bolus ($\text{Dose}/V_{1}$), whereas $V_{SS}$ is the one to use for a loading dose
 > [!card]- Why does back-extrapolating the terminal phase overestimate the volume of distribution in a two-compartment model?
 > It gives the intercept of the elimination phase ($B$) rather than the true initial concentration ($A+B$), so $V_{\text{extrap}}=\text{Dose}/B$ is larger than $V_{\text{area}}=\text{Dose}/(B+A\beta/\alpha)$. The error is small when $\alpha\gg\beta$.
+> %% anki: 1793136947189 %%

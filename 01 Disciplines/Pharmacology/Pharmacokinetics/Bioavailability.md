@@ -18,9 +18,11 @@ $$
 > $$
 > F=f_{g}\cdot f_{H},\qquad f_{H}=1-E_{H}
 > $$
+> %% anki: 1793136946294 %%
 
 > [!card]- When are two formulations of a drug bioequivalent?
 > When the extent and rate of absorption from them are similar enough that there is no clinically important difference in their therapeutic or adverse effects
+> %% anki: 1793136946483 %%
 
 # Measuring Bioavailability
 - Bioavailability is measured by giving the same dose IV and orally and comparing the area under the plasma concentration versus time curves ($\text{AUC}$); clearance is the same both times, so it cancels:
@@ -42,6 +44,7 @@ $$
 > $$
 > F=\frac{\text{AUC}_{\text{oral}}}{\text{AUC}_{\text{IV}}}
 > $$
+> %% anki: 1793136946583 %%
 # Determinants of Drug Absorption
 ![[absorption-determinants.svg|Determinants of oral absorption and first-pass clearance along the path of a dose. Capsule, stomach, gut and liver adapted from Servier Medical Art, CC BY 4.0]] ^fig-absorption-determinants
 
@@ -55,6 +58,7 @@ $$
 > Dissolution, gastric emptying rate, intestinal motility, interactions in the gut lumen (complexation, adsorption, food) and passage through the gut wall (physicochemical properties of the drug and metabolism by the intestinal epithelium)
 >
 > ![[absorption-determinants.svg|Determinants of oral absorption and first-pass clearance along the path of a dose. Capsule, stomach, gut and liver adapted from Servier Medical Art, CC BY 4.0]]
+> %% anki: 1793136946682 %%
 # Determinants of First-Pass Clearance
 - In low hepatic extraction ratio drugs (e.g. theophylline), nearly all of the dose gets through the liver on its first pass ($f_{H}\approx 1$), so $F\approx f_{g}$
 	- Doubling or halving the small fraction the liver extracts makes little difference to $F$, e.g. $E_{H}$ rising from 0.1 to 0.2 only lowers $f_{H}$ from 0.9 to 0.8
@@ -65,9 +69,12 @@ $$
 
 > [!cloze]
 > In a low hepatic extraction ratio drug, bioavailability is set mostly by ==absorption from the gut ($f_{g}$)==, since nearly all of the absorbed dose escapes first-pass clearance
+> %% anki: 1793136946785 %%
 
 > [!card]- Why does enzyme induction or inhibition change the bioavailability of a high extraction drug much more than its clearance?
 > Clearance is close to hepatic blood flow, so it barely moves. The fraction escaping first-pass ($f_{H}=1-E_{H}$) is small, so a small change in $E_{H}$ is a large proportional change in $f_{H}$, e.g. $E_{H}$ falling from 0.95 to 0.90 doubles $f_{H}$ (0.05 to 0.10) and so doubles $F$
+> %% anki: 1793136946886 %%
 
 > [!card]- Why does chronic liver disease increase the bioavailability of high extraction drugs?
 > Intrahepatic functional shunts and extrahepatic anatomical (portosystemic) shunts let portal blood bypass functioning liver, so more of the dose escapes first-pass extraction. These drugs are therefore more likely to cause adverse effects in liver disease
+> %% anki: 1793136946984 %%

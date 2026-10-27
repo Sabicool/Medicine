@@ -36,9 +36,11 @@ $$
 
 > [!card]- What determines the total and unbound steady state concentration of a low hepatic extraction ratio drug given IV?
 > $CL\approx f_{u}\cdot CL_{\text{int}}$, so $C_{SS}\approx\dfrac{DR}{f_{u}\cdot CL_{\text{int}}}$ (intrinsic clearance and fraction unbound) and $Cu_{SS}\approx\dfrac{DR}{CL_{\text{int}}}$ (intrinsic clearance only)
+> %% anki: 1793136947939 %%
 
 > [!card]- What determines the total and unbound steady state concentration of a high hepatic extraction ratio drug given IV?
 > $CL\approx Q_{H}$, so $C_{SS}\approx\dfrac{DR}{Q_{H}}$ (hepatic blood flow only) and $Cu_{SS}\approx\dfrac{f_{u}\cdot DR}{Q_{H}}$ (hepatic blood flow and fraction unbound)
+> %% anki: 1793136948041 %%
 ## Oral Dosing
 - Only the bioavailable fraction of each dose reaches the systemic circulation (see [[Bioavailability]]), so:
 $$
@@ -64,12 +66,15 @@ $$
 > $$
 > C_{SS}=\frac{f_{g}\cdot DR}{f_{u}\cdot CL_{\text{int}}},\qquad Cu_{SS}=\frac{f_{g}\cdot DR}{CL_{\text{int}}}
 > $$
+> %% anki: 1793136948141 %%
 
 > [!cloze]
 > After oral dosing of a hepatically cleared drug, the unbound steady state concentration depends only on ==intrinsic clearance==, whatever the hepatic extraction ratio
+> %% anki: 1793136948240 %%
 
 > [!card]- Why doesn't hepatic blood flow affect the steady state concentration of a high extraction drug given orally?
 > A fall in hepatic blood flow lowers clearance ($CL\approx Q_{H}$) but also lowers the fraction escaping first-pass ($f_{H}\approx\dfrac{Q_{H}}{f_{u}\cdot CL_{\text{int}}}$) by the same proportion, so $F/CL$, and hence $C_{SS}=F\cdot DR/CL$, is unchanged
+> %% anki: 1793136948340 %%
 # Clinical Consequences
 - These follow from the figure above ([[#^fig-steady-state-determinants|Figure]]):
 	- **Enzyme induction or inhibition** (changing $CL_{\text{int}}$) changes the unbound steady state concentration in every case except a high extraction ratio drug given intravenously
@@ -78,6 +83,8 @@ $$
 
 > [!card]- When does displacement of a drug from plasma proteins raise its unbound steady state concentration?
 > Only for a high hepatic extraction ratio drug given IV ($Cu_{SS}\approx f_{u}\cdot DR/Q_{H}$). For low extraction drugs and oral dosing, clearance rises with $f_{u}$, so the total concentration falls and the unbound concentration is unchanged
+> %% anki: 1793136948440 %%
 
 > [!card]- Which steady state concentrations change with a fall in hepatic blood flow?
 > Only those of a high hepatic extraction ratio drug given IV, as $C_{SS}\approx DR/Q_{H}$ (e.g. lignocaine in low cardiac output states). Low extraction drugs and oral dosing are unaffected
+> %% anki: 1793136948540 %%
