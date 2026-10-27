@@ -8,5 +8,6 @@ $$
 \text{Bioavailability }(F)=\text{Fraction Absorbed }(f_{g})\times \text{Fraction Escaping First Pass Clearance }(f_{H})
 $$
 ![[first-pass-bioavailability.svg|Oral bioavailability and first-pass metabolism. Gut and liver adapted from Servier Medical Art, CC BY 4.0]]
-
--     
+# Determinants of Drug Absorption
+- Dissolution: properties of the drug including size and form, excipients, special dosage forms (e.g. sustained release), stomach and small intestine pH
+- Gastric emptying rate: 
