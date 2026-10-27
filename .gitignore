@@ -21,6 +21,8 @@ tex/.auctex-auto/*
 tex/chemfig-launch.sh
 *.log
 *.pdf
+# Vector art that TikZ figures include (e.g. Servier Medical Art organs)
+!attachments/figures/art/*.pdf
 *.synctex.gz
 *.aux
 *.fdb_latexmk

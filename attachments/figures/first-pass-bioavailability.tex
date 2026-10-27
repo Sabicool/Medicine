@@ -1,0 +1,42 @@
+% Oral bioavailability: losses in the gut and on the first pass through the liver
+% Small intestine and liver: Servier Medical Art (smart.servier.com), CC BY 4.0,
+% cut from the "Digestive system" kit (art/servier-*.pdf)
+\documentclass[11pt, border=2mm]{standalone}
+\usepackage{cicm-figure}
+\begin{document}
+\begin{tikzpicture}
+  % Organs
+  \node[inner sep=0] (gut) at (-3.3,0) {\includegraphics[width=27mm]{servier-small-intestine.pdf}};
+  \node[inner sep=0] (liver) at (2.4,0) {\includegraphics[width=34mm]{servier-liver.pdf}};
+  \node[label, anchor=south] at (gut.north) {Gut};
+  \node[label, anchor=south] at (2.4,1.6) {Liver};
+
+  % Oral dose in
+  \draw[->, thick, cicmaccent] (-7.0,0) -- (-4.75,0);
+  \node[label, above] at (-5.9,0.05) {Oral dose};
+
+  % Portal vein
+  \draw[->, thick, cicmaccent] (-1.85,0) -- (0.75,0);
+  \node[label, above] at (-0.55,0.05) {Portal vein};
+  \node[label, below] at (-0.55,-0.05) {$f_{g}$ of dose};
+
+  % Systemic circulation
+  \draw[->, thick, cicmaccent] (4.15,0.75) -- (7.4,0.75);
+  \node[label, above] at (5.8,0.8) {Systemic circulation};
+  \node[label, below] at (5.8,0.7) {$f_{g}\cdot f_{H}$ of dose};
+
+  % Losses
+  \draw[->, thick, cicmgrey] (-3.3,-1.45) -- (-3.3,-2.3) node[below, label, align=center, text=cicmink]
+    {Not absorbed or\\metabolised in gut wall\\$1-f_{g}$};
+  \draw[->, thick, cicmblue] (2.3,-0.95) -- (2.3,-2.3) node[below, label, align=center, text=cicmblue]
+    {First-pass metabolism\\$E_{H}=1-f_{H}$};
+
+  % Result
+  \node[label, align=center, anchor=north] at (0.2,-4.15)
+    {Bioavailability:\quad $F=f_{g}\cdot f_{H}$};
+
+  % Credit
+  \node[font=\scriptsize, text=cicmgrey, anchor=north east] at (7.4,-4.85)
+    {Gut and liver: Servier Medical Art, CC BY 4.0};
+\end{tikzpicture}
+\end{document}
