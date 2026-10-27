@@ -151,6 +151,10 @@ $$
 \end{aligned}
 $$
 ![[renal-clearance.svg|Renal handling of a drug along the nephron. Kidney and nephron adapted from Servier Medical Art, CC BY 4.0]]
+- The fraction of drug excreted unchanged is usually the fraction which renal clearance represents of total clearance:
+$$
+\text{Fraction excreted unchanged}=\frac{CL_{R}}{CL_{\text{total}}}
+$$
 ## Single IV Bolus and AUC
 ![[auc-iv-bolus.svg|Clearance from a single IV bolus]]
 - An IV bolus can be used to determine clearance where after given enough time, all of it is eliminated therefore:
@@ -191,6 +195,13 @@ $$
 - Whole body clearance is the sum of the clearances of each eliminating organ, since each organ's elimination rate adds to the total and they all divide by the same plasma concentration:
 $$
 CL_{\text{total}}=CL_{\text{hepatic}}+CL_{\text{renal}}+CL_{\text{other}}
+$$
+- The fraction metabolised is usually:
+$$
+\begin{align}
+\text{Fraction Metabolised}&=\frac{CL_{H}}{CL_{\text{total}}} \\
+ & =\frac{CL_{\text{total}}-CL_{R}}{CL_{\text{total}}}
+\end{align}
 $$
 ## Clearance = Blood Flow × Extraction Ratio
 - For blood ($Q$) flowing through an organ, the organ's elimination rate is the drug delivered minus the drug leaving (Fick principle), and blood flow in equals blood flow out as blood isn't stored in the organ:

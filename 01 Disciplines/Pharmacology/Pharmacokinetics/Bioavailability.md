@@ -10,13 +10,7 @@ $$
 ![[first-pass-bioavailability.svg|Oral bioavailability and first-pass metabolism. Gut and liver adapted from Servier Medical Art, CC BY 4.0]]
 
 - Bioequivlance refers to two formulations of the drug if the extents and rates of absorption of drug from them are similar enough for there to be no clinically important difference in their effects (either therapeutic or adverse)
-# Determinants of Drug Absorption
-- Dissolution: properties of the drug including size and form, excipients, special dosage forms (e.g. sustained release), stomach and small intestine pH
-- Gastric emptying rate: stability of drug at acid pH, solution or solid dosage forms (liquids and small particles empty more quickly), antacids, drugs (opiates, anticholinergics, metoclopramide), disease (autonomic neuropathy)
-- Intestinal motility: dissolution of slowly soluble drugs (e.g. digoxin, sustained released formulations), chemical degradation or metabolism by microflora
-- Drug interactions in the gut lumen: complexation (e.g. tetracyclines with divalent metal ions), adsorption (e.g. anion exchange resins), food interactions (e.g. antibiotics)
-- Passage through the gut wall: physico-chemical characteristics of the drug (e.g. quaternary ammonium compounds), metabolism by enzymes in the intestinal endothelium
-# Calculating Bioavailability
+# Measuring Bioavailability
 - The area under the plasma drug concentration versus time curves ($\text{AUC}$) for IV and oral doses is used to calculate bioavailability ($F$) where the IV and oral dose is the same
 $$
 \begin{align}
@@ -29,3 +23,15 @@ $$
 $$
 \text{Relative Bioavailability}=\frac{\text{AUC}_{\text{test}}}{\text{AUC}_{\text{reference}}}
 $$
+# Determinants of Drug Absorption
+- Dissolution: properties of the drug including size and form, excipients, special dosage forms (e.g. sustained release), stomach and small intestine pH
+- Gastric emptying rate: stability of drug at acid pH, solution or solid dosage forms (liquids and small particles empty more quickly), antacids, drugs (opiates, anticholinergics, metoclopramide), disease (autonomic neuropathy)
+- Intestinal motility: dissolution of slowly soluble drugs (e.g. digoxin, sustained released formulations), chemical degradation or metabolism by microflora
+- Drug interactions in the gut lumen: complexation (e.g. tetracyclines with divalent metal ions), adsorption (e.g. anion exchange resins), food interactions (e.g. antibiotics)
+- Passage through the gut wall: physico-chemical characteristics of the drug (e.g. quaternary ammonium compounds), metabolism by enzymes in the intestinal endothelium
+# Determinants of First-Pass Clearance
+- In low hepatic extraction ratio drugs (e.g. theophylline), nearly all the dose gets through the liver first pass and the $F\approx f_{g} \quad\because (f_{H}\approx 1)$ (i.e. doubling or halving the minor proportion extracted by the liver $E_{H}$ does not make a significant difference to $F$)
+- In high hepatic extraction ratio drugs (e.g. verapamil), only a minor proportion reaches the systemic circulation intact
+	- Inducing or inhibiting the metabolising enzymes has only a small effect on hepatic extraction ratio and thus on systemic clearance but **has a major effect on proportion escaping extraction $f_H$, and thus a major effect on bioavailability**
+	- Hepatic blood flow does not effect bioavailability as much in these drugs because systemic clearance is also dependent on hepatic blood flow, effectively cancelling each other out
+- In chronic liver disease, a substantial portion of portal circulation does not perfuse functional liver due to intrahepatic functional shunts or extrahepatic anatomic shunts thereby increasing bioavailability markedly (i.e. high hepatic extraction ratio drugs given to patients with liver disease are particularly liable to cause increased incidence of adverse effects)
