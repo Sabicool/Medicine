@@ -12,6 +12,7 @@ date: 2026-10-27
 | Extraction ratio ($E$) | Fraction of drug entering an organ that is removed in a single pass | none (0 to 1) |
 | Elimination rate constant ($k$) | Elimination rate divided by the amount of drug in the body | hour⁻¹ |
 | Volume of distribution ($V_{D}$) | Amount of drug in the body divided by plasma concentration | L |
+| Half life ($t_{1/2}$) | Time for the plasma concentration to fall by half | hour |
 
 # Definitions
 ## Elimination Rate
@@ -68,15 +69,53 @@ $$
 \therefore\quad CL & =k\cdot V_{D}
 \end{aligned}
 $$
-- This is also why half-life depends on both clearance and volume of distribution, as $t_{1/2}=\ln 2/k$ (see [[Half Life#Half Life and the Elimination Rate Constant]]):
-$$
-t_{1/2}=\frac{0.693\cdot V_{D}}{CL}
-$$
-- So a drug can have a long half-life either because it is cleared slowly or because most of it sits outside the plasma where the clearing organs can't get to it
 
 > [!card]- Derive the relationship between clearance, elimination rate constant and volume of distribution
 > Elimination rate $=CL\cdot C=k\cdot A_{\text{body}}$, and $A_{\text{body}}=V_{D}\cdot C$, so $CL=k\cdot V_{D}$ (and therefore $t_{1/2}=0.693\cdot V_{D}/CL$)
 > %% anki: 1791646840729 %%
+# Half Life
+## Half Life and the Elimination Rate Constant
+- Fall in plasma concentration after a single IV dose (one-compartment, first-order) is given by:
+$$
+C(t)=C_{0}\cdot e^{-kt}
+$$
+- Differentiating shows the rate of fall is proportional to the concentration at that time, with $k$ as the proportionality constant:
+$$
+\begin{aligned}
+\frac{dC(t)}{dt} & = -k\cdot C_{0}\cdot e^{-kt} \\
+&= -k \cdot C(t)
+\end{aligned}
+$$
+- Solving for when $C(t)=0.5\cdot C_{0}$ (i.e. when the plasma concentration falls by half):
+$$
+\begin{aligned}
+0.5 \cdot C_{0} & = C_{0}\cdot e^{-kt_{1/2}} \\
+\frac{1}{2} & = e^{-kt_{1/2}} \\
+-kt_{1/2} & = -\ln 2 \\
+\therefore \quad t_{1/2} & = \frac{\ln 2}{k}\approx\frac{0.693}{k}
+\end{aligned}
+$$
+- The half life is the same whatever the starting concentration, which is only true in first-order kinetics (in zero-order kinetics a fixed amount is removed per unit time, so the time to halve gets longer at higher concentrations)
+
+> [!card]- Derive the relationship between half life and the elimination rate constant
+> $C(t)=C_{0}e^{-kt}$. Setting $C(t)=0.5\cdot C_{0}$ gives $\tfrac{1}{2}=e^{-kt_{1/2}}$, so $kt_{1/2}=\ln 2$ and $t_{1/2}=\dfrac{\ln 2}{k}\approx\dfrac{0.693}{k}$
+## Determinants of Half Life
+- Substituting $k=CL/V_{D}$ (see [[#Elimination Rate Constant]]):
+$$
+t_{1/2}=\frac{\ln 2}{k}=\frac{0.693\cdot V_{D}}{CL}
+$$
+- So half life is a dependent variable, set by clearance and volume of distribution rather than the other way round
+	- A drug can have a long half life either because it is cleared slowly or because most of it sits outside the plasma where the clearing organs can't get to it
+	- Volume of distribution depends on the drug's lipid solubility and its binding to plasma proteins and tissues, not on the dose (see [[Volume of Distribution]])
+	- e.g. in critical illness, a rise in $V_{D}$ (fluid overload, hypoalbuminaemia) can prolong half life even when clearance is unchanged
+## What Half Life Determines
+- Duration of action after a single dose
+- Time to reach steady state with repeated dosing or a constant infusion, which takes about 4–5 half lives (94–97% of the final concentration), independent of the dose rate
+- Time for a drug to be eliminated after it is stopped, which also takes about 4–5 half lives
+- Dosing interval needed to avoid large fluctuations in plasma concentration between doses
+
+> [!card]- What does half life determine clinically?
+> Duration of action after a single dose, time to reach steady state (about 4–5 half lives), time to eliminate the drug once stopped, and the dosing interval needed to limit peak–trough fluctuation
 # Clearance at Steady State
 - The amount of drug in the body changes by whatever goes in minus whatever is eliminated:
 $$
