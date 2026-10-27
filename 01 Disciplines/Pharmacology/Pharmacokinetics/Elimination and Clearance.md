@@ -68,7 +68,7 @@ $$
 \therefore\quad CL & =k\cdot V_{D}
 \end{aligned}
 $$
-- This is also why half-life depends on both clearance and volume of distribution, as $t_{1/2}=\ln 2/k$:
+- This is also why half-life depends on both clearance and volume of distribution, as $t_{1/2}=\ln 2/k$ (see [[Half Life#Half Life and the Elimination Rate Constant]]):
 $$
 t_{1/2}=\frac{0.693\cdot V_{D}}{CL}
 $$
@@ -202,7 +202,7 @@ $$
 - Assumptions of the model:
 	- The liver is well-stirred (other models such as the parallel-tube model give a different formula)
 	- Only unbound drug is metabolised
-	- Kinetics are linear, so $CL_{\text{int}}$ is constant (roughly $V_{\max}/K_{m}$ at concentrations well below $K_{m}$)
+	- Kinetics are linear, so $CL_{\text{int}}$ is constant (roughly $V_{\max}/K_{m}$ at concentrations well below $K_{m}$, where $V_{\max}$ is the maximal velocity of the reaction at saturating substrate concentration and $K_{m}$ is Michaelis constant which expresses how tightly the enzyme binds the drug substrate)
 > [!card]- What is the hepatic extraction ratio in the well-stirred model, and what does its denominator represent?
 > $$
 > E_{H}=\frac{f_{u}\cdot CL_{\text{int}}}{Q_{H}+f_{u}\cdot CL_{\text{int}}}
