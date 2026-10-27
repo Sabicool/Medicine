@@ -37,7 +37,7 @@ f_{u}\cdot C & =f_{u_{T}}\cdot C_{T}\qquad\therefore\qquad C_{T}=\frac{f_{u}}{f_
 V_{D}=\frac{A_{\text{body}}}{C} & =\frac{C\cdot V_{P}+C_{T}\cdot V_{T}}{C}=V_{P}+\frac{f_{u}}{f_{u_{T}}}\cdot V_{T}
 \end{aligned}
 $$
-![[plasma-tissue-binding.svg|Volume of distribution from plasma and tissue binding]]
+![[plasma-tissue-binding.svg|Volume of distribution from plasma and tissue binding. Artery, muscle and fat: Servier Medical Art, CC BY 4.0]]
 - Hence:
 	- More plasma protein binding (lower $f_{u}$) shrinks $V_{D}$ towards $V_{P}$
 	- More tissue binding (lower $f_{u_{T}}$) makes $V_{D}$ larger, without limit

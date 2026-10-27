@@ -12,7 +12,7 @@ $$
 # Two-Compartment Model
 - The drug is given into a small central compartment ($V_{1}$: plasma and well-perfused organs such as the brain, heart, liver and kidney) and distributes to a peripheral compartment ($V_{2}$: poorly perfused tissue such as muscle and fat)
 	- Elimination is assumed to happen from the central compartment
-![[two-compartment-model.svg|Two-compartment model with an effect site]]
+![[two-compartment-model.svg|Two-compartment model with an effect site. Organs: Servier Medical Art, CC BY 4.0]]
 - Writing the amount of drug in each compartment as $X_{1}$ and $X_{2}$:
 $$
 \begin{aligned}

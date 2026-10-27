@@ -1,0 +1,41 @@
+% Renal clearance: filtration, secretion and reabsorption along the nephron
+% Kidney and nephron: Servier Medical Art (smart.servier.com), CC BY 4.0, cut
+% from the "Urinary system" kit (art/servier-*.pdf)
+\documentclass[11pt, border=2mm]{standalone}
+\usepackage{cicm-figure}
+\begin{document}
+\begin{tikzpicture}
+  % Nephron 75 mm tall, centred on the origin: a point at fraction (x, y) of
+  % the drawing, y from the bottom, sits at ((x - 0.5) * 5.54, (y - 0.5) * 7.5)
+  \node[inner sep=0] (nephron) at (0,0) {\includegraphics[height=75mm]{servier-nephron.pdf}};
+
+  % One kidney holds about a million of these
+  \node[inner sep=0] (kidney) at (-5.6,-1.6) {\includegraphics[height=28mm]{servier-kidney.pdf}};
+  \node[label, align=center, anchor=north] at (kidney.south) {Each kidney: about\\a million nephrons};
+
+  % Filtration at the glomerulus: only unbound drug
+  \draw[->, thick, cicmaccent] (-4.5,2.85) -- (-2.95,2.85);
+  \node[label, align=center, anchor=south] at (-4.85,3.05)
+    {Filtration\\$f_{u}\cdot\text{GFR}$};
+
+  % Secretion into the proximal tubule: active, not limited by protein binding
+  \draw[->, thick, cicmaccent] (-0.55,4.35) -- (-0.55,3.35);
+  \node[label, align=center, anchor=south] at (-0.55,4.4)
+    {Secretion (active transport)\\not limited by protein binding};
+
+  % Reabsorption from the distal nephron: passive, lipid-soluble unionised drug
+  \draw[->, thick, cicmblue] (2.45,-1.3) -- (4.1,-1.3);
+  \node[label, align=left, anchor=west, text=cicmblue] at (4.2,-1.3)
+    {Reabsorption (passive)\\lipid-soluble,\\unionised drug};
+
+  % Urine
+  \draw[->, thick, cicmaccent] (2.2,-3.8) -- (2.2,-4.55);
+  \node[label, anchor=north] at (2.2,-4.6) {Urine: $U\cdot V$};
+
+  % Result
+  \node[label, align=center, anchor=north] at (0,-5.35)
+    {Renal elimination rate $=$ filtration $+$ secretion $-$ reabsorption $=U\cdot V$};
+  \node[label, align=center, anchor=north] at (0,-6.05)
+    {$CL_{R}=\dfrac{U\cdot V}{P}$};
+\end{tikzpicture}
+\end{document}

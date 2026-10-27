@@ -1,18 +1,30 @@
 % Two-compartment model with an effect compartment hanging off the central one
+% Organ icons: Servier Medical Art (smart.servier.com), CC BY 4.0 (art/servier-*.pdf)
 \documentclass[11pt, border=2mm]{standalone}
 \usepackage{cicm-figure}
+\newcommand\organ[2]{\includegraphics[height=#1]{servier-#2.pdf}}
 \begin{document}
 \begin{tikzpicture}
   % Compartments
-  \node[box, minimum width=34mm, minimum height=20mm, align=center] (central) at (0,0)
-    {Central, $V_{1}$\\[0.4ex]{\footnotesize plasma and well-perfused}\\[-0.4ex]{\footnotesize organs (brain, heart)}};
-  \node[box, minimum width=34mm, minimum height=20mm, align=center, fill=cicmpaper] (peripheral) at (6,0)
-    {Peripheral, $V_{2}$\\[0.4ex]{\footnotesize poorly perfused}\\[-0.4ex]{\footnotesize tissue (muscle, fat)}};
-  \node[accent box, minimum width=22mm, minimum height=10mm, align=center] (effect) at (0,3)
+  \node[box, minimum width=52mm, minimum height=34mm] (central) at (0,0) {};
+  \node[font=\small, anchor=north] at ([yshift=-1mm]central.north) {Central, $V_{1}$};
+  \node at (-1.9,-0.05) {\organ{12mm}{heart}};
+  \node at (-0.66,-0.05) {\organ{11mm}{brain}};
+  \node at (0.62,-0.05) {\organ{10mm}{liver}};
+  \node at (1.85,-0.05) {\organ{12mm}{kidney}};
+  \node[font=\footnotesize, anchor=south] at ([yshift=1mm]central.south) {plasma and well-perfused organs};
+
+  \node[box, minimum width=52mm, minimum height=34mm, fill=cicmpaper] (peripheral) at (7.4,0) {};
+  \node[font=\small, anchor=north] at ([yshift=-1mm]peripheral.north) {Peripheral, $V_{2}$};
+  \node at (6.65,-0.05) {\organ{14mm}{muscle}};
+  \node at (8.15,-0.05) {\organ{13mm}{fat}};
+  \node[font=\footnotesize, anchor=south] at ([yshift=1mm]peripheral.south) {poorly perfused tissue};
+
+  \node[accent box, minimum width=22mm, minimum height=10mm, align=center] (effect) at (0,3.5)
     {Effect site\\[-0.4ex]{\footnotesize $C_{e}$, negligible volume}};
 
   % Dose
-  \draw[->, thick] (-4.2,0) -- (central.west) node[pos=0.4, above, label] {IV dose};
+  \draw[->, thick] (-4.6,0) -- (central.west) node[pos=0.4, above, label] {IV dose};
 
   % Distribution
   \draw[->, thick, cicmblue] ([yshift=3mm]central.east) -- ([yshift=3mm]peripheral.west)

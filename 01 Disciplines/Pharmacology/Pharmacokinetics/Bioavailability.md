@@ -7,5 +7,6 @@ date: 2026-10-28
 $$
 \text{Bioavailability }(F)=\text{Fraction Absorbed }(f_{g})\times \text{Fraction Escaping First Pass Clearance }(f_{H})
 $$
-![[first-pass-bioavailability.svg|Oral bioavailability and first-pass metabolism]]
+![[first-pass-bioavailability.svg|Oral bioavailability and first-pass metabolism. Gut and liver: Servier Medical Art, CC BY 4.0]]
+
 -     

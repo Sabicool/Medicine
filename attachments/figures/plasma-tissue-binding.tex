@@ -1,28 +1,38 @@
 % Volume of distribution from plasma and tissue binding (Gillette / Øie–Tozer):
 % unbound concentrations equalise, so V = V_P + V_T · f_u / f_uT
+% Artery, muscle and fat: Servier Medical Art (smart.servier.com), CC BY 4.0
+% (art/servier-*.pdf)
 \documentclass[11pt, border=2mm]{standalone}
 \usepackage{cicm-figure}
+\newcommand\organ[2]{\includegraphics[height=#1]{servier-#2.pdf}}
 \begin{document}
 \begin{tikzpicture}
+  % Panels
+  \draw[thin, rounded corners=0.6mm, fill=cicmbluetint] (-4.75,0.65) rectangle (-1.25,-4.1);
+  \draw[thin, rounded corners=0.6mm, fill=cicmpaper] (1.25,0.65) rectangle (4.75,-4.1);
+
   % Plasma
-  \node[box, minimum width=38mm, minimum height=30mm, anchor=north] (plasma) at (-3,0) {};
-  \node[font=\small, anchor=north] at (plasma.north) {Plasma, $V_{P}$};
-  \node[font=\small, align=center] at (-3,-1.55) {Total $C$\\[0.6ex] unbound $f_{u}\cdot C$};
+  \node[font=\small] at (-3,0.2) {Plasma, $V_{P}$};
+  \node at (-3,-1.35) {\organ{27mm}{artery}};
+  \node[font=\small, align=center, anchor=north] at (-3,-2.85)
+    {Total $C$\\[0.6ex] unbound $f_{u}\cdot C$};
 
   % Tissue
-  \node[box, minimum width=38mm, minimum height=30mm, anchor=north, fill=cicmpaper] (tissue) at (3,0) {};
-  \node[font=\small, anchor=north] at (tissue.north) {Tissue, $V_{T}$};
-  \node[font=\small, align=center] at (3,-1.55) {Total $C_{T}$\\[0.6ex] unbound $f_{u_{T}}\cdot C_{T}$};
+  \node[font=\small] at (3,0.2) {Tissue, $V_{T}$};
+  \node at (2.25,-1.35) {\organ{25mm}{muscle}};
+  \node at (3.6,-1.35) {\organ{20mm}{fat}};
+  \node[font=\small, align=center, anchor=north] at (3,-2.85)
+    {Total $C_{T}$\\[0.6ex] unbound $f_{u_{T}}\cdot C_{T}$};
 
   % Only unbound drug crosses
-  \draw[<->, thick, cicmaccent] (plasma.east |- 0,-1.5) -- (tissue.west |- 0,-1.5)
+  \draw[<->, thick, cicmaccent] (-1.2,-1.35) -- (1.2,-1.35)
     node[midway, above, label, align=center] {unbound\\drug};
 
   % Equilibrium
-  \node[label, align=center, anchor=north] at (0,-3.35)
+  \node[label, align=center, anchor=north] at (0,-4.45)
     {At equilibrium the unbound concentrations are equal:\quad
      $f_{u}\cdot C=f_{u_{T}}\cdot C_{T}$};
-  \node[label, align=center, anchor=north] at (0,-4.15)
+  \node[label, align=center, anchor=north] at (0,-5.25)
     {$V_{D}=\dfrac{\text{Amount}}{C}=\dfrac{C\cdot V_{P}+C_{T}\cdot V_{T}}{C}
      =V_{P}+\dfrac{f_{u}}{f_{u_{T}}}\cdot V_{T}$};
 \end{tikzpicture}
