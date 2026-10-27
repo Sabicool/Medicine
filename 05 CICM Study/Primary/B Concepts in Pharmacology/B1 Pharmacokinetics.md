@@ -1,5 +1,5 @@
 ---
-date: 2026-10-10
+date: 2026-10-27
 ---
 # B1.i Explain the single and multiple compartment pharmacokinetic models
 ![[Compartment Models]]
