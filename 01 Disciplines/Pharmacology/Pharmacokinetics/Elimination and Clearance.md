@@ -150,7 +150,7 @@ $$
 &=\frac{\text{Urine Concentration }(U)\times \text{Urine Flow }(V)}{\text{Plasma Concentration}}
 \end{aligned}
 $$
-![[renal-clearance.svg|Renal handling of a drug along the nephron. Kidney and nephron: Servier Medical Art, CC BY 4.0]]
+![[renal-clearance.svg|Renal handling of a drug along the nephron. Kidney and nephron adapted from Servier Medical Art, CC BY 4.0]]
 ## Single IV Bolus and AUC
 ![[auc-iv-bolus.svg|Clearance from a single IV bolus]]
 - An IV bolus can be used to determine clearance where after given enough time, all of it is eliminated therefore:
@@ -234,7 +234,7 @@ E_{H} &= 1 - \frac{C_{\text{out}}}{C_{\text{in}}} = 1 - \frac{Q_{H}}{Q_{H} + f_{
 \therefore\quad CL_{H} &= Q_{H}\cdot E_{H}=\frac{Q_{H}\cdot f_{u}\cdot CL_{\text{int}}}{Q_{H}+f_{u}\cdot CL_{\text{int}}}
 \end{aligned}
 $$
-![[well-stirred-liver.svg|Well-stirred model of the liver. Liver: Servier Medical Art, CC BY 4.0]]
+![[well-stirred-liver.svg|Well-stirred model of the liver. Liver adapted from Servier Medical Art, CC BY 4.0]] ^fig-well-stirred-liver
 - The denominator is not hepatic blood flow, it is the sum of the two exits from the liver
 	- Each exit is a rate divided by $C_{\text{out}}$, so both have units of L/hour and can be added: $Q_{H}$ is the volume of liver blood emptied of drug per hour by being carried away, $f_{u}\cdot CL_{\text{int}}$ is the volume emptied per hour by metabolism
 	- $E_{H}$ is therefore the share of drug that takes the metabolism exit rather than the washout exit
@@ -250,7 +250,7 @@ $$
 > The denominator is the two competing routes for drug to leave the liver: washout in hepatic venous blood ($Q_{H}$) and metabolism of unbound drug ($f_{u}\cdot CL_{\text{int}}$)
 > %% anki: 1791646840995 %%
 ## Flow-Limited vs Capacity-Limited Clearance
-- The two extremes of the well-stirred model are where it becomes clinically useful:
+- The two extremes of the well-stirred model ([[#^fig-well-stirred-liver|Figure]]) are where it becomes clinically useful:
 
 | | High extraction ($E>0.7$) | Low extraction ($E<0.3$) |
 | --- | --- | --- |
