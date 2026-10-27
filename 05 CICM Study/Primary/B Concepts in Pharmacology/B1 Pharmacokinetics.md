@@ -5,12 +5,14 @@ date: 2026-10-27
 ![[Compartment Models]]
 
 # B1.ii Describe the absorption of drugs and factors that influence this
+![[Bioavailability]]
 
 # B1.iii Describe the distribution of drugs and factors that influence this
 ![[Volume of Distribution]]
 
 # B1.iv Describe the mechanisms of drug metabolism and clearance
 ![[Elimination and Clearance]]
+![[Steady State]]
 # B1.v Describe the concept of effect-site concentration
 ![[Effect-Site Concentration]]
 

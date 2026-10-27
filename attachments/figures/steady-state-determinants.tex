@@ -1,0 +1,62 @@
+% Determinants of steady-state concentration for a hepatically cleared drug:
+% which of Q_H, f_u and CL_int set total and unbound C_SS, given IV (low or high
+% extraction) or orally (Birkett)
+\documentclass[11pt, border=2mm]{standalone}
+\usepackage{cicm-figure}
+\tikzset{
+  chip/.style = {rounded corners=1.2mm, inner sep=1.5pt, minimum height=4.8mm, minimum width=9.5mm,
+                 font=\footnotesize, thin},
+  on/.style   = {chip, fill=cicmaccent, draw=cicmaccent, text=white},
+  off/.style  = {chip, draw=cicmgrey!55, text=cicmgrey!85},
+}
+% \chips{x}{y}{Q_H}{f_u}{CL_int}, each on or off
+\newcommand\chips[5]{%
+  \node[#3] at (#1-1.15,#2) {$Q_{H}$};
+  \node[#4] at (#1,#2) {$f_{u}$};
+  \node[#5] at (#1+1.15,#2) {$CL_{\text{int}}$};}
+\begin{document}
+\begin{tikzpicture}
+  % Columns: IV low extraction, IV high extraction, oral
+  \foreach \x/\tint in {-2.05/cicmbluetint, 2.05/cicmbluetint, 6.15/cicmpaper}
+    \fill[\tint, rounded corners=0.8mm] (\x-1.95,-1.75) rectangle (\x+1.95,3.85);
+
+  % Headers
+  \node[font=\small, align=center] at (-2.05,3.2) {\textbf{IV}, low extraction\\{\footnotesize $E_{H}<0.3$, \ $CL\approx f_{u}\cdot CL_{\text{int}}$}};
+  \node[font=\small, align=center] at (2.05,3.2) {\textbf{IV}, high extraction\\{\footnotesize $E_{H}>0.7$, \ $CL\approx Q_{H}$}};
+  \node[font=\small, align=center] at (6.15,3.2) {\textbf{Oral}, any extraction\\{\footnotesize $F\cdot DR=CL\cdot C_{SS}$}};
+  \draw[thin, cicmgrey!60] (-4,2.5) -- (8.1,2.5);
+  \draw[thin, cicmgrey!60] (-6.3,0.4) -- (8.1,0.4);
+
+  % Row labels
+  \node[font=\small, align=right, anchor=east] at (-4.2,1.45) {Total $C_{SS}$};
+  \node[font=\small, align=right, anchor=east] at (-4.2,-0.65)
+    {Unbound $Cu_{SS}$\\{\footnotesize\color{cicmaccent} drives the effect}};
+
+  % Total
+  \node at (-2.05,1.85) {$C_{SS}\approx\dfrac{DR}{f_{u}\cdot CL_{\text{int}}}$};
+  \chips{-2.05}{0.85}{off}{on}{on}
+  \node at (2.05,1.85) {$C_{SS}\approx\dfrac{DR}{Q_{H}}$};
+  \chips{2.05}{0.85}{on}{off}{off}
+  \node at (6.15,1.85) {$C_{SS}=\dfrac{f_{g}\cdot DR}{f_{u}\cdot CL_{\text{int}}}$};
+  \chips{6.15}{0.85}{off}{on}{on}
+
+  % Unbound
+  \node at (-2.05,-0.3) {$Cu_{SS}\approx\dfrac{DR}{CL_{\text{int}}}$};
+  \chips{-2.05}{-1.25}{off}{off}{on}
+  \node at (2.05,-0.3) {$Cu_{SS}\approx\dfrac{f_{u}\cdot DR}{Q_{H}}$};
+  \chips{2.05}{-1.25}{on}{on}{off}
+  \node at (6.15,-0.3) {$Cu_{SS}=\dfrac{f_{g}\cdot DR}{CL_{\text{int}}}$};
+  \chips{6.15}{-1.25}{off}{off}{on}
+
+  % Key
+  \node[on] at (-1.6,-2.35) {$x$};
+  \node[label, anchor=west] at (-1.0,-2.35) {changes $C_{SS}$};
+  \node[off] at (1.9,-2.35) {$x$};
+  \node[label, anchor=west] at (2.5,-2.35) {no effect};
+
+  % Take-home
+  \node[label, align=center, anchor=north] at (1,-2.85)
+    {Hepatic blood flow only matters for a high-extraction drug given IV.\\
+     After oral dosing, unbound $Cu_{SS}$ depends on $CL_{\text{int}}$ alone, whatever the extraction ratio.};
+\end{tikzpicture}
+\end{document}

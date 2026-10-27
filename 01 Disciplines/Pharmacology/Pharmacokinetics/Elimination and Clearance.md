@@ -151,10 +151,6 @@ $$
 \end{aligned}
 $$
 ![[renal-clearance.svg|Renal handling of a drug along the nephron. Kidney and nephron adapted from Servier Medical Art, CC BY 4.0]]
-- The fraction of drug excreted unchanged is usually the fraction which renal clearance represents of total clearance:
-$$
-\text{Fraction excreted unchanged}=\frac{CL_{R}}{CL_{\text{total}}}
-$$
 ## Single IV Bolus and AUC
 ![[auc-iv-bolus.svg|Clearance from a single IV bolus]]
 - An IV bolus can be used to determine clearance where after given enough time, all of it is eliminated therefore:
@@ -196,13 +192,20 @@ $$
 $$
 CL_{\text{total}}=CL_{\text{hepatic}}+CL_{\text{renal}}+CL_{\text{other}}
 $$
-- The fraction metabolised is usually:
+- Each organ's share of total clearance is therefore its share of the elimination rate, so the fraction of the dose excreted unchanged in the urine and the fraction metabolised are:
 $$
-\begin{align}
-\text{Fraction Metabolised}&=\frac{CL_{H}}{CL_{\text{total}}} \\
- & =\frac{CL_{\text{total}}-CL_{R}}{CL_{\text{total}}}
-\end{align}
+\begin{aligned}
+\text{Fraction Excreted Unchanged}&=\frac{CL_{R}}{CL_{\text{total}}} \\
+\text{Fraction Metabolised}&=\frac{CL_{H}}{CL_{\text{total}}}=\frac{CL_{\text{total}}-CL_{R}}{CL_{\text{total}}}
+\end{aligned}
 $$
+	- The second form assumes all clearance which isn't renal is hepatic metabolism
+
+> [!card]- How are the fraction of a dose excreted unchanged and the fraction metabolised related to clearance?
+> Each is that organ's share of total clearance, since every organ's elimination rate is its clearance times the same plasma concentration:
+> $$
+> \text{Fraction excreted unchanged}=\frac{CL_{R}}{CL_{\text{total}}},\qquad\text{Fraction metabolised}=\frac{CL_{H}}{CL_{\text{total}}}
+> $$
 ## Clearance = Blood Flow × Extraction Ratio
 - For blood ($Q$) flowing through an organ, the organ's elimination rate is the drug delivered minus the drug leaving (Fick principle), and blood flow in equals blood flow out as blood isn't stored in the organ:
 $$

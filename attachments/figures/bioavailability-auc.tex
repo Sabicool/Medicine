@@ -1,0 +1,34 @@
+% Absolute bioavailability: the same dose given IV and orally, F = AUC_oral / AUC_IV
+% (one compartment, first-order absorption; F = 0.5 here)
+\documentclass[11pt, border=2mm]{standalone}
+\usepackage{cicm-figure}
+\begin{document}
+\begin{tikzpicture}
+  \pgfmathsetmacro{\Czero}{10}
+  \pgfmathsetmacro{\k}{0.3}
+  \pgfmathsetmacro{\ka}{1.2}
+  \pgfmathsetmacro{\F}{0.5}
+  \begin{axis}[cicm,
+      xmin=0, xmax=15, ymin=0, ymax=11,
+      xlabel={Time}, ylabel={Plasma concentration $C(t)$},
+      xtick=\empty, ytick=\empty,
+      clip=false]
+    % IV: AUC shaded, then the curve
+    \addplot[draw=none, fill=cicmbluetint, domain=0:14.6, samples=120] {\Czero*exp(-\k*x)} \closedcycle;
+    % Oral: absorbed over time, so it rises to a peak first
+    \addplot[draw=none, fill=cicmaccent, fill opacity=0.18, domain=0:14.6, samples=120]
+      {\F*\Czero*\ka/(\ka-\k)*(exp(-\k*x)-exp(-\ka*x))} \closedcycle;
+    \addplot[thick, cicmblue, domain=0:14.6, samples=120] {\Czero*exp(-\k*x)};
+    \addplot[thick, cicmaccent, domain=0:14.6, samples=120]
+      {\F*\Czero*\ka/(\ka-\k)*(exp(-\k*x)-exp(-\ka*x))};
+
+    \node[label, anchor=west, text=cicmblue] at (axis cs:0.4,9.6) {IV dose: $\text{AUC}_{\text{IV}}=\dfrac{\text{Dose}}{CL}$};
+    \node[label, anchor=west, text=cicmaccent] (oral) at (axis cs:4.3,5.3)
+      {Same dose orally: $\text{AUC}_{\text{oral}}=\dfrac{F\cdot\text{Dose}}{CL}$};
+    \draw[thin, ->, cicmaccent] (oral.south west) ++(0.3,0) -- (axis cs:3.2,3.2);
+    \node[label, align=left, anchor=north west] at (axis cs:10,9.4)
+      {$F=\dfrac{\text{AUC}_{\text{oral}}}{\text{AUC}_{\text{IV}}}$\\[0.6ex]
+       {\footnotesize same dose, same $CL$}};
+  \end{axis}
+\end{tikzpicture}
+\end{document}
