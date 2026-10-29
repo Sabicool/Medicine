@@ -1,5 +1,5 @@
 ---
-date: 2026-10-28
+date: 2026-10-30
 ---
 *Main source: Birkett, Pharmacokinetics Made Easy* [@birkettPharmacokineticsMadeEasy2005]
 - At steady state the dose rate going in equals the elimination rate coming out (see [[Elimination and Clearance#Clearance at Steady State]]), so for intravenous dosing:
