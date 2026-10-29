@@ -24,11 +24,17 @@ Keep a task list. Work through these in order; skip what the request doesn't nee
 - `git log --since=… --name-status` and `git status` in the vault (new notes are often untracked), plus file mtimes in the topic folder.
 - Read every new or changed note in full, its sibling notes (for structure and notation), and the syllabus file it belongs under (`05 CICM Study/Primary/<Section>/<Code> <Title>.md`).
 - If a note is in the wrong folder (e.g. a pharmacokinetics note outside `Pharmacokinetics/`), say so; move it only when asked. Wikilinks resolve by name, so a move breaks nothing.
+- Run the coverage check for the subsection to see where things stand before starting, and again at the end (step 8):
+  ```sh
+  python3 -I .claude/skills/note-workup/scripts/coverage.py B1          # one subsection
+  python3 -I .claude/skills/note-workup/scripts/coverage.py B --gaps    # a section's gaps
+  ```
+  Each dot point (and each pharmacopeia drug, by level) shows words written, figures and cards (synced/total): ✓ all three, · written but missing figures or cards, ✗ nothing written, ↓ content is in its sub-points. `--markdown` prints a table. Use it when he asks what's left, what to read next, or which dot points have no cards.
 
 ### 2. Check the content
 
 - Work every formula through. Derivations should follow; check approximations go the right way (e.g. high extraction: $CL\approx Q_H$, $f_H\approx Q_H/(f_u\cdot CL_{\text{int}})$).
-- Look for statements that conflate two things. Today's example: "hepatic blood flow does not affect bioavailability" for high-extraction drugs, when it's the *oral steady-state concentration* that's unaffected; $F$ changes.
+- Look for statements that conflate two things. For example, the Bioavailability note once said "hepatic blood flow does not affect bioavailability" for high-extraction drugs, when it's the *oral steady-state concentration* that's unaffected; $F$ changes.
 - Wrong anatomy or terms (e.g. gut wall metabolism is in the *epithelium*, not endothelium).
 - **Never invent clinical content**: no doses, statistics, trial results or examples he didn't give, beyond standard textbook facts that follow from what's written. Arithmetic examples that illustrate his own formulas are fine.
 - List every correction in the final report, with the reason, so he can check it.
@@ -54,6 +60,7 @@ Read `references/figures.md` (house style, patterns, pitfalls) before drawing, a
 - Give a figure a `^fig-<name>` block ID at the end of the embed line when anything refers to it; refer with `[[#^fig-<name>|Figure]]` or `[[Note#^fig-<name>|Figure]]` (book and website turn these into "Figure B1.3" / "Figure 3").
 - Build with `make -C "<textbook>" figures`, render the PDF to PNG (`pdftocairo -png -r 110 -singlefile build/figures/<name>.pdf …`) and **look at it**. Iterate until nothing overlaps, labels are legible at book size and it reads at a glance. Expect 2–4 rounds.
 - Prefer a diagram over a wall of text: if a figure needs paragraphs, put the detail in the note and keep keywords (tags) in the figure.
+- **The textbook comes first.** Size and lay out figures for the 150 mm A4 page, not for phones; never make a figure narrower or sparser to suit small screens (the website has tap-to-enlarge for that).
 
 ### 5. Flashcards
 
@@ -87,7 +94,7 @@ Card syntax (one blank line before and after each callout; no Anki ID — the sy
 
 ### 8. Report
 
-Say what changed in each note, list every correction with why, list new figures and cards, say where the notes are embedded, and what was verified (and what wasn't). The vault commits itself; **commit the textbook or website repos only when asked, as Sab only — no co-author lines.**
+Rerun the coverage check for the subsection and include its lines for the dot points touched. Say what changed in each note, list every correction with why, list new figures and cards, say where the notes are embedded, and what was verified (and what wasn't). The vault commits itself; **commit the textbook or website repos only when asked, as Sab only — no co-author lines.**
 
 ## Pitfalls seen before
 
