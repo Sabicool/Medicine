@@ -57,6 +57,7 @@ $$
 	- Fluid status: fluid resuscitation, oedema and capillary leak in critical illness increase $V_{D}$ for hydrophilic drugs (e.g. aminoglycosides, β-lactams)
 	- Plasma proteins: hypoalbuminaemia increases $f_{u}$ and hence $V_{D}$ for drugs bound to albumin
 	- Pregnancy increases plasma volume and body water
+	- Renal failure: uraemia reduces tissue binding of digoxin, so its $V_{D}$ falls from about 7 L/kg to about 4–5 L/kg and the loading dose has to be reduced, even though clearance doesn't enter the loading dose calculation (see [[Antiarrhythmics#Loading in Renal Impairment]])
 # Measuring Volume of Distribution
 - Serial plasma concentrations are taken after an IV bolus and plotted as log concentration against time
 	- The line of best fit is extrapolated to $t=0$ to find the plasma concentration at time zero ($C_{0}$)
@@ -84,6 +85,9 @@ $$
 > [!card]- How is a loading dose calculated, and why does it not depend on clearance?
 > $\text{Loading Dose}=V_{D}\times\text{Target Concentration}$ (divided by $F$ if oral). It only has to fill the volume of distribution to the target once; clearance determines the maintenance dose needed to replace what is eliminated.
 > %% anki: 1793136948940 %%
+
+> [!card]- Why does the digoxin loading dose need reducing in renal failure, if loading dose doesn't depend on clearance?
+> Uraemia reduces digoxin's tissue binding, so $V_{D}$ falls (about 7 → 4–5 L/kg). Since $\text{LD}=V_{D}\times\text{target}$, the load drops by about 30–50% in severe CKD or ESRD. The maintenance dose needs a much larger cut, because clearance is about 70% renal.
 
 > [!card]- Why are drugs with a large volume of distribution poorly removed by dialysis?
 > Only a small fraction of the total amount in the body is in the plasma, which is all that dialysis can reach. Concentrations can also rebound afterwards as drug redistributes from the tissues.
