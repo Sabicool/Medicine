@@ -14,6 +14,8 @@ date: 2026-11-01
 | Volume of distribution ($V_{D}$) | Amount of drug in the body divided by plasma concentration | L |
 | Half life ($t_{1/2}$) | Time for the plasma concentration to fall by half | hour |
 
+
+
 # Definitions
 ## Elimination Rate
 - If $A(t)$ is the amount of drug eliminated by time $t$, the elimination rate is how fast that amount grows:
