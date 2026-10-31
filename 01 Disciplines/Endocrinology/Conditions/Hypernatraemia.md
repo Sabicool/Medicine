@@ -42,7 +42,7 @@ k=0.45\text{ in elderly}
 \end{cases}
 $$
 $$
-\Delta [\ce{Na+}]\text{ from 1L of IV fluid}=\frac{([\ce{Na+}])_{\text{infusate}}-[\ce{K+}]_{\text{infusate}}-[\ce{Na+}]_{\text{serum}}}{\text{Total body water (L)}+1}
+\Delta [\ce{Na+}]\text{ from 1L of IV fluid}=\frac{([\ce{Na+}]_{\text{infusate}}+[\ce{K+}]_{\text{infusate}})-[\ce{Na+}]_{\text{serum}}}{\text{Total body water (L)}+1}
 $$
 
 > [!EXAMPLE]
@@ -51,7 +51,7 @@ $$
 > - Rate calculation as follows:
 > $$
 > \begin{align}
->  \Delta [\ce{Na+}]\text{ from 1L of IV fluid}&=\frac{([\ce{Na+}])_{\text{infusate}}-[\ce{K+}]_{\text{infusate}}-[\ce{Na+}]_{\text{serum}}}{\text{Total body water (L)}+1} \\
+>  \Delta [\ce{Na+}]\text{ from 1L of IV fluid}&=\frac{([\ce{Na+}]_{\text{infusate}}+[\ce{K+}]_{\text{infusate}})-[\ce{Na+}]_{\text{serum}}}{\text{Total body water (L)}+1} \\
 >  &=\frac{(77+20)-170}{70\times 0.45 +1} \\
 >  &=-2.2 \text{ mmol/L for each 1L of IVF}
 > \end{align}
