@@ -100,7 +100,7 @@ slides: true
 - Calcium urine for familial hypocalciuric hypercalcaemia
 - Correcting $\ce{Ca+}$ for albumin, however evidence demonstrates that formulas actually perform worse than uncorrected calcium levels
 $$
-\rm{Corrected\;Calcium}=0.8\times(40-\rm{Albumin})+\ce{Ca^{2+}}
+\rm{Corrected\;Calcium}=0.02\times(40-\rm{Albumin})+\ce{Ca^{2+}}\quad(\text{mmol/L, albumin in g/L})
 $$
 # Management
 - Rehydration therapy with sodium chloride 0.9% 4-6 L by IV infusion over 24 hours

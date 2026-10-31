@@ -498,7 +498,7 @@ $$
 $$
 - Correcting $\ce{Ca+}$ for albumin, however evidence demonstrates that formulas actually perform worse than uncorrected calcium levels
 $$
-\rm{Corrected\;Calcium}=0.8\times(40-\rm{Albumin})+\ce{Ca^{2+}}
+\rm{Corrected\;Calcium}=0.02\times(40-\rm{Albumin})+\ce{Ca^{2+}}\quad(\text{mmol/L, albumin in g/L})
 $$
 ## Easily Figuring Out Direction of Compensation
 - One must just look at the Henderson-Hasselbach equation to determine that for the pH to remain the same, the $\ce{HCO_3^-}$ must move in the same direction as $P_\text{a}\ce{CO2}$ and vice versa

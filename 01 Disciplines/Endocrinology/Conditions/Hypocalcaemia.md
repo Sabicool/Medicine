@@ -75,7 +75,7 @@ slides: true
 - CK and urate level to observe for rhabdomyolysis
 - Correcting $\ce{Ca+}$ for albumin, however evidence demonstrates that formulas actually perform worse than uncorrected calcium levels
 $$
-\rm{Corrected\;Calcium}=0.8\times(40-\rm{Albumin})+\ce{Ca^{2+}}
+\rm{Corrected\;Calcium}=0.02\times(40-\rm{Albumin})+\ce{Ca^{2+}}\quad(\text{mmol/L, albumin in g/L})
 $$
 # Management
 - Acute replacement
