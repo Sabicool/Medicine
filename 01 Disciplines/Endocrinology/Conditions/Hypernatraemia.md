@@ -88,6 +88,10 @@ $$
 		- For example, 2.8L of free water over 24h via 0.45% saline is $2.8/0.5 = 5.6 \text{ L}$ or 230 mL/hr
 	8. Cross check with formula above
 	9. Recheck sodium at 4-6 hours and titrate
+
+> [!calculator|hypernatraemia] Hypernatraemia fluid plan
+> Works through steps 3–8 above: target, free water deficit, ongoing losses, the fluid's free water fraction and rate, and the Adrogué–Madias cross-check. Interactive on the website.
+
 # Sources
 - Youtube Videos
 	- [Hypernatremia - YouTube](https://www.youtube.com/watch?v=UuJXQdDFgoA&list=PLYojB5NEEakXVIAapcSEleP4doUdHVtld&index=3)
