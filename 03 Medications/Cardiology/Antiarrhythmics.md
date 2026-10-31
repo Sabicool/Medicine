@@ -35,6 +35,10 @@ $$
 - Rule of thumb: reduce the load by about 30–50% in severe CKD or ESRD
 	- A higher target (e.g. 1.2 µg/L for rate control) scales the dose up proportionally
 	- For an oral load, divide by bioavailability (about 0.7 for tablets)
+
+> [!calculator|digoxin-loading] Digoxin loading dose
+> Works through IBW, CrCl (Cockcroft–Gault), $V_{D}$ (Jusko–Koup) and the load at each target, with a button to copy the working into a note. Interactive on the website.
+
 ## In Practice
 - Give the load in divided doses, e.g. half, then a quarter at 6 h and a quarter at 12 h if needed
 	- Before each step, reassess HR, ECG, K⁺ and a level (≥6 h after the dose)
