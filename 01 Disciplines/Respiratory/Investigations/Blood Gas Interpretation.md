@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[02 Rotations/Intensive Care Unit|Intensive Care Unit]]"
   - "[[Anaesthetics]]"
-date: 2026-08-28
+date: 2026-11-01
 aliases:
   - ABG Interpretation
 tags:
@@ -17,6 +17,9 @@ tags:
 # Approach[^3]
 ![[Pasted image 20260316142617.png]]
 ![[Pasted image 20260709150515.png]]
+
+> [!calculator|blood-gas] Blood gas
+> Works through oxygenation, pH, the primary disorder, compensation, anion gap and delta ratio in the order below. Interactive on the website.
 
 1. Determine the adequacy of oxygenation 
 	- Refer to the $S_\text{p}\ce{O2}$ from the sats probe or $S_\text{a}\ce{O2}$ as calculated from the ABG or measured from co-oximetry to observe for hypoxaemia
@@ -83,8 +86,8 @@ tags:
 			- Acute: $\Delta\ce{HCO3}=0.1\times\Delta P\rm{a}\ce{CO2}$ or $\ce{[HCO_3^-]}=24+\frac{P_\text{a}\ce{CO2}-40}{10}$
 			- Chronic: $\Delta\ce{HCO3}=0.4\times\Delta P\rm{a}\ce{CO2}$ or $\ce{[HCO_3^-]}=24+4\times\frac{P_\text{a}\ce{CO2}-40}{10}$
 		- Respiratory alkalosis
-			- Acute: $\Delta\ce{HCO3}=0.2\times\Delta P\rm{a}\ce{CO2}$ or $\ce{[HCO_3^-]}=24-2\times\frac{4-P_\text{a}\ce{CO2}}{10}$
-			- Chronic: $\Delta\ce{HCO3}=0.5\times\Delta P\rm{a}\ce{CO2}$ or $\ce{[HCO_3^-]}=24-5\times\frac{4-P_\text{a}\ce{CO2}}{10}$
+			- Acute: $\Delta\ce{HCO3}=0.2\times\Delta P\rm{a}\ce{CO2}$ or $\ce{[HCO_3^-]}=24-2\times\frac{40-P_\text{a}\ce{CO2}}{10}$
+			- Chronic: $\Delta\ce{HCO3}=0.5\times\Delta P\rm{a}\ce{CO2}$ or $\ce{[HCO_3^-]}=24-5\times\frac{40-P_\text{a}\ce{CO2}}{10}$
 5. Calculate the anion gap
 	- High anion gap acidosis ⇒ addition of anions (conjugate bases of acids added to serum e.g. ketones or lactate)
 		- Severe renal failure can lead HAGMA to excrete phosphate and sulphate in the urine resulting in their accumulation
@@ -474,6 +477,10 @@ See: https://litfl.com/anion-gap/
 > 6. Respiratory acidosis (from intoxication from central respiratory depression) + high anion gap metabolic acidosis (from alcoholic ketoacidosis) + metabolic alkalosis (from vomiting)
  
 ## Corrected Values
+
+> [!calculator|electrolytes] Corrected values
+> Corrected Na⁺, K⁺ and Ca²⁺, and the osmolal gap. Interactive on the website.
+
 - $\ce{Na+}$ for glucose
 	- In patients with marked hyperglycaemia, the elevated serum glucose raises the serum tonicity (as the glucose cannot enter cells) which pulls water out of cells and expands the extracellular water compartment – thereby lowering the concentration of sodium
 	- The corrected serum sodium can be calculated, which represents what the serum sodium concentration would be if the glucose level was reduced back to normal

@@ -198,6 +198,9 @@ $$
 \end{cases}
 $$
 
+> [!calculator|electrolytes] Corrected sodium and osmolal gap
+> Interactive on the website.
+
 # Management
 ![[Pasted image 20260530183654.png]]
 

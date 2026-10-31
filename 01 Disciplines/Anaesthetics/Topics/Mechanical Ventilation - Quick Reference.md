@@ -36,6 +36,9 @@ Rotations:
 > **FiO₂ >60%** → add strategies: ↑ PEEP, recruitment manoeuvres, change mode  
 > **Pplateau >30 cm $\ce{H2O}$** → ↓ VT in 1 mL/kg steps
 
+> [!calculator|tidal-volume] Tidal volume
+> Predicted body weight and the tidal volumes above. Interactive on the website.
+
 ---
 
 # Pressure Interpretation (Volume Control Modes)
