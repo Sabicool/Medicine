@@ -5,14 +5,14 @@ date: 2026-11-01
 - Elimination refers to the irreversible excretion of unchanged drug or conversion to a metabolically inactive product
 - Clearance refers to the efficiency of elimination and is broadly defined as a volume of plasma that is cleared of the drug per unit time (L/hr or mL/min)
 
-| Quantity | Definition | Units |
-| --- | --- | --- |
-| Elimination rate | Amount of drug irreversibly removed per unit time | mg/hour |
-| Clearance ($CL$) | Elimination rate divided by plasma concentration | L/hour |
-| Extraction ratio ($E$) | Fraction of drug entering an organ that is removed in a single pass | none (0 to 1) |
-| Elimination rate constant ($k$) | Elimination rate divided by the amount of drug in the body | hour⁻¹ |
-| Volume of distribution ($V_{D}$) | Amount of drug in the body divided by plasma concentration | L |
-| Half life ($t_{1/2}$) | Time for the plasma concentration to fall by half | hour |
+| Quantity                         | Definition                                                          | Units         |
+|----------------------------------|---------------------------------------------------------------------|---------------|
+| Elimination rate                 | Amount of drug irreversibly removed per unit time                   | mg/hour       |
+| Clearance ($CL$)                 | Elimination rate divided by plasma concentration                    | L/hour        |
+| Extraction ratio ($E$)           | Fraction of drug entering an organ that is removed in a single pass | none (0 to 1) |
+| Elimination rate constant ($k$)  | Elimination rate divided by the amount of drug in the body          | hour⁻¹        |
+| Volume of distribution ($V_{D}$) | Amount of drug in the body divided by plasma concentration          | L             |
+| Half life ($t_{1/2}$)            | Time for the plasma concentration to fall by half                   | hour          |
 
 
 

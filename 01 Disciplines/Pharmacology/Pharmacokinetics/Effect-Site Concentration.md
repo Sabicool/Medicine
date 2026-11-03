@@ -8,9 +8,9 @@ date: 2026-10-14
 $$
 \frac{dC_{e}}{dt}=k_{e0}\,(C_{p}-C_{e})
 $$
-	- When $k_{e0}$ is large, $C_{e}$ follows $C_{p}$ almost immediately, so effect follows plasma concentration
-	- When $k_{e0}$ is small, $C_{e}$ lags behind $C_{p}$, rising while $C_{p}>C_{e}$ and peaking when $C_{e}=C_{p}$ (where $dC_{e}/dt=0$)
-	- The equilibration half-time ($t_{1/2}k_{e0}=0.693/k_{e0}$) describes how quickly the effect catches up with a change in plasma concentration
+- When $k_{e0}$ is large, $C_{e}$ follows $C_{p}$ almost immediately, so effect follows plasma concentration
+- When $k_{e0}$ is small, $C_{e}$ lags behind $C_{p}$, rising while $C_{p}>C_{e}$ and peaking when $C_{e}=C_{p}$ (where $dC_{e}/dt=0$)
+- The equilibration half-time ($t_{1/2}k_{e0}=0.693/k_{e0}$) describes how quickly the effect catches up with a change in plasma concentration
 ![[effect-site-lag.svg|Plasma and effect-site concentrations after an IV bolus]]
 > [!card]- What equation links plasma and effect-site concentration, and when does effect-site concentration peak?
 > $\dfrac{dC_{e}}{dt}=k_{e0}(C_{p}-C_{e})$. After a bolus, $C_{e}$ rises while $C_{p}>C_{e}$ and peaks when $C_{e}=C_{p}$.
