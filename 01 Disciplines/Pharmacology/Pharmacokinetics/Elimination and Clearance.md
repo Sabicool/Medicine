@@ -271,13 +271,13 @@ $$
 ## Flow-Limited vs Capacity-Limited Clearance
 - The two extremes of the well-stirred model ([[#^fig-well-stirred-liver|Figure]]) are where it becomes clinically useful:
 
-| | High extraction ($E>0.7$) | Low extraction ($E<0.3$) |
-| --- | --- | --- |
-| When | $f_{u}\cdot CL_{\text{int}}\gg Q_{H}$ | $f_{u}\cdot CL_{\text{int}}\ll Q_{H}$ |
-| $CL_{H}$ simplifies to | $\approx Q_{H}$ (flow-limited) | $\approx f_{u}\cdot CL_{\text{int}}$ (capacity-limited) |
-| Clearance changed by | Hepatic blood flow (shock, low cardiac output, β-blockers, ageing) | Enzyme induction or inhibition, protein binding |
-| First-pass metabolism | Large, so low oral bioavailability ($F_{H}=1-E_{H}$) | Small, so high oral bioavailability |
-| Examples | Propofol, lignocaine, morphine, fentanyl, GTN, propranolol, verapamil | Phenytoin, warfarin, diazepam, theophylline |
+|                        | High extraction ($E>0.7$)                                             | Low extraction ($E<0.3$)                                |
+|------------------------|-----------------------------------------------------------------------|---------------------------------------------------------|
+| When                   | $f_{u}\cdot CL_{\text{int}}\gg Q_{H}$                                 | $f_{u}\cdot CL_{\text{int}}\ll Q_{H}$                   |
+| $CL_{H}$ simplifies to | $\approx Q_{H}$ (flow-limited)                                        | $\approx f_{u}\cdot CL_{\text{int}}$ (capacity-limited) |
+| Clearance changed by   | Hepatic blood flow (shock, low cardiac output, β-blockers, ageing)    | Enzyme induction or inhibition, protein binding         |
+| First-pass metabolism  | Large, so low oral bioavailability ($F_{H}=1-E_{H}$)                  | Small, so high oral bioavailability                     |
+| Examples               | Propofol, lignocaine, morphine, fentanyl, GTN, propranolol, verapamil | Phenytoin, warfarin, diazepam, theophylline             |
 
 ![[hepatic-clearance-flow-capacity.svg|Hepatic clearance against unbound intrinsic clearance]]
 - e.g. lignocaine can accumulate in low cardiac output states as its clearance follows hepatic blood flow, whereas enzyme induction (e.g. rifampicin) speeds up the clearance of warfarin but makes little difference to high extraction drugs
