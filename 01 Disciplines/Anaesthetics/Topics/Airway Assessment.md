@@ -1,7 +1,7 @@
 ---
 tags:
   - cards
-date: 2026-09-24
+date: 2026-11-03
 ---
 # Definition
 - The purpose of an airway assessment is to predict and plan for a difficult airway

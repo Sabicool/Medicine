@@ -1,5 +1,5 @@
 ---
-date: 2026-10-14
+date: 2026-11-03
 ---
 *Main source: Birkett, Pharmacokinetics Made Easy* [@birkettPharmacokineticsMadeEasy2005]
 - Drug effect follows the concentration at the site of action (the effect site), not the plasma concentration
@@ -8,6 +8,7 @@ date: 2026-10-14
 $$
 \frac{dC_{e}}{dt}=k_{e0}\,(C_{p}-C_{e})
 $$
+
 - When $k_{e0}$ is large, $C_{e}$ follows $C_{p}$ almost immediately, so effect follows plasma concentration
 - When $k_{e0}$ is small, $C_{e}$ lags behind $C_{p}$, rising while $C_{p}>C_{e}$ and peaking when $C_{e}=C_{p}$ (where $dC_{e}/dt=0$)
 - The equilibration half-time ($t_{1/2}k_{e0}=0.693/k_{e0}$) describes how quickly the effect catches up with a change in plasma concentration
