@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
   - "[[Intensive Care Unit]]"
   - "[[Emergency Medicine]]"
-date: 2026-11-04
+date: 2026-11-05
 tags:
   - notes
 ---
@@ -59,6 +59,11 @@ tags:
 ## Cardiac Arrest During Dialysis
 - Start resuscitation as per standard ALS pathway
 - Assign a dialysis nurse to the machine to:
+	- Stop ultrafiltration
+	- Give a fluid bolus
+	- Return the patient’s blood volume and disconnect from the dialysis machine
+- Leave dialysis access open and use for drug administration
+- Urgent defibrillation (VF, pVT) is common in haemodialysis patients (most machines recommend discconection from the dialysis equipment prior to defibrillation)
 # Source
 - [Hyperkalemia - YouTube](https://www.youtube.com/watch?v=JpkIOlFhyJo&list=PLYojB5NEEakXVIAapcSEleP4doUdHVtld&index=6)
 - [Hyperkalaemia Management • LITFL • CCC Electrolytes](https://litfl.com/hyperkalaemia-management/)

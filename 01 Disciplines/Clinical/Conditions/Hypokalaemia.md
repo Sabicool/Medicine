@@ -3,7 +3,7 @@ Rotations:
   - "[[Intensive Care Unit]]"
   - "[[02 Rotations/Cardiology|Cardiology]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
-date: 2026-05-30
+date: 2026-11-05
 ---
 - Mild – 3.0-3.5
 - Moderate – 2.5-3.0
@@ -28,7 +28,7 @@ date: 2026-05-30
 		- Bartter syndrome
 		- Liddle syndrome
 	- Increased loss
-		- Drugs (diuretics, laxatives, liquorice, steroids, antibiotics (carbapenems, gentamicin, amphortericin B))
+		- Drugs (digoxin, diuretics, laxatives, liquorice, steroids, antibiotics (carbapenems, gentamicin, amphortericin B))
 		- Skin - profuse sweating, extensive burns
 		- GI - diarrhoea, vomiting, ileostomy, intestinal fistula, villous adenoma, laxatives
 		- Renal - tubular disorders, [[Diabetes insipidus|nephrogenic DI]]
