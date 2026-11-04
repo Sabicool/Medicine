@@ -1,5 +1,5 @@
 ---
-date: 2026-11-01
+date: 2026-11-05
 Related:
   - "[[Central Line Insertion]]"
   - "[[Bronchoscopy]]"
@@ -22,3 +22,7 @@ tags:
 
 > [!calculator|local-anaesthetic] Local anaesthetic maximum dose
 > Maximum dose in mg and mL from the drug, strength and weight. Interactive on the website.
+
+# Toxicity
+- Initial IV bolus of 1.5 mL/kg of 20% lipid emulsion followed by an infusion at 15 mL/kg/h
+	- Give up to three bolus doses of lipid at 5 minute intervals and continue the infusion until the patient is stable or has received up to a maximum of 12 mL/kg (~40 minutes)
