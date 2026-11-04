@@ -51,11 +51,14 @@ tags:
 	- Resonium
 		- Rare side effect of intestinal necrosis in patients with bowel obstruction, ileus or opioid use
 ## Hyperkalaemic Cardiac Arrest
-- Don’t stop until potassium normalised
-- adrenaline helps drive potassium down
-- Calcium chloride
-- Sodium bicarbonate in acidosis
-- At ROSC start insulin/dextrose
+- Give 10 mL of 10% calcium chloride IV by rapid bolus injection (calcium gluconate when chloride not available noting that it has 1/3 calcium ions)
+- Give insulin 10 units (actrapid) and 25 g glucose IV by rapid injectiona
+- Give sodium bicarbonate 50mmol IV by rapid injection if severe acidosis or renal failure (do not give by the same line as the calcium chloride)
+- Consider dialysis
+- Adrenaline may help drive potassium down
+## Cardiac Arrest During Dialysis
+- Start resuscitation as per standard ALS pathway
+- Assign a dialysis nurse to the machine to:
 # Source
 - [Hyperkalemia - YouTube](https://www.youtube.com/watch?v=JpkIOlFhyJo&list=PLYojB5NEEakXVIAapcSEleP4doUdHVtld&index=6)
 - [Hyperkalaemia Management • LITFL • CCC Electrolytes](https://litfl.com/hyperkalaemia-management/)
