@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Cardiology|Cardiology]]"
   - "[[Intensive Care Unit]]"
   - "[[Emergency Medicine]]"
-date: 2026-08-27
+date: 2026-11-04
 tags:
   - notes
 ---
@@ -34,7 +34,7 @@ tags:
 
 - Fluid resuscitation in order to enhance renal perfusion and elimination
 - Membrane stabilisation with calcium
-	- 10mL of calcium gluconate or chloride over 2-5 minutes
+	- 5-10 mL of calcium 10% gluconate (2.2 mmol Ca ions) or 10% chloride (6.8 mmol Ca ions) over 2-5 minutes
 - Shift potassium into cells
 	- Bicarbonate infusion 50-100mL of 8.4% (1 mmol/kg) IV over 5 minutes
 		- Requires a metabolic acidosis to be present
