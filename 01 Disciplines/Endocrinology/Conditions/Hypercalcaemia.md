@@ -3,7 +3,7 @@ Rotations:
   - "[[Intensive Care Unit]]"
   - "[[02 Rotations/Cardiology|Cardiology]]"
   - "[[Emergency Medicine]]"
-date: 2026-08-12
+date: 2026-11-05
 tags:
   - cards
 slides: true
@@ -114,7 +114,7 @@ $$
 	- Do not give in milk-alkali syndrome (should resolve without biphosphonate therapy) and pre-menopausal women
 	- Zoledronic acid is usually preferred dose-reduced in renal failure
 	- Takes time to take effect, hence calcitonin and biphosphonates are oten started simultaneously
-- Hypercalcaemia caused by vitamin D toxicity, sarcoidosis or other granulomatous disease consider oral prednisolone
+- Hypercalcaemia caused by vitamin D toxicity, sarcoidosis or other granulomatous disease consider oral prednisolone or hydrocortisone IV
 - Galium nitrate can also be considered but requires expert opinion
 
 # Sources
