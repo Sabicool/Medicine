@@ -1,7 +1,7 @@
 ---
 Rotations:
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
-date: 2025-08-16
+date: 2026-11-05
 tags:
   - notes
 ---
@@ -36,3 +36,9 @@ tags:
 			- Cetirizine 10 mg PO or fexofenadine 180 mg plus rantidine 150 mg following recovery from the anaphylaxis
 
 ^anaphylaxis-management
+
+## Mast Cell Tryptase Timing
+- Ideally three timed samples:
+	- Initial sample as soon as feasible after resuscitation has started
+	- Second sample 1 - 2 hours after the start of symptoms
+	- Third sample either at 24 hours or in convalenscence (for baseline level)
