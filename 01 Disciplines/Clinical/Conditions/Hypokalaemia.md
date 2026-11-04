@@ -74,6 +74,7 @@ date: 2026-11-05
 ![[Pasted image 20260530212150.png]]
 
 - For patients with hypokalaemia in the setting of essential diuretic use (e.g. heart failure) or hyperaldosteronism, a potassium-sparing diuretic is usually more effective than chronic potassium replacement
+- 
 - In life threatening arrhythmias:
 	- $\ce{K+}$ 20 mmol over 10 minutes
 	- $\ce{Mg^{2+}}$ 10 mmol over 10 minutes
