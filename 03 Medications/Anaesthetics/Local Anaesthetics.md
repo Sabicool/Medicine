@@ -24,5 +24,11 @@ tags:
 > Maximum dose in mg and mL from the drug, strength and weight. Interactive on the website.
 
 # Toxicity
-- Initial IV bolus of 1.5 mL/kg of 20% lipid emulsion followed by an infusion at 15 mL/kg/h
-	- Give up to three bolus doses of lipid at 5 minute intervals and continue the infusion until the patient is stable or has received up to a maximum of 12 mL/kg (~40 minutes)
+- Initial IV bolus of 1.5 mL/kg of 20% lipid emulsion over 1 minute followed by an infusion at 15 mL/kg/h
+	- Give up to three bolus doses (two more) of lipid (1.5 mL/kg) at 5 minute intervals if:
+		- Remains haemodynamically unstable
+		- Adequate circulation deteriorates
+	- Continue the infusion until the patient is stable, double the rate to 30 mL/kg/h at any time after 5 minutes if:
+		- Haemodnyamically unstable
+		- Adequate circulation deteriorates
+	- Do not exceed a maximum dose of 12 mL/kg 
