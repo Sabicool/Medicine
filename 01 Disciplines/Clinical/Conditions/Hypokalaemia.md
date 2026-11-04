@@ -74,10 +74,14 @@ date: 2026-11-05
 ![[Pasted image 20260530212150.png]]
 
 - For patients with hypokalaemia in the setting of essential diuretic use (e.g. heart failure) or hyperaldosteronism, a potassium-sparing diuretic is usually more effective than chronic potassium replacement
-- 
-- In life threatening arrhythmias:
-	- $\ce{K+}$ 20 mmol over 10 minutes
-	- $\ce{Mg^{2+}}$ 10 mmol over 10 minutes
+- In stable patients, the maximum IV dose of potassium is 20 mmol/h
+- In unstable arrhythmias or when cardiac arrest is imminent use 2 mmol/min (20mmol total) for 10 minutes followed by 10 mmol over 5-10 minutes and magnesium 10mmol over 10 minutes
+- During cardiac arrest
+	- Give a 5 mmol bolus, repeat as required
+	- Give a 5 mmol bolus of IV magnesium sulfate, may repeat once, then 20 mmol over 4 h infusion
+	- Stop precipitants: e.g. furosemide infusion, β-agonists (salbutamol), insulin without adequate $\ce{K+}$ and glucose-containing fluids (drives intracellular potassium shift)
+	- Aim for potassium ≥ 4.0 mmol/L before discontinuing aggressive replacement
+	- Consider beta-blockade (e.g. esmolol) is an emerging adjunct for refractory VF due to adrenergically driven arrhythmia (e.g. caffeine, salbutamol, thyroid storm)
 # Sources
 - [Hypokalaemia](https://derangedphysiology.com/main/required-reading/electrolyte-disorders/Chapter-621/hypokalemia)
 - [Hypokalaemia • LITFL • CCC Electrolytes](https://litfl.com/hypokalaemia/)
