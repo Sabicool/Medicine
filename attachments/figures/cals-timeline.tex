@@ -1,0 +1,44 @@
+% CALS timeline: rhythm-specific treatment in the first 60 s, compressions, then resternotomy by 5 min
+\documentclass[11pt, border=2mm]{standalone}
+\usepackage{cicm-figure}
+\begin{document}
+\begin{tikzpicture}[
+  col/.style = {rounded corners=1.5mm, minimum width=4.3cm, minimum height=2.5cm, align=center, inner sep=2mm, font=\small,
+                execute at begin node={\hyphenpenalty=10000\relax}},
+  head/.style = {font=\small\bfseries},
+  tick/.style = {font=\footnotesize, text=cicmgrey},
+]
+  % time axis
+  \draw[thick, -Stealth] (0,0.6) -- (14.6,0.6);
+  \foreach \x/\t in {0/Arrest, 4.8/60 s, 9.6/5 min} {
+    \draw[thick] (\x,0.72) -- (\x,0.48);
+    \node[tick, below] at (\x,0.45) {\t};
+  }
+
+  % stage 1: rhythm-specific
+  \node[head, text=cicmaccent] at (2.4,4.15) {1. Treat the rhythm};
+  \node[col, fill=cicmaccenttint, anchor=north] (r) at (2.4,3.8) {%
+    \textbf{VF/pVT:} 3 stacked shocks\\[1mm]
+    \textbf{Asystole/brady:} pace DOO\\[1mm]
+    \textbf{PEA:} pause pacing, exclude VF};
+  \node[label, text=cicmgrey, anchor=north] at (r.south) {compressions held};
+
+  % stage 2: compressions + prepare
+  \node[head, text=cicmblue] at (7.2,4.15) {2. Compressions};
+  \node[col, fill=cicmbluetint, anchor=north] (c) at (7.2,3.8) {%
+    External CPR\\ SBP $\geq$ 60 mmHg\\[1mm]
+    Amiodarone 300 mg\\ Adrenaline 50--100\,mcg\\ (senior only)};
+  \node[label, text=cicmgrey, anchor=north] at (c.south) {prepare resternotomy};
+
+  % stage 3: resternotomy
+  \node[head, text=cicmaccent] at (12.0,4.15) {3. Resternotomy};
+  \node[col, fill=cicmaccenttint, anchor=north] (s) at (12.0,3.8) {%
+    Cut wires, open chest\\ relieves tamponade\\[1mm]
+    Internal massage\\ Internal shocks 20\,J};
+  \node[label, text=cicmgrey, anchor=north] at (s.south) {within 5 min};
+
+  % arrows between stages
+  \draw[-Stealth, thick, cicmink] (r.east) -- (c.west |- r.east);
+  \draw[-Stealth, thick, cicmink] (c.east) -- (s.west |- c.east);
+\end{tikzpicture}
+\end{document}
