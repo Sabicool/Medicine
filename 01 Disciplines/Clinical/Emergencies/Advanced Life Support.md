@@ -7,7 +7,7 @@ Rotations:
 aliases:
   - ALS
   - Cardiac Arrest
-date: 2026-06-17
+date: 2026-11-05
 Down:
   - "[[Drugs in Cardiac Arrest]]"
   - "[[Acute Airway Failure]]"
@@ -19,6 +19,11 @@ Related:
 tags:
   - cards
 ---
+- If patient meets following criteria follow: [[Cardiac Advanced Life Support|CALS]]
+	- Within 7 days post cardiothoracic surgery with median sternotomy for cardiothoracic surgery
+	- And not:
+		- Ventricular assist device patients
+		- Cardiothoracic surgery without sternotomy (e.g. minimally invasive thoracotomy approach)
 # ALS Algorithm
 ![[Pasted image 20250227130949.png]]
 
