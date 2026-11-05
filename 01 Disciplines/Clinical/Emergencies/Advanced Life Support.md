@@ -20,7 +20,7 @@ tags:
   - cards
 ---
 - If patient meets following criteria follow: [[Cardiac Advanced Life Support|CALS]]
-	- Within 7 days post cardiothoracic surgery with median sternotomy for cardiothoracic surgery
+	- Within 10 days post cardiothoracic surgery with median sternotomy for cardiothoracic surgery (after day 10, a senior clinician decides whether to follow CALS)
 	- And not:
 		- Ventricular assist device patients
 		- Cardiothoracic surgery without sternotomy (e.g. minimally invasive thoracotomy approach)

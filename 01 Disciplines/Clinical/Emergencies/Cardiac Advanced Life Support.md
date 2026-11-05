@@ -40,8 +40,10 @@ tags:
 	4. **Resternotomy trolley**
 	5. **Defibrillation and pacing**
 	6. **Airway and breathing**
+- CALS-ANZ has no dedicated drugs role, which is different to the UK CALS protocol (via LITFL) where the six roles are external cardiac massage, airway and breathing, defibrillation, team leader, drug administration and ICU coordinator
+	- The UK drugs role stops all infusions and syringe drivers and gives amiodarone and anything else needed; in CALS-ANZ pausing and checking infusions is still a step, but it isn't assigned to a named role
 
-> [!card]- What are the six key roles in a CALS arrest?
+> [!card]- What are the six key roles in a CALS arrest (CALS-ANZ)?
 > 1. Team leader
 > 2. ICU coordinator
 > 3. Resternotomy team (two staff)
