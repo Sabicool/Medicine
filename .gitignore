@@ -32,3 +32,4 @@ tex/chemfig-launch.sh
 
 # Syncthing conflict copies hold stale versions of notes
 *.sync-conflict-*
+.nomedia
