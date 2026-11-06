@@ -33,3 +33,8 @@ tex/chemfig-launch.sh
 # Syncthing conflict copies hold stale versions of notes
 *.sync-conflict-*
 .nomedia
+
+# Claude Code skills, settings and instructions stay local
+.claude/
+CLAUDE.md
+CLAUDE.local.md
