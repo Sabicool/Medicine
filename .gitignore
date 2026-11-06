@@ -29,3 +29,6 @@ tex/chemfig-launch.sh
 *.fls
 *.sh
 .auctex-auto/*
+
+# Syncthing conflict copies hold stale versions of notes
+*.sync-conflict-*
