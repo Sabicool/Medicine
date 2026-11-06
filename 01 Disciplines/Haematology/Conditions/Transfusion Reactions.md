@@ -1,8 +1,51 @@
 ---
+Rotations:
+  - "[[02 Rotations/Common Ward Calls|Common Ward Calls]]"
 date: 2026-11-06
 tags:
   - notes
 ---
+# Presentation Questions
+- What's being transfused, when did it start and how much has gone in?
+- Has the transfusion been stopped?
+- Observations compared with their pre-transfusion baseline, including temperature?
+- Symptoms?
+	- Rash or itch
+	- Dyspnoea, wheeze or stridor
+	- Rigors, or chest, back or flank pain
+	- Dark urine
+- Reason for the transfusion? (Are they still bleeding and likely to need more blood?)
+- Heart failure, renal impairment or positive fluid balance? ⇒ risk of TACO
+- Anaesthetised or unconscious? ⇒ the usual symptoms may not be reported
+## Instructions Over the Phone
+- Stop the transfusion, and keep the pack and giving set
+- Keep IV access with a new set and normal saline, and don't flush the existing line
+- Full set of observations, and record the volume and colour of any urine
+- Call a clinical emergency if there are any ABC problems
+# Aetiologies
+- **Fever:** FNHTR, bacterial contamination, acute haemolytic reaction, or something unrelated to the transfusion
+- **Rash or itch:** minor allergic reaction, [[Anaphylaxis]]
+- **Hypotension or dyspnoea, usually within 15 minutes of starting:** bacterial contamination, acute haemolytic reaction, [[Anaphylaxis]]
+- **Respiratory distress during or after the transfusion:** TACO, TRALI
+- **Anaesthetised:** hypotension, uncontrolled bleeding or oozing, and haemoglobinuria may be the first signs of an acute haemolytic reaction
+# Assessment
+- **Airway:** stridor or swelling ⇒ [[Anaphylaxis]]
+- **Breathing:** RR, SpO2, wheeze, and whether crackles are basal or bilateral
+- **Circulation:** BP against baseline, HR, JVP, fluid balance, and any bleeding or oozing
+- **Disability:** restlessness or a sense of impending doom can occur in acute haemolytic reactions
+- **Exposure:** temperature, rash, pain at the infusion site, flank or back pain, and urine colour
+- Check correct pack went into correct patient
+## TACO or TRALI?
+| | TACO | TRALI |
+|---|---|---|
+| Timing | Up to 12 hours | Within 6 hours |
+| BP | Typically hypertensive | Typically hypotensive |
+| JVP | Raised | Not elevated |
+| Crackles | Basal | Bilateral |
+| Fluid balance | Positive | No evidence of overload |
+| Fever | Not typical | Can occur |
+| Pro-BNP | Raised more often | Raised less often |
+| Diuretics | Give | Not beneficial and may worsen it |
 # Immediate Management
 - Stop the transfusion, then assess ABC and vital signs
 - Keep IV access, using a new line if needed and not flushing the existing one
@@ -11,7 +54,7 @@ tags:
 - Further transfusion needs advice from the transfusion service provider, a transfusion medicine specialist or a haematologist. If it's needed before the lab has finished investigating the reaction (e.g. excluding a haemolytic reaction), a suitably experienced pathologist (lab director, haematologist or transfusion medicine specialist) has to authorise it
 # By Reaction
 - **Mild febrile:** >38°C and a rise of 1 to <1.5°C within 4 hours, with no other signs[^1]. Give an antipyretic and restart slowly only if it settles, otherwise don't restart
-- **Moderate or severe febrile:** ≥39°C, a rise of ≥1.5°C or other signs such as rigors, hypotension or pain. Don't restart, and since FNHTR is a diagnosis of exclusion, work up for [[Sepsis|sepsis]], incompatibility and DIC
+- **Moderate or severe febrile:** ≥39°C, a rise of ≥1.5°C or other signs such as rigors, hypotension or pain. Don't restart, and since FNHTR is a diagnosis of exclusion, work up for [[Sepsis|sepsis]], incompatibility and [[Disseminated Intravascular Coagulation|DIC]]
 - **Acute haemolytic:** don't restart, support BP and urine output, consider diuresis with IV fluids and [[Diuretics|diuretics]][^2], and no more blood until haematology or the transfusion service provider clears it
 - **Bacterial contamination:** don't restart, start broad-spectrum IV [[Antibiotics|antibiotics]] (regimen from eTG) and support BP and urine output with fluids and inotropes
 - **Isolated urticaria or pruritus:** give an antihistamine and restart slowly if it settles and the product is still viable
@@ -23,7 +66,7 @@ tags:
 - **Isolated urticaria or other minor allergic reactions:** none needed
 - **[[Sepsis]]:** blood cultures (+/- central line), septic screen for other sources, and send the pack and giving set for culture
 - **Incompatibility:** group, antibody screen and DAT on pre- and post-transfusion samples, plus a haemolytic screen (FBC, LDH, bilirubin, haptoglobin, electrolytes, creatinine, urinalysis)
-- **DIC:** aPTT, PT, fibrinogen, D-dimer
+- **[[Disseminated Intravascular Coagulation|DIC]]:** aPTT, PT, fibrinogen, D-dimer
 - **[[Anaphylaxis]]:** serial tryptase, IgA +/- IgA antibodies, haptoglobin. Tryptase is ideally taken 30 minutes to 2 hours after onset but can still be useful up to 6 hours, with a baseline from before the event or at least 24 hours after it resolves. A rise of at least 20% + 2 ng/mL over baseline suggests mast cell activation[^4]
 - **TACO or TRALI:** CXR (looking for [[Acute Pulmonary Oedema]]) and pro-BNP, and consider an echo. For TRALI, discuss HLA/HNA typing with Lifeblood
 # Preventing TACO
