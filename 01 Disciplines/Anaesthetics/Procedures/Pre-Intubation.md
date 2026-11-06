@@ -1,5 +1,5 @@
 ---
-date: 2026-10-30
+date: 2026-11-06
 ---
 # Examination
 - 2 points of IV access with consideration given to more access ± arterial line in high-risk/unwell patients
@@ -63,3 +63,6 @@ date: 2026-10-30
 	- 
 - Contraindications:
 # Pre-Intubation Checklist
+
+# Sources
+- [Prevention of hypoxia during airway management \| Deranged Physiology](https://derangedphysiology.com/main/required-reading/airway-management/Chapter-116/prevention-hypoxia-during-airway-management)
