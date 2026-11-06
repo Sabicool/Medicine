@@ -1,2 +1,5 @@
 .git/*
 .gitignore
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/recent-files-obsidian/data.json
