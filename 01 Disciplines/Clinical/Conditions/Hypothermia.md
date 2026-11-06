@@ -1,5 +1,6 @@
 ---
 date: 2026-11-06
+draft: "true"
 ---
 # Classification
 - Stage 1: mild hypothermia (conscious, shivering, core temperature 32-35°C)
@@ -78,12 +79,12 @@ Classical clinical–temperature correlations:
 
 ## Summary Table
 
-| Temperature | Stage | Rewarming strategy | Key actions |
-|---|---|---|---|
-| 35–32 °C | Mild (HT I) | Passive external | Warm room, insulation, oral calories, encourage shivering |
-| 32–28 °C | Moderate (HT II) | Active external | Bair Hugger, warmed IV fluids 40–42 °C, warm humidified O₂ |
-| 28–24 °C | Severe (HT III) | Active core (± ECMO) | Minimally invasive ± escalate; ECMO if haemodynamically unstable |
-| < 24 °C | Profound (HT IV) / cardiac arrest | ECMO (V-A) | Full CPR, ≤3 shocks then defer if T < 30 °C; withhold adrenaline/amiodarone if T < 30 °C; K⁺ > 10 mmol/L suggests futility |
+| Temperature | Stage                             | Rewarming strategy   | Key actions                                                                                                                |
+| ----------- | --------------------------------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| 35–32 °C    | Mild (HT I)                       | Passive external     | Warm room, insulation, oral calories, encourage shivering                                                                  |
+| 32–28 °C    | Moderate (HT II)                  | Active external      | Bair Hugger, warmed IV fluids 40–42 °C, warm humidified O₂                                                                 |
+| 28–24 °C    | Severe (HT III)                   | Active core (± ECMO) | Minimally invasive ± escalate; ECMO if haemodynamically unstable                                                           |
+| < 24 °C     | Profound (HT IV) / cardiac arrest | ECMO (V-A)           | Full CPR, ≤3 shocks then defer if T < 30 °C; withhold adrenaline/amiodarone if T < 30 °C; K⁺ > 10 mmol/L suggests futility |
 
 ⚠ Check potassium before cessation of resuscitation – K⁺ > 10 mmol/L is a strong marker of futility in hypothermic cardiac arrest.
 ⚠ Avoid rough movement in severe hypothermia – mechanical stimulation of a cold myocardium can precipitate VF.

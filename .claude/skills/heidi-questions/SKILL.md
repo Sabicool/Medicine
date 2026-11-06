@@ -39,7 +39,7 @@ Two stages with a stop between them: Sab runs Heidi by hand in between. Stage 1 
 If the batch isn't in this conversation, ask Sab for it rather than guessing what was asked.
 
 1. **Match** each answer to its question. List any that are missing or don't answer what was asked.
-2. **Check citations.** Open each one you can and check that it supports the specific claim, not just the topic. Label every claim:
+2. **Check citations.** Heidi's copy button drops its links, so find each named reference by title first, and ask Sab for links only for those you can't find. Open each one you can and check that it supports the specific claim, not just the topic, including authors, doses and sample sizes. Don't get past bot checks. Label every claim:
    - **verified:** you read the source and it says this. Say if you only saw the abstract.
    - **could not access:** paywalled, login-only or Heidi-hosted, or the link is dead.
    - **not supported by the cited source:** it says something else, doesn't address the claim, or can't be found. A claim with no citation goes here too, marked "no citation".
