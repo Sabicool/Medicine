@@ -22,6 +22,7 @@ date: 2026-11-03
 $$
 \text{Elimination Rate}=\frac{dA(t)}{dt}\quad\text{(mg/hour)}
 $$
+
 ## Clearance
 - Clearance is defined as the elimination rate divided by the plasma concentration:
 $$
