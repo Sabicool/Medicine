@@ -1,5 +1,8 @@
 ---
 date: 2026-11-10
+anki-preset: malleus
+tags:
+  - cards
 ---
 # Classification
 - Hypothermia is a core temperature <35°C
@@ -18,6 +21,12 @@ date: 2026-11-10
 - Clinical signs and measured temperature often don't match; if they don't, consider concurrent pathology such as trauma, hypoglycaemia or intoxication
 - Hypothermic cardiac arrest is unlikely above 30°C in young healthy patients but can occur below 32°C in older patients and those with comorbidities
 - Vital signs can still be present below 24°C
+
+> [!cloze]
+> What core temperature defines hypothermia? ==<35°C==
+
+> [!cloze]
+> What are the core temperature ranges for mild, moderate and severe hypothermia? ==Mild 32–35°C, moderate 28–32°C, severe <28°C==
 # Aetiologies
 - Primary hypothermia: cold exposure, including immersion ([[Drowning]])
 - Secondary hypothermia
@@ -25,6 +34,9 @@ date: 2026-11-10
 	- **Decreased heat production:** [[Hypoglycaemia]], [[Hypothyroidism]], hypoadrenalism, hypopituitarism, diabetic or alcoholic ketoacidosis, malnutrition, extremes of age, impaired shivering
 	- **Increased heat loss:** burns, skin disease, drug-induced vasodilation, cold infusions, [[Sepsis]], trauma, shock
 - Risk factors include homelessness, substance use, immobility, cognitive impairment, social isolation, infants and older age, and trauma
+
+> [!cloze]
+> What are common secondary causes of hypothermia? ==Sepsis, hypoglycaemia, hypothyroidism, intoxication (e.g. alcohol, sedatives), stroke or traumatic brain injury, burns==
 # Clinical Features
 - **Mild:** shivering, dysarthria, ataxia, apathy, tachypnoea, tachycardia, hypertension, cold diuresis; can still rewarm spontaneously once out of the cold
 - **Moderate:** drowsiness or confusion (paradoxical undressing may occur), reduced shivering, increased muscle tone, bradycardia, slow AF or junctional rhythm, hypotension, respiratory depression
@@ -35,6 +47,15 @@ date: 2026-11-10
 - ECG: sinus bradycardia, AF, junctional rhythms, J (Osborn) waves, prolonged PR and QT, broad QRS, ST and T wave changes, then VF and asystole
 	- Apart from VF, these usually resolve with rewarming
 	- J waves occur in most but not all patients and don't correlate well with temperature
+
+> [!cloze]
+> What are the "umbles" of mild to moderate hypothermia? ==Fumble, mumble, grumble, stumble==
+
+> [!cloze]
+> What ECG changes may be present in hypothermia? ==Sinus bradycardia, AF, junctional rhythms, J (Osborn) waves, prolonged PR and QT, broad QRS, then VF and asystole==
+
+> [!cloze]
+> Which apparent signs of death are unreliable in hypothermia? ==Fixed dilated pupils, apparent rigor mortis and livor mortis==
 # Assessment
 - Handle gently and keep horizontal if moderate or severe, as movement can precipitate VF
 - Check for a carotid pulse and breathing for up to 1 minute; ECG, Et$\ce{CO2}$ and echo help confirm cardiac output
@@ -44,6 +65,15 @@ date: 2026-11-10
 	- Epitympanic thermocouple if spontaneously breathing; standard infrared tympanic thermometers are not validated at low temperatures
 	- Rectal and bladder temperatures lag behind core temperature during rewarming
 	- Standard clinical thermometers may not read below about 34°C
+
+> [!cloze]
+> How should core temperature be measured in a patient with suspected severe hypothermia? ==Low-reading thermometer: distal oesophageal probe once the airway is secured, or an epitympanic thermocouple if spontaneously breathing==
+
+> [!cloze]
+> Why should a patient with moderate or severe hypothermia be handled gently and kept horizontal? ==Movement can precipitate VF==
+
+> [!cloze]
+> A cold, unresponsive patient appears lifeless. For how long should a pulse and breathing be checked before starting CPR? ==Up to 1 minute==
 ## Investigations
 - Continuous ECG
 - Glucose: can be high, normal or low; monitor for rebound hypoglycaemia during rewarming
@@ -61,19 +91,22 @@ date: 2026-11-10
 - **Mild:** passive external rewarming (insulation, allow shivering, warm sweet drinks if alert), adding active external rewarming if not responding
 - **Moderate or severe:** active external rewarming, escalating to active internal rewarming if failing to rewarm
 	- Failure to rewarm: core temperature static or falling, rising lactate, falling GCS, falling BP, ventricular arrhythmia
-- Target 1–2°C/h for active rewarming to limit afterdrop (continued core cooling as cold, acidaemic peripheral blood returns to the core), which risks arrhythmias, hypotension and electrolyte shifts
+- Target 1–2°C/hr for active rewarming to limit afterdrop (continued core cooling as cold, acidaemic peripheral blood returns to the core), which risks arrhythmias, hypotension and electrolyte shifts
 - Active external rewarming
 	- Forced warm air or large heating pads to the axillae, chest, back and groin, checking the skin every 20–30 minutes
 	- Avoid small chemical heat packs (ineffective and burn) and warm baths or showers (risk of collapse)
 	- Defer warming the peripheries until core temperature is corrected in moderate or severe hypothermia
 - Approximate rewarming rates
-	- Passive or active external: 0.5–4°C/h
-	- Bladder lavage: <0.5°C/h, not recommended; gastric lavage not recommended
-	- Intravascular catheter: about 0.5–2.5°C/h; CRRT about 1.5–3°C/h
-	- ECLS: about 4–10°C/h
+	- Passive or active external: 0.5–4°C/hr
+	- Bladder lavage: <0.5°C/hr, not recommended; gastric lavage not recommended
+	- Intravascular catheter: about 0.5–2.5°C/hr; CRRT about 1.5–3°C/hr
+	- ECLS: about 4–10°C/hr
 - Transfer directly to an ECLS centre if in cardiac arrest or at high risk of arrest: core temperature <30°C, ventricular arrhythmia or SBP <90 mmHg[^2]
 - If an ECLS centre can't be reached (ERC suggests within 6 hours), start non-ECLS rewarming at the peripheral hospital
 - With spontaneous circulation, aim for normothermia (about 37°C); after ROSC follow [[Post-Cardiac Arrest|targeted temperature management]]
+
+> [!cloze]
+> What is the first-line rewarming method in mild hypothermia? ==Passive external rewarming (remove wet clothing, insulate, allow shivering)==
 ## Supportive Care
 - Don't delay intubation when indicated; it's considered safe if done gently
 - Aim for normocapnia when it can be monitored
@@ -85,6 +118,9 @@ date: 2026-11-10
 - Arrhythmias other than VF, including AF and bradycardia, usually resolve with rewarming
 - Treat hypoglycaemia; don't give insulin early for hyperglycaemia
 - CVVH can be used for hyperkalaemia or acidosis and also rewarms
+
+> [!cloze]
+> What IV fluid is preferred in hypothermia? ==0.9% sodium chloride warmed to about 40–42°C==
 ## Hypothermic Cardiac Arrest
 - CPR at normal compression and ventilation rates; consider mechanical CPR for prolonged resuscitation or transport
 	- If immediate CPR isn't possible, delay it by no more than 10 minutes
@@ -92,10 +128,18 @@ date: 2026-11-10
 - **Defibrillation:** if VF persists after 3 shocks, delay further shocks until core temperature is >30°C[^4]
 - **Adrenaline:** withhold below 30°C; extend the interval to 6–10 minutes at 30–34°C[^5]
 - **Amiodarone:** don't give below 30°C
-- Rewarm with ECLS, VA-ECMO preferred over cardiopulmonary bypass; target ≤5°C/h, and about 2°C/h may give better neurological outcomes
+- Rewarm with ECLS, VA-ECMO preferred over cardiopulmonary bypass; target ≤5°C/hr, and about 2°C/hr may give better neurological outcomes
 - Not contraindications to rewarming: asystole, unwitnessed arrest, low core temperature, long no-flow or low-flow time, fixed dilated pupils, old age, trauma
 - Withhold or stop: valid not-for-resuscitation order, obvious irreversible death, danger to rescuers; seek specialist advice before stopping if core temperature isn't rising
 - Good neurological outcomes are only expected if hypothermia preceded the arrest; ECPR isn't recommended if core temperature is >30°C, there is major trauma or comorbidities preclude an acceptable recovery
+
+![[hypothermic-arrest-modifications.svg|Shocks and drugs in hypothermic cardiac arrest by core temperature (ANZCOR 11.10 and 12.4)]]
+
+> [!cloze]
+> A patient in cardiac arrest has a core temperature of 27°C and is in VF. How are shocks and adrenaline modified? ==Up to 3 shocks, then no more until core temperature is above 30°C; withhold adrenaline until above 30°C, then give it every 6–10 minutes at 30–34°C==
+
+> [!cloze]
+> What is the preferred rewarming method in hypothermic cardiac arrest? ==ECLS (VA-ECMO)==
 ## Paediatric Modifications
 - Below 30°C: no medications, maximum of 3 shocks, then delay further shocks until >30°C
 - 30–35°C: standard PALS, consider an adrenaline interval of 8 minutes

@@ -1,0 +1,51 @@
+% Hypothermic cardiac arrest: how shocks and drugs change across core temperature bands (ANZCOR 11.10 and 12.4)
+\documentclass[11pt, border=2mm]{standalone}
+\usepackage{cicm-figure}
+\begin{document}
+\begin{tikzpicture}[
+  cell/.style = {rounded corners=1.2mm, minimum width=3.8cm, minimum height=1.25cm, text width=3.5cm, align=center, inner sep=1.5mm, font=\small,
+                 execute at begin node={\hyphenpenalty=10000\relax}},
+  hold/.style = {cell, fill=cicmaccenttint},
+  modi/.style = {cell, fill=cicmbluetint},
+  norm/.style = {cell, fill=cicmpaper, draw=cicmgrey!45, thin},
+  rowlab/.style = {font=\small\bfseries, align=right, anchor=east, text width=2.3cm},
+  head/.style = {font=\small\bfseries},
+  tick/.style = {font=\footnotesize, text=cicmgrey},
+]
+  % column centres
+  \def\ca{0} \def\cb{4.1} \def\cc{8.2}
+
+  % temperature axis (colder on the left, rewarming to the right)
+  \draw[thick, -Stealth] (-2.0,0.75) -- (10.4,0.75) node[right, tick, text=cicmink] {};
+  \node[tick, anchor=north west] at (-2.0,0.6) {colder};
+  \node[tick, anchor=north east] at (10.4,0.6) {rewarming};
+  \foreach \x/\t in {2.05/30\,°C, 6.15/35\,°C} {
+    \draw[thick] (\x,0.87) -- (\x,0.63);
+    \node[tick, below] at (\x,0.6) {\t};
+  }
+  \node[head, text=cicmaccent] at (\ca,1.45) {Below 30\,°C};
+  \node[head, text=cicmblue]   at (\cb,1.45) {30--35\,°C};
+  \node[head, text=cicmgrey]   at (\cc,1.45) {Above 35\,°C};
+
+  % row 1: shocks
+  \node[rowlab] at (-2.1,-0.55) {Shocks\\{\footnotesize\mdseries adult and child}};
+  \node[hold] at (\ca,-0.55) {Up to 3, then none\\until above 30\,°C};
+  \node[norm] at (\cb,-0.55) {Standard};
+  \node[norm] at (\cc,-0.55) {Standard};
+
+  % row 2: adult drugs
+  \node[rowlab] at (-2.1,-2.0) {Drugs\\{\footnotesize\mdseries adult}};
+  \node[hold] at (\ca,-2.0) {Withhold adrenaline\\and amiodarone};
+  \node[modi] at (\cb,-2.0) {Adrenaline every\\6--10 min (30--34\,°C)};
+  \node[norm] at (\cc,-2.0) {Standard ALS};
+
+  % row 3: paediatric drugs
+  \node[rowlab] at (-2.1,-3.45) {Drugs\\{\footnotesize\mdseries child}};
+  \node[hold] at (\ca,-3.45) {No medications};
+  \node[modi] at (\cb,-3.45) {Consider adrenaline\\every 8 min};
+  \node[norm] at (\cc,-3.45) {Standard PALS};
+
+  % footer
+  \node[label, text=cicmgrey, anchor=north] at (\cb,-4.25) {CPR at normal rates throughout; rewarm, ECLS preferred};
+\end{tikzpicture}
+\end{document}
