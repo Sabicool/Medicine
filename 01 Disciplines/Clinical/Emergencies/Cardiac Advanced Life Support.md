@@ -1,5 +1,6 @@
 ---
-date: 2026-11-06
+date: 2026-11-10
+anki-deck: CICM Second Part
 aliases:
   - CALS
 Related:
