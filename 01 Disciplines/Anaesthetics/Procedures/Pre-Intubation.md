@@ -1,5 +1,5 @@
 ---
-date: 2026-11-06
+date: 2026-11-10
 ---
 # Examination
 - 2 points of IV access with consideration given to more access ± arterial line in high-risk/unwell patients
