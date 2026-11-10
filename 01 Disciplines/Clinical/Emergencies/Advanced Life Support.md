@@ -7,7 +7,7 @@ Rotations:
 aliases:
   - ALS
   - Cardiac Arrest
-date: 2026-11-05
+date: 2026-11-10
 Down:
   - "[[Drugs in Cardiac Arrest]]"
   - "[[Acute Airway Failure]]"
@@ -197,11 +197,11 @@ tags:
 			- May occur in setting of shock, sepsis, pancreatitis and drug toxicities
 		- Hypokalaemia ($\ce{K+}$<3.5)
 			- Potassium 5 mmol IV as a bolus with a consideration for administration of magnesium sulflate 2g IV
-	- **Hypothermia**
-		- Check core temperature
-		- Warm blankets, bair hugger, administration of warmed IV fluids, irrigation or gastric lavage with warmed fluids, bladder irrigation with warmed fluids
-		- Defibrillation cannot be performed on a patient with a core temperature ≤30°C; only CPR can be performed
-		- In patients <30°C; adrenaline administration time doubles (every 8 minutes) as reduced liver metabolism can cause adrenaline to accumulate
+	- **[[Hypothermia]]**
+		- Check core temperature with a low-reading thermometer (distal oesophageal probe once the airway is secured)
+		- Rewarm with forced warm air and warmed IV fluids; in hypothermic cardiac arrest, transfer for ECLS (VA-ECMO) rewarming if available
+		- If VF persists after 3 shocks, delay further shocks until core temperature is >30°C[^5]
+		- Withhold adrenaline below 30°C, as reduced drug metabolism can cause it to accumulate; extend the interval to 6–10 minutes at 30–34°C
 	- **Hyperthermia**
 		- Active cooling techniques including cooling mats, wrapped ice packs, intravascular cooling techniques and IV fluids
 		- Malignant hyperthermia -> dantrolene
@@ -306,8 +306,11 @@ tags:
 	- Compression:ventilation ratio 15:2
 	- Defibrillation at 4 J/kg
 	- Adrenaline 10mcg/kg, Amiodarone 5mg/kg
+# Sources
+- [ANZCOR Guideline 11.10 Resuscitation in Special Circumstances (July 2026)](https://www.anzcor.org/home/adult-advanced-life-support/guideline-11-10-resuscitation-in-special-circumstances) Accessed 10/11/2026
 
 [^1]: Asystole only when fine VF cannot confidently be excluded. Immediate high quality CPR may increase the amplitude and frequency of the VF making the diagnosis clear and increasing the probability of successful defibrillation
 [^2]: This is because even if the defibrillation attempt is successful in restoring a perfusing rhythm, it is very rare for a pulse to be palpable immediately after defibrillation. The time until ROSC can be longer than two minutes in as many as 25% of successful shocks. The delay in trying to palpate a pulse will further compromise the myocardium if a perfusing rhythm has not been restored. Even if a perfusing rhythm has been restored has been restored, giving chest compressions does not increase the chance of VF recurring
 [^3]: VF may be confused for supraventricular tachycardia with aberrancy. In the case where it leads to clinical cardiac arrest, the correct treatment is immediate defibrillation so misinterpretation as VF (or even VT) would not lead to inappropriate treatment
 [^4]: Pulseless narrow complex tachycardia is considered PEA, but immediate management is CPR and synchronised cardioversion at 200J as soon as possible
+[^5]: eTG restricts defibrillation to one attempt below 30°C
