@@ -57,7 +57,7 @@ tags:
 - Neurogenic
 	- Anxiety (e.g. white coat hypertension, unexpected/distressing hospital admission)
 	- Raised intracranial pressure (e.g. Cushing's reflex of hypertension and bradycardia)
-	- Cerebral ischaemia (e.g [[Stroke]])
+	- Cerebral ischaemia (e.g [[Ischaemic Stroke]])
 	- Autonomic dysreflexia (e.g. following high spinal cord injury)
 - Other
 	- Preeclampsia
