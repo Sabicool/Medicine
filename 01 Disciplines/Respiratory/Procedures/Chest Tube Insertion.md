@@ -1,5 +1,5 @@
 ---
-date: 2026-06-20
+date: 2026-11-11
 ---
 # Indications
 - Complex pneumothorax
@@ -36,6 +36,7 @@ date: 2026-06-20
 	- Chronic lung disease, on mechanical ventilation or risk of large air leak: 24 to 28 french
 - Pleural drainage system
 - Petroleum based and regular gauze dressings
+![[Pasted image 20261111202800.png]]
 # Method
 1. Open and prepare equipment
 2. Clamp the distal end of the chest tube
@@ -71,3 +72,4 @@ date: 2026-06-20
 24. Keep the pleural drainage system at least 100cm below the patient
 # Sources
 - Dev, S.P., Simone, C., 2007. Chest-Tube Insertion. n engl j med.
+- [Thoracostomy Tube Insertion - YouTube](https://www.youtube.com/watch?v=3p034wbKhNs&rco=1)
