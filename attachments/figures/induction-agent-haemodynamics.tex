@@ -1,0 +1,65 @@
+% Cardiovascular and respiratory effects of the IV induction agents at induction
+% doses: propofol, thiopentone, ketamine and midazolam
+\documentclass[11pt, border=2mm]{standalone}
+\usepackage{cicm-figure}
+\tikzset{
+  chip/.style  = {rounded corners=1.2mm, inner sep=1.5pt, minimum height=5.2mm, minimum width=11mm,
+                  font=\footnotesize, thin},
+  up/.style    = {chip, fill=cicmaccent, draw=cicmaccent, text=white},
+  down/.style  = {chip, fill=cicmblue, draw=cicmblue, text=white},
+  mild/.style  = {chip, draw=cicmblue, text=cicmblue, fill=cicmbluetint},
+  same/.style  = {chip, draw=cicmgrey!55, text=cicmgrey!85},
+}
+% \row{y}{name}{subtitle}{BP}{HR}{CO}{SVR}{Vent}{Bronchi}, each cell is style/text
+\newcommand\cell[3]{\node[#2] at (#1) {#3};}
+\begin{document}
+\begin{tikzpicture}
+  \def\cols{0/BP, 1.55/HR, 3.1/CO, 4.65/SVR, 6.2/Ventilation, 7.75/Bronchi}
+  % Panel behind the grid
+  \fill[cicmpaper, rounded corners=0.8mm] (-0.85,-5.3) rectangle (8.6,0.55);
+  \foreach \x/\t in \cols \node[font=\small] at (\x,0.15) {\textbf{\t}};
+  \draw[thin, cicmgrey!60] (-4.3,-0.2) -- (8.6,-0.2);
+
+  % Row labels
+  \foreach \y/\n/\s in {-0.75/Propofol/GABA$_A$, -2.05/Thiopentone/barbiturate, -3.35/Ketamine/NMDA antagonist, -4.65/Midazolam/benzodiazepine}
+    \node[anchor=east, align=right, font=\small] at (-1.05,\y) {\textbf{\n}\\{\footnotesize\color{cicmgrey}\s}};
+  \foreach \y in {-1.4, -2.7, -4.0} \draw[thin, cicmgrey!30] (-4.3,\y) -- (8.6,\y);
+
+  % Propofol
+  \node[down] at (0,-0.75) {$\downarrow$};
+  \node[same] at (1.55,-0.75) {$\leftrightarrow$};
+  \node[down] at (3.1,-0.75) {$\downarrow$};
+  \node[down] at (4.65,-0.75) {$\downarrow$};
+  \node[down] at (6.2,-0.75) {$\downarrow$};
+  \node[up]   at (7.75,-0.75) {dilate};
+  % Thiopentone
+  \node[down] at (0,-2.05) {$\downarrow$};
+  \node[up]   at (1.55,-2.05) {$\uparrow$};
+  \node[down] at (3.1,-2.05) {$\downarrow$};
+  \node[down] at (4.65,-2.05) {$\downarrow$};
+  \node[down] at (6.2,-2.05) {$\downarrow$};
+  \node[same] at (7.75,-2.05) {$\leftrightarrow$};
+  % Ketamine
+  \node[up]   at (0,-3.35) {$\uparrow$};
+  \node[up]   at (1.55,-3.35) {$\uparrow$};
+  \node[up]   at (3.1,-3.35) {$\uparrow$};
+  \node[up]   at (4.65,-3.35) {$\uparrow$};
+  \node[same] at (6.2,-3.35) {kept};
+  \node[up]   at (7.75,-3.35) {dilate};
+  % Midazolam
+  \node[mild] at (0,-4.65) {$\downarrow$};
+  \node[same] at (1.55,-4.65) {$\leftrightarrow$};
+  \node[mild] at (3.1,-4.65) {$\downarrow$};
+  \node[mild] at (4.65,-4.65) {$\downarrow$};
+  \node[down] at (6.2,-4.65) {$\downarrow$};
+  \node[same] at (7.75,-4.65) {$\leftrightarrow$};
+
+  % Key
+  \node[up]   at (-2.6,-5.9) {$\uparrow$};   \node[label, anchor=west] at (-2.0,-5.9) {rises};
+  \node[down] at (-0.4,-5.9) {$\downarrow$}; \node[label, anchor=west] at (0.2,-5.9) {falls};
+  \node[mild] at (1.85,-5.9) {$\downarrow$}; \node[label, anchor=west] at (2.45,-5.9) {falls a little};
+  \node[same] at (4.85,-5.9) {$\leftrightarrow$}; \node[label, anchor=west] at (5.45,-5.9) {little change};
+  \node[label, align=center, anchor=north] at (2.15,-6.4)
+    {Ketamine's rise is indirect, from catecholamine release; with depleted catecholamines\\its direct myocardial depression shows and BP can fall.};
+\end{tikzpicture}
+\end{document}

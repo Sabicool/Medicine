@@ -1,0 +1,57 @@
+% Direct and indirect sympathomimetics used as peri-operative pressors:
+% phenylephrine (direct alpha1), metaraminol (direct alpha1 plus noradrenaline
+% release) and ephedrine (direct alpha and beta plus noradrenaline release)
+\documentclass[11pt, border=2mm]{standalone}
+\usepackage{cicm-figure}
+\tikzset{
+  chip/.style   = {rounded corners=1.2mm, inner sep=1.5pt, minimum height=5mm, minimum width=9mm,
+                   font=\footnotesize, thin},
+  on/.style     = {chip, fill=cicmaccent, draw=cicmaccent, text=white},
+  off/.style    = {chip, draw=cicmgrey!55, text=cicmgrey!85},
+  term/.style   = {rounded corners=2mm, minimum width=17mm, minimum height=11mm, align=center,
+                   font=\footnotesize, thin},
+  direct/.style = {->, thick, cicmaccent},
+  release/.style= {->, thick, cicmblue, dashed},
+}
+% \panel{x}{name}{subtitle}{a1}{b1}{b2}{terminal style}{effects}
+\newcommand\panel[8]{%
+  \fill[cicmpaper, rounded corners=0.8mm] (#1-2.3,-3.1) rectangle (#1+2.3,3.3);
+  \node[font=\small, align=center] at (#1,2.75) {\textbf{#2}\\{\footnotesize\color{cicmgrey}#3}};
+  \coordinate (drug#2) at (#1+1.3,2.0);
+  \fill[cicmink] (drug#2) circle (0.6mm);
+  \node[term, #7] (t#2) at (#1-1.2,1.2) {nerve terminal\\NA stores};
+  \draw[thin, cicmgrey!70] (#1-2.1,-0.75) -- (#1+2.1,-0.75);
+  \node[#4] (a#2) at (#1-1.2,-1.3) {$\alpha_1$};
+  \node[#5] (b#2) at (#1,-1.3) {$\beta_1$};
+  \node[#6] (c#2) at (#1+1.2,-1.3) {$\beta_2$};
+  \node[label, align=center, anchor=north] at (#1,-1.85) {#8};}
+\begin{document}
+\begin{tikzpicture}
+  % Phenylephrine: direct alpha1 only
+  \panel{0}{Phenylephrine}{direct $\alpha_1$}{on}{off}{off}{draw=cicmgrey!55, text=cicmgrey!85}
+    {$\uparrow$SVR, $\uparrow$BP\\reflex $\downarrow$HR}
+  \draw[direct] (drugPhenylephrine) to[bend left=8] (aPhenylephrine.north);
+  \node[label, color=cicmgrey, anchor=south east, font=\scriptsize] at (2.1,-0.72) {effector cell};
+
+  % Metaraminol: direct alpha1 plus NA release
+  \panel{4.8}{Metaraminol}{direct $\alpha_1$ + releases NA}{on}{on}{off}{fill=cicmbluetint, draw=cicmblue}
+    {$\uparrow$SVR, $\uparrow$BP, $\uparrow$PVR\\lasts 20--60 min}
+  \draw[direct] (drugMetaraminol) to[bend left=8] (aMetaraminol.north);
+  \draw[release] (drugMetaraminol) to[out=170, in=10] (tMetaraminol.east);
+  \draw[release] (tMetaraminol.south) -- node[left, label, color=cicmblue] {NA} (aMetaraminol.north -| tMetaraminol.south);
+  \draw[release] (tMetaraminol.south) to[out=-70, in=120] (bMetaraminol.north);
+
+  % Ephedrine: direct alpha and beta plus NA release
+  \panel{9.6}{Ephedrine}{direct $\alpha$/$\beta$ + releases NA}{on}{on}{on}{fill=cicmbluetint, draw=cicmblue}
+    {$\uparrow$HR, $\uparrow$CO, $\uparrow$BP\\bronchodilation}
+  \draw[direct] (drugEphedrine) to[bend left=8] (aEphedrine.north);
+  \draw[direct] (drugEphedrine) to[bend left=5] (bEphedrine.north);
+  \draw[direct] (drugEphedrine) -- (cEphedrine.north);
+  \draw[release] (drugEphedrine) to[out=170, in=10] (tEphedrine.east);
+  \draw[release] (tEphedrine.south) -- node[left, label, color=cicmblue] {NA} (aEphedrine.north -| tEphedrine.south);
+
+  % Key
+  \draw[direct] (1.2,-3.75) -- (2.0,-3.75); \node[label, anchor=west] at (2.1,-3.75) {acts on the receptor directly};
+  \draw[release] (6.2,-3.75) -- (7.0,-3.75); \node[label, anchor=west] at (7.1,-3.75) {displaces stored NA (indirect)};
+\end{tikzpicture}
+\end{document}

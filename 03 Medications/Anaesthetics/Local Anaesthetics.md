@@ -6,6 +6,18 @@ Related:
 tags:
   - notes
 ---
+# Agents
+- Amides that block voltage-gated sodium channels from inside the cell
+- **Lignocaine:** intermediate-acting; skin infiltration and local procedures
+- **Levobupivacaine:** long-acting; nerve blocks and regional anaesthesia. The S-enantiomer of bupivacaine, so less cardiotoxic
+- Work poorly in infected tissue as the acidosis leaves more drug ionised, which can't cross the membrane
+
+> [!card]- Why do local anaesthetics work poorly in infected tissue?
+> The acidic tissue leaves more drug ionised, and only the unionised form crosses the membrane to reach the sodium channel.
+
+> [!cloze]
+> Levobupivacaine is the ==S-enantiomer== of bupivacaine, so it's less cardiotoxic.
+
 # Maximum Doses
 
 | Drug        | Plain    | With adrenaline |

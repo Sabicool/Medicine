@@ -34,6 +34,8 @@ aliases:
 > - Used widely in peri-operative setting and as bridge vasopressor pre-noradrenaline
 > - Can be given peripherally; suitable in ward or theatre setting
 > - Tachyphylaxis with prolonged use
+> - Also ↑ coronary blood flow, pulmonary artery pressure and PVR
+> - Lasts 20–60 min, longer than phenylephrine
 > - Reflex bradycardia can occur - treat with atropine
 > - Less titratable than noradrenaline infusion
 > 
@@ -42,6 +44,25 @@ aliases:
 
 ^metaraminol
 
+> [!NOTE] Ephedrine
+> Bolus: [gap]
+> - Mixed-acting: direct $\alpha$ and $\beta$ agonist, also releases noradrenaline from nerve terminals
+> - ↑ HR, ↑ cardiac output, ↑ BP, ↑ coronary blood flow, bronchodilation
+> - Tachyphylaxis with repeated doses as noradrenaline stores deplete
+
+^ephedrine
+
+![[sympathomimetic-mechanisms.svg|Direct and indirect sympathomimetics: phenylephrine acts on α1 alone, metaraminol and ephedrine also release stored noradrenaline]] ^fig-sympathomimetic-mechanisms
+
+> [!card]- How do phenylephrine, metaraminol and ephedrine differ in mechanism?
+> - Phenylephrine: direct α1 only
+> - Metaraminol: direct α1 plus noradrenaline release
+> - Ephedrine: direct α and β plus noradrenaline release
+> ![[sympathomimetic-mechanisms.svg|Direct and indirect sympathomimetics]]
+
+> [!cloze]
+> Phenylephrine raises BP by pure α1 vasoconstriction, so it can cause a ==reflex bradycardia==.
+
 
 > [!NOTE] Adrenaline
 > Anaphylaxis: 0.3-0.5 mg IM (thigh) | Shock infusion: 0.01-1 mcg/kg/min IV
@@ -49,11 +70,15 @@ aliases:
 > - Septic shock: Second agent alongside noradrenaline when additional inotropic support needed; associated with increased lactate that does not reflect true worsening
 > - Cardiogenic shock: Adrenaline has more arrhythmogenic risk than other inotropes
 > - Cardiac arrest: 1 mg IV every alternate loop
+> - Low dose: β effects predominate; high dose: α vasoconstriction predominates
 > 
 > 
 > ![[adrenaline.svg]]
 
 ^adrenaline
+
+> [!cloze]
+> Adrenaline is ==β==-predominant at low doses and ==α==-predominant at high doses.
 
 
 > [!NOTE] Terlipressin

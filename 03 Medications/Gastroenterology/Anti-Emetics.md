@@ -63,6 +63,12 @@ tags:
 # 5-$\ce{HT3}$ Receptor Antagonists
 - Indication: general use with particular use in acute gastroenteritis
 - Ondansetron 4-8mg IV/PO 8-12 hourly
+- Acts at 5-HT$_3$ receptors in the chemoreceptor trigger zone and on vagal afferents in the gut
+- Prolongs the QT interval
+
+> [!cloze]
+> Ondansetron blocks 5-HT$_3$ receptors in the ==chemoreceptor trigger zone== and on gut vagal afferents.
+
 # Dopamine Antagonists
 - EPSE (acute dystonic reactions) are more common in the elderly and people <20 years
 - EPSE is rarer with domperidone
