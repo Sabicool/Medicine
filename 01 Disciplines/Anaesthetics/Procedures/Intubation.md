@@ -31,7 +31,7 @@ date: 2026-11-11
 		- Pregnancy
 		- Shunt physiology
 		- Airway occlusion ([[#^fig-apnoea-airway-occlusion|Figure]])
-			- During apnoea $\ce{O2}$ leaves the alveoli much faster than $\ce{CO2}$ enters them, so alveolar gas volume falls (~200-250 mL/min of oxygen vs ~8/20 mL/min of carbon dioxide)
+			- During apnoea $\ce{O2}$ leaves the alveoli much faster than $\ce{CO2}$ enters them, so alveolar gas volume falls (~250 mL/min of oxygen vs ~10-20 mL/min of carbon dioxide, the rest being buffered in the blood)
 			- With an open airway the deficit is replaced by bulk flow from the pharynx, so FRC is held (and refilled with $\ce{O2}$ if apnoeic oxygenation is used)
 			- With an occluded airway nothing replaces it, so FRC falls below closing capacity → absorption atelectasis → shunt and a smaller $\ce{O2}$ store, hence faster desaturation
 		- Increased oxygen consumption (e.g. high metabolic rate, fasciculations from suxamethonium)
