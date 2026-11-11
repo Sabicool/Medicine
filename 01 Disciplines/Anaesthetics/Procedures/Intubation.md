@@ -31,7 +31,7 @@ date: 2026-11-11
 		- Pregnancy
 		- Shunt physiology
 		- Airway occlusion ([[#^fig-apnoea-airway-occlusion|Figure]])
-			- During apnoea $\ce{O2}$ leaves the alveoli much faster than $\ce{CO2}$ enters them, so alveolar gas volume falls
+			- During apnoea $\ce{O2}$ leaves the alveoli much faster than $\ce{CO2}$ enters them, so alveolar gas volume falls (~200-250 mL/min of oxygen vs ~8/20 mL/min of carbon dioxide)
 			- With an open airway the deficit is replaced by bulk flow from the pharynx, so FRC is held (and refilled with $\ce{O2}$ if apnoeic oxygenation is used)
 			- With an occluded airway nothing replaces it, so FRC falls below closing capacity → absorption atelectasis → shunt and a smaller $\ce{O2}$ store, hence faster desaturation
 		- Increased oxygen consumption (e.g. high metabolic rate, fasciculations from suxamethonium)
@@ -54,6 +54,13 @@ date: 2026-11-11
 	- 8 breaths with full inspiration/expiration to achieve vital capacity in <60 seconds (requires patient co-operation)
 - If inadequate respiratory drive, preoxygenate by:
 	- Positive pressure ventilation (e.g. with bag-valve mask)
+- Administer induction agent
+- Maintain the nasal cannula flow rate at 15L/min and administer oxygen via bag-valve mask
+- If $S_\text{p}\ce{O2}<95\%$ consider apnoeic oxygenation with positive pressure or alternatively abandon apnoeic oxygenation and provide 6 gentle ventilations/minute if risk:benefit of apnoea unfavourable
+- Maintain a patent airway until the time of intubation using:
+	- Two-handed face-mask technique with jaw thrust
+	- Nasopgaryngeal airway or oropharyngeal airway
+- Remove the mask at the time of intubation but consider continuing to oxygenate via the nasal prongs
 # Securing
 - Securing ETT for [[Neuroprotection]]
 	- Secure the ET tube using cloth ties positioned superiorly above the ears and around the occiput
