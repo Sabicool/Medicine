@@ -61,6 +61,17 @@ date: 2026-11-11
 	- Two-handed face-mask technique with jaw thrust
 	- Nasopgaryngeal airway or oropharyngeal airway
 - Remove the mask at the time of intubation but consider continuing to oxygenate via the nasal prongs
+## Bag-valve mask with PEEP valve
+- A bag-valve mask (BVM) with a one-way valve or PEEP valve has been demonstrated to provide oxygen concentrations close to that of an anaesthesia circuit, but its effectiveness is drastically reduced if a proper mask seal is not maintained during the entire pre-oxygenation period (Hayes-Bradley et al, 2016)
+- A BVM with a PEEP valve will only provide PEEP when the patient exhales, so positive pressure is not provided in non-ventilated apnoeic patients ([[#^fig-bvm-peep-valve-prongs|Figure]])
+	- The PEEP valve is a spring-loaded expiratory valve that only opens above its set pressure, so it caps pressure but doesn't generate it
+	- On inhalation the patient draws gas through the bag's one-way valve, so mask pressure falls to or just below atmospheric and PEEP is lost each breath
+	- In apnoea nothing flows into the mask, so pressure stays atmospheric
+- However, continuous positive airways pressure (CPAP) (approx 6 $\text{cmH}_2\text{O}$) is generated when 15 L/min $\ce{O2}$ via nasal cannulae are applied to an apnoeic patient in addition to a BVM with a PEEP valve set at 10 $\text{cmH}_2\text{O}$
+	- The prong flow is the pressure source: gas builds up in the sealed mask until it vents through the PEEP valve
+	- The same set-up in a breathing patient works as a makeshift CPAP, since prong flow keeps the mask pressurised between breaths
+
+![[bvm-peep-valve-prongs.svg|Sealed bag-valve mask with a PEEP valve. The valve only caps pressure: a breathing patient gets PEEP on expiration but loses it on each inhalation, an apnoeic patient gets none, and nasal prongs under the mask supply the flow that generates CPAP, a makeshift CPAP in a breathing patient (traces qualitative). Bag-valve assembly, PEEP valve and patient adapted from Open Critical Care and WHO, CC BY 4.0]] ^fig-bvm-peep-valve-prongs
 # Securing
 - Securing ETT for [[Neuroprotection]]
 	- Secure the ET tube using cloth ties positioned superiorly above the ears and around the occiput
@@ -75,3 +86,4 @@ date: 2026-11-11
 - [Above the Ears • LITFL • Emergency Procedures](https://litfl.com/above-the-ears/)
 - [Adult Intubation Checklist • LITFL • Resuscitation](https://litfl.com/adult-intubation-checklist/)
 - [Intubation for the critically ill patient - EMCrit Project](https://emcrit.org/ibcc/tube/)
+- [Deranged Physiology: Prevention of Hypoxia During Airway Management](https://derangedphysiology.com/main/required-reading/airway-management/Chapter-116/prevention-hypoxia-during-airway-management)

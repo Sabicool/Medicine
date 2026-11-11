@@ -1,5 +1,5 @@
 ---
-date: 2026-04-16
+date: 2026-11-11
 Rotations:
   - "[[Emergency Medicine]]"
   - "[[Intensive Care Unit]]"
@@ -14,6 +14,7 @@ aliases:
 - CPAP
 	- Maintains alveolar recruitment and improves pulmonary shunting
 	- Improves predominantly oxygenation and therefore indicated in type 1 respiratory failure
+	- A makeshift CPAP can be improvised with a sealed BVM with a PEEP valve plus nasal prongs at 15 L/min under the mask ([[Intubation#^fig-bvm-peep-valve-prongs|Figure]])
 - BiPAP
 	- S/T mode refers to spontaneous and timed mode and therefore has a backup rate
 		- The use of ventilator-triggered breaths in acute respiratory failure while on NIV is questionable; if the patient doesn’t have a good respiratory rate perhaps they should be intubated

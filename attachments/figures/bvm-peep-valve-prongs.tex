@@ -1,77 +1,105 @@
-% Sealed bag-valve mask with a PEEP valve: the valve only caps pressure, so it
-% gives PEEP on expiration in a breathing patient, nothing in apnoea, and CPAP
-% in apnoea once nasal prongs add a continuous flow under the mask.
-% Traces are qualitative; the ~6 cmH2O plateau is from the note.
-% Lungs: Servier Medical Art (smart.servier.com), CC BY 4.0 (art/servier-lungs.pdf)
+% Sealed bag-valve mask with a PEEP valve, with and without nasal prongs under
+% the mask: the valve only caps pressure, so it gives PEEP on expiration in a
+% breathing patient and nothing in apnoea; prong flow under the mask supplies
+% the pressure, giving a makeshift CPAP. Traces are qualitative; the ~6 cmH2O
+% plateau and 10 cmH2O setting are from the note.
+% Art: bag-valve assembly, PEEP valve and patient with nasal cannula cut from
+% Open Critical Care and World Health Organization illustrations on Wikimedia
+% Commons, CC BY 4.0 ("Bag valve mask with BV filter", "Respiratory care
+% devices image pack A"); art/occ-*.png. The sealed face mask is drawn here.
 \documentclass[11pt, border=2mm]{standalone}
 \usepackage{cicm-figure}
-\newcommand\organ[2]{\includegraphics[height=#1]{servier-#2.pdf}}
+\definecolor{occline}{HTML}{474747}
+\definecolor{occtube}{HTML}{DCDCDC}
 \begin{document}
 \begin{tikzpicture}
   \tikzset{
-    tag/.style  = {font=\footnotesize, align=left},
-    pipe/.style = {line width=7pt, cicmgrey!30},
+    tag/.style    = {font=\footnotesize, align=left},
+    leader/.style = {thin, cicmgrey},
   }
-
   % ---------- Circuit ----------
-  \draw[pipe] (1.3,-0.95) -- (1.3,0) -- (8.3,0);
-  \draw[pipe] (5.6,0) -- (5.6,-1.5);
-  \node[anchor=north] at (1.3,-0.55) {\organ{26mm}{lungs}};
+  % Patient (500 x 480 px source, 0.0104 cm/px), north-west corner at (0,0)
+  \node[anchor=north west, inner sep=0] at (0,0)
+    {\includegraphics[width=5.2cm]{occ-patient-nasal-cannula.png}};
+  % Bag-valve assembly (1370 px, 7.0 cm) and PEEP valve
+  \node[anchor=north west, inner sep=0] (bvm) at (4.6,0.3)
+    {\includegraphics[width=7.0cm]{occ-bvm.png}};
+  \node[anchor=north west, inner sep=0] at (4.18,-0.486)
+    {\includegraphics[width=0.485cm]{occ-peep-valve.png}};
 
-  % Mask
-  \draw[thin, fill=cicmpaper] (3.4,-0.55) -- (4.0,-0.25) -- (4.0,0.25) -- (3.4,0.55) -- cycle;
-  \node[tag, anchor=south] at (3.7,0.65) {sealed mask};
+  % Tubing from the mask connector to the T-piece
+  \draw[line width=0.21cm, occline, rounded corners=1.5mm]
+    (2.5,-2.08) -- (4.99,-2.08) -- (4.99,-1.04);
+  \draw[line width=0.16cm, occtube, rounded corners=1.5mm]
+    (2.5,-2.08) -- (4.99,-2.08) -- (4.99,-1.06);
 
-  % Nasal prongs under the mask
-  \draw[->, thick, cicmblue] (3.0,-2.9) -- (3.0,-0.2);
-  \node[tag, text=cicmblue, anchor=west] at (3.15,-2.5) {nasal prongs\\ 15 L/min};
+  % Sealed face mask over nose and mouth: clear dome, cushion rim, no vents
+  \begin{scope}[x=0.0104cm, y=-0.0104cm, shift={(240,200)}, scale=0.84, shift={(-240,-200)}]
+    \def\mask{(240,108) .. controls (272,108) and (296,160) .. (314,214)
+              .. controls (330,262) and (292,276) .. (240,276)
+              .. controls (188,276) and (150,262) .. (166,214)
+              .. controls (184,160) and (208,108) .. (240,108) -- cycle}
+    \fill[white, fill opacity=0.42] \mask;
+    \begin{scope}[shift={(240,196)}, scale=0.86, shift={(-240,-196)}]
+      \draw[line width=2.4pt, cicmbluetint!70!cicmblue, opacity=0.75] \mask;
+    \end{scope}
+    \draw[line width=0.9pt, occline] \mask;
+    \fill[occtube, draw=occline, line width=0.8pt] (240,200) circle (19);
+    \fill[white, draw=occline, line width=0.5pt] (240,200) circle (10);
+  \end{scope}
 
-  % PEEP valve on the expiratory port
-  \draw[thin, draw=cicmaccent, fill=cicmaccenttint, rounded corners=0.6mm] (5.15,-1.5) rectangle (6.05,-2.3);
-  \draw[thin, cicmaccent] (5.3,-2.2) -- ++(0.12,0.1) -- ++(-0.12,0.1) -- ++(0.12,0.1) -- ++(-0.12,0.1) -- ++(0.12,0.1);
-  \fill[cicmaccent] (5.5,-1.72) rectangle (5.95,-1.62);
-  \draw[->, cicmaccent] (5.6,-2.35) -- (5.6,-2.95);
-  \node[tag, anchor=west] at (6.2,-1.9) {\textbf{PEEP valve}: spring-loaded,\\ opens only above set pressure};
-
-  % One-way valve and bag
-  \draw[thin, fill=white] (7.45,-0.3) rectangle (7.75,0.3);
-  \draw (7.6,0.27) -- (7.6,-0.27);
-  \node[tag, align=center, anchor=south] at (7.6,0.4) {\textbf{one-way valve}: opens only on\\ inhalation or a bag squeeze};
-  \draw[thin, fill=cicmbluetint] (9.6,0) ellipse (1.3 and 0.62);
-  \node[tag] at (9.6,0) {bag};
-  \draw[->, thin] (11.6,0) -- (10.95,0);
-  \node[tag, anchor=west] at (11.65,0) {O$_2$};
+  % Labels
+  \draw[leader] (4.42,-0.47) -- (4.42,-0.12);
+  \node[tag, align=center, anchor=south] at (4.42,-0.1) {PEEP valve\\ set 10 cmH$_2$O};
+  \draw[leader] (5.05,-0.85) -- (5.6,-1.4);
+  \node[tag, anchor=north west] at (5.45,-1.35) {one-way valve};
+  \node[tag, anchor=south] at (6.6,0.35) {self-inflating bag};
+  \node[tag, anchor=south] at (10.3,0.35) {reservoir};
+  \node[tag, anchor=north] at (8.65,-2.15) {O$_2$ 15 L/min};
+  \draw[leader] (1.9,-2.2) -- (0.2,-2.2);
+  \node[tag, anchor=east] at (0.1,-2.2) {sealed BVM mask\\ (no vents)};
+  \draw[leader] (2.35,-3.9) -- (0.2,-3.9);
+  \node[tag, anchor=east, text=cicmsage!80!black] at (0.1,-3.9) {nasal cannula under\\ the mask, O$_2$ 15 L/min};
 
   % ---------- Pressure traces ----------
-  \pgfplotsset{trace/.style={cicm, scale only axis, width=33mm, height=21mm,
+  \pgfplotsset{trace/.style={cicm, scale only axis, width=45mm, height=19mm,
       xmin=0, xmax=8, ymin=-3.5, ymax=12.5, xtick=\empty, ytick={0,10},
-      title style={font=\footnotesize, align=center}, xlabel={time},
-      xlabel style={font=\footnotesize}, clip=false}}
+      title style={font=\footnotesize, align=center}, 
+      xlabel style={font=\footnotesize}, ylabel style={font=\footnotesize},
+      clip=false}}
+  \coordinate (g11) at (0.4,-6.4);
+  \coordinate (g12) at (7.2,-6.4);
+  \coordinate (g21) at (0.4,-10.2);
+  \coordinate (g22) at (7.2,-10.2);
 
-  \coordinate (g1) at (0.4,-4.25);
-  \coordinate (g2) at (4.95,-4.25);
-  \coordinate (g3) at (9.5,-4.25);
-  \begin{axis}[trace, at={(g1)}, anchor=north west,
-      title={Breathing, no prongs}, ylabel={cmH$_2$O}, ylabel style={font=\footnotesize}]
+  \begin{axis}[trace, at={(g11)}, anchor=north west, title={Breathing, no prongs}, ylabel={cmH$_2$O}]
     \addplot[thin, dashed, cicmaccent, domain=0:8] {10};
     \node[tag, text=cicmaccent, anchor=south east] at (axis cs:8,10) {set PEEP};
     \addplot[thick, cicmblue] coordinates {
       (0,10) (0.15,1) (0.35,-1.6) (0.65,-2) (0.95,-1.6) (1.15,-0.3) (1.3,0) (1.45,9) (1.6,10) (4,10)
       (4.15,1) (4.35,-1.6) (4.65,-2) (4.95,-1.6) (5.15,-0.3) (5.3,0) (5.45,9) (5.6,10) (8,10)};
+    \node[tag, anchor=north west] at (axis cs:0,-5.2) {PEEP on expiration, lost on each inhalation};
   \end{axis}
-  \node[tag, align=center] at (2.05,-7.35) {PEEP on expiration;\\ lost on every inhalation};
 
-  \begin{axis}[trace, at={(g2)}, anchor=north west, title={Apnoea, no prongs}]
+  \begin{axis}[trace, at={(g12)}, anchor=north west, title={Breathing + prongs: makeshift CPAP}]
+    \addplot[thin, dashed, cicmaccent, domain=0:8] {10};
+    \addplot[thick, cicmblue] coordinates {
+      (0,6) (0.15,3.5) (0.35,2) (0.65,1.6) (0.95,2) (1.15,3.5) (1.3,6) (1.45,9.5) (1.6,10) (2.4,10) (2.8,6.8) (3.2,6) (4,6)
+      (4.15,3.5) (4.35,2) (4.65,1.6) (4.95,2) (5.15,3.5) (5.3,6) (5.45,9.5) (5.6,10) (6.4,10) (6.8,6.8) (7.2,6) (8,6)};
+    \node[tag, anchor=north west] at (axis cs:0,-5.2) {prong flow keeps the mask pressurised};
+  \end{axis}
+
+  \begin{axis}[trace, at={(g21)}, anchor=north west, title={Apnoea, no prongs}, ylabel={cmH$_2$O}]
     \addplot[thin, dashed, cicmaccent, domain=0:8] {10};
     \addplot[thick, cicmblue, domain=0:8] {0};
+    \node[tag, anchor=north west] at (axis cs:0,-5.2) {no flow in, so no pressure};
   \end{axis}
-  \node[tag, align=center] at (6.6,-7.35) {no flow in,\\ so no pressure};
 
-  \begin{axis}[trace, at={(g3)}, anchor=north west, title={Apnoea + prongs}]
+  \begin{axis}[trace, at={(g22)}, anchor=north west, title={Apnoea + prongs}]
     \addplot[thin, dashed, cicmaccent, domain=0:8] {10};
     \addplot[thick, cicmblue, domain=0:8, samples=80] {6*(1-exp(-x/0.9))};
     \node[tag, text=cicmblue, anchor=south] at (axis cs:5,6.3) {CPAP $\approx$ 6};
+    \node[tag, anchor=north west] at (axis cs:0,-5.2) {fills until it vents through the valve};
   \end{axis}
-  \node[tag, align=center] at (11.15,-7.35) {prong flow fills the mask\\ until it vents via the valve};
 \end{tikzpicture}
 \end{document}

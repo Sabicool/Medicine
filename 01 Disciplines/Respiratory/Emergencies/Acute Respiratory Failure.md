@@ -3,7 +3,7 @@ Rotations:
   - "[[02 Rotations/Respiratory|Respiratory]]"
   - "[[02 Rotations/Emergency Medicine|Emergency Medicine]]"
   - "[[Intensive Care Unit]]"
-date: 2026-04-16
+date: 2026-11-11
 Next:
   - "[[Shock]]"
 tags:
@@ -147,5 +147,6 @@ aliases:
 		- Be careful to avoid a withdrawal reaction: Start at 100 mcg IV in opiate-dependent patients
 - Bag valve mask assisted manual ventilation may be required in a patient with ↓ LOC until definitive ventilation is available
 	- Consider: CPAP, BiPAP ventilation or NIV machines
+	- In a pinch, a sealed BVM with a PEEP valve plus nasal prongs at 15 L/min under the mask works as a makeshift CPAP ([[Intubation#^fig-bvm-peep-valve-prongs|Figure]])
 - If still no improvement contact ICU and make arrangements for ETT intubation
 - ==Acute respiratory acidosis with a pH <7.2 usually requires mechanical ventilation until the precipitating cause can be reversed==
