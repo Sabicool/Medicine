@@ -1,0 +1,60 @@
+% Apnoea with an open vs occluded airway: alveolar O2 uptake far exceeds CO2
+% return, so an open airway draws gas in by bulk flow and FRC is held; an
+% occluded airway lets FRC shrink, alveoli collapse (shunt) and SpO2 fall sooner.
+% Curves are qualitative only.
+% Alveoli with capillaries: Servier Medical Art (smart.servier.com), CC BY 4.0
+% (art/servier-alveoli-capillaries.pdf)
+\documentclass[11pt, border=2mm]{standalone}
+\usepackage{cicm-figure}
+\newcommand\alveoli[1]{\includegraphics[height=#1]{servier-alveoli-capillaries.pdf}}
+\begin{document}
+\begin{tikzpicture}
+  \tikzset{
+    tag/.style    = {font=\footnotesize, align=left},
+    leader/.style = {thin, cicmgrey},
+    airway/.style = {thin, cicmink},
+  }
+
+  % ---------- Open airway ----------
+  \draw[thin, rounded corners=0.6mm, fill=cicmpaper!45] (-7.1,0.7) rectangle (-0.3,-6.1);
+  \node[font=\small] at (-3.7,0.3) {Open airway, O$_2$ at the nose};
+  \node[anchor=north west, inner sep=0] at (-6.1,-0.5) {\alveoli{44mm}};
+  \draw[->, thick, cicmaccent] (-5.88,0.1) -- (-5.88,-0.95);
+  \node[tag, text=cicmaccent, anchor=west] at (-5.5,-0.35) {bulk flow in from the pharynx};
+  \node[tag, anchor=west] (gasA) at (-2.9,-2.5) {O$_2$ uptake\\ $\gg$ CO$_2$ return};
+  \draw[leader] (gasA.south west) ++(0.1,0) -- (-3.25,-3.75);
+  \node[tag, align=center, anchor=north] at (-3.7,-5.1)
+    {inflow replaces absorbed gas\\ \textbf{FRC held}, alveoli stay open};
+
+  % ---------- Occluded airway ----------
+  \draw[thin, rounded corners=0.6mm, fill=cicmpaper!45] (0.3,0.7) rectangle (7.1,-6.1);
+  \node[font=\small] at (3.7,0.3) {Occluded airway};
+  \node[anchor=north west, inner sep=0, opacity=0.18] at (1.3,-0.5) {\alveoli{44mm}};
+  \node[anchor=north west, inner sep=0] at (1.365,-0.5) {\alveoli{31mm}};
+  \fill[cicmaccent] (1.24,-0.42) rectangle (1.8,-0.64);
+  \node[tag, text=cicmaccent, anchor=west] at (1.95,-0.53) {no inflow};
+  \node[tag, anchor=west] (shrunk) at (4.5,-2.2) {volume lost:\\ alveoli shrink\\ and collapse};
+  \draw[leader] (shrunk.west) -- (3.55,-2.9);
+  \node[tag, text=cicmgrey, anchor=west] (ghost) at (4.5,-4.2) {original FRC};
+  \draw[leader] (ghost.west) -- (4.35,-4.2);
+  \node[tag, align=center, anchor=north] at (3.7,-5.1)
+    {\textbf{FRC falls} below closing capacity\\ $\to$ atelectasis, shunt};
+
+  % ---------- SpO2 against time ----------
+  \coordinate (graph) at (-5.6,-6.7);
+  \begin{axis}[cicm,
+      at={(graph)}, anchor=north west,
+      ylabel style={rotate=-90},
+      width=125mm, height=52mm,
+      xmin=0, xmax=10, ymin=0, ymax=1.08,
+      xlabel={Time apnoeic}, ylabel={$S_{\text{p}}\mathrm{O_2}$},
+      xtick=\empty, ytick=\empty, clip=false]
+    \addplot[thin, dashed, cicmgrey, domain=0:10] {0.82};
+    \node[tag, text=cicmgrey, anchor=south east] at (axis cs:10,0.82) {critical desaturation};
+    \addplot[thick, cicmblue, domain=0:9.6, samples=120] {1 - 0.9/(1+exp(-1.1*(x-13)))};
+    \addplot[thick, cicmaccent, domain=0:9.6, samples=120] {1 - 0.9/(1+exp(-1.2*(x-5)))};
+    \node[tag, text=cicmblue, anchor=south west] at (axis cs:5.6,0.98) {open airway};
+    \node[tag, text=cicmaccent, anchor=west] at (axis cs:6.3,0.6) {occluded: smaller O$_2$ store + shunt};
+  \end{axis}
+\end{tikzpicture}
+\end{document}
