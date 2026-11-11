@@ -7,7 +7,7 @@ date: 2026-11-11
 2. Then, CN's that divide equally into 12 are MIDLINE and those who do NOT divided equally into 12 are LATERAL. For example: CN 3, 4, 6, and 12 are all MIDLINE. CN 5, 7, 9, 10, and 11 are all LATERAL (you omit the first 2 CNs). 
 3. Next, work out if the long-tract signs are from the 4 M's (midline: Motor pathway, Medial lemniscus, MLF, Motor nucleus) or the 4 S's (lateral: Spinocerebellar, Spinothalamic, Sensory nucleus of 5, Sympathetic). Not simply motor vs sensory, since CN 5, 7 and 11 carry motor fibres but are lateral, and ataxia (spinocerebellar) is lateral.
 
-![[brainstem-rule-of-four.svg|Rule of 4 of the brainstem. Brain adapted from Servier Medical Art, CC BY 4.0]] ^fig-brainstem-rule-of-four
+![[brainstem-rule-of-four.svg|Rule of 4 of the brainstem. Brainstem adapted from Servier Medical Art, CC BY 4.0]] ^fig-brainstem-rule-of-four
 
 # Sources
 - [Diagnosing strokes with imaging CT, MRI, and Angiography | NCLEX-RN | Khan Academy](https://www.youtube.com/watch?v=xC55TgPmfZ0&list=TLPQMTAxMTIwMjY4n4C3Zve1qw&index=3)

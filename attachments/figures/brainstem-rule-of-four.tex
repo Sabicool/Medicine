@@ -1,66 +1,53 @@
-% Rule of 4 of the brainstem (Gates 2005): cranial nerves by level, midline
-% motor nuclei that divide into 12, and the 4 M's (midline) and 4 S's (lateral)
-% Art credit: Brain: Servier Medical Art (smart.servier.com), CC BY 4.0 (art/servier-brain.pdf)
+% Rule of 4 of the brainstem (Gates 2005): anterior brainstem with cranial nerve
+% roots by level, midline motor nuclei that divide into 12, and the 4 M's (midline) and 4 S's (lateral)
+% Art credit: Brainstem: Servier Medical Art (smart.servier.com), CC BY 4.0 (art/servier-brainstem.pdf)
 \documentclass[11pt, border=2mm]{standalone}
 \usepackage{cicm-figure}
 \usepackage{array}
 \newcommand\organ[2]{\includegraphics[height=#1]{servier-#2.pdf}}
+% Brainstem art: 9.5 cm high, 6.24 cm wide, centred on the origin.
+% \fp{fx}{fy} is a point at that fraction of the art (0,0 bottom left)
+\newcommand\fp[2]{({(#1-0.5)*6.24},{(#2-0.5)*9.5})}
 \tikzset{
-  midnum/.style = {font=\large\bfseries, text=cicmaccent, fill=cicmaccenttint, inner sep=1.2pt},
-  latnum/.style = {font=\bfseries, text=cicmblue},
-  level/.style  = {anchor=west, align=left, font=\small},
+  midnum/.style = {font=\large\bfseries, text=cicmaccent},
+  latnum/.style = {font=\large\bfseries, text=cicmblue},
+  lead/.style   = {thin, cicmgrey},
+  level/.style  = {anchor=east, align=right, font=\small},
 }
-% \level{top y}{bottom y}
-\newcommand\level[2]{%
-  \fill[cicmbluetint, rounded corners=3mm] (-1.5,#1) rectangle (1.5,#2);
-  \fill[cicmaccenttint] (-0.5,#1) rectangle (0.5,#2);
-  \draw[rounded corners=3mm] (-1.5,#1) rectangle (1.5,#2);}
 \begin{document}
 \begin{tikzpicture}
-  % Brain for orientation, with the brainstem picked out
-  \node (brain) at (-4.6,1.2) {\organ{32mm}{brain}};
-  \foreach \a/\b in {{(-4.15,0.95)}/{(-1.5,4.6)}, {(-4.42,0.0)}/{(-1.5,-2.3)}} {
-    \draw[white, line width=2.2pt] \a -- \b;
-    \draw[thin, dashed, cicmaccent] \a -- \b;}
-  \fill[cicmaccent] (-4.15,0.95) circle (0.6mm) (-4.42,0.0) circle (0.6mm);
+  \node at (0,0) {\organ{95mm}{brainstem}};
+  \draw[thick, dashed, cicmaccent] (0,4.95) -- (0,-4.95);
 
-  % Three levels, midline (M's) tinted crimson, lateral (S's) blue
-  \level{4.6}{2.4}
-  \level{2.25}{0.05}
-  \level{-0.1}{-2.3}
-  \draw[thick, cicmaccent] (0,4.75) -- (0,-2.45);
+  % Midline motor nuclei (divide evenly into 12), labelled on the right half
+  \node[midnum, anchor=south] at \fp{0.60}{1.01} {3};
+  \node[midnum, anchor=south west] at \fp{0.76}{0.975} {4};
+  \node[midnum] at \fp{0.565}{0.60} {6};
+  \node[midnum] at \fp{0.565}{0.30} {12};
 
-  % Midline motor nuclei: divide evenly into 12
-  \node[midnum] at (0,4.0) {3};
-  \node[midnum] at (0,3.0) {4};
-  \node[midnum] at (0,1.15) {6};
-  \node[midnum] at (0,-1.2) {12};
+  % Lateral nerves
+  \node[latnum, anchor=west] at \fp{0.96}{0.79} {5};
+  \node[latnum, anchor=west] at \fp{0.96}{0.515} {7, 8};
+  \node[latnum, anchor=west] at \fp{0.92}{0.385} {9, 10};
+  \node[latnum, anchor=west] at \fp{0.83}{0.25} {11};
 
-  % Lateral nerves, both sides
-  \foreach \s in {-1,1} {
-    \node[font=\small, text=cicmgrey] at (\s*1.0,3.5) {--};
-    \node[latnum] at (\s*1.0,1.85) {5};
-    \node[latnum] at (\s*1.0,1.15) {7};
-    \node[latnum] at (\s*1.0,0.45) {8};
-    \node[latnum] at (\s*1.0,-0.5) {9};
-    \node[latnum] at (\s*1.0,-1.2) {10};
-    \node[latnum] at (\s*1.0,-1.9) {11};
-  }
+  % Levels
+  \draw[thin] \fp{-0.05}{0.99} -- ++(-0.15,0) |- \fp{-0.05}{0.49};
+  \draw[thin] \fp{-0.05}{0.47} -- ++(-0.15,0) |- \fp{-0.05}{0.0};
+  \node[level] at \fp{-0.1}{1.02} {\textbf{Midbrain} $\uparrow$\\{\footnotesize\color{cicmgrey}CN 3, 4 (1, 2 above)}};
+  \node[level] at \fp{-0.1}{0.74} {\textbf{Pons}\\{\footnotesize\color{cicmgrey}CN 5--8}};
+  \node[level] at \fp{-0.1}{0.235} {\textbf{Medulla}\\{\footnotesize\color{cicmgrey}CN 9--12}};
 
-  % Level labels
-  \node[level] at (1.75,3.5) {\textbf{Midbrain}\\{\footnotesize\color{cicmgrey}CN 1--4 (1, 2 above)}};
-  \node[level] at (1.75,1.15) {\textbf{Pons}\\{\footnotesize\color{cicmgrey}CN 5--8}};
-  \node[level] at (1.75,-1.2) {\textbf{Medulla}\\{\footnotesize\color{cicmgrey}CN 9--12}};
-
-  % Zone headers
-  \node[font=\footnotesize, text=cicmblue] at (-1.0,5.05) {lateral};
-  \node[font=\footnotesize, text=cicmaccent] at (0,5.05) {midline};
-  \node[font=\footnotesize, text=cicmblue] at (1.0,5.05) {lateral};
+  % Key
+  \node[anchor=west, align=left, font=\footnotesize] at (3.9,3.6)
+    {\textcolor{cicmaccent}{\textbf{Crimson:} motor nucleus in}\\
+     \textcolor{cicmaccent}{the midline (divides into 12)}\\[2pt]
+     \textcolor{cicmblue}{\textbf{Blue:} lateral}};
 
   % The 4 M's and the 4 S's
-  \fill[cicmaccenttint, rounded corners=0.8mm] (-7.25,-2.9) rectangle (-0.1,-6.0);
-  \fill[cicmbluetint, rounded corners=0.8mm] (0.1,-2.9) rectangle (7.25,-6.0);
-  \node[anchor=north west, font=\small] at (-6.95,-3.05) {%
+  \fill[cicmaccenttint, rounded corners=0.8mm] (-7.25,-5.6) rectangle (-0.1,-8.7);
+  \fill[cicmbluetint, rounded corners=0.8mm] (0.1,-5.6) rectangle (7.25,-8.7);
+  \node[anchor=north west, font=\small] at (-6.95,-5.75) {%
     \renewcommand\arraystretch{1.25}\setlength\tabcolsep{4pt}%
     \begin{tabular}{@{}>{\raggedright}p{2.85cm}l@{}}
       \multicolumn{2}{@{}l}{\textbf{\color{cicmaccent}Midline: the 4 M's}}\\
@@ -69,7 +56,7 @@
       \textbf{M}LF & ipsi INO\\
       \textbf{M}otor nucleus & ipsi CN 3, 4, 6 or 12
     \end{tabular}};
-  \node[anchor=north west, font=\small] at (0.4,-3.05) {%
+  \node[anchor=north west, font=\small] at (0.4,-5.75) {%
     \renewcommand\arraystretch{1.25}\setlength\tabcolsep{4pt}%
     \begin{tabular}{@{}>{\raggedright}p{2.85cm}l@{}}
       \multicolumn{2}{@{}l}{\textbf{\color{cicmblue}Lateral: the 4 S's}}\\
@@ -80,7 +67,7 @@
     \end{tabular}};
 
   % Take-home
-  \node[label, align=center, anchor=north] at (0,-6.2)
+  \node[label, align=center, anchor=north] at (0,-8.9)
     {The cranial nerve gives the level; M's or S's give medial or lateral.\\
      Crossed signs: ipsilateral cranial nerve, contralateral long tracts.};
 \end{tikzpicture}
