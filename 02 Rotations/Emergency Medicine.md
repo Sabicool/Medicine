@@ -106,6 +106,7 @@ Notes for the emergency department — the undifferentiated patient, time-critic
 - [[Analgesics]]
 - [[Anti-Emetics]]
 - [[Drugs in Cardiac Arrest]]
+- [[Induction Agents]]
 - [[Pressors]]
 <!-- SerializedQuery END -->
 # Useful Resources

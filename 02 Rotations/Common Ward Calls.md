@@ -18,6 +18,7 @@ date: 2025-08-14
     - [[Hyperglycaemia]]
     - [[Hypertension]]
     - [[Hypotension]]
+    - [[Transfusion Reactions]]
 
 - Emergencies: 
     - [[Advanced Life Support]]
