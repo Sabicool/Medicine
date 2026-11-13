@@ -6,7 +6,7 @@
 % Art: bag-valve assembly, PEEP valve and patient with nasal cannula cut from
 % Open Critical Care and World Health Organization illustrations on Wikimedia
 % Commons, CC BY 4.0 ("Bag valve mask with BV filter", "Respiratory care
-% devices image pack A"); art/occ-*.png. The sealed face mask is drawn here.
+% devices image pack A"); traced to vector (vtracer) as art/occ-*.pdf. The sealed face mask is drawn here.
 \documentclass[11pt, border=2mm]{standalone}
 \usepackage{cicm-figure}
 \definecolor{occline}{HTML}{474747}
@@ -20,12 +20,12 @@
   % ---------- Circuit ----------
   % Patient (500 x 480 px source, 0.0104 cm/px), north-west corner at (0,0)
   \node[anchor=north west, inner sep=0] at (0,0)
-    {\includegraphics[width=5.2cm]{occ-patient-nasal-cannula.png}};
+    {\includegraphics[width=5.2cm]{occ-patient-nasal-cannula.pdf}};
   % Bag-valve assembly (1370 px, 7.0 cm) and PEEP valve
   \node[anchor=north west, inner sep=0] (bvm) at (4.6,0.3)
-    {\includegraphics[width=7.0cm]{occ-bvm.png}};
+    {\includegraphics[width=7.0cm]{occ-bvm.pdf}};
   \node[anchor=north west, inner sep=0] at (4.18,-0.486)
-    {\includegraphics[width=0.485cm]{occ-peep-valve.png}};
+    {\includegraphics[width=0.485cm]{occ-peep-valve.pdf}};
 
   % Tubing from the mask connector to the T-piece
   \draw[line width=0.21cm, occline, rounded corners=1.5mm]
