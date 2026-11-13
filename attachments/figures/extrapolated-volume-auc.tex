@@ -1,0 +1,55 @@
+% Two-compartment IV bolus on a linear scale: the back-extrapolated terminal line
+% misses the distribution "hump" (area A/alpha), so it ignores the drug cleared
+% while plasma concentration was high, and Dose/B overestimates the volume
+\documentclass[11pt, border=2mm]{standalone}
+\usepackage{cicm-figure}
+\begin{document}
+\begin{tikzpicture}
+  \pgfmathsetmacro{\A}{8}
+  \pgfmathsetmacro{\a}{1.2}
+  \pgfmathsetmacro{\B}{4}
+  \pgfmathsetmacro{\b}{0.15}
+  \begin{axis}[cicm,
+      width=13cm, height=6.4cm,
+      xmin=0, xmax=16, ymin=0, ymax=13.5,
+      xlabel={Time}, ylabel={Plasma concentration},
+      xtick=\empty, ytick=\empty,
+      ylabel shift=10pt,
+      clip=false]
+    % True curve area (hump shows through above the extrapolated area)
+    \addplot[draw=none, fill=cicmaccent, fill opacity=0.28, domain=0:16, samples=120]
+      {\A*exp(-\a*x)+\B*exp(-\b*x)} \closedcycle;
+    % Area under the extrapolated terminal line
+    \addplot[draw=none, fill=cicmbluetint, domain=0:16, samples=60]
+      {\B*exp(-\b*x)} \closedcycle;
+
+    % Lines
+    \addplot[thin, cicmink, dashed, domain=0:16, samples=60] {\B*exp(-\b*x)};
+    \addplot[thick, cicmink, domain=0:16, samples=120] {\A*exp(-\a*x)+\B*exp(-\b*x)};
+
+    % Intercepts
+    \addplot[only marks, mark=*, mark size=1.6pt, cicmink] coordinates {(0,12)};
+    \node[label, anchor=east] at (axis cs:-0.15,12) {$A+B$};
+    \addplot[only marks, mark=o, mark size=1.8pt, cicmgrey] coordinates {(0,4)};
+    \node[label, anchor=east] at (axis cs:-0.15,4) {$B$};
+
+    % Area labels
+    \node[label, anchor=west, align=left] (hump) at (axis cs:2.6,10.2)
+      {\textbf{Area missed}: $\dfrac{A}{\alpha}$\\[1pt]
+       drug cleared while plasma levels were high $=CL\cdot\dfrac{A}{\alpha}$};
+    \draw[thin, ->] (hump.west) -- (axis cs:0.45,5.8);
+    \node[label, anchor=west] at (axis cs:0.35,0.6)
+      {\textbf{Area under extrapolated line}: $B/\beta$};
+  \end{axis}
+
+  % Equations underneath
+  \begin{scope}[yshift=-1.25cm]
+    \node[box, align=center, anchor=north east] (ex) at (6.05,0)
+      {$V_{\text{extrap}}=\dfrac{\text{Dose}}{B}$\\[2pt]
+       {\small assumes none was cleared during distribution}};
+    \node[accent box, align=center, anchor=north west] (ar) at (6.35,0)
+      {$V_{\text{area}}=\dfrac{\text{Dose}-CL\cdot A/\alpha}{B}=\dfrac{\text{Dose}}{B+A\,\beta/\alpha}$\\[2pt]
+       {\small subtracts what was cleared during distribution}};
+  \end{scope}
+\end{tikzpicture}
+\end{document}
