@@ -51,7 +51,13 @@ $$
 $$
 	- When distribution is much faster than elimination ($\alpha\gg\beta$), the $A\beta/\alpha$ term is negligible and $V_{\text{extrap}}\approx V_{\text{area}}$, which is why the one-compartment back-extrapolation is usually good enough
 	- When distribution is slow or large (e.g. digoxin), the extrapolated volume overestimates
+- The overestimate comes from drug cleared during distribution: plasma concentration sits above the terminal line early on (area $A/\alpha$), and elimination runs at $CL\cdot C$, so an extra $CL\cdot A/\alpha$ of drug is gone before the terminal phase. $V_{\text{extrap}}$ divides the whole dose by $B$ as though none had been lost; subtracting it (using $CL=V_{\text{area}}\cdot\beta$) gives $V_{\text{area}}$:
+$$
+V_{\text{area}}=\frac{\text{Dose}-CL\cdot A/\alpha}{B}=\frac{\text{Dose}}{B+A\,\dfrac{\beta}{\alpha}}
+$$
+![[extrapolated-volume-auc.svg|The extrapolated line misses the distribution area, so it ignores drug cleared during distribution]]
 - The central volume determines the peak concentration straight after a bolus ($\text{Dose}/V_{1}$), whereas $V_{SS}$ is the one to use for a loading dose
 > [!card]- Why does back-extrapolating the terminal phase overestimate the volume of distribution in a two-compartment model?
-> It gives the intercept of the elimination phase ($B$) rather than the true initial concentration ($A+B$), so $V_{\text{extrap}}=\text{Dose}/B$ is larger than $V_{\text{area}}=\text{Dose}/(B+A\beta/\alpha)$. The error is small when $\alpha\gg\beta$.
+> The extrapolated line ignores the drug cleared during distribution, while plasma concentration was above it (area $A/\alpha$, so $CL\cdot A/\alpha$ of drug). $V_{\text{extrap}}=\text{Dose}/B$ divides the whole dose by the intercept, whereas $V_{\text{area}}=(\text{Dose}-CL\cdot A/\alpha)/B=\text{Dose}/(B+A\beta/\alpha)$. The error is small when $\alpha\gg\beta$.
+> ![[extrapolated-volume-auc.svg|The extrapolated line misses the distribution area]]
 > %% anki: 1793136947189 %%
