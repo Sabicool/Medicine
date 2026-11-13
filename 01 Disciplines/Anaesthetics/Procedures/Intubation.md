@@ -3,7 +3,7 @@ Rotations:
   - "[[Intensive Care Unit]]"
   - "[[Anaesthetics]]"
   - "[[Emergency Medicine]]"
-date: 2026-11-11
+date: 2026-11-13
 ---
 # Indications
 - A – protection and patency (e.g. against aspiration or relief of upper airway obstruction as in anaphylaxis or head and neck trauma)
