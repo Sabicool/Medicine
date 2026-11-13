@@ -1,5 +1,5 @@
 ---
-date: 2026-11-11
+date: 2026-11-13
 anki-preset: malleus
 tags:
   - cards
@@ -47,9 +47,6 @@ tags:
 - ECG: sinus bradycardia, AF, junctional rhythms, J (Osborn) waves, prolonged PR and QT, broad QRS, ST and T wave changes, then VF and asystole
 	- Apart from VF, these usually resolve with rewarming
 	- J waves occur in most but not all patients and don't correlate well with temperature
-
-> [!cloze]
-> What are the "umbles" of mild to moderate hypothermia? ==Fumble, mumble, grumble, stumble==
 
 > [!cloze]
 > What ECG changes may be present in hypothermia? ==Sinus bradycardia, AF, junctional rhythms, J (Osborn) waves, prolonged PR and QT, broad QRS, then VF and asystole==
